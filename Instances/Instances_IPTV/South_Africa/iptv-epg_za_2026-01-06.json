@@ -1,0 +1,6760 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 128,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 60,
+      "end": 135,
+      "allowed_channels": [
+        7,
+        119,
+        30,
+        86,
+        96,
+        103,
+        92,
+        91,
+        93,
+        78,
+        71,
+        81,
+        66,
+        83,
+        102,
+        40,
+        65,
+        101,
+        46,
+        90,
+        29,
+        68,
+        80,
+        11,
+        58,
+        87,
+        39,
+        94,
+        44,
+        82,
+        25,
+        1,
+        14,
+        15,
+        4,
+        88,
+        95,
+        84,
+        61,
+        121,
+        8,
+        12,
+        106,
+        113,
+        9,
+        73,
+        2,
+        112,
+        13,
+        122,
+        21,
+        50,
+        56,
+        18,
+        76,
+        53,
+        34,
+        107,
+        98,
+        43,
+        67,
+        5,
+        52,
+        70,
+        60,
+        0
+      ]
+    },
+    {
+      "start": 165,
+      "end": 210,
+      "allowed_channels": [
+        86,
+        96,
+        103,
+        92,
+        91,
+        93,
+        98,
+        80,
+        81,
+        66,
+        83,
+        102,
+        0,
+        78,
+        73,
+        65,
+        101,
+        119,
+        68,
+        5,
+        39,
+        94,
+        34,
+        46,
+        82,
+        104,
+        1,
+        14,
+        4,
+        88,
+        25,
+        26,
+        87,
+        95,
+        116,
+        44,
+        85,
+        29,
+        56,
+        15,
+        9,
+        11,
+        122,
+        12,
+        43,
+        7,
+        2,
+        30,
+        121,
+        61,
+        13,
+        60,
+        27,
+        32,
+        53,
+        105,
+        64,
+        76,
+        67,
+        18,
+        16,
+        75,
+        99,
+        52,
+        123,
+        107
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 33
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 34
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 35
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 35
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "sports",
+      "bonus": 35
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "sports",
+      "bonus": 36
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "sports",
+      "bonus": 35
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "sports",
+      "bonus": 40
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "sports",
+      "bonus": 51
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "sports",
+      "bonus": 53
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "sports",
+      "bonus": 53
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "sports",
+      "bonus": 53
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "ZA - 1 KZN",
+      "programs": [
+        {
+          "program_id": "1kzn_za_counting_the_cost_al_jaz_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "1kzn_za_gospel_mix_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "1kzn_za_umsindo_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "1kzn_za_aljazeera_inside_story_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "1kzn_za_jukebox_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "1kzn_za_apostle_ebenezer_ndlovu_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "1kzn_za_difela_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "1kzn_za_kzn_news_talk_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "1kzn_za_al_jazeera_news_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 84
+        },
+        {
+          "program_id": "1kzn_za_bishop_i_makamu_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "weather",
+          "score": 49
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "ZA - Africa Magic Epic",
+      "programs": [
+        {
+          "program_id": "africamagicepic_za_unmarked_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "africamagicepic_za_city_husband_2026-01-06_0040",
+          "start": 40,
+          "end": 230,
+          "genre": "movie",
+          "score": 76
+        },
+        {
+          "program_id": "africamagicepic_za_monalisa_2026-01-06_0230",
+          "start": 230,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "africamagicepic_za_silver_digger_2026-01-06_0360",
+          "start": 360,
+          "end": 515,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "ZA - Africa Magic Family",
+      "programs": [
+        {
+          "program_id": "africamagicfamily__my_flatmates_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "africamagicfamily__hustle_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "africamagicfamily__isibaya_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "africamagicfamily__the_johnsons_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "africamagicfamily__riona_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "africamagicfamily__my_flatmates_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "africamagicfamily__tinsel_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "africamagicfamily__greed_and_desire_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "education",
+          "score": 66
+        },
+        {
+          "program_id": "africamagicfamily__battleground_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "africamagicfamily__brethren_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "africamagicfamily__hustle_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "ZA - Africanews",
+      "programs": [
+        {
+          "program_id": "africanews_za_news_2026-01-06_0000",
+          "start": 0,
+          "end": 8,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0008",
+          "start": 8,
+          "end": 20,
+          "genre": "news",
+          "score": 56
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0020",
+          "start": 20,
+          "end": 30,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0030",
+          "start": 30,
+          "end": 39,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0039",
+          "start": 39,
+          "end": 50,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0050",
+          "start": 50,
+          "end": 60,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0060",
+          "start": 60,
+          "end": 68,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0068",
+          "start": 68,
+          "end": 80,
+          "genre": "news",
+          "score": 56
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0080",
+          "start": 80,
+          "end": 90,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0090",
+          "start": 90,
+          "end": 99,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0099",
+          "start": 99,
+          "end": 110,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0110",
+          "start": 110,
+          "end": 120,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0120",
+          "start": 120,
+          "end": 128,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0128",
+          "start": 128,
+          "end": 140,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0140",
+          "start": 140,
+          "end": 150,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0150",
+          "start": 150,
+          "end": 159,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0159",
+          "start": 159,
+          "end": 170,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0170",
+          "start": 170,
+          "end": 180,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0180",
+          "start": 180,
+          "end": 188,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0188",
+          "start": 188,
+          "end": 200,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0200",
+          "start": 200,
+          "end": 210,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0210",
+          "start": 210,
+          "end": 219,
+          "genre": "news",
+          "score": 56
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0219",
+          "start": 219,
+          "end": 230,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0230",
+          "start": 230,
+          "end": 240,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0240",
+          "start": 240,
+          "end": 248,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0248",
+          "start": 248,
+          "end": 260,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0260",
+          "start": 260,
+          "end": 270,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0270",
+          "start": 270,
+          "end": 279,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0279",
+          "start": 279,
+          "end": 290,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0290",
+          "start": 290,
+          "end": 300,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0300",
+          "start": 300,
+          "end": 308,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0308",
+          "start": 308,
+          "end": 320,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0320",
+          "start": 320,
+          "end": 330,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0330",
+          "start": 330,
+          "end": 339,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0339",
+          "start": 339,
+          "end": 350,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0350",
+          "start": 350,
+          "end": 360,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "africanews_za_news_2026-01-06_0360",
+          "start": 360,
+          "end": 368,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "ZA - Al Jazeera",
+      "programs": [
+        {
+          "program_id": "aljazeera_za_news_live_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "aljazeera_za_inside_story_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeera_za_newshour_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "aljazeera_za_the_el_masri_case_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "aljazeera_za_news_live_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "aljazeera_za_the_listening_post_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "aljazeera_za_news_live_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 86
+        },
+        {
+          "program_id": "aljazeera_za_all_hail_the_planet_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "aljazeera_za_news_live_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "aljazeera_za_the_stream_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "aljazeera_za_news_live_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "ZA - Arise News",
+      "programs": [
+        {
+          "program_id": "arisenews_za_arise_xchange_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "arisenews_za_prime_time_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "arisenews_za_arise_news_now_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "arisenews_za_arise_news_now_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "arisenews_za_newsnight_nigeria_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "arisenews_za_arise_360_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "arisenews_za_daybreak_2026-01-06_0360",
+          "start": 360,
+          "end": 480,
+          "genre": "news",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "ZA - BBC Brit",
+      "programs": [
+        {
+          "program_id": "bbcbrit_za_the_chase_2026-01-06_0021",
+          "start": 21,
+          "end": 67,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bbcbrit_za_bridge_of_lies_2026-01-06_0067",
+          "start": 67,
+          "end": 112,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bbcbrit_za_the_chelsea_detective_2026-01-06_0112",
+          "start": 112,
+          "end": 160,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bbcbrit_za_father_brown_2026-01-06_0160",
+          "start": 160,
+          "end": 205,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bbcbrit_za_where_the_wild_men_are_w_2026-01-06_0205",
+          "start": 205,
+          "end": 251,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bbcbrit_za_tipping_point_2026-01-06_0251",
+          "start": 251,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bbcbrit_za_tipping_point_2026-01-06_0300",
+          "start": 300,
+          "end": 349,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbcbrit_za_bridge_of_lies_2026-01-06_0349",
+          "start": 349,
+          "end": 394,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "ZA - BBC Earth",
+      "programs": [
+        {
+          "program_id": "bbcearth_za_changing_planet_2026-01-06_0021",
+          "start": 21,
+          "end": 81,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "bbcearth_za_where_the_wild_men_are_w_2026-01-06_0081",
+          "start": 81,
+          "end": 127,
+          "genre": "movie",
+          "score": 97
+        },
+        {
+          "program_id": "bbcearth_za_life_below_zero_2026-01-06_0127",
+          "start": 127,
+          "end": 172,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "bbcearth_za_great_asian_railway_jour_2026-01-06_0172",
+          "start": 172,
+          "end": 226,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "bbcearth_za_world_s_most_scenic_rail_2026-01-06_0226",
+          "start": 226,
+          "end": 272,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "bbcearth_za_great_asian_railway_jour_2026-01-06_0300",
+          "start": 300,
+          "end": 356,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "bbcearth_za_life_below_zero_2026-01-06_0356",
+          "start": 356,
+          "end": 407,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "ZA - BBC Lifestyle",
+      "programs": [
+        {
+          "program_id": "bbclifestyle_za_masterchef_2026-01-06_0006",
+          "start": 6,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bbclifestyle_za_the_great_american_bakin_2026-01-06_0060",
+          "start": 60,
+          "end": 114,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "bbclifestyle_za_antiques_roadshow_2026-01-06_0114",
+          "start": 114,
+          "end": 174,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "bbclifestyle_za_masterchef_the_professio_2026-01-06_0174",
+          "start": 174,
+          "end": 226,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbclifestyle_za_come_dine_with_me_south__2026-01-06_0350",
+          "start": 350,
+          "end": 406,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "ZA - BBC World News",
+      "programs": [
+        {
+          "program_id": "bbcworldnews_za_bbc_world_news_america_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "bbcworldnews_za_bbc_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "bbcworldnews_za_newscast_an_interview_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "bbcworldnews_za_bbc_news_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "bbcworldnews_za_talking_business_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "bbcworldnews_za_newsday_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "bbcworldnews_za_business_today_2026-01-06_0210",
+          "start": 210,
+          "end": 225,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "bbcworldnews_za_bbc_sport_2026-01-06_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "bbcworldnews_za_newsday_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "bbcworldnews_za_business_today_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "bbcworldnews_za_bbc_sport_2026-01-06_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "bbcworldnews_za_newsday_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bbcworldnews_za_business_today_2026-01-06_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "bbcworldnews_za_bbc_sport_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "bbcworldnews_za_bbc_news_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "ZA - Big Brother Mzansi",
+      "programs": [
+        {
+          "program_id": "bigbrothermzansi_z_nigeria_holiday_event_sl_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "bigbrothermzansi_z_nigeria_holiday_event_sl_2026-01-06_0060",
+          "start": 60,
+          "end": 360,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "bigbrothermzansi_z_nigeria_holiday_event_sl_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "music",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "ZA - Bloomberg Television",
+      "programs": [
+        {
+          "program_id": "bloombergtelevisio_bloomberg_the_asia_trade_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "news",
+          "score": 80
+        },
+        {
+          "program_id": "bloombergtelevisio_bloomberg_the_china_show_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "bloombergtelevisio_insight_with_haslinda_am_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "bloombergtelevisio_bloomberg_horizons_middl_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "music",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "ZA - Business Day",
+      "programs": [
+        {
+          "program_id": "businessday_za_the_close_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "businessday_za_eco_africa_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "businessday_za_the_close_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "businessday_za_insights_from_africa_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "businessday_za_the_close_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "businessday_za_eco_africa_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "businessday_za_the_close_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "businessday_za_insights_from_africa_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "businessday_za_the_close_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "businessday_za_eco_africa_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "businessday_za_the_close_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "businessday_za_insights_from_africa_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "businessday_za_the_close_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "ZA - CCTV 4",
+      "programs": [
+        {
+          "program_id": "cctv4_za_cctv_4_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "series",
+          "score": 69
+        },
+        {
+          "program_id": "cctv4_za_cctv_4_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "ZA - CGTN News",
+      "programs": [
+        {
+          "program_id": "cgtnnews_za_cgtn_news_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "cgtnnews_za_cgtn_news_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "series",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "ZA - CNBC Africa",
+      "programs": [
+        {
+          "program_id": "cnbcafrica_za_squawk_box_asia_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "cnbcafrica_za_the_china_connection_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "cnbcafrica_za_inside_india_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "cnbcafrica_za_access_middle_east_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "cnbcafrica_za_u_s_markets_edition_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "talk",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "ZA - Cape Town TV",
+      "programs": [
+        {
+          "program_id": "capetowntv_za_the_revelation_of_the_py_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "capetowntv_za_unearthed_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "capetowntv_za_sports_federation_tv_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "capetowntv_za_tundra_wonder_mums_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "capetowntv_za_braiding_the_dream_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "capetowntv_za_city_living_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "ZA - Cbeebies",
+      "programs": [
+        {
+          "program_id": "cbeebies_za_postman_pat_special_deli_2026-01-06_0180",
+          "start": 180,
+          "end": 195,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "cbeebies_za_postman_pat_special_deli_2026-01-06_0195",
+          "start": 195,
+          "end": 210,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "cbeebies_za_postman_pat_special_deli_2026-01-06_0210",
+          "start": 210,
+          "end": 225,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "cbeebies_za_postman_pat_special_deli_2026-01-06_0225",
+          "start": 225,
+          "end": 245,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "cbeebies_za_postman_pat_special_deli_2026-01-06_0245",
+          "start": 245,
+          "end": 260,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "cbeebies_za_postman_pat_special_deli_2026-01-06_0260",
+          "start": 260,
+          "end": 275,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "ZA - Channel O",
+      "programs": [
+        {
+          "program_id": "channelo_za_the_hit_list_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 72
+        },
+        {
+          "program_id": "channelo_za_the_hit_list_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "music",
+          "score": 68
+        },
+        {
+          "program_id": "channelo_za_the_hit_list_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "channelo_za_rise_up_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "channelo_za_the_best_of_the_week_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "ZA - Comedy Central",
+      "programs": [
+        {
+          "program_id": "comedycentral_za_frasier_2026-01-06_0014",
+          "start": 14,
+          "end": 36,
+          "genre": "weather",
+          "score": 34
+        },
+        {
+          "program_id": "comedycentral_za_frasier_2026-01-06_0036",
+          "start": 36,
+          "end": 57,
+          "genre": "sports",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "ZA - Curiosity Stream",
+      "programs": [
+        {
+          "program_id": "curiositystream_za_extraordinary_humans_2026-01-06_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "curiositystream_za_space_probes_2026-01-06_0039",
+          "start": 39,
+          "end": 97,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "curiositystream_za_secrets_of_the_brain_2026-01-06_0097",
+          "start": 97,
+          "end": 155,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "curiositystream_za_secrets_of_the_brain_2026-01-06_0155",
+          "start": 155,
+          "end": 230,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "curiositystream_za_breakthrough_2026-01-06_0267",
+          "start": 267,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "curiositystream_za_the_elephant_plane_2026-01-06_0324",
+          "start": 324,
+          "end": 360,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "curiositystream_za_celts_the_untold_story_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "ZA - Day Star",
+      "programs": [
+        {
+          "program_id": "daystar_za_the_jewish_jesus_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "daystar_za_today_with_marilyn_and_s_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "daystar_za_voice_of_god_with_joseph_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "daystar_za_amazing_facts_with_doug__2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "daystar_za_rick_renner_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "daystar_za_believers_walk_of_faith__2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "daystar_za_psb_prophetic_sound_broa_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "daystar_za_dr_david_jeremiah_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "daystar_za_healing_time_with_dr_dou_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "religion",
+          "score": 58
+        },
+        {
+          "program_id": "daystar_za_jewish_voice_with_jonath_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "religion",
+          "score": 55
+        },
+        {
+          "program_id": "daystar_za_manna_fest_with_perry_st_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "daystar_za_reflections_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "daystar_za_gospel_truth_with_andrew_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "sports",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "ZA - Disney Channel",
+      "programs": [
+        {
+          "program_id": "disneychannel_za_gravity_falls_2026-01-06_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "disneychannel_za_walk_the_prank_2026-01-06_0095",
+          "start": 95,
+          "end": 120,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "ZA - Disney Junior",
+      "programs": [
+        {
+          "program_id": "disneyjunior_za_the_lion_guard_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "ZA - Dreamworks",
+      "programs": [
+        {
+          "program_id": "dreamworks_za_trollhunters_tales_of_ar_2026-01-06_0095",
+          "start": 95,
+          "end": 120,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "dreamworks_za_archibald_s_next_big_thi_2026-01-06_0170",
+          "start": 170,
+          "end": 195,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "dreamworks_za_where_s_wally_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "ZA - Dumisa",
+      "programs": [
+        {
+          "program_id": "dumisa_za_hulisani_13_years_of_har_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "dumisa_za_mmino_wa_hao_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "dumisa_za_melodi_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "movie",
+          "score": 82
+        },
+        {
+          "program_id": "dumisa_za_ezase_zioni_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "dumisa_za_kopano_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "religion",
+          "score": 50
+        },
+        {
+          "program_id": "dumisa_za_dumisa_music_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "dumisa_za_dumisa_music_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "dumisa_za_shalom_christian_fellows_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "series",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "ZA - E! Entertainment",
+      "programs": [
+        {
+          "program_id": "e_entertainment_za_below_deck_down_under_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "e_entertainment_za_below_deck_down_under_2026-01-06_0045",
+          "start": 45,
+          "end": 100,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "e_entertainment_za_the_real_housewives_of_a_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "e_entertainment_za_the_real_housewives_of_a_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "e_entertainment_za_the_real_housewives_of_b_2026-01-06_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "e_entertainment_za_the_real_housewives_of_b_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "e_entertainment_za_below_deck_sailing_yacht_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "e_entertainment_za_below_deck_sailing_yacht_2026-01-06_0345",
+          "start": 345,
+          "end": 390,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "ZA - ESPN",
+      "programs": [
+        {
+          "program_id": "espn_za_nfl_live_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "espn_za_spl_damac_vs_al_hilal_hi_2026-01-06_0115",
+          "start": 115,
+          "end": 125,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "espn_za_nba_today_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "espn_za_nfl_live_2026-01-06_0195",
+          "start": 195,
+          "end": 270,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "espn_za_spl_damac_vs_al_hilal_hi_2026-01-06_0290",
+          "start": 290,
+          "end": 360,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "ZA - ESPN 2",
+      "programs": [
+        {
+          "program_id": "espn2_za_nba_today_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "espn2_za_nhl_mammoth_rangers_2026-01-06_0060",
+          "start": 60,
+          "end": 210,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "espn2_za_nba_today_2026-01-06_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "espn2_za_efl_highlights_2026-01-06_0270",
+          "start": 270,
+          "end": 420,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "ZA - EuroNews Africa",
+      "programs": [
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0015",
+          "start": 15,
+          "end": 30,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0180",
+          "start": 180,
+          "end": 194,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0194",
+          "start": 194,
+          "end": 210,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0210",
+          "start": 210,
+          "end": 226,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronewsafrica_za_news_2026-01-06_0226",
+          "start": 226,
+          "end": 240,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 80
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronewsafrica_za_the_european_debrief_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 84
+        },
+        {
+          "program_id": "euronewsafrica_za_wake_up_europe_2026-01-06_0360",
+          "start": 360,
+          "end": 375,
+          "genre": "news",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "ZA - FAITH",
+      "programs": [
+        {
+          "program_id": "faith_za_no_more_curse_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "faith_za_jesus_the_healer_with_na_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "faith_za_get_ready_2026_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "faith_za_choose_life_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "faith_za_christian_world_news_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "faith_za_devotionals_with_dr_mand_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "religion",
+          "score": 49
+        },
+        {
+          "program_id": "faith_za_changing_your_world_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "faith_za_wisdom_for_life_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "faith_za_faith_with_dr_juanita_by_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "weather",
+          "score": 48
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "ZA - GauTV",
+      "programs": [
+        {
+          "program_id": "gautv_za_my_selector_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 51
+        },
+        {
+          "program_id": "gautv_za_gospel_songs_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "gautv_za_eve_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "ZA - Ignition",
+      "programs": [
+        {
+          "program_id": "ignition_za_supercars_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ignition_za_supercars_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ignition_za_biker_lifestyle_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ignition_za_the_guild_garage_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ignition_za_tuned_in_sa_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ignition_za_razor_customs_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ignition_za_sa_car_culture_with_cars_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ignition_za_ignition_gt_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ignition_za_tuned_in_sa_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ignition_za_razor_customs_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ignition_za_full_custom_garage_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ignition_za_fia_karting_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "ZA - Jim Jam",
+      "programs": [
+        {
+          "program_id": "jimjam_za_caillou_2026-01-06_0106",
+          "start": 106,
+          "end": 117,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "jimjam_za_caillou_2026-01-06_0117",
+          "start": 117,
+          "end": 130,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "jimjam_za_caillou_s_new_adventures_2026-01-06_0177",
+          "start": 177,
+          "end": 182,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "jimjam_za_caillou_s_new_adventures_2026-01-06_0182",
+          "start": 182,
+          "end": 188,
+          "genre": "sports",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "ZA - KIX",
+      "programs": [
+        {
+          "program_id": "kix_za_the_inspector_wears_skir_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "kix_za_the_lost_bladesman_2026-01-06_0075",
+          "start": 75,
+          "end": 190,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "kix_za_whampoa_blues_2026-01-06_0190",
+          "start": 190,
+          "end": 290,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "kix_za_my_heart_is_that_eternal_2026-01-06_0290",
+          "start": 290,
+          "end": 385,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "ZA - KyKNet Nou",
+      "programs": [
+        {
+          "program_id": "kyknetnou_za_deurnag_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "kyknetnou_za_stiltetyd_2026-01-06_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kyknetnou_za_speel_speel_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kyknetnou_za_br_kfis_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "ZA - Kyk NET",
+      "programs": [
+        {
+          "program_id": "kyknet_za_kw_la_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "kyknet_za_ek_hy_en_jy_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "kyknet_za_demi_lee_moore_n_nuwe_er_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kyknet_za_musiekvideo_s_2026-01-06_0180",
+          "start": 180,
+          "end": 290,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kyknet_za_ek_hy_en_jy_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "kyknet_za_kokkedoor_son_and_see_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "ZA - Kyk NET & Kie",
+      "programs": [
+        {
+          "program_id": "kyknetandkie_za_plaasjapie_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 86
+        },
+        {
+          "program_id": "kyknetandkie_za_koortjies_met_elwira_sta_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "kyknetandkie_za_lekker_and_goed_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kyknetandkie_za_musiekvideo_s_2026-01-06_0150",
+          "start": 150,
+          "end": 290,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kyknetandkie_za_dikker_as_water_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "kyknetandkie_za_binnelanders_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "education",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "ZA - KykNet Lekker",
+      "programs": [
+        {
+          "program_id": "kyknetlekker_za_dankie_lottoland_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kyknetlekker_za_bewonder_and_bewaar_met__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "kyknetlekker_za_kw_la_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "kyknetlekker_za_musiekvideo_s_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "kyknetlekker_za_elders_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "religion",
+          "score": 53
+        },
+        {
+          "program_id": "kyknetlekker_za_villa_rosa_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "ZA - Lesotho TV",
+      "programs": [
+        {
+          "program_id": "lesothotv_za_lesotho_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "lesothotv_za_lesotho_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "ZA - M-Net",
+      "programs": [
+        {
+          "program_id": "m_net_za_task_2026-01-06_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "m_net_za_vigil_2026-01-06_0065",
+          "start": 65,
+          "end": 135,
+          "genre": "news",
+          "score": 80
+        },
+        {
+          "program_id": "m_net_za_gray_2026-01-06_0135",
+          "start": 135,
+          "end": 195,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "m_net_za_paris_and_nicole_the_enc_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "m_net_za_next_level_chef_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "m_net_za_sneaks_2026-01-06_0300",
+          "start": 300,
+          "end": 395,
+          "genre": "kids",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "ZA - M Movies 1",
+      "programs": [
+        {
+          "program_id": "mmovies1_za_back_to_black_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "mmovies1_za_unsung_hero_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "kids",
+          "score": 60
+        },
+        {
+          "program_id": "mmovies1_za_rob_peace_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "mmovies1_za_the_miracle_club_2026-01-06_0360",
+          "start": 360,
+          "end": 455,
+          "genre": "movie",
+          "score": 96
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "ZA - M Movies 2",
+      "programs": [
+        {
+          "program_id": "mmovies2_za_midway_2026-01-06_0000",
+          "start": 0,
+          "end": 125,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "mmovies2_za_kane_2026-01-06_0125",
+          "start": 125,
+          "end": 205,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mmovies2_za_my_penguin_friend_2026-01-06_0205",
+          "start": 205,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mmovies2_za_teen_titans_go_to_the_mo_2026-01-06_0300",
+          "start": 300,
+          "end": 385,
+          "genre": "movie",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "ZA - M Movies 3",
+      "programs": [
+        {
+          "program_id": "mmovies3_za_naked_singularity_2026-01-06_0005",
+          "start": 5,
+          "end": 105,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mmovies3_za_deadland_2026-01-06_0105",
+          "start": 105,
+          "end": 200,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mmovies3_za_1917_2026-01-06_0200",
+          "start": 200,
+          "end": 320,
+          "genre": "movie",
+          "score": 85
+        },
+        {
+          "program_id": "mmovies3_za_fantastic_beasts_the_cri_2026-01-06_0320",
+          "start": 320,
+          "end": 450,
+          "genre": "music",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "ZA - M Movies 4",
+      "programs": [
+        {
+          "program_id": "mmovies4_za_the_constant_gardener_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mmovies4_za_double_jeopardy_2026-01-06_0075",
+          "start": 75,
+          "end": 190,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "mmovies4_za_forsaken_2026-01-06_0190",
+          "start": 190,
+          "end": 285,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "mmovies4_za_the_day_we_didn_t_meet_2026-01-06_0285",
+          "start": 285,
+          "end": 395,
+          "genre": "movie",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "ZA - MTV",
+      "programs": [
+        {
+          "program_id": "mtv_za_ink_master_turf_war_2026-01-06_0010",
+          "start": 10,
+          "end": 55,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mtv_za_ink_master_turf_war_2026-01-06_0055",
+          "start": 55,
+          "end": 95,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mtv_za_geordie_shore_2026-01-06_0095",
+          "start": 95,
+          "end": 145,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "ZA - Mindset",
+      "programs": [
+        {
+          "program_id": "mindset_za_grade_12_physical_scienc_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "mindset_za_grade_12_physical_scienc_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "mindset_za_grade_12_physical_scienc_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "mindset_za_grade_12_physical_scienc_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "mindset_za_grade_12_physical_scienc_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "mindset_za_big_school_afrikaans_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "kids",
+          "score": 55
+        },
+        {
+          "program_id": "mindset_za_big_school_english_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "kids",
+          "score": 54
+        },
+        {
+          "program_id": "mindset_za_big_school_isixhosa_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "kids",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "ZA - Moja Love",
+      "programs": [
+        {
+          "program_id": "mojalove_za_umphakathi_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "mojalove_za_coming_out_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mojalove_za_hope_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "religion",
+          "score": 52
+        },
+        {
+          "program_id": "mojalove_za_ke_nako_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "mojalove_za_a_se_nna_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mojalove_za_hope_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "religion",
+          "score": 54
+        },
+        {
+          "program_id": "mojalove_za_kings_of_the_night_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mojalove_za_phuma_moya_omubi_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "mojalove_za_nomakanjani_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "mojalove_za_ekhaya_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mojalove_za_housemaids_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mojalove_za_umphakathi_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "ZA - Moonbug Kids",
+      "programs": [
+        {
+          "program_id": "moonbugkids_za_little_baby_bum_lullabie_2026-01-06_0006",
+          "start": 6,
+          "end": 123,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "moonbugkids_za_little_baby_bum_lullabie_2026-01-06_0123",
+          "start": 123,
+          "end": 242,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "moonbugkids_za_cocomelon_2026-01-06_0300",
+          "start": 300,
+          "end": 331,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "moonbugkids_za_cocomelon_2026-01-06_0331",
+          "start": 331,
+          "end": 363,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "ZA - MovieRoom",
+      "programs": [
+        {
+          "program_id": "movieroom_za_john_q_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "movieroom_za_adulting_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "movieroom_za_whoopi_goldberg_the_winn_2026-01-06_0150",
+          "start": 150,
+          "end": 205,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "movieroom_za_war_of_the_worlds_2026-01-06_0205",
+          "start": 205,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "movieroom_za_jamie_foxx_secret_to_suc_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "movieroom_za_spanglish_2026-01-06_0345",
+          "start": 345,
+          "end": 475,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "ZA - Mpuma Kapa",
+      "programs": [
+        {
+          "program_id": "mpumakapa_za_dr_alternative_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "mpumakapa_za_te_laat_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "mpumakapa_za_the_hangout_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "mpumakapa_za_walking_in_the_supernatu_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mpumakapa_za_apostle_moshani_ministri_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "weather",
+          "score": 41
+        },
+        {
+          "program_id": "mpumakapa_za_one_hour_with_bishop_maf_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "weather",
+          "score": 42
+        },
+        {
+          "program_id": "mpumakapa_za_tacc_hour_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mpumakapa_za_shekinah_healing_ministr_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mpumakapa_za_sons_of_the_prophet_past_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "ZA - Mzansi Bioskop",
+      "programs": [
+        {
+          "program_id": "mzansibioskop_za_uph_umakoti_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mzansibioskop_za_ukholo_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mzansibioskop_za_uthando_luka_baba_2026-01-06_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "kids",
+          "score": 56
+        },
+        {
+          "program_id": "mzansibioskop_za_dadwethu_2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mzansibioskop_za_the_wedding_dress_2026-01-06_0210",
+          "start": 210,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mzansibioskop_za_ubizo_lakhe_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mzansibioskop_za_ubaba_wase_next_door_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "ZA - Mzansi Live",
+      "programs": [
+        {
+          "program_id": "mzansilive_za_john_q_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mzansilive_za_adulting_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mzansilive_za_whoopi_goldberg_the_winn_2026-01-06_0150",
+          "start": 150,
+          "end": 205,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mzansilive_za_war_of_the_worlds_2026-01-06_0205",
+          "start": 205,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mzansilive_za_jamie_foxx_secret_to_suc_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mzansilive_za_spanglish_2026-01-06_0345",
+          "start": 345,
+          "end": 475,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "ZA - Mzansi Magic",
+      "programs": [
+        {
+          "program_id": "mzansimagic_za_the_spot_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "mzansimagic_za_finding_mr_right_2026-01-06_0030",
+          "start": 30,
+          "end": 121,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "mzansimagic_za_noah_2026-01-06_0121",
+          "start": 121,
+          "end": 211,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mzansimagic_za_our_house_2026-01-06_0211",
+          "start": 211,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mzansimagic_za_ngixolele_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mzansimagic_za_ispaza_sasekhaya_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "ZA - Mzansi Music",
+      "programs": [
+        {
+          "program_id": "mzansimusic_za_afro_pop_hits_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "mzansimusic_za_magic_music_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "mzansimusic_za_magic_music_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "mzansimusic_za_magic_music_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "mzansimusic_za_magic_music_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "mzansimusic_za_house_grooves_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "mzansimusic_za_afro_pop_hits_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "music",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "ZA - Mzansi Wethu",
+      "programs": [
+        {
+          "program_id": "mzansiwethu_za_call_centre_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mzansiwethu_za_gospel_10_at_10_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mzansiwethu_za_gospel_10_at_10_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "mzansiwethu_za_gospel_10_at_10_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mzansiwethu_za_my_top_10_my_life_in_mus_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "ZA - NDTV 24x7",
+      "programs": [
+        {
+          "program_id": "ndtv24x7_za_news_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "ndtv24x7_za_india_matters_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "ndtv24x7_za_news_2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "ndtv24x7_za_the_breakfast_show_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "ndtv24x7_za_news_2026-01-06_0270",
+          "start": 270,
+          "end": 450,
+          "genre": "news",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "ZA - NHK",
+      "programs": [
+        {
+          "program_id": "nhk_za_nhk_newsline_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "weather",
+          "score": 57
+        },
+        {
+          "program_id": "nhk_za_hometown_stories_2026-01-06_0030",
+          "start": 30,
+          "end": 57,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "nhk_za_nhk_newsline_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "weather",
+          "score": 56
+        },
+        {
+          "program_id": "nhk_za_journeys_in_japan_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "nhk_za_nhk_newsline_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "weather",
+          "score": 53
+        },
+        {
+          "program_id": "nhk_za_dining_with_the_chef_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nhk_za_nhk_newsline_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "weather",
+          "score": 56
+        },
+        {
+          "program_id": "nhk_za_document_72_hours_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "nhk_za_nhk_newsline_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "weather",
+          "score": 52
+        },
+        {
+          "program_id": "nhk_za_medical_frontiers_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "nhk_za_nhk_newsline_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "weather",
+          "score": 54
+        },
+        {
+          "program_id": "nhk_za_deeper_look_2026-01-06_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "nhk_za_nhk_newsline_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "weather",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "ZA - NTA I",
+      "programs": [
+        {
+          "program_id": "ntai_za_our_history_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "ntai_za_africa_54_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ntai_za_one_o_clock_live_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "ntai_za_frontiers_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ntai_za_our_voices_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ntai_za_sociologue_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ntai_za_entertainment_gist_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ntai_za_world_news_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "ntai_za_people_and_events_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ntai_za_issues_of_the_moment_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ntai_za_africa_live_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "sports",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "ZA - NatGeo Wild",
+      "programs": [
+        {
+          "program_id": "natgeowild_za_africa_s_hunters_2026-01-06_0018",
+          "start": 18,
+          "end": 66,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "natgeowild_za_africa_s_hunters_2026-01-06_0066",
+          "start": 66,
+          "end": 114,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "natgeowild_za_africa_s_hunters_2026-01-06_0114",
+          "start": 114,
+          "end": 160,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "natgeowild_za_world_s_biggest_bull_sha_2026-01-06_0160",
+          "start": 160,
+          "end": 206,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "natgeowild_za_africa_s_hunters_2026-01-06_0206",
+          "start": 206,
+          "end": 253,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "natgeowild_za_africa_s_hunters_2026-01-06_0253",
+          "start": 253,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "natgeowild_za_winter_s_hidden_wonders_2026-01-06_0350",
+          "start": 350,
+          "end": 397,
+          "genre": "education",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "ZA - National Geographic Channel",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_strangest_things_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "nationalgeographic_to_catch_a_smuggler_cont_2026-01-06_0030",
+          "start": 30,
+          "end": 80,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "nationalgeographic_trafficked_with_mariana__2026-01-06_0080",
+          "start": 80,
+          "end": 130,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_europe_from_above_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "nationalgeographic_life_below_zero_port_pro_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "nationalgeographic_coastguard_dutch_caribbe_2026-01-06_0210",
+          "start": 210,
+          "end": 260,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "nationalgeographic_mysterious_islands_2026-01-06_0350",
+          "start": 350,
+          "end": 400,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "ZA - Newzroom Afrika",
+      "programs": [
+        {
+          "program_id": "newzroomafrika_za_big_story_in_case_you_mi_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "newzroomafrika_za_newsfeed_pm_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "newzroomafrika_za_big_story_in_case_you_mi_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "newzroomafrika_za_am_report_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "ZA - NickJr",
+      "programs": [
+        {
+          "program_id": "nickjr_za_blaze_and_the_monster_ma_2026-01-06_0247",
+          "start": 247,
+          "end": 271,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "nickjr_za_blaze_and_the_monster_ma_2026-01-06_0271",
+          "start": 271,
+          "end": 294,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "nickjr_za_blaze_and_the_monster_ma_2026-01-06_0360",
+          "start": 360,
+          "end": 382,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "ZA - Nickelodeon",
+      "programs": [
+        {
+          "program_id": "nickelodeon_za_best_and_bester_2026-01-06_0012",
+          "start": 12,
+          "end": 35,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "nickelodeon_za_best_and_bester_2026-01-06_0035",
+          "start": 35,
+          "end": 57,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "nickelodeon_za_best_and_bester_2026-01-06_0057",
+          "start": 57,
+          "end": 80,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "nickelodeon_za_the_patrick_star_show_2026-01-06_0360",
+          "start": 360,
+          "end": 383,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "ZA - One Gospel",
+      "programs": [
+        {
+          "program_id": "onegospel_za_international_mix_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "onegospel_za_overflow_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "onegospel_za_my_absolute_favourite_2026-01-06_0060",
+          "start": 60,
+          "end": 115,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "onegospel_za_5_minutes_motivation_2026-01-06_0115",
+          "start": 115,
+          "end": 120,
+          "genre": "weather",
+          "score": 32
+        },
+        {
+          "program_id": "onegospel_za_overflow_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "onegospel_za_1g_showcase_2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "onegospel_za_let_s_praise_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "onegospel_za_faith_today_with_dr_juan_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "onegospel_za_overflow_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "onegospel_za_international_mix_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "onegospel_za_new_dawn_2026-01-06_0360",
+          "start": 360,
+          "end": 415,
+          "genre": "music",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "ZA - Parliamentary Service",
+      "programs": [
+        {
+          "program_id": "parliamentaryservi_parliament_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "parliamentaryservi_parliament_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "ZA - RAI International",
+      "programs": [
+        {
+          "program_id": "raiinternational_z_rai_italia_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "raiinternational_z_rai_italia_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "series",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "ZA - ROK",
+      "programs": [
+        {
+          "program_id": "rok_za_fighting_fate_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "rok_za_sweet_revenge_2026-01-06_0085",
+          "start": 85,
+          "end": 190,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rok_za_mother_s_wish_2026-01-06_0190",
+          "start": 190,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "rok_za_untruth_2026-01-06_0300",
+          "start": 300,
+          "end": 395,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "ZA - RTPI",
+      "programs": [
+        {
+          "program_id": "rtpi_za_rtp_prima_tecla_i_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "rtpi_za_rtp_prima_tecla_i_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "ZA - Russia Today",
+      "programs": [
+        {
+          "program_id": "russiatoday_za_russia_today_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 52
+        },
+        {
+          "program_id": "russiatoday_za_russia_today_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "ZA - SABC 1",
+      "programs": [
+        {
+          "program_id": "sabc1_za_afcon_2025_gabon_vs_cote_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "sabc1_za_afcon_2025_mozambique_vs_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "sabc1_za_afcon_2025_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "sabc1_za_geleza_nathi_2026-01-06_0242",
+          "start": 242,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "sabc1_za_takalani_sesame_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "ZA - SABC 2",
+      "programs": [
+        {
+          "program_id": "sabc2_za_full_view_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "sabc2_za_the_late_edition_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "sabc2_za_team_zenko_go_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "kids",
+          "score": 66
+        },
+        {
+          "program_id": "sabc2_za_zizi_and_hannibal_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "sabc2_za_morning_live_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "ZA - SABC 3",
+      "programs": [
+        {
+          "program_id": "sabc3_za_deutsche_welle_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "sabc3_za_deutsche_welle_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "sabc3_za_i_am_a_work_of_art_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "sabc3_za_puss_in_boots_the_last_w_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "ZA - SABC News",
+      "programs": [
+        {
+          "program_id": "sabcnews_za_full_view_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 81
+        },
+        {
+          "program_id": "sabcnews_za_the_late_edition_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "sabcnews_za_morning_live_interviews_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "sabcnews_za_sa_today_interviews_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "sabcnews_za_trendz_live_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "sabcnews_za_morning_live_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "news",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "ZA - SWITCH’D ON Channel 109",
+      "programs": [
+        {
+          "program_id": "switchdonchannel10_suidooster_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "switchdonchannel10_egoli_plek_van_goud_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "switchdonchannel10_binnelanders_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "education",
+          "score": 61
+        },
+        {
+          "program_id": "switchdonchannel10_skemergrond_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "switchdonchannel10_isibaya_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "switchdonchannel10_genesis_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "switchdonchannel10_ithonga_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "switchdonchannel10_inimba_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "switchdonchannel10_isibaya_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "switchdonchannel10_genesis_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "switchdonchannel10_isibaya_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "switchdonchannel10_ithonga_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "switchdonchannel10_inimba_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "ZA - Sky News",
+      "programs": [
+        {
+          "program_id": "skynews_za_news_and_press_preview_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "skynews_za_press_preview_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 73
+        },
+        {
+          "program_id": "skynews_za_sky_news_2026-01-06_0060",
+          "start": 60,
+          "end": 420,
+          "genre": "news",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "ZA - Sound City",
+      "programs": [
+        {
+          "program_id": "soundcity_za_videos_unlimited_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "soundcity_za_videos_unlimited_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "soundcity_za_urban_world_40_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "soundcity_za_lyricist_lounge_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "soundcity_za_videos_unlimited_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "soundcity_za_culture_club_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "soundcity_za_good_morning_africa_2026-01-06_0360",
+          "start": 360,
+          "end": 475,
+          "genre": "music",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "ZA - Soweto TV",
+      "programs": [
+        {
+          "program_id": "sowetotv_za_just_music_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "sowetotv_za_al_jazeera_techknow_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "sowetotv_za_women_arise_with_power_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "sowetotv_za_soweto_tv_news_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "sowetotv_za_focus_on_africa_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "sowetotv_za_al_jazeera_news_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "sowetotv_za_al_jazeera_techknow_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "sowetotv_za_apostle_mohlala_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "ZA - Spice TV",
+      "programs": [
+        {
+          "program_id": "spicetv_za_video_fashion_collection_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "spicetv_za_video_fashion_collection_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "spicetv_za_spice_fashion_films_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "movie",
+          "score": 82
+        },
+        {
+          "program_id": "spicetv_za_spice_fashion_films_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "spicetv_za_spice_fashion_films_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "movie",
+          "score": 92
+        },
+        {
+          "program_id": "spicetv_za_spice_fashion_films_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "movie",
+          "score": 81
+        },
+        {
+          "program_id": "spicetv_za_spice_fashion_films_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "movie",
+          "score": 81
+        },
+        {
+          "program_id": "spicetv_za_spice_fashion_films_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "movie",
+          "score": 85
+        },
+        {
+          "program_id": "spicetv_za_spice_fashion_films_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "movie",
+          "score": 81
+        },
+        {
+          "program_id": "spicetv_za_spice_fashion_films_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "spicetv_za_home_living_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "spicetv_za_video_fashion_collection_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "spicetv_za_eat_the_world_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "ZA - Star Life",
+      "programs": [
+        {
+          "program_id": "starlife_za_banni_chow_home_delivery_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "starlife_za_advocate_anjali_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "starlife_za_anupamaa_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "starlife_za_sweet_love_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "starlife_za_noyontara_the_hidden_tru_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "starlife_za_bound_by_love_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "starlife_za_the_frontliners_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "starlife_za_the_frontliners_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "starlife_za_faltu_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "starlife_za_faltu_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "starlife_za_soulmates_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "starlife_za_banni_chow_home_delivery_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "sports",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "ZA - Studio Universal",
+      "programs": [
+        {
+          "program_id": "studiouniversal_za_force_of_nature_2026-01-06_0005",
+          "start": 5,
+          "end": 115,
+          "genre": "documentary",
+          "score": 77
+        },
+        {
+          "program_id": "studiouniversal_za_time_freak_2026-01-06_0115",
+          "start": 115,
+          "end": 225,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "studiouniversal_za_planet_action_2026-01-06_0225",
+          "start": 225,
+          "end": 260,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "studiouniversal_za_planet_action_2026-01-06_0260",
+          "start": 260,
+          "end": 315,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "studiouniversal_za_monsters_at_large_2026-01-06_0315",
+          "start": 315,
+          "end": 415,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "ZA - SuperSport Action",
+      "programs": [
+        {
+          "program_id": "supersportaction_z_sports_unlimited_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "supersportaction_z_watersports_world_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "supersportaction_z_wta500_26_brisbane_int_d_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "ZA - SuperSport Blitz",
+      "programs": [
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "supersportblitz_za_sky_sports_news_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "supersportblitz_za_sports_bulletin_around_t_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "ZA - SuperSport Cricket",
+      "programs": [
+        {
+          "program_id": "supersportcricket__ashes_25_26_aus_v_eng_5t_2026-01-06_0020",
+          "start": 20,
+          "end": 505,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "ZA - SuperSport Football",
+      "programs": [
+        {
+          "program_id": "supersportfootball_serie_a_hl_25_26_atalant_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "supersportfootball_serie_a_hl_25_26_lazio_v_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "supersportfootball_serie_a_hl_25_26_inter_v_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "supersportfootball_ligue_1_review_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "supersportfootball_efl_25_26_leicester_v_we_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "supersportfootball_versus_powered_by_supers_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "supersportfootball_serie_a_hl_25_26_cagliar_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "supersportfootball_serie_a_hl_25_26_juventu_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "supersportfootball_serie_a_hl_25_26_atalant_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "supersportfootball_serie_a_hl_25_26_lazio_v_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "sports",
+          "score": 96
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "ZA - SuperSport Golf",
+      "programs": [
+        {
+          "program_id": "supersportgolf_za_pga_tour_originals_the_m_2026-01-06_0110",
+          "start": 110,
+          "end": 170,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "supersportgolf_za_sundev_tour_east_africa__2026-01-06_0170",
+          "start": 170,
+          "end": 200,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "supersportgolf_za_sundev_tour_east_africa__2026-01-06_0200",
+          "start": 200,
+          "end": 230,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "supersportgolf_za_world_amateur_team_champ_2026-01-06_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "supersportgolf_za_world_amateur_team_champ_2026-01-06_0260",
+          "start": 260,
+          "end": 290,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "supersportgolf_za_golf_feature_2026-01-06_0290",
+          "start": 290,
+          "end": 300,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "supersportgolf_za_st_hl_25_26_alfred_dunhi_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "supersportgolf_za_stinger_gc_greens_and_go_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "documentary",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "ZA - SuperSportGrandstand",
+      "programs": [
+        {
+          "program_id": "supersportgrandsta_ashes_25_26_aus_v_eng_5t_2026-01-06_0020",
+          "start": 20,
+          "end": 505,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "ZA - SuperSport La Liga",
+      "programs": [
+        {
+          "program_id": "supersportlaliga_z_laliga_25_26_rayo_v_geta_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "supersportlaliga_z_laliga_25_26_c_vigo_v_va_2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportlaliga_z_laliga_hl_25_26_espanyol_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "supersportlaliga_z_laliga_hl_25_26_r_madrid_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "supersportlaliga_z_laliga_hl_25_26_sociedad_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportlaliga_z_laliga_25_26_osasuna_v_b_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "ZA - SuperSport Maximo 1",
+      "programs": [
+        {
+          "program_id": "supersportmaximo1__li_25_26_brighton_v_burn_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "supersportmaximo1__li_25_26_a_villa_v_n_for_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportmaximo1__laliga_25_26_sociedad_v__2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_a_vill_2026-01-06_0300",
+          "start": 300,
+          "end": 305,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_wolves_2026-01-06_0305",
+          "start": 305,
+          "end": 310,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_bright_2026-01-06_0310",
+          "start": 310,
+          "end": 315,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_newcastle_v__2026-01-06_0315",
+          "start": 315,
+          "end": 320,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_everto_2026-01-06_0320",
+          "start": 320,
+          "end": 325,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_b_mout_2026-01-06_0325",
+          "start": 325,
+          "end": 330,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_leeds__2026-01-06_0330",
+          "start": 330,
+          "end": 335,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_fulham_2026-01-06_0335",
+          "start": 335,
+          "end": 340,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_tottenham_v__2026-01-06_0340",
+          "start": 340,
+          "end": 345,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_man_ci_2026-01-06_0345",
+          "start": 345,
+          "end": 350,
+          "genre": "sports",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "ZA - SuperSport Motorsport",
+      "programs": [
+        {
+          "program_id": "supersportmotorspo_dakar_hl_26_stage_2_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "supersportmotorspo_formula_e_26_qualifying__2026-01-06_0060",
+          "start": 60,
+          "end": 170,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supersportmotorspo_formula_e_26_rnd_1_sao_p_2026-01-06_0170",
+          "start": 170,
+          "end": 260,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "supersportmotorspo_there_can_only_be_one_2026-01-06_0260",
+          "start": 260,
+          "end": 300,
+          "genre": "series",
+          "score": 89
+        },
+        {
+          "program_id": "supersportmotorspo_dakar_hl_26_stage_2_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "supersportmotorspo_whatayear_fim_wsx_champs_2026-01-06_0360",
+          "start": 360,
+          "end": 510,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "ZA - SuperSport OTT",
+      "programs": [
+        {
+          "program_id": "supersportott_za_obos_damallsvenskan_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "supersportott_za_sports_woman_2026-01-06_0075",
+          "start": 75,
+          "end": 110,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "supersportott_za_sports_woman_2026-01-06_0110",
+          "start": 110,
+          "end": 143,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "supersportott_za_disc_golf_pro_tour_2026-01-06_0143",
+          "start": 143,
+          "end": 360,
+          "genre": "education",
+          "score": 56
+        },
+        {
+          "program_id": "supersportott_za_obos_damallsvenskan_2026-01-06_0360",
+          "start": 360,
+          "end": 482,
+          "genre": "music",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "ZA - SuperSport OTT 2",
+      "programs": [
+        {
+          "program_id": "supersportott2_za_supersport_variety_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "supersportott2_za_supersport_variety_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "ZA - SuperSport OTT 3",
+      "programs": [
+        {
+          "program_id": "supersportott3_za_supersport_variety_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "supersportott3_za_supersport_variety_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "ZA - SuperSport OTT 5",
+      "programs": [
+        {
+          "program_id": "supersportott5_za_supersport_variety_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "supersportott5_za_supersport_variety_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "ZA - SuperSport OTT 6",
+      "programs": [
+        {
+          "program_id": "supersportott6_za_supersport_variety_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "supersportott6_za_supersport_variety_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "ZA - SuperSport OTT 7",
+      "programs": [
+        {
+          "program_id": "supersportott7_za_supersport_variety_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportott7_za_supersport_variety_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "ZA - SuperSport OTT 8",
+      "programs": [
+        {
+          "program_id": "supersportott8_za_supersport_variety_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "supersportott8_za_supersport_variety_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "ZA - SuperSport PSL",
+      "programs": [
+        {
+          "program_id": "supersportpsl_za_afcon_25_r16_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "supersportpsl_za_afcon_25_r16_2026-01-06_0090",
+          "start": 90,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "supersportpsl_za_afcon_hl_25_r16_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "ZA - SuperSport Premier League",
+      "programs": [
+        {
+          "program_id": "supersportpremierl_pl_hl_25_26_newcastle_v__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "supersportpremierl_pl_netbusters_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "supersportpremierl_pl_fanzone_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "supersportpremierl_pl_hl_25_26_wolves_v_wes_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "supersportpremierl_premier_league_review_2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "supersportpremierl_pltv_generation_xg_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "supersportpremierl_pl_hl_25_26_everton_v_br_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "supersportpremierl_pl_hl_25_26_man_city_v_c_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "supersportpremierl_pl_netbusters_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "supersportpremierl_pl_the_weekend_wrap_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "movie",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "ZA - SuperSport Rugby",
+      "programs": [
+        {
+          "program_id": "supersportrugby_za_vodacom_urc_25_26_gla_v__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "supersportrugby_za_vodacom_urc_25_26_ben_v__2026-01-06_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "supersportrugby_za_vodacom_urc_25_26_lein_v_2026-01-06_0150",
+          "start": 150,
+          "end": 270,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "supersportrugby_za_vodacom_urc_hl_25_26_sha_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "supersportrugby_za_epcr_hl_25_26_lio_v_ben_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "supersportrugby_za_epcr_hl_25_26_exe_v_che_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "supersportrugby_za_epcr_hl_25_26_che_v_par_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "ZA - SuperSport School",
+      "programs": [
+        {
+          "program_id": "supersportschool_z_sch_swm_25_sa_national_j_2026-01-06_0000",
+          "start": 0,
+          "end": 135,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "supersportschool_z_sch_ath_grey_oranje_pres_2026-01-06_0135",
+          "start": 135,
+          "end": 285,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supersportschool_z_class_of_2025_2026-01-06_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "supersportschool_z_csa_cubs_25_superstars_v_2026-01-06_0300",
+          "start": 300,
+          "end": 695,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "ZA - SuperSport Tennis",
+      "programs": [
+        {
+          "program_id": "supersporttennis_z_united_cup_25_26_d5_2026-01-06_0000",
+          "start": 0,
+          "end": 420,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "ZA - SuperSport Variety 1",
+      "programs": [
+        {
+          "program_id": "supersportvariety1_ako_12_yahuza_v_madani_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supersportvariety1_nba_25_26_pistons_v_knic_2026-01-06_0055",
+          "start": 55,
+          "end": 220,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "supersportvariety1_nba_25_26_clippers_v_war_2026-01-06_0235",
+          "start": 235,
+          "end": 400,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "ZA - SuperSport Variety 2",
+      "programs": [
+        {
+          "program_id": "supersportvariety2_reaction_sports_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportvariety2_super_smash_25_26_aa_v_o_2026-01-06_0030",
+          "start": 30,
+          "end": 285,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "supersportvariety2_super_smash_w_25_26_ah_v_2026-01-06_0285",
+          "start": 285,
+          "end": 510,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "ZA - SuperSport Variety 3",
+      "programs": [
+        {
+          "program_id": "supersportvariety3_uci_mtb_wc_hl_25_araxa_b_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "education",
+          "score": 65
+        },
+        {
+          "program_id": "supersportvariety3_uci_mtb_wc_hl_25_araxa_b_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "supersportvariety3_uci_mtb_wc_hl_25_bielsko_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supersportvariety3_uci_mtb_wc_hl_25_nove_me_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "documentary",
+          "score": 67
+        },
+        {
+          "program_id": "supersportvariety3_uci_mtb_wc_hl_25_leogang_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supersportvariety3_uci_mtb_wc_hl_25_val_di__2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "supersportvariety3_sports_unlimited_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportvariety3_watersports_world_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "supersportvariety3_vodacom_urc_hl_25_26_sha_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "supersportvariety3_vodacom_urc_hl_25_26_sto_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "supersportvariety3_ligue_1_review_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "ZA - SuperSport Variety 4",
+      "programs": [
+        {
+          "program_id": "supersportvariety4_efl_25_26_birmingham_v_c_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "supersportvariety4_efl_25_26_blackburn_v_wr_2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "supersportvariety4_uipm_modern_pentathlon_h_2026-01-06_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supersportvariety4_kasi_games_show_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "supersportvariety4_sports_bulletin_around_t_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "supersportvariety4_kaizer_chiefs_tv_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "supersportvariety4_pl_hl_16_17_arsenal_v_li_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "sports",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "ZA - TBN",
+      "programs": [
+        {
+          "program_id": "tbn_za_leading_the_way_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "tbn_za_chim_s_talk_africa_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "tbn_za_anonymous_with_alicia_br_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "tbn_za_word_of_life_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tbn_za_new_season_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "tbn_za_trinity_christmas_city_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "tbn_za_cpi_character_building_v_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "religion",
+          "score": 49
+        },
+        {
+          "program_id": "tbn_za_wisdom_for_life_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tbn_za_life_by_design_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "religion",
+          "score": 52
+        },
+        {
+          "program_id": "tbn_za_bishop_t_d_jakes_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tbn_za_elevation_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "religion",
+          "score": 58
+        },
+        {
+          "program_id": "tbn_za_joel_and_victoria_osteen_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tbn_za_joseph_prince_ministries_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "religion",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "ZA - TLNovelas",
+      "programs": [
+        {
+          "program_id": "tlnovelas_za_it_had_to_be_you_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tlnovelas_za_love_to_death_2026-01-06_0035",
+          "start": 35,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tlnovelas_za_love_to_death_2026-01-06_0090",
+          "start": 90,
+          "end": 130,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tlnovelas_za_fall_into_temptation_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tlnovelas_za_it_had_to_be_you_2026-01-06_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "education",
+          "score": 65
+        },
+        {
+          "program_id": "tlnovelas_za_it_had_to_be_you_2026-01-06_0230",
+          "start": 230,
+          "end": 275,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlnovelas_za_love_to_death_2026-01-06_0275",
+          "start": 275,
+          "end": 325,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlnovelas_za_love_to_death_2026-01-06_0325",
+          "start": 325,
+          "end": 370,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "ZA - TRACE Africa",
+      "programs": [
+        {
+          "program_id": "traceafrica_za_trace_by_night_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "traceafrica_za_eish_le_namba_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "traceafrica_za_smash_hits_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "movie",
+          "score": 92
+        },
+        {
+          "program_id": "traceafrica_za_daybreak_tunes_2026-01-06_0360",
+          "start": 360,
+          "end": 480,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "ZA - TRACE Urban",
+      "programs": [
+        {
+          "program_id": "traceurban_za_trace_by_night_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "music",
+          "score": 51
+        },
+        {
+          "program_id": "traceurban_za_only_hits_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "traceurban_za_feel_good_morning_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "ZA - TV5 Monde Afrique",
+      "programs": [
+        {
+          "program_id": "tv5mondeafrique_za_prodiges_2026-01-06_0011",
+          "start": 11,
+          "end": 152,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "tv5mondeafrique_za_l_actu_2026-01-06_0152",
+          "start": 152,
+          "end": 184,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv5mondeafrique_za_ligue_1_mcdonald_s_les_c_2026-01-06_0184",
+          "start": 184,
+          "end": 198,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "tv5mondeafrique_za_diane_de_poitiers_la_pre_2026-01-06_0198",
+          "start": 198,
+          "end": 304,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tv5mondeafrique_za_le_journal_de_l_afrique_2026-01-06_0330",
+          "start": 330,
+          "end": 358,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "tv5mondeafrique_za_le_6h_info_2026-01-06_0358",
+          "start": 358,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "ZA - TeleMundo English",
+      "programs": [
+        {
+          "program_id": "telemundoenglish_z_thirst_for_revenge_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "telemundoenglish_z_queen_of_the_south_2026-01-06_0040",
+          "start": 40,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telemundoenglish_z_the_end_of_paradise_2026-01-06_0090",
+          "start": 90,
+          "end": 140,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "telemundoenglish_z_thirst_for_revenge_2026-01-06_0140",
+          "start": 140,
+          "end": 190,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telemundoenglish_z_queen_of_the_south_2026-01-06_0190",
+          "start": 190,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "telemundoenglish_z_case_closed_2026-01-06_0240",
+          "start": 240,
+          "end": 310,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "telemundoenglish_z_the_price_of_fame_2026-01-06_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "telemundoenglish_z_the_boss_2026-01-06_0360",
+          "start": 360,
+          "end": 410,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "ZA - The History Channel",
+      "programs": [
+        {
+          "program_id": "thehistorychannel__life_after_people_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "thehistorychannel__holy_marvels_with_dennis_2026-01-06_0040",
+          "start": 40,
+          "end": 85,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "thehistorychannel__ancient_aliens_2026-01-06_0085",
+          "start": 85,
+          "end": 135,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "thehistorychannel__the_unxplained_with_will_2026-01-06_0135",
+          "start": 135,
+          "end": 185,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "thehistorychannel__american_pickers_2026-01-06_0185",
+          "start": 185,
+          "end": 230,
+          "genre": "promo",
+          "score": 23
+        },
+        {
+          "program_id": "thehistorychannel__forged_in_fire_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "thehistorychannel__forged_in_fire_2026-01-06_0345",
+          "start": 345,
+          "end": 390,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "ZA - The Home Channel",
+      "programs": [
+        {
+          "program_id": "thehomechannel_za_holiday_homes_in_the_sun_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "thehomechannel_za_jamie_s_quick_and_easy_f_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "thehomechannel_za_the_healthful_life_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "thehomechannel_za_chateau_diy_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "thehomechannel_za_home_styled_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "thehomechannel_za_great_irish_interiors_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "thehomechannel_za_property_brothers_foreve_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "thehomechannel_za_real_health_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "thehomechannel_za_country_house_hunters_ne_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "kids",
+          "score": 52
+        },
+        {
+          "program_id": "thehomechannel_za_afrimaxx_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "ZA - Trace Gospel",
+      "programs": [
+        {
+          "program_id": "tracegospel_za_new_horizon_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tracegospel_za_get_up_and_praise_intern_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "tracegospel_za_get_up_and_praise_local_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "tracegospel_za_gospel_hits_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "ZA - Tshwane TV",
+      "programs": [
+        {
+          "program_id": "tshwanetv_za_tshwane_fuse_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "tshwanetv_za_heat_aerobic_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tshwanetv_za_lemba_cultural_associati_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tshwanetv_za_assertiveness_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "talk",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "ZA - Universal TV",
+      "programs": [
+        {
+          "program_id": "universaltv_za_ncis_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "weather",
+          "score": 43
+        },
+        {
+          "program_id": "universaltv_za_ncis_2026-01-06_0050",
+          "start": 50,
+          "end": 100,
+          "genre": "kids",
+          "score": 54
+        },
+        {
+          "program_id": "universaltv_za_tribal_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "universaltv_za_tribal_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "universaltv_za_wild_cards_2026-01-06_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "universaltv_za_wild_cards_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "universaltv_za_fbi_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "universaltv_za_fbi_2026-01-06_0345",
+          "start": 345,
+          "end": 390,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "ZA - VIA",
+      "programs": [
+        {
+          "program_id": "via_za_dorpie_doenlys_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "via_za_manne_agter_die_potte_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "via_za_drukkoker_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "via_za_die_liefde_is_n_snaakse__2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "education",
+          "score": 60
+        },
+        {
+          "program_id": "via_za_huisgenoot_ware_lewensdr_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "via_za_aneeka_se_kombuis_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "via_za_huis_sos_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "via_za_slim_vang_sy_baas_musiek_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "via_za_dorpie_doenlys_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "ZA - WWE",
+      "programs": [
+        {
+          "program_id": "wwe_za_wwe_the_best_of_wwe_2026-01-06_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "wwe_za_wwe_top_10_2026-01-06_0115",
+          "start": 115,
+          "end": 120,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "wwe_za_wwe_raw_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "wwe_za_wwe_s_the_ultimate_show_2026-01-06_0300",
+          "start": 300,
+          "end": 365,
+          "genre": "talk",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "ZA - WildEarth",
+      "programs": [
+        {
+          "program_id": "wildearth_za_safarilive_sunset_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "wildearth_za_escape_to_nature_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "wildearth_za_safarilive_catch_up_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "series",
+          "score": 87
+        },
+        {
+          "program_id": "wildearth_za_safarilive_sunrise_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "ZA - Zee World",
+      "programs": [
+        {
+          "program_id": "zeeworld_za_taxi_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "zeeworld_za_marriage_for_duty_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "zeeworld_za_hidden_intentions_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "documentary",
+          "score": 67
+        },
+        {
+          "program_id": "zeeworld_za_king_of_hearts_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "zeeworld_za_mehek_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "zeeworld_za_married_again_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "zeeworld_za_marriage_for_duty_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "zeeworld_za_ideal_son_in_law_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "zeeworld_za_jagitri_empowered_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "ZA - eMovies",
+      "programs": [
+        {
+          "program_id": "emovies_za_aurora_teagarden_mysteri_2026-01-06_0015",
+          "start": 15,
+          "end": 105,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "emovies_za_random_encounters_2026-01-06_0105",
+          "start": 105,
+          "end": 200,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "emovies_za_making_the_movies_2026-01-06_0200",
+          "start": 200,
+          "end": 230,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "emovies_za_entertainment_set_2026-01-06_0230",
+          "start": 230,
+          "end": 240,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "emovies_za_before_you_say_i_do_2026-01-06_0240",
+          "start": 240,
+          "end": 335,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "emovies_za_arctic_justice_2026-01-06_0335",
+          "start": 335,
+          "end": 435,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "ZA - eMovies Extra",
+      "programs": [
+        {
+          "program_id": "emoviesextra_za_witness_protection_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "emoviesextra_za_critical_assignment_2026-01-06_0085",
+          "start": 85,
+          "end": 205,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "emoviesextra_za_celebrity_scoop_2026-01-06_0205",
+          "start": 205,
+          "end": 235,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "emoviesextra_za_entertainment_set_2026-01-06_0235",
+          "start": 235,
+          "end": 240,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "emoviesextra_za_six_bullets_2026-01-06_0240",
+          "start": 240,
+          "end": 355,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "emoviesextra_za_created_equal_2026-01-06_0355",
+          "start": 355,
+          "end": 450,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "ZA - eNews Channel Africa",
+      "programs": [
+        {
+          "program_id": "enewschannelafrica_enca_drive_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "enewschannelafrica_mpho_lakaje_worldwide_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "education",
+          "score": 68
+        },
+        {
+          "program_id": "enewschannelafrica_crime_watch_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "enewschannelafrica_up_close_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "enewschannelafrica_enca_drive_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "enewschannelafrica_mpho_lakaje_worldwide_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "education",
+          "score": 59
+        },
+        {
+          "program_id": "enewschannelafrica_crime_watch_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "enewschannelafrica_checkpoint_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "enewschannelafrica_free_education_feesmustf_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "education",
+          "score": 57
+        },
+        {
+          "program_id": "enewschannelafrica_enca_beyond_the_headline_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "enewschannelafrica_the_south_african_mornin_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "ZA - e.TV",
+      "programs": [
+        {
+          "program_id": "etv_za_doodloopstraat_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "etv_za_flatline_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "etv_za_deadly_suspicion_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "weather",
+          "score": 40
+        },
+        {
+          "program_id": "etv_za_e_tv_news_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "etv_za_enca_vuka_nathi_2026-01-06_0270",
+          "start": 270,
+          "end": 295,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "etv_za_the_south_african_mornin_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "ZA - eTV Extra",
+      "programs": [
+        {
+          "program_id": "etvextra_za_razia_sultan_2026-01-06_0040",
+          "start": 40,
+          "end": 85,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "etvextra_za_chrysalis_2026-01-06_0085",
+          "start": 85,
+          "end": 130,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "etvextra_za_koel_kop_warm_hart_2026-01-06_0130",
+          "start": 130,
+          "end": 185,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "etvextra_za_just_for_laughs_gags_2026-01-06_0185",
+          "start": 185,
+          "end": 215,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "etvextra_za_the_other_wife_2026-01-06_0290",
+          "start": 290,
+          "end": 350,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "etvextra_za_razia_sultan_2026-01-06_0350",
+          "start": 350,
+          "end": 395,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "ZA - eToonz",
+      "programs": [
+        {
+          "program_id": "etoonz_za_etoonz_resumes_at_06h00_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "etoonz_za_cool_catz_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "etoonz_za_takalani_sesame_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "ZA - iNooro Tv",
+      "programs": [
+        {
+          "program_id": "inoorotv_za_mwigangaro_live_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 68
+        },
+        {
+          "program_id": "inoorotv_za_hosanna_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "music",
+          "score": 53
+        },
+        {
+          "program_id": "inoorotv_za_ruci_ini_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    }
+  ]
+}

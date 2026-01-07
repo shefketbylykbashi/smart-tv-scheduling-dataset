@@ -1,0 +1,5668 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 113,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 60,
+      "end": 90,
+      "allowed_channels": [
+        2,
+        35,
+        75,
+        91,
+        14,
+        82,
+        83,
+        80,
+        87,
+        90,
+        79,
+        85,
+        88,
+        93,
+        12,
+        40,
+        53,
+        102,
+        15,
+        54,
+        57,
+        60,
+        99,
+        22,
+        23,
+        56,
+        89,
+        1,
+        34,
+        52,
+        33,
+        65,
+        72,
+        78,
+        16,
+        18,
+        8,
+        11,
+        19,
+        39,
+        68,
+        111,
+        59,
+        26,
+        98,
+        107,
+        51,
+        64,
+        77,
+        42,
+        76,
+        84,
+        92,
+        100,
+        104,
+        32,
+        10,
+        43
+      ]
+    },
+    {
+      "start": 105,
+      "end": 150,
+      "allowed_channels": [
+        35,
+        75,
+        82,
+        83,
+        78,
+        80,
+        54,
+        87,
+        79,
+        88,
+        52,
+        40,
+        53,
+        14,
+        33,
+        15,
+        57,
+        60,
+        99,
+        22,
+        23,
+        56,
+        89,
+        34,
+        77,
+        1,
+        31,
+        65,
+        72,
+        12,
+        16,
+        18,
+        61,
+        112,
+        19,
+        39,
+        68,
+        111,
+        11,
+        93,
+        9,
+        73,
+        98,
+        107,
+        47,
+        32,
+        108,
+        90,
+        66,
+        103,
+        26,
+        42,
+        84,
+        92,
+        100,
+        101,
+        28,
+        7,
+        25
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 23
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 23
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 25
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 24
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "sports",
+      "bonus": 24
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "sports",
+      "bonus": 26
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "news",
+      "bonus": 28
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "news",
+      "bonus": 29
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 30
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "news",
+      "bonus": 29
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 29
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "news",
+      "bonus": 23
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "UG - AFRO Music English",
+      "programs": [
+        {
+          "program_id": "afromusicenglish_u_afro_music_pop_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "afromusicenglish_u_afro_music_pop_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "music",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "UG - AfricaMagic Epic",
+      "programs": [
+        {
+          "program_id": "africamagicepic_ug_unmarked_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "africamagicepic_ug_city_husband_2026-01-06_0040",
+          "start": 40,
+          "end": 230,
+          "genre": "movie",
+          "score": 76
+        },
+        {
+          "program_id": "africamagicepic_ug_monalisa_2026-01-06_0230",
+          "start": 230,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "africamagicepic_ug_silver_digger_2026-01-06_0360",
+          "start": 360,
+          "end": 515,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "UG - Africa Magic Family",
+      "programs": [
+        {
+          "program_id": "africamagicfamily__my_flatmates_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "africamagicfamily__hustle_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "africamagicfamily__isibaya_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "africamagicfamily__the_johnsons_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "africamagicfamily__riona_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "africamagicfamily__my_flatmates_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "africamagicfamily__tinsel_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "africamagicfamily__greed_and_desire_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "education",
+          "score": 58
+        },
+        {
+          "program_id": "africamagicfamily__battleground_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "africamagicfamily__brethren_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "africamagicfamily__hustle_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "UG - Africa Magic Hausa",
+      "programs": [
+        {
+          "program_id": "africamagichausa_u_ruhi_uku_2026-01-06_0000",
+          "start": 0,
+          "end": 130,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "africamagichausa_u_daren_farko_2026-01-06_0130",
+          "start": 130,
+          "end": 165,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "africamagichausa_u_lukman_2026-01-06_0165",
+          "start": 165,
+          "end": 200,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "africamagichausa_u_shago_damben_arewa_2026-01-06_0200",
+          "start": 200,
+          "end": 240,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "africamagichausa_u_tafsirin_al_qur_ani_2024_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "africamagichausa_u_tafsirin_al_qur_ani_2024_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "religion",
+          "score": 55
+        },
+        {
+          "program_id": "africamagichausa_u_rauni_2026-01-06_0360",
+          "start": 360,
+          "end": 450,
+          "genre": "unknown",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "UG - AfricaMagic Igbo",
+      "programs": [
+        {
+          "program_id": "africamagicigbo_ug_ndi_nche_odaakpee_2026-01-06_0015",
+          "start": 15,
+          "end": 230,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "africamagicigbo_ug_mgbeke_2026-01-06_0230",
+          "start": 230,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "africamagicigbo_ug_ogwu_echiche_2026-01-06_0360",
+          "start": 360,
+          "end": 475,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "UG - AfricaMagic Showcase",
+      "programs": [
+        {
+          "program_id": "africamagicshowcas_a_dose_of_happiness_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "africamagicshowcas_kidnapped_2026-01-06_0040",
+          "start": 40,
+          "end": 125,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "africamagicshowcas_kidnapped_2026-01-06_0125",
+          "start": 125,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "africamagicshowcas_daughters_of_water_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "africamagicshowcas_the_low_priest_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "africamagicshowcas_mama_ejiro_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "africamagicshowcas_a_mother_s_love_2026-01-06_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "UG - Africa Magic Yoruba",
+      "programs": [
+        {
+          "program_id": "africamagicyoruba__gbogbo_lowo_2026-01-06_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "africamagicyoruba__abiagba_2026-01-06_0080",
+          "start": 80,
+          "end": 170,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "africamagicyoruba__opin_ore_2026-01-06_0170",
+          "start": 170,
+          "end": 265,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "africamagicyoruba__idekun_2026-01-06_0265",
+          "start": 265,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "africamagicyoruba__hush_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "UG - Africanews",
+      "programs": [
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0000",
+          "start": 0,
+          "end": 8,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0008",
+          "start": 8,
+          "end": 20,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0020",
+          "start": 20,
+          "end": 30,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0030",
+          "start": 30,
+          "end": 39,
+          "genre": "news",
+          "score": 56
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0039",
+          "start": 39,
+          "end": 50,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0050",
+          "start": 50,
+          "end": 60,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0060",
+          "start": 60,
+          "end": 68,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0068",
+          "start": 68,
+          "end": 80,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0080",
+          "start": 80,
+          "end": 90,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0090",
+          "start": 90,
+          "end": 99,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0099",
+          "start": 99,
+          "end": 110,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0110",
+          "start": 110,
+          "end": 120,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0120",
+          "start": 120,
+          "end": 128,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0128",
+          "start": 128,
+          "end": 140,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0140",
+          "start": 140,
+          "end": 150,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0150",
+          "start": 150,
+          "end": 159,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0159",
+          "start": 159,
+          "end": 170,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0170",
+          "start": 170,
+          "end": 180,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0180",
+          "start": 180,
+          "end": 188,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0188",
+          "start": 188,
+          "end": 200,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0200",
+          "start": 200,
+          "end": 210,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0210",
+          "start": 210,
+          "end": 219,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0219",
+          "start": 219,
+          "end": 230,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0230",
+          "start": 230,
+          "end": 240,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0240",
+          "start": 240,
+          "end": 248,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0248",
+          "start": 248,
+          "end": 260,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0260",
+          "start": 260,
+          "end": 270,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0270",
+          "start": 270,
+          "end": 279,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0279",
+          "start": 279,
+          "end": 290,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0290",
+          "start": 290,
+          "end": 300,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0300",
+          "start": 300,
+          "end": 308,
+          "genre": "news",
+          "score": 56
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0308",
+          "start": 308,
+          "end": 320,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0320",
+          "start": 320,
+          "end": 330,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0330",
+          "start": 330,
+          "end": 339,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0339",
+          "start": 339,
+          "end": 350,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0350",
+          "start": 350,
+          "end": 360,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "africanews_ug_news_2026-01-06_0360",
+          "start": 360,
+          "end": 368,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "UG - Al Jazeera",
+      "programs": [
+        {
+          "program_id": "aljazeera_ug_news_live_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "aljazeera_ug_inside_story_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "aljazeera_ug_newshour_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "aljazeera_ug_the_el_masri_case_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "aljazeera_ug_news_live_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeera_ug_the_listening_post_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "aljazeera_ug_news_live_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "aljazeera_ug_all_hail_the_planet_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "aljazeera_ug_news_live_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "aljazeera_ug_the_stream_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "aljazeera_ug_news_live_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "UG - Arise News",
+      "programs": [
+        {
+          "program_id": "arisenews_ug_arise_xchange_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "arisenews_ug_prime_time_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "arisenews_ug_arise_news_now_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "arisenews_ug_arise_news_now_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "arisenews_ug_newsnight_nigeria_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "arisenews_ug_arise_360_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "arisenews_ug_daybreak_2026-01-06_0360",
+          "start": 360,
+          "end": 480,
+          "genre": "news",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "UG - BBC Brit",
+      "programs": [
+        {
+          "program_id": "bbcbrit_ug_tipping_point_2026-01-06_0000",
+          "start": 0,
+          "end": 21,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "bbcbrit_ug_the_chase_2026-01-06_0021",
+          "start": 21,
+          "end": 67,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "bbcbrit_ug_bridge_of_lies_2026-01-06_0067",
+          "start": 67,
+          "end": 112,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "bbcbrit_ug_the_chelsea_detective_2026-01-06_0112",
+          "start": 112,
+          "end": 160,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbcbrit_ug_father_brown_2026-01-06_0160",
+          "start": 160,
+          "end": 205,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bbcbrit_ug_where_the_wild_men_are_w_2026-01-06_0205",
+          "start": 205,
+          "end": 251,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "bbcbrit_ug_tipping_point_2026-01-06_0251",
+          "start": 251,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "bbcbrit_ug_tipping_point_2026-01-06_0300",
+          "start": 300,
+          "end": 349,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "bbcbrit_ug_bridge_of_lies_2026-01-06_0349",
+          "start": 349,
+          "end": 394,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "UG - BBC Lifestyle",
+      "programs": [
+        {
+          "program_id": "bbclifestyle_ug_masterchef_2026-01-06_0006",
+          "start": 6,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbclifestyle_ug_the_great_american_bakin_2026-01-06_0060",
+          "start": 60,
+          "end": 114,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "bbclifestyle_ug_antiques_roadshow_2026-01-06_0114",
+          "start": 114,
+          "end": 174,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "bbclifestyle_ug_masterchef_the_professio_2026-01-06_0174",
+          "start": 174,
+          "end": 226,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bbclifestyle_ug_come_dine_with_me_south__2026-01-06_0350",
+          "start": 350,
+          "end": 406,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "UG - BBC World News",
+      "programs": [
+        {
+          "program_id": "bbcworldnews_ug_bbc_world_news_america_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "bbcworldnews_ug_bbc_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "bbcworldnews_ug_newscast_an_interview_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "bbcworldnews_ug_bbc_news_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "bbcworldnews_ug_talking_business_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "bbcworldnews_ug_newsday_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "bbcworldnews_ug_business_today_2026-01-06_0210",
+          "start": 210,
+          "end": 225,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "bbcworldnews_ug_bbc_sport_2026-01-06_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "bbcworldnews_ug_newsday_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "bbcworldnews_ug_business_today_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "bbcworldnews_ug_bbc_sport_2026-01-06_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "bbcworldnews_ug_newsday_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "bbcworldnews_ug_business_today_2026-01-06_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "bbcworldnews_ug_bbc_sport_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "bbcworldnews_ug_bbc_news_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "UG - BBS Terefayina",
+      "programs": [
+        {
+          "program_id": "bbsterefayina_ug_bbs_terefayina_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "education",
+          "score": 56
+        },
+        {
+          "program_id": "bbsterefayina_ug_bbs_terefayina_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "education",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "UG - Bloomberg Television",
+      "programs": [
+        {
+          "program_id": "bloombergtelevisio_bloomberg_the_asia_trade_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "bloombergtelevisio_bloomberg_the_china_show_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bloombergtelevisio_insight_with_haslinda_am_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "bloombergtelevisio_bloomberg_horizons_middl_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "music",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "UG - Bukedde TV",
+      "programs": [
+        {
+          "program_id": "bukeddetv_ug_bukedde_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "bukeddetv_ug_bukedde_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "UG - Bukkede 2",
+      "programs": [
+        {
+          "program_id": "bukkede2_ug_bukedde_2_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "bukkede2_ug_bukedde_2_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "UG - CGTN French",
+      "programs": [
+        {
+          "program_id": "cgtnfrench_ug_cgtn_french_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "education",
+          "score": 60
+        },
+        {
+          "program_id": "cgtnfrench_ug_cgtn_french_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "education",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "UG - CGTN News",
+      "programs": [
+        {
+          "program_id": "cgtnnews_ug_cgtn_news_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "cgtnnews_ug_cgtn_news_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "series",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "UG - CNBC Africa",
+      "programs": [
+        {
+          "program_id": "cnbcafrica_ug_squawk_box_asia_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "cnbcafrica_ug_the_china_connection_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "cnbcafrica_ug_inside_india_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "cnbcafrica_ug_access_middle_east_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "cnbcafrica_ug_u_s_markets_edition_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "talk",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "UG - Cbeebies",
+      "programs": [
+        {
+          "program_id": "cbeebies_ug_postman_pat_special_deli_2026-01-06_0180",
+          "start": 180,
+          "end": 196,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "cbeebies_ug_postman_pat_special_deli_2026-01-06_0196",
+          "start": 196,
+          "end": 212,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "cbeebies_ug_postman_pat_special_deli_2026-01-06_0212",
+          "start": 212,
+          "end": 227,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "cbeebies_ug_postman_pat_special_deli_2026-01-06_0227",
+          "start": 227,
+          "end": 244,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "cbeebies_ug_postman_pat_special_deli_2026-01-06_0244",
+          "start": 244,
+          "end": 261,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cbeebies_ug_postman_pat_special_deli_2026-01-06_0261",
+          "start": 261,
+          "end": 278,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "cbeebies_ug_bluey_2026-01-06_0362",
+          "start": 362,
+          "end": 369,
+          "genre": "sports",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "UG - Channel 44",
+      "programs": [
+        {
+          "program_id": "channel44_ug_channel_44_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "talk",
+          "score": 56
+        },
+        {
+          "program_id": "channel44_ug_channel_44_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "talk",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "UG - Citi TV",
+      "programs": [
+        {
+          "program_id": "cititv_ug_channel_one_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "cititv_ug_channel_one_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "UG - Citizen TV",
+      "programs": [
+        {
+          "program_id": "citizentv_ug_monday_report_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "citizentv_ug_pambazuka_music_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "citizentv_ug_pe_home_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "citizentv_ug_day_break_2026-01-06_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "UG - Comedy Central",
+      "programs": [
+        {
+          "program_id": "comedycentral_ug_frasier_2026-01-06_0014",
+          "start": 14,
+          "end": 36,
+          "genre": "weather",
+          "score": 32
+        },
+        {
+          "program_id": "comedycentral_ug_frasier_2026-01-06_0036",
+          "start": 36,
+          "end": 57,
+          "genre": "sports",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "UG - Curiosity Channel",
+      "programs": [
+        {
+          "program_id": "curiositychannel_u_extraordinary_humans_2026-01-06_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "curiositychannel_u_space_probes_2026-01-06_0039",
+          "start": 39,
+          "end": 97,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "curiositychannel_u_secrets_of_the_brain_2026-01-06_0097",
+          "start": 97,
+          "end": 155,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "curiositychannel_u_secrets_of_the_brain_2026-01-06_0155",
+          "start": 155,
+          "end": 230,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "curiositychannel_u_breakthrough_2026-01-06_0267",
+          "start": 267,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "curiositychannel_u_the_elephant_plane_2026-01-06_0324",
+          "start": 324,
+          "end": 360,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "curiositychannel_u_celts_the_untold_story_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "UG - Day Star",
+      "programs": [
+        {
+          "program_id": "daystar_ug_the_jewish_jesus_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "religion",
+          "score": 58
+        },
+        {
+          "program_id": "daystar_ug_today_with_marilyn_and_s_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "daystar_ug_voice_of_god_with_joseph_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "daystar_ug_amazing_facts_with_doug__2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "daystar_ug_rick_renner_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "daystar_ug_believers_walk_of_faith__2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "daystar_ug_psb_prophetic_sound_broa_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "daystar_ug_dr_david_jeremiah_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "religion",
+          "score": 65
+        },
+        {
+          "program_id": "daystar_ug_healing_time_with_dr_dou_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "religion",
+          "score": 58
+        },
+        {
+          "program_id": "daystar_ug_jewish_voice_with_jonath_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "religion",
+          "score": 53
+        },
+        {
+          "program_id": "daystar_ug_manna_fest_with_perry_st_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "daystar_ug_reflections_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "daystar_ug_gospel_truth_with_andrew_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "sports",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "UG - Disney Junior",
+      "programs": [
+        {
+          "program_id": "disneyjunior_ug_the_lion_guard_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "UG - Dove TV",
+      "programs": [
+        {
+          "program_id": "dovetv_ug_the_wayward_darling_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "dovetv_ug_my_dream_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "dovetv_ug_my_dream_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "dovetv_ug_my_dream_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "dovetv_ug_my_dream_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "dovetv_ug_redemption_way_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dovetv_ug_the_fathers_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dovetv_ug_the_fathers_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "dovetv_ug_john_hagee_today_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dovetv_ug_dove_music_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "dovetv_ug_dove_music_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "dovetv_ug_wakati_iyanu_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "dovetv_ug_voice_of_the_lord_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "UG - ESPN",
+      "programs": [
+        {
+          "program_id": "espn_ug_nfl_live_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "espn_ug_gab_and_juls_podcast_2026-01-06_0055",
+          "start": 55,
+          "end": 80,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "espn_ug_spl_damac_vs_al_hilal_hi_2026-01-06_0115",
+          "start": 115,
+          "end": 125,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "espn_ug_nba_today_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "espn_ug_nfl_live_2026-01-06_0195",
+          "start": 195,
+          "end": 270,
+          "genre": "talk",
+          "score": 75
+        },
+        {
+          "program_id": "espn_ug_spl_damac_vs_al_hilal_hi_2026-01-06_0290",
+          "start": 290,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "UG - ESPN2",
+      "programs": [
+        {
+          "program_id": "espn2_ug_nba_today_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "espn2_ug_nhl_on_the_fly_2026-01-06_0035",
+          "start": 35,
+          "end": 60,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "espn2_ug_nhl_mammoth_rangers_2026-01-06_0060",
+          "start": 60,
+          "end": 210,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "espn2_ug_nba_today_2026-01-06_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "espn2_ug_efl_highlights_2026-01-06_0270",
+          "start": 270,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "UG - Eternal Word Television Network",
+      "programs": [
+        {
+          "program_id": "eternalwordtelevis_ewtn_news_nightly_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "eternalwordtelevis_coming_to_christ_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "eternalwordtelevis_luke_meek_scribe_of_chri_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eternalwordtelevis_metanoia_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "eternalwordtelevis_the_journey_home_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 80
+        },
+        {
+          "program_id": "eternalwordtelevis_grab_your_catechism_with_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "religion",
+          "score": 55
+        },
+        {
+          "program_id": "eternalwordtelevis_praying_as_a_family_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "eternalwordtelevis_ewtn_news_nightly_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "eternalwordtelevis_holy_mass_from_nazareth_2026-01-06_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "eternalwordtelevis_the_old_testament_prophe_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "documentary",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "UG - EuroNews",
+      "programs": [
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0015",
+          "start": 15,
+          "end": 30,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0180",
+          "start": 180,
+          "end": 194,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0194",
+          "start": 194,
+          "end": 210,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0210",
+          "start": 210,
+          "end": 226,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "euronews_ug_news_2026-01-06_0226",
+          "start": 226,
+          "end": 240,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "euronews_ug_the_european_debrief_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "euronews_ug_wake_up_europe_2026-01-06_0360",
+          "start": 360,
+          "end": 375,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "UG - EuroNews French",
+      "programs": [
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0015",
+          "start": 15,
+          "end": 30,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 86
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0180",
+          "start": 180,
+          "end": 194,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0194",
+          "start": 194,
+          "end": 210,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0210",
+          "start": 210,
+          "end": 226,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "euronewsfrench_ug_news_2026-01-06_0226",
+          "start": 226,
+          "end": 240,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronewsfrench_ug_the_european_debrief_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronewsfrench_ug_wake_up_europe_2026-01-06_0360",
+          "start": 360,
+          "end": 375,
+          "genre": "news",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "UG - EuroNews German",
+      "programs": [
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0015",
+          "start": 15,
+          "end": 30,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 84
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 86
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0180",
+          "start": 180,
+          "end": 194,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0194",
+          "start": 194,
+          "end": 210,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0210",
+          "start": 210,
+          "end": 226,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "euronewsgerman_ug_news_2026-01-06_0226",
+          "start": 226,
+          "end": 240,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "euronewsgerman_ug_the_european_debrief_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 80
+        },
+        {
+          "program_id": "euronewsgerman_ug_wake_up_europe_2026-01-06_0360",
+          "start": 360,
+          "end": 375,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "UG - FAITH",
+      "programs": [
+        {
+          "program_id": "faith_ug_no_more_curse_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "faith_ug_jesus_the_healer_with_na_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "faith_ug_get_ready_2026_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "faith_ug_choose_life_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "faith_ug_christian_world_news_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "faith_ug_devotionals_with_dr_mand_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "religion",
+          "score": 53
+        },
+        {
+          "program_id": "faith_ug_changing_your_world_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "faith_ug_wisdom_for_life_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "faith_ug_faith_with_dr_juanita_by_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "weather",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "UG - HIP TV",
+      "programs": [
+        {
+          "program_id": "hiptv_ug_news_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "hiptv_ug_lyrics_to_go_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "hiptv_ug_top_notch_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "hiptv_ug_mood_music_videos_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "music",
+          "score": 53
+        },
+        {
+          "program_id": "hiptv_ug_lyrics_to_go_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "hiptv_ug_news_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "UG - ISLAM CHANNEL",
+      "programs": [
+        {
+          "program_id": "islamchannel_ug_islam_channel_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "religion",
+          "score": 46
+        },
+        {
+          "program_id": "islamchannel_ug_islam_channel_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "religion",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "UG - JimJam",
+      "programs": [
+        {
+          "program_id": "jimjam_ug_caillou_2026-01-06_0106",
+          "start": 106,
+          "end": 117,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "jimjam_ug_caillou_2026-01-06_0117",
+          "start": 117,
+          "end": 130,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "jimjam_ug_caillou_s_new_adventures_2026-01-06_0177",
+          "start": 177,
+          "end": 182,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "jimjam_ug_caillou_s_new_adventures_2026-01-06_0182",
+          "start": 182,
+          "end": 188,
+          "genre": "sports",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "UG - Joy News",
+      "programs": [
+        {
+          "program_id": "joynews_ug_joy_news_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "joynews_ug_joy_news_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "UG - K24",
+      "programs": [
+        {
+          "program_id": "k24_ug_al_jazeera_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "k24_ug_i_saw_god_move_2026-01-06_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "k24_ug_the_77_percent_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "k24_ug_al_jazeera_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 99
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "UG - KIX",
+      "programs": [
+        {
+          "program_id": "kix_ug_the_inspector_wears_skir_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kix_ug_the_lost_bladesman_2026-01-06_0075",
+          "start": 75,
+          "end": 190,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "kix_ug_whampoa_blues_2026-01-06_0190",
+          "start": 190,
+          "end": 290,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "kix_ug_my_heart_is_that_eternal_2026-01-06_0290",
+          "start": 290,
+          "end": 385,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "UG - KTN News",
+      "programs": [
+        {
+          "program_id": "ktnnews_ug_tv47_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "education",
+          "score": 66
+        },
+        {
+          "program_id": "ktnnews_ug_tv47_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "education",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "UG - M-Net",
+      "programs": [
+        {
+          "program_id": "m_net_ug_summertide_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "m_net_ug_ghosts_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "m_net_ug_ghosts_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "m_net_ug_destination_x_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "m_net_ug_action_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "m_net_ug_action_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "documentary",
+          "score": 83
+        },
+        {
+          "program_id": "m_net_ug_sneaks_2026-01-06_0300",
+          "start": 300,
+          "end": 400,
+          "genre": "kids",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "UG - M-Net Movies 1 East",
+      "programs": [
+        {
+          "program_id": "m_netmovies1east_u_back_to_black_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "m_netmovies1east_u_unsung_hero_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "kids",
+          "score": 62
+        },
+        {
+          "program_id": "m_netmovies1east_u_rob_peace_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "m_netmovies1east_u_the_miracle_club_2026-01-06_0300",
+          "start": 300,
+          "end": 395,
+          "genre": "movie",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "UG - M-Net Movies 2",
+      "programs": [
+        {
+          "program_id": "m_netmovies2_ug_the_ice_road_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "movie",
+          "score": 85
+        },
+        {
+          "program_id": "m_netmovies2_ug_midway_2026-01-06_0050",
+          "start": 50,
+          "end": 185,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "m_netmovies2_ug_kane_2026-01-06_0185",
+          "start": 185,
+          "end": 265,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "m_netmovies2_ug_my_penguin_friend_2026-01-06_0265",
+          "start": 265,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "m_netmovies2_ug_teen_titans_go_to_the_mo_2026-01-06_0360",
+          "start": 360,
+          "end": 445,
+          "genre": "movie",
+          "score": 99
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "UG - M-Net Movies 3",
+      "programs": [
+        {
+          "program_id": "m_netmovies3_ug_this_is_40_2026-01-06_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "m_netmovies3_ug_naked_singularity_2026-01-06_0065",
+          "start": 65,
+          "end": 165,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "m_netmovies3_ug_deadland_2026-01-06_0165",
+          "start": 165,
+          "end": 260,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "m_netmovies3_ug_1917_2026-01-06_0260",
+          "start": 260,
+          "end": 380,
+          "genre": "movie",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "UG - M-Net Movies 4",
+      "programs": [
+        {
+          "program_id": "m_netmovies4_ug_collateral_2026-01-06_0000",
+          "start": 0,
+          "end": 5,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "m_netmovies4_ug_the_constant_gardener_2026-01-06_0005",
+          "start": 5,
+          "end": 135,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "m_netmovies4_ug_double_jeopardy_2026-01-06_0135",
+          "start": 135,
+          "end": 250,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "m_netmovies4_ug_forsaken_2026-01-06_0250",
+          "start": 250,
+          "end": 345,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "m_netmovies4_ug_the_day_we_didn_t_meet_2026-01-06_0345",
+          "start": 345,
+          "end": 455,
+          "genre": "movie",
+          "score": 90
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "UG - MTV",
+      "programs": [
+        {
+          "program_id": "mtv_ug_ink_master_turf_war_2026-01-06_0010",
+          "start": 10,
+          "end": 55,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mtv_ug_ink_master_turf_war_2026-01-06_0055",
+          "start": 55,
+          "end": 95,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtv_ug_geordie_shore_2026-01-06_0095",
+          "start": 95,
+          "end": 145,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "UG - Maisha Magic Bongo",
+      "programs": [
+        {
+          "program_id": "maishamagicbongo_u_the_return_of_original_c_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "maishamagicbongo_u_broken_pieces_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "maishamagicbongo_u_kitimtim_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "maishamagicbongo_u_asumanii_vibes_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "maishamagicbongo_u_huba_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "maishamagicbongo_u_huba_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "maishamagicbongo_u_kumi_za_wiki_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "maishamagicbongo_u_mizani_ya_ushambenga_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "maishamagicbongo_u_kitimtim_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "maishamagicbongo_u_asumanii_vibes_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "UG - Maisha Magic POA",
+      "programs": [
+        {
+          "program_id": "maishamagicpoa_ug_asumanii_vibes_2026-01-06_0020",
+          "start": 20,
+          "end": 70,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "maishamagicpoa_ug_ya_walimwengu_2026-01-06_0070",
+          "start": 70,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "maishamagicpoa_ug_the_return_of_original_c_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "maishamagicpoa_ug_the_return_of_original_c_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "maishamagicpoa_ug_the_return_of_original_c_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "maishamagicpoa_ug_halita_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "maishamagicpoa_ug_halita_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "maishamagicpoa_ug_asumanii_vibes_2026-01-06_0360",
+          "start": 360,
+          "end": 410,
+          "genre": "unknown",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "UG - Maisha Magic Plus",
+      "programs": [
+        {
+          "program_id": "maishamagicplus_ug_lazizi_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "maishamagicplus_ug_lulu_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "maishamagicplus_ug_mkasi_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "maishamagicplus_ug_maza_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "maishamagicplus_ug_jela_5_star_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "maishamagicplus_ug_pambio_live_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "maishamagicplus_ug_tambira_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "maishamagicplus_ug_njoro_wa_uba_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "UG - Mindset",
+      "programs": [
+        {
+          "program_id": "mindset_ug_grade_12_physical_scienc_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "mindset_ug_grade_12_physical_scienc_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "mindset_ug_grade_12_physical_scienc_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "mindset_ug_grade_12_physical_scienc_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "mindset_ug_grade_12_physical_scienc_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "mindset_ug_big_school_afrikaans_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "mindset_ug_big_school_english_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "mindset_ug_big_school_isixhosa_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "kids",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "UG - NBS",
+      "programs": [
+        {
+          "program_id": "nbs_ug_nbstv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "nbs_ug_nbstv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "UG - NDTV 24x7",
+      "programs": [
+        {
+          "program_id": "ndtv24x7_ug_news_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "ndtv24x7_ug_india_matters_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "documentary",
+          "score": 78
+        },
+        {
+          "program_id": "ndtv24x7_ug_news_2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "ndtv24x7_ug_the_breakfast_show_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "ndtv24x7_ug_news_2026-01-06_0270",
+          "start": 270,
+          "end": 450,
+          "genre": "sports",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "UG - NHK",
+      "programs": [
+        {
+          "program_id": "nhk_ug_nhk_newsline_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "weather",
+          "score": 54
+        },
+        {
+          "program_id": "nhk_ug_hometown_stories_2026-01-06_0030",
+          "start": 30,
+          "end": 57,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "nhk_ug_nhk_newsline_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "weather",
+          "score": 57
+        },
+        {
+          "program_id": "nhk_ug_journeys_in_japan_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "nhk_ug_nhk_newsline_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "weather",
+          "score": 45
+        },
+        {
+          "program_id": "nhk_ug_dining_with_the_chef_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "nhk_ug_nhk_newsline_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "weather",
+          "score": 51
+        },
+        {
+          "program_id": "nhk_ug_document_72_hours_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "nhk_ug_nhk_newsline_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "weather",
+          "score": 52
+        },
+        {
+          "program_id": "nhk_ug_medical_frontiers_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "nhk_ug_nhk_newsline_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "weather",
+          "score": 54
+        },
+        {
+          "program_id": "nhk_ug_deeper_look_2026-01-06_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "nhk_ug_nhk_newsline_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "weather",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "UG - NTV",
+      "programs": [
+        {
+          "program_id": "ntv_ug_ntv_kenya_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "ntv_ug_ntv_kenya_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "UG - NTVU",
+      "programs": [
+        {
+          "program_id": "ntvu_ug_al_jazeera_2026-01-06_0000",
+          "start": 0,
+          "end": 220,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "ntvu_ug_al_jazeera_2026-01-06_0220",
+          "start": 220,
+          "end": 270,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "ntvu_ug_morning_at_ntv_2026-01-06_0270",
+          "start": 270,
+          "end": 420,
+          "genre": "news",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "UG - NatGeo Wild",
+      "programs": [
+        {
+          "program_id": "natgeowild_ug_africa_s_hunters_2026-01-06_0018",
+          "start": 18,
+          "end": 66,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "natgeowild_ug_africa_s_hunters_2026-01-06_0066",
+          "start": 66,
+          "end": 114,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "natgeowild_ug_africa_s_hunters_2026-01-06_0114",
+          "start": 114,
+          "end": 160,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "natgeowild_ug_world_s_biggest_bull_sha_2026-01-06_0160",
+          "start": 160,
+          "end": 206,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "natgeowild_ug_africa_s_hunters_2026-01-06_0206",
+          "start": 206,
+          "end": 253,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "natgeowild_ug_africa_s_hunters_2026-01-06_0253",
+          "start": 253,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "natgeowild_ug_winter_s_hidden_wonders_2026-01-06_0350",
+          "start": 350,
+          "end": 397,
+          "genre": "education",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "UG - National Geographic Channel",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_strangest_things_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "nationalgeographic_to_catch_a_smuggler_cont_2026-01-06_0030",
+          "start": 30,
+          "end": 80,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "nationalgeographic_trafficked_with_mariana__2026-01-06_0080",
+          "start": 80,
+          "end": 130,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "nationalgeographic_europe_from_above_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "nationalgeographic_life_below_zero_port_pro_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "nationalgeographic_coastguard_dutch_caribbe_2026-01-06_0210",
+          "start": 210,
+          "end": 260,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "nationalgeographic_mysterious_islands_2026-01-06_0350",
+          "start": 350,
+          "end": 400,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "UG - Newzroom Afrika",
+      "programs": [
+        {
+          "program_id": "newzroomafrika_ug_big_story_in_case_you_mi_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "newzroomafrika_ug_newsfeed_pm_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "newzroomafrika_ug_big_story_in_case_you_mi_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "newzroomafrika_ug_am_report_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "UG - Nick Jr",
+      "programs": [
+        {
+          "program_id": "nickjr_ug_barbapapa_one_big_happy__2026-01-06_0108",
+          "start": 108,
+          "end": 131,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "nickjr_ug_barbapapa_one_big_happy__2026-01-06_0131",
+          "start": 131,
+          "end": 155,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "nickjr_ug_blaze_and_the_monster_ma_2026-01-06_0247",
+          "start": 247,
+          "end": 271,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "nickjr_ug_blaze_and_the_monster_ma_2026-01-06_0271",
+          "start": 271,
+          "end": 294,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "nickjr_ug_barbapapa_one_big_happy__2026-01-06_0294",
+          "start": 294,
+          "end": 315,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "nickjr_ug_barbapapa_one_big_happy__2026-01-06_0315",
+          "start": 315,
+          "end": 337,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "nickjr_ug_blaze_and_the_monster_ma_2026-01-06_0360",
+          "start": 360,
+          "end": 382,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "UG - NickTOONS",
+      "programs": [
+        {
+          "program_id": "nicktoons_ug_best_and_bester_2026-01-06_0000",
+          "start": 0,
+          "end": 12,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "nicktoons_ug_best_and_bester_2026-01-06_0012",
+          "start": 12,
+          "end": 34,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "nicktoons_ug_avatar_the_last_airbende_2026-01-06_0119",
+          "start": 119,
+          "end": 141,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "nicktoons_ug_spongebob_squarepants_2026-01-06_0218",
+          "start": 218,
+          "end": 240,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "nicktoons_ug_spongebob_squarepants_2026-01-06_0261",
+          "start": 261,
+          "end": 284,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "UG - Nickelodeon",
+      "programs": [
+        {
+          "program_id": "nickelodeon_ug_best_and_bester_2026-01-06_0011",
+          "start": 11,
+          "end": 34,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "nickelodeon_ug_best_and_bester_2026-01-06_0034",
+          "start": 34,
+          "end": 56,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "nickelodeon_ug_best_and_bester_2026-01-06_0056",
+          "start": 56,
+          "end": 80,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "nickelodeon_ug_the_patrick_star_show_2026-01-06_0360",
+          "start": 360,
+          "end": 383,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "UG - Pearl Magic",
+      "programs": [
+        {
+          "program_id": "pearlmagic_ug_prestige_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "pearlmagic_ug_hotel_mara_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "pearlmagic_ug_dilemma_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "pearlmagic_ug_beloved_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "pearlmagic_ug_zensega_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "pearlmagic_ug_zensega_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "pearlmagic_ug_tumbiiza_faya_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "pearlmagic_ug_sanyu_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "education",
+          "score": 62
+        },
+        {
+          "program_id": "pearlmagic_ug_popi_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "pearlmagic_ug_damalie_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "UG - RAI International",
+      "programs": [
+        {
+          "program_id": "raiinternational_u_rai_italia_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "raiinternational_u_rai_italia_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "series",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "UG - ROK",
+      "programs": [
+        {
+          "program_id": "rok_ug_fighting_fate_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "rok_ug_sweet_revenge_2026-01-06_0085",
+          "start": 85,
+          "end": 190,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rok_ug_mother_s_wish_2026-01-06_0190",
+          "start": 190,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rok_ug_untruth_2026-01-06_0300",
+          "start": 300,
+          "end": 395,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "UG - ROK 2",
+      "programs": [
+        {
+          "program_id": "rok2_ug_untouched_2026-01-06_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rok2_ug_never_alone_2026-01-06_0065",
+          "start": 65,
+          "end": 195,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rok2_ug_disunion_2026-01-06_0195",
+          "start": 195,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rok2_ug_widow_s_desire_2026-01-06_0300",
+          "start": 300,
+          "end": 405,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "UG - Rwanda TV",
+      "programs": [
+        {
+          "program_id": "rwandatv_ug_rwanda_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "rwandatv_ug_rwanda_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "UG - SABC News",
+      "programs": [
+        {
+          "program_id": "sabcnews_ug_full_view_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "sabcnews_ug_the_late_edition_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "sabcnews_ug_morning_live_interviews_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "sabcnews_ug_sa_today_interviews_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "sabcnews_ug_trendz_live_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 77
+        },
+        {
+          "program_id": "sabcnews_ug_morning_live_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "news",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "UG - SBN",
+      "programs": [
+        {
+          "program_id": "sbn_ug_sbn_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "sbn_ug_sbn_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "UG - Safari TV",
+      "programs": [
+        {
+          "program_id": "safaritv_ug_safari_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "safaritv_ug_safari_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "UG - Sky News",
+      "programs": [
+        {
+          "program_id": "skynews_ug_news_and_press_preview_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "skynews_ug_press_preview_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 74
+        },
+        {
+          "program_id": "skynews_ug_sky_news_2026-01-06_0060",
+          "start": 60,
+          "end": 420,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "UG - Sound City",
+      "programs": [
+        {
+          "program_id": "soundcity_ug_videos_unlimited_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "soundcity_ug_videos_unlimited_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "soundcity_ug_urban_world_40_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "soundcity_ug_lyricist_lounge_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "soundcity_ug_videos_unlimited_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "soundcity_ug_culture_club_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "soundcity_ug_good_morning_africa_2026-01-06_0360",
+          "start": 360,
+          "end": 475,
+          "genre": "music",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "UG - Spark TV",
+      "programs": [
+        {
+          "program_id": "sparktv_ug_spark_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "sparktv_ug_spark_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "UG - Spice TV",
+      "programs": [
+        {
+          "program_id": "spicetv_ug_video_fashion_collection_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "spicetv_ug_video_fashion_collection_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "spicetv_ug_spice_fashion_films_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "spicetv_ug_spice_fashion_films_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "spicetv_ug_spice_fashion_films_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "spicetv_ug_spice_fashion_films_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "movie",
+          "score": 84
+        },
+        {
+          "program_id": "spicetv_ug_spice_fashion_films_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "spicetv_ug_spice_fashion_films_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "movie",
+          "score": 84
+        },
+        {
+          "program_id": "spicetv_ug_spice_fashion_films_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "spicetv_ug_spice_fashion_films_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "movie",
+          "score": 91
+        },
+        {
+          "program_id": "spicetv_ug_home_living_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "spicetv_ug_video_fashion_collection_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "spicetv_ug_eat_the_world_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "talk",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "UG - Star Life",
+      "programs": [
+        {
+          "program_id": "starlife_ug_banni_chow_home_delivery_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "starlife_ug_advocate_anjali_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "starlife_ug_anupamaa_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "starlife_ug_sweet_love_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "starlife_ug_noyontara_the_hidden_tru_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "starlife_ug_bound_by_love_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "starlife_ug_the_frontliners_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "starlife_ug_the_frontliners_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "starlife_ug_faltu_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "starlife_ug_faltu_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "starlife_ug_soulmates_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "starlife_ug_banni_chow_home_delivery_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "sports",
+          "score": 99
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "UG - Studio Universal",
+      "programs": [
+        {
+          "program_id": "studiouniversal_ug_force_of_nature_2026-01-06_0005",
+          "start": 5,
+          "end": 115,
+          "genre": "documentary",
+          "score": 67
+        },
+        {
+          "program_id": "studiouniversal_ug_time_freak_2026-01-06_0115",
+          "start": 115,
+          "end": 225,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "studiouniversal_ug_planet_action_2026-01-06_0225",
+          "start": 225,
+          "end": 260,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "studiouniversal_ug_planet_action_2026-01-06_0260",
+          "start": 260,
+          "end": 315,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "studiouniversal_ug_monsters_at_large_2026-01-06_0315",
+          "start": 315,
+          "end": 415,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "UG - SuperSport Action Africa",
+      "programs": [
+        {
+          "program_id": "supersportactionaf_sports_unlimited_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "supersportactionaf_watersports_world_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportactionaf_wta500_26_brisbane_int_d_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "UG - SuperSport Blitz Africa",
+      "programs": [
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "supersportblitzafr_sky_sports_news_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "supersportblitzafr_sports_bulletin_around_t_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "sports",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "UG - SuperSport Football Africa",
+      "programs": [
+        {
+          "program_id": "supersportfootball_laliga_25_26_c_vigo_v_va_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "supersportfootball_laliga_25_26_osasuna_v_b_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "supersportfootball_monday_night_football_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "supersportfootball_sports_bulletin_around_t_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportfootball_laliga_25_26_elche_v_v_r_2026-01-06_0330",
+          "start": 330,
+          "end": 450,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "UG - SuperSport Football Plus Africa",
+      "programs": [
+        {
+          "program_id": "supersportfootball_afcon_25_r16_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supersportfootball_afcon_25_r16_2026-01-06_0090",
+          "start": 90,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "supersportfootball_afcon_hl_25_r16_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "UG - SuperSport Grandstand Africa",
+      "programs": [
+        {
+          "program_id": "supersportgrandsta_ashes_25_26_aus_v_eng_5t_2026-01-06_0020",
+          "start": 20,
+          "end": 505,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "UG - SuperSport LaLiga Africa",
+      "programs": [
+        {
+          "program_id": "supersportlaligaaf_laliga_25_26_rayo_v_geta_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "supersportlaligaaf_laliga_25_26_c_vigo_v_va_2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "supersportlaligaaf_laliga_hl_25_26_espanyol_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportlaligaaf_laliga_hl_25_26_r_madrid_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "supersportlaligaaf_laliga_hl_25_26_sociedad_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "supersportlaligaaf_laliga_25_26_osasuna_v_b_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "UG - SuperSport Maximo 1",
+      "programs": [
+        {
+          "program_id": "supersportmaximo1__li_25_26_brighton_v_burn_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "supersportmaximo1__li_25_26_a_villa_v_n_for_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "supersportmaximo1__laliga_25_26_sociedad_v__2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_everto_2026-01-06_0320",
+          "start": 320,
+          "end": 325,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "supersportmaximo1__li_destaque_25_26_fulham_2026-01-06_0335",
+          "start": 335,
+          "end": 340,
+          "genre": "sports",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "UG - SuperSport Maximo 2",
+      "programs": [
+        {
+          "program_id": "supersportmaximo2__li_25_26_man_city_v_chel_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "supersportmaximo2__li_destaque_25_26_everto_2026-01-06_0055",
+          "start": 55,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "supersportmaximo2__maximo_liga_inglesa_dest_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportmaximo2__fifa_hist_rias_das_cidad_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "supersportmaximo2__wwe_raw_prima_tecla_i_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "supersportmaximo2__li_25_26_everton_v_brent_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "UG - SuperSport Premier League Africa",
+      "programs": [
+        {
+          "program_id": "supersportpremierl_pl_hl_25_26_newcastle_v__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "supersportpremierl_pl_netbusters_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "supersportpremierl_pl_fanzone_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "supersportpremierl_pl_hl_25_26_wolves_v_wes_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "supersportpremierl_premier_league_review_2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportpremierl_pltv_generation_xg_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "supersportpremierl_pl_hl_25_26_everton_v_br_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "supersportpremierl_pl_hl_25_26_man_city_v_c_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "supersportpremierl_pl_netbusters_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "supersportpremierl_pl_the_weekend_wrap_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "movie",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "UG - SuperSport Tennis Africa",
+      "programs": [
+        {
+          "program_id": "supersporttennisaf_united_cup_25_26_d5_2026-01-06_0000",
+          "start": 0,
+          "end": 420,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "UG - SuperSport Variety 1 Africa",
+      "programs": [
+        {
+          "program_id": "supersportvariety1_ufc_reloaded_ufc_318_lig_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "documentary",
+          "score": 69
+        },
+        {
+          "program_id": "supersportvariety1_nba_25_26_pistons_v_knic_2026-01-06_0055",
+          "start": 55,
+          "end": 220,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersportvariety1_nba_25_26_clippers_v_war_2026-01-06_0235",
+          "start": 235,
+          "end": 400,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "UG - SuperSport Variety 2 Africa",
+      "programs": [
+        {
+          "program_id": "supersportvariety2_ligue1_25_26_monaco_v_ly_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "supersportvariety2_super_smash_25_26_aa_v_o_2026-01-06_0030",
+          "start": 30,
+          "end": 285,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "supersportvariety2_super_smash_w_25_26_ah_v_2026-01-06_0285",
+          "start": 285,
+          "end": 510,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "UG - SuperSport Variety 3 Africa",
+      "programs": [
+        {
+          "program_id": "supersportvariety3_serie_a_hl_25_26_atalant_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "supersportvariety3_serie_a_hl_25_26_lazio_v_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "supersportvariety3_serie_a_hl_25_26_inter_v_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "supersportvariety3_ligue_1_review_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "supersportvariety3_efl_25_26_leicester_v_we_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "supersportvariety3_football_s_greatest_stag_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "supersportvariety3_serie_a_hl_25_26_cagliar_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "supersportvariety3_serie_a_hl_25_26_juventu_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "supersportvariety3_serie_a_hl_25_26_atalant_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "supersportvariety3_serie_a_hl_25_26_lazio_v_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "series",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "UG - SuperSport Variety 4 Africa",
+      "programs": [
+        {
+          "program_id": "supersportvariety4_best_of_wwe_royal_rumble_2026-01-06_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "supersportvariety4_wwe_top_10_unforgettable_2026-01-06_0115",
+          "start": 115,
+          "end": 120,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "supersportvariety4_wwe_raw_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "music",
+          "score": 51
+        },
+        {
+          "program_id": "supersportvariety4_wwe_s_the_ultimate_show__2026-01-06_0300",
+          "start": 300,
+          "end": 365,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "UG - TBC1",
+      "programs": [
+        {
+          "program_id": "tbc1_ug_tanzania_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "tbc1_ug_tanzania_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "UG - TBN",
+      "programs": [
+        {
+          "program_id": "tbn_ug_leading_the_way_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "movie",
+          "score": 84
+        },
+        {
+          "program_id": "tbn_ug_chim_s_talk_africa_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "tbn_ug_anonymous_with_alicia_br_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "tbn_ug_word_of_life_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tbn_ug_new_season_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "tbn_ug_trinity_christmas_city_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "tbn_ug_cpi_character_building_v_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "tbn_ug_wisdom_for_life_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tbn_ug_life_by_design_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "religion",
+          "score": 53
+        },
+        {
+          "program_id": "tbn_ug_bishop_t_d_jakes_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tbn_ug_elevation_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "religion",
+          "score": 56
+        },
+        {
+          "program_id": "tbn_ug_joel_and_victoria_osteen_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tbn_ug_joseph_prince_ministries_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "religion",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "UG - TLNovelas",
+      "programs": [
+        {
+          "program_id": "tlnovelas_ug_it_had_to_be_you_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tlnovelas_ug_love_to_death_2026-01-06_0035",
+          "start": 35,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tlnovelas_ug_love_to_death_2026-01-06_0090",
+          "start": 90,
+          "end": 130,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tlnovelas_ug_fall_into_temptation_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tlnovelas_ug_it_had_to_be_you_2026-01-06_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "education",
+          "score": 68
+        },
+        {
+          "program_id": "tlnovelas_ug_it_had_to_be_you_2026-01-06_0230",
+          "start": 230,
+          "end": 275,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tlnovelas_ug_love_to_death_2026-01-06_0275",
+          "start": 275,
+          "end": 325,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tlnovelas_ug_love_to_death_2026-01-06_0325",
+          "start": 325,
+          "end": 370,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "UG - TRACE Muzika",
+      "programs": [
+        {
+          "program_id": "tracemuzika_ug_trace_muzika_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "tracemuzika_ug_trace_muzika_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "UG - TRACE Mziki",
+      "programs": [
+        {
+          "program_id": "tracemziki_ug_mziki_by_night_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "tracemziki_ug_wake_up_2026-01-06_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "UG - TRACE Naija",
+      "programs": [
+        {
+          "program_id": "tracenaija_ug_hits_non_stop_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "tracenaija_ug_wake_up_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "unknown",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "UG - TV5 Monde Afrique",
+      "programs": [
+        {
+          "program_id": "tv5mondeafrique_ug_prodiges_2026-01-06_0011",
+          "start": 11,
+          "end": 152,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "tv5mondeafrique_ug_l_actu_2026-01-06_0152",
+          "start": 152,
+          "end": 184,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "tv5mondeafrique_ug_ligue_1_mcdonald_s_les_c_2026-01-06_0184",
+          "start": 184,
+          "end": 198,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "tv5mondeafrique_ug_diane_de_poitiers_2026-01-06_0198",
+          "start": 198,
+          "end": 304,
+          "genre": "education",
+          "score": 61
+        },
+        {
+          "program_id": "tv5mondeafrique_ug_le_journal_de_l_afrique_2026-01-06_0330",
+          "start": 330,
+          "end": 358,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "tv5mondeafrique_ug_le_6h_info_2026-01-06_0358",
+          "start": 358,
+          "end": 390,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "UG - TVE Tanzania",
+      "programs": [
+        {
+          "program_id": "tvetanzania_ug_tve_tanzania_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "movie",
+          "score": 78
+        },
+        {
+          "program_id": "tvetanzania_ug_tve_tanzania_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "movie",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "UG - TV West",
+      "programs": [
+        {
+          "program_id": "tvwest_ug_tv_west_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "tvwest_ug_tv_west_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "news",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "UG - TeleMundo",
+      "programs": [
+        {
+          "program_id": "telemundo_ug_thirst_for_revenge_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "telemundo_ug_queen_of_the_south_2026-01-06_0040",
+          "start": 40,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "telemundo_ug_the_end_of_paradise_2026-01-06_0090",
+          "start": 90,
+          "end": 140,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "telemundo_ug_thirst_for_revenge_2026-01-06_0140",
+          "start": 140,
+          "end": 190,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "telemundo_ug_queen_of_the_south_2026-01-06_0190",
+          "start": 190,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "telemundo_ug_case_closed_2026-01-06_0240",
+          "start": 240,
+          "end": 310,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "telemundo_ug_the_price_of_fame_2026-01-06_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "telemundo_ug_the_boss_2026-01-06_0360",
+          "start": 360,
+          "end": 410,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "UG - Televista",
+      "programs": [
+        {
+          "program_id": "televista_ug_double_kara_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "televista_ug_zara_s_nikah_2026-01-06_0060",
+          "start": 60,
+          "end": 110,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "televista_ug_mariane_and_scarlet_2026-01-06_0120",
+          "start": 120,
+          "end": 170,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "televista_ug_legal_wife_2026-01-06_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "televista_ug_love_of_my_life_2026-01-06_0240",
+          "start": 240,
+          "end": 290,
+          "genre": "education",
+          "score": 64
+        },
+        {
+          "program_id": "televista_ug_living_to_love_2026-01-06_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "televista_ug_double_kara_2026-01-06_0360",
+          "start": 360,
+          "end": 410,
+          "genre": "sports",
+          "score": 93
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "UG - The History Channel",
+      "programs": [
+        {
+          "program_id": "thehistorychannel__life_after_people_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "thehistorychannel__holy_marvels_with_dennis_2026-01-06_0040",
+          "start": 40,
+          "end": 85,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "thehistorychannel__ancient_aliens_2026-01-06_0085",
+          "start": 85,
+          "end": 135,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "thehistorychannel__the_unxplained_with_will_2026-01-06_0135",
+          "start": 135,
+          "end": 185,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "thehistorychannel__american_pickers_2026-01-06_0185",
+          "start": 185,
+          "end": 230,
+          "genre": "promo",
+          "score": 23
+        },
+        {
+          "program_id": "thehistorychannel__forged_in_fire_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "thehistorychannel__forged_in_fire_2026-01-06_0345",
+          "start": 345,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "UG - Trace Gospel",
+      "programs": [
+        {
+          "program_id": "tracegospel_ug_new_horizon_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tracegospel_ug_sounds_of_africa_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "tracegospel_ug_get_up_and_praise_intern_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "tracegospel_ug_get_up_and_praise_local_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "tracegospel_ug_gospel_hits_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "music",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "UG - Trace Jama",
+      "programs": [
+        {
+          "program_id": "tracejama_ug_ghana_by_night_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "tracejama_ug_wake_up_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "UG - Trybe",
+      "programs": [
+        {
+          "program_id": "trybe_ug_game_of_marriage_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "trybe_ug_my_school_angel_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trybe_ug_jaja_the_great_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "trybe_ug_reverb_news_2026-01-06_0300",
+          "start": 300,
+          "end": 305,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "trybe_ug_princess_clash_2026-01-06_0305",
+          "start": 305,
+          "end": 390,
+          "genre": "movie",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "UG - Ugandan Broadcasting Corporation",
+      "programs": [
+        {
+          "program_id": "ugandanbroadcastin_uganda_broadcast_corpora_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "ugandanbroadcastin_uganda_broadcast_corpora_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "UG - Universal TV",
+      "programs": [
+        {
+          "program_id": "universaltv_ug_ncis_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "weather",
+          "score": 54
+        },
+        {
+          "program_id": "universaltv_ug_ncis_2026-01-06_0050",
+          "start": 50,
+          "end": 100,
+          "genre": "kids",
+          "score": 56
+        },
+        {
+          "program_id": "universaltv_ug_tribal_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "universaltv_ug_tribal_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "universaltv_ug_wild_cards_2026-01-06_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "universaltv_ug_wild_cards_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "universaltv_ug_fbi_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "universaltv_ug_fbi_2026-01-06_0345",
+          "start": 345,
+          "end": 390,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "UG - Urban TV(FTA)",
+      "programs": [
+        {
+          "program_id": "urbantv_fta_ug_sanyuka_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "urbantv_fta_ug_sanyuka_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "talk",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "UG - Wasafi TV",
+      "programs": [
+        {
+          "program_id": "wasafitv_ug_wasafi_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "wasafitv_ug_wasafi_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "music",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "UG - Zanzibar TV",
+      "programs": [
+        {
+          "program_id": "zanzibartv_ug_zbc_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "zanzibartv_ug_zbc_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "UG - Zee World",
+      "programs": [
+        {
+          "program_id": "zeeworld_ug_jagriti_empowered_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "zeeworld_ug_twist_of_fate_new_era_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "zeeworld_ug_hearts_crossed_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "zeeworld_ug_marriage_for_duty_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "zeeworld_ug_hidden_intentions_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "zeeworld_ug_i_do_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "zeeworld_ug_jagriti_empowered_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    }
+  ]
+}

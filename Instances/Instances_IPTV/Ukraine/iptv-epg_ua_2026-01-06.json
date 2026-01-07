@@ -1,0 +1,1218 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 28,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 225,
+      "end": 345,
+      "allowed_channels": [
+        19,
+        4,
+        27,
+        26,
+        21,
+        18,
+        6,
+        17,
+        20,
+        5,
+        12,
+        10,
+        9,
+        2,
+        11
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "series",
+      "bonus": 52
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "series",
+      "bonus": 55
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "series",
+      "bonus": 53
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "series",
+      "bonus": 53
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "series",
+      "bonus": 50
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "series",
+      "bonus": 52
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "series",
+      "bonus": 47
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "news",
+      "bonus": 30
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "weather",
+      "bonus": 58
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "weather",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "RELAX - KS TV - Air. Relax",
+      "programs": [
+        {
+          "program_id": "kstv_air_relax_ua__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 41
+        },
+        {
+          "program_id": "kstv_air_relax_ua__2026-01-06_0060",
+          "start": 60,
+          "end": 306,
+          "genre": "weather",
+          "score": 44
+        },
+        {
+          "program_id": "kstv_air_relax_ua__2026-01-06_0306",
+          "start": 306,
+          "end": 553,
+          "genre": "weather",
+          "score": 36
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "RELAX - KS TV - Animals. Relax",
+      "programs": [
+        {
+          "program_id": "kstv_animals_relax__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kstv_animals_relax__2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kstv_animals_relax__2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "RELAX - KS TV - Aquarium. Relax",
+      "programs": [
+        {
+          "program_id": "kstv_aquarium_rela__2026-01-06_0015",
+          "start": 15,
+          "end": 144,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "kstv_aquarium_rela__2026-01-06_0144",
+          "start": 144,
+          "end": 273,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "kstv_aquarium_rela__2026-01-06_0273",
+          "start": 273,
+          "end": 402,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "UA - KS TV - Audio stories",
+      "programs": [
+        {
+          "program_id": "kstv_audiostories___2026-01-06_0187",
+          "start": 187,
+          "end": 219,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "kstv_audiostories___2026-01-06_0295",
+          "start": 295,
+          "end": 331,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "kstv_audiostories___2026-01-06_0334",
+          "start": 334,
+          "end": 364,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "UA - KS TV - Comedy",
+      "programs": [
+        {
+          "program_id": "kstv_comedy_ua__2026-01-06_0068",
+          "start": 68,
+          "end": 158,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kstv_comedy_ua__2026-01-06_0158",
+          "start": 158,
+          "end": 248,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kstv_comedy_ua__2026-01-06_0248",
+          "start": 248,
+          "end": 337,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "kstv_comedy_ua__2026-01-06_0337",
+          "start": 337,
+          "end": 421,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "UA - KS TV - Crime",
+      "programs": [
+        {
+          "program_id": "kstv_crime_ua__2026-01-06_0000",
+          "start": 0,
+          "end": 48,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kstv_crime_ua__2026-01-06_0048",
+          "start": 48,
+          "end": 161,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kstv_crime_ua__2026-01-06_0161",
+          "start": 161,
+          "end": 255,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kstv_crime_ua__2026-01-06_0255",
+          "start": 255,
+          "end": 344,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kstv_crime_ua__2026-01-06_0344",
+          "start": 344,
+          "end": 450,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "UA - KS TV - Detective",
+      "programs": [
+        {
+          "program_id": "kstv_detective_ua_2_7_2026-01-06_0022",
+          "start": 22,
+          "end": 64,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "kstv_detective_ua_2_8_2026-01-06_0064",
+          "start": 64,
+          "end": 106,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "kstv_detective_ua_2_9_2026-01-06_0106",
+          "start": 106,
+          "end": 148,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "kstv_detective_ua_2_10_2026-01-06_0148",
+          "start": 148,
+          "end": 190,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "kstv_detective_ua_2_1_2026-01-06_0190",
+          "start": 190,
+          "end": 258,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "kstv_detective_ua_2_2_2026-01-06_0258",
+          "start": 258,
+          "end": 323,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "kstv_detective_ua_2_3_2026-01-06_0323",
+          "start": 323,
+          "end": 392,
+          "genre": "series",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "UA - KS TV - Documentary HD",
+      "programs": [
+        {
+          "program_id": "kstv_documentary_h_500_1_1_2026-01-06_0000",
+          "start": 0,
+          "end": 41,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "kstv_documentary_h_500_1_2_2026-01-06_0041",
+          "start": 41,
+          "end": 84,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "kstv_documentary_h_500_1_3_2026-01-06_0084",
+          "start": 84,
+          "end": 147,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "kstv_documentary_h__2026-01-06_0147",
+          "start": 147,
+          "end": 199,
+          "genre": "documentary",
+          "score": 67
+        },
+        {
+          "program_id": "kstv_documentary_h__2026-01-06_0199",
+          "start": 199,
+          "end": 252,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kstv_documentary_h__2026-01-06_0252",
+          "start": 252,
+          "end": 304,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "RELAX - KS TV - Earth. Relax",
+      "programs": [
+        {
+          "program_id": "kstv_earth_relax_u__2026-01-06_0000",
+          "start": 0,
+          "end": 141,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "kstv_earth_relax_u__2026-01-06_0141",
+          "start": 141,
+          "end": 375,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "UA - KS TV - Family",
+      "programs": [
+        {
+          "program_id": "kstv_family_ua__2026-01-06_0000",
+          "start": 0,
+          "end": 82,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kstv_family_ua__2026-01-06_0082",
+          "start": 82,
+          "end": 191,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "kstv_family_ua__2026-01-06_0191",
+          "start": 191,
+          "end": 312,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kstv_family_ua__2026-01-06_0312",
+          "start": 312,
+          "end": 427,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "RELAX - KS TV - Fire. Relax",
+      "programs": [
+        {
+          "program_id": "kstv_fire_relax_ua__2026-01-06_0000",
+          "start": 0,
+          "end": 175,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kstv_fire_relax_ua__2026-01-06_0175",
+          "start": 175,
+          "end": 415,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "UA - KS TV - Good cinema",
+      "programs": [
+        {
+          "program_id": "kstv_goodcinema_ua__2026-01-06_0012",
+          "start": 12,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "kstv_goodcinema_ua__2026-01-06_0150",
+          "start": 150,
+          "end": 254,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kstv_goodcinema_ua__2026-01-06_0254",
+          "start": 254,
+          "end": 338,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "kstv_goodcinema_ua__2026-01-06_0338",
+          "start": 338,
+          "end": 448,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "UA - KS TV - Horror",
+      "programs": [
+        {
+          "program_id": "kstv_horror_ua__2026-01-06_0000",
+          "start": 0,
+          "end": 66,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kstv_horror_ua__2026-01-06_0066",
+          "start": 66,
+          "end": 147,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "kstv_horror_ua__2026-01-06_0147",
+          "start": 147,
+          "end": 234,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kstv_horror_ua__2026-01-06_0234",
+          "start": 234,
+          "end": 318,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "kstv_horror_ua__2026-01-06_0318",
+          "start": 318,
+          "end": 412,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "UA - KS TV - Kids",
+      "programs": [
+        {
+          "program_id": "kstv_kids_ua__2026-01-06_0129",
+          "start": 129,
+          "end": 209,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "kstv_kids_ua__2026-01-06_0323",
+          "start": 323,
+          "end": 407,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "UA - KS TV - Kremlin is on fire",
+      "programs": [
+        {
+          "program_id": "kstv_kremlinisonfi__2026-01-06_0000",
+          "start": 0,
+          "end": 79,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kstv_kremlinisonfi__2026-01-06_0079",
+          "start": 79,
+          "end": 320,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "kstv_kremlinisonfi__2026-01-06_0320",
+          "start": 320,
+          "end": 562,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "UA - KS TV - LEGO",
+      "programs": [
+        {
+          "program_id": "kstv_lego_ua_1_19_2026-01-06_0219",
+          "start": 219,
+          "end": 261,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "kstv_lego_ua_lego_1_20_2026-01-06_0261",
+          "start": 261,
+          "end": 303,
+          "genre": "series",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "RELAX - KS TV - Lullaby. Relax",
+      "programs": [
+        {
+          "program_id": "kstv_lullaby_relax__2026-01-06_0000",
+          "start": 0,
+          "end": 139,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "kstv_lullaby_relax__2026-01-06_0139",
+          "start": 139,
+          "end": 394,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "UA - KS TV - Melodrama",
+      "programs": [
+        {
+          "program_id": "kstv_melodrama_ua__2026-01-06_0000",
+          "start": 0,
+          "end": 41,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "kstv_melodrama_ua__2026-01-06_0041",
+          "start": 41,
+          "end": 130,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kstv_melodrama_ua__2026-01-06_0130",
+          "start": 130,
+          "end": 236,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "kstv_melodrama_ua__2026-01-06_0236",
+          "start": 236,
+          "end": 343,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "kstv_melodrama_ua__2026-01-06_0343",
+          "start": 343,
+          "end": 438,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "UA - KS TV - Our series",
+      "programs": [
+        {
+          "program_id": "kstv_ourseries_ua_1_5_2026-01-06_0194",
+          "start": 194,
+          "end": 243,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "kstv_ourseries_ua_1_6_2026-01-06_0243",
+          "start": 243,
+          "end": 293,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "kstv_ourseries_ua_1_7_2026-01-06_0293",
+          "start": 293,
+          "end": 341,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "kstv_ourseries_ua_1_8_2026-01-06_0341",
+          "start": 341,
+          "end": 389,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "UA - KS TV - Reality",
+      "programs": [
+        {
+          "program_id": "kstv_reality_ua_car_2_21_2026-01-06_0000",
+          "start": 0,
+          "end": 44,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "kstv_reality_ua_car_2_22_2026-01-06_0044",
+          "start": 44,
+          "end": 125,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "kstv_reality_ua_car_2_23_2026-01-06_0125",
+          "start": 125,
+          "end": 203,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "kstv_reality_ua_car_2_24_2026-01-06_0203",
+          "start": 203,
+          "end": 283,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "kstv_reality_ua_car_2_25_2026-01-06_0283",
+          "start": 283,
+          "end": 355,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "kstv_reality_ua_1_1_2026-01-06_0355",
+          "start": 355,
+          "end": 431,
+          "genre": "series",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "UA - KS TV - Series",
+      "programs": [
+        {
+          "program_id": "kstv_series_ua_2_6_2026-01-06_0000",
+          "start": 0,
+          "end": 47,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "kstv_series_ua_2_7_2026-01-06_0047",
+          "start": 47,
+          "end": 94,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "kstv_series_ua_2_8_2026-01-06_0094",
+          "start": 94,
+          "end": 144,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "kstv_series_ua_2_1_2026-01-06_0144",
+          "start": 144,
+          "end": 201,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "kstv_series_ua_2_2_2026-01-06_0201",
+          "start": 201,
+          "end": 257,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "kstv_series_ua_2_3_2026-01-06_0257",
+          "start": 257,
+          "end": 315,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "kstv_series_ua_2_4_2026-01-06_0315",
+          "start": 315,
+          "end": 372,
+          "genre": "series",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "UA - KS TV - Series about love",
+      "programs": [
+        {
+          "program_id": "kstv_seriesaboutlo_1_11_2026-01-06_0000",
+          "start": 0,
+          "end": 39,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "kstv_seriesaboutlo_1_12_2026-01-06_0039",
+          "start": 39,
+          "end": 85,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "kstv_seriesaboutlo_1_13_2026-01-06_0085",
+          "start": 85,
+          "end": 135,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "kstv_seriesaboutlo_1_14_2026-01-06_0135",
+          "start": 135,
+          "end": 183,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "kstv_seriesaboutlo_1_15_2026-01-06_0183",
+          "start": 183,
+          "end": 231,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "kstv_seriesaboutlo_1_16_2026-01-06_0231",
+          "start": 231,
+          "end": 281,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "kstv_seriesaboutlo_1_1_2026-01-06_0281",
+          "start": 281,
+          "end": 331,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "kstv_seriesaboutlo_1_2_2026-01-06_0331",
+          "start": 331,
+          "end": 379,
+          "genre": "series",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "UA - KS TV - Snow",
+      "programs": [
+        {
+          "program_id": "kstv_snow_ua__2026-01-06_0000",
+          "start": 0,
+          "end": 276,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kstv_snow_ua__2026-01-06_0276",
+          "start": 276,
+          "end": 638,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "UA - KS TV - Trailer",
+      "programs": [
+        {
+          "program_id": "kstv_trailer_ua_2025_2026-01-06_0000",
+          "start": 0,
+          "end": 52,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "kstv_trailer_ua_2025_2026-01-06_0062",
+          "start": 62,
+          "end": 279,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "kstv_trailer_ua_2025_2026-01-06_0284",
+          "start": 284,
+          "end": 501,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "UA - KS TV - Warrior",
+      "programs": [
+        {
+          "program_id": "kstv_warrior_ua__2026-01-06_0000",
+          "start": 0,
+          "end": 41,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kstv_warrior_ua__2026-01-06_0041",
+          "start": 41,
+          "end": 129,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "kstv_warrior_ua__2026-01-06_0129",
+          "start": 129,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "kstv_warrior_ua__2026-01-06_0240",
+          "start": 240,
+          "end": 346,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kstv_warrior_ua__2026-01-06_0346",
+          "start": 346,
+          "end": 468,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "RELAX - KS TV - Water. Relax",
+      "programs": [
+        {
+          "program_id": "kstv_water_relax_u__2026-01-06_0010",
+          "start": 10,
+          "end": 155,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "kstv_water_relax_u__2026-01-06_0155",
+          "start": 155,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "kstv_water_relax_u__2026-01-06_0300",
+          "start": 300,
+          "end": 445,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "UA - KS TV - Wild angel",
+      "programs": [
+        {
+          "program_id": "kstv_wildangel_ua_1_15_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "kstv_wildangel_ua_1_16_2026-01-06_0035",
+          "start": 35,
+          "end": 76,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "kstv_wildangel_ua_1_17_2026-01-06_0076",
+          "start": 76,
+          "end": 114,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "kstv_wildangel_ua_1_18_2026-01-06_0114",
+          "start": 114,
+          "end": 158,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "kstv_wildangel_ua_1_19_2026-01-06_0158",
+          "start": 158,
+          "end": 202,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "kstv_wildangel_ua_1_20_2026-01-06_0202",
+          "start": 202,
+          "end": 243,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "kstv_wildangel_ua_1_21_2026-01-06_0243",
+          "start": 243,
+          "end": 285,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "kstv_wildangel_ua_1_22_2026-01-06_0285",
+          "start": 285,
+          "end": 324,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "kstv_wildangel_ua_1_23_2026-01-06_0324",
+          "start": 324,
+          "end": 363,
+          "genre": "series",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "UA - The World Inside Out",
+      "programs": [
+        {
+          "program_id": "theworldinsideout__11_30_2026-01-06_0008",
+          "start": 8,
+          "end": 82,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "theworldinsideout__1_1_2026-01-06_0082",
+          "start": 82,
+          "end": 124,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "theworldinsideout__1_2_2026-01-06_0124",
+          "start": 124,
+          "end": 171,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "theworldinsideout__1_3_2026-01-06_0171",
+          "start": 171,
+          "end": 218,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "theworldinsideout__1_4_2026-01-06_0218",
+          "start": 218,
+          "end": 256,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "theworldinsideout__1_5_2026-01-06_0256",
+          "start": 256,
+          "end": 302,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "theworldinsideout__1_6_2026-01-06_0302",
+          "start": 302,
+          "end": 347,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "theworldinsideout__1_7_2026-01-06_0347",
+          "start": 347,
+          "end": 395,
+          "genre": "series",
+          "score": 75
+        }
+      ]
+    }
+  ]
+}

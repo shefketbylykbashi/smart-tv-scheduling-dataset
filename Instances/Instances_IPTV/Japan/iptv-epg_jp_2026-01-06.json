@@ -1,0 +1,865 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 15,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 60,
+      "end": 165,
+      "allowed_channels": [
+        11,
+        5,
+        13,
+        8,
+        7,
+        3,
+        10,
+        0,
+        1
+      ]
+    },
+    {
+      "start": 270,
+      "end": 300,
+      "allowed_channels": [
+        13,
+        4,
+        5,
+        7,
+        2,
+        10,
+        14,
+        0,
+        3
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "series",
+      "bonus": 59
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "series",
+      "bonus": 59
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "series",
+      "bonus": 50
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 48
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "series",
+      "bonus": 36
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "sports",
+      "bonus": 37
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "JP - FIGHTING TV サムライ",
+      "programs": [
+        {
+          "program_id": "fightingtv_jp_24_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "fightingtv_jp_2023_1_3_3_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "fightingtv_jp_2025_11_16_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "JP - GAORA SPORTS",
+      "programs": [
+        {
+          "program_id": "gaorasports_jp__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "gaorasports_jp__2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "gaorasports_jp__2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "gaorasports_jp__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "gaorasports_jp_golf_joker_2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "gaorasports_jp__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "gaorasports_jp_sv_2025_26_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "JP - J SPORTS 1",
+      "programs": [
+        {
+          "program_id": "jsports1_jp_36_artemi_stars_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "jsports1_jp__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "jsports1_jp_36_tkm_2026-01-06_0150",
+          "start": 150,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jsports1_jp_2025_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "jsports1_jp__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "jsports1_jp__2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "JP - イマジカＢＳ・映画",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0015",
+          "start": 15,
+          "end": 135,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "jp__2026-01-06_0135",
+          "start": 135,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "jp_biou_54_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "jp__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp_case2_2026-01-06_0330",
+          "start": 330,
+          "end": 435,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "JP - エキサイティング・グランプリ",
+      "programs": [
+        {
+          "program_id": "jp_sexy_cop_348_2026-01-06_0000",
+          "start": 0,
+          "end": 56,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp__2026-01-06_0070",
+          "start": 70,
+          "end": 144,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp_adult_sports_expo2020_1__2026-01-06_0150",
+          "start": 150,
+          "end": 308,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "jp__2026-01-06_0320",
+          "start": 320,
+          "end": 381,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "JP - ゴルフネットワーク",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "jp_season4_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "jp_season4_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "jp__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "jp__2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "jp__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "jp__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "jp__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "jp__2026-01-06_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "JP - ザ・シネマ",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 135,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "jp__2026-01-06_0135",
+          "start": 135,
+          "end": 165,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "jp__2026-01-06_0165",
+          "start": 165,
+          "end": 300,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "jp_r_2026-01-06_0300",
+          "start": 300,
+          "end": 415,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "JP - スターチャンネル１ プレミアム",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "jp_2025_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "jp__2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "jp__2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "jp__2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "JP - ムービープラス",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "jp__2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "jp__2026-01-06_0090",
+          "start": 90,
+          "end": 195,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "jp__2026-01-06_0195",
+          "start": 195,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp__2026-01-06_0225",
+          "start": 225,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "jp__2026-01-06_0330",
+          "start": 330,
+          "end": 465,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "JP - 日本映画専門チャンネル",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 135,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "jp__2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "jp_11_4_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "jp__2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "JP - 映画・チャンネルNECO",
+      "programs": [
+        {
+          "program_id": "neco_jp_season_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "neco_jp__2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "neco_jp_ii_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "neco_jp__2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "neco_jp_12_30_2026-01-06_0270",
+          "start": 270,
+          "end": 390,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "JP - 東映チャンネル",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "jp__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "jp_season_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "jp_season_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "jp__2026-01-06_0180",
+          "start": 180,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "jp__2026-01-06_0270",
+          "start": 270,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "JP - 衛星劇場",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "jp__2026-01-06_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "jp__2026-01-06_0150",
+          "start": 150,
+          "end": 275,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "jp__2026-01-06_0275",
+          "start": 275,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "JP - Ｖ☆パラダイス",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "jp_season17_3_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "jp__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp_92_2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "jp_season_9_19_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "jp__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "jp_2023_a_2026-01-06_0350",
+          "start": 350,
+          "end": 510,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "JP - ＷＯＷＯＷシネマ",
+      "programs": [
+        {
+          "program_id": "jp__2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "jp__2026-01-06_0045",
+          "start": 45,
+          "end": 165,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "jp__2026-01-06_0165",
+          "start": 165,
+          "end": 290,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jp__2026-01-06_0290",
+          "start": 290,
+          "end": 405,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5748 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 39,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 1080,
+      "end": 1200,
+      "allowed_channels": [
+        3,
+        28,
+        36,
+        15,
+        38,
+        9,
+        19,
+        25,
+        22,
+        6,
+        17,
+        12,
+        4,
+        10,
+        11,
+        34,
+        20,
+        26,
+        8,
+        18
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "news",
+      "bonus": 27
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "news",
+      "bonus": 29
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "music",
+      "bonus": 32
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "documentary",
+      "bonus": 25
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "music",
+      "bonus": 23
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "music",
+      "bonus": 26
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "news",
+      "bonus": 24
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "news",
+      "bonus": 32
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 37
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "news",
+      "bonus": 35
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 37
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "news",
+      "bonus": 24
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "news",
+      "bonus": 36
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "news",
+      "bonus": 38
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "news",
+      "bonus": 38
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "news",
+      "bonus": 32
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "news",
+      "bonus": 33
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "news",
+      "bonus": 30
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "sports",
+      "bonus": 39
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "news",
+      "bonus": 31
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "news",
+      "bonus": 45
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "news",
+      "bonus": 36
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "news",
+      "bonus": 39
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "news",
+      "bonus": 24
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "music",
+      "bonus": 31
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "unknown",
+      "bonus": 61
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "DR - AMC",
+      "programs": [
+        {
+          "program_id": "amc_dr_canal_no_disponible_2026-01-05_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "amc_dr_canal_no_disponible_2026-01-05_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "amc_dr_canal_no_disponible_2026-01-05_0480",
+          "start": 480,
+          "end": 720,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "amc_dr_canal_no_disponible_2026-01-05_0720",
+          "start": 720,
+          "end": 960,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "amc_dr_canal_no_disponible_2026-01-05_0960",
+          "start": 960,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "DR - Antena 3",
+      "programs": [
+        {
+          "program_id": "antena3_dr_sue_os_de_libertad_2026-01-05_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "antena3_dr_pasapalabra_2026-01-05_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "antena3_dr_el_hormiguero_2026-01-05_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "antena3_dr_cosas_que_hacen_que_la_v_2026-01-05_0210",
+          "start": 210,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "antena3_dr_el_chiringuito_internaci_2026-01-05_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "antena3_dr_zapeando_2026-01-05_0420",
+          "start": 420,
+          "end": 495,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "antena3_dr_noticias_de_la_ma_ana_2026-01-05_0495",
+          "start": 495,
+          "end": 525,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "antena3_dr_espejo_p_blico_2026-01-05_0525",
+          "start": 525,
+          "end": 645,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "antena3_dr_espejo_p_blico_2026-01-05_0645",
+          "start": 645,
+          "end": 765,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "antena3_dr_espejo_p_blico_2026-01-05_0765",
+          "start": 765,
+          "end": 780,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "antena3_dr_cocina_abierta_2026-01-05_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "antena3_dr_el_chiringuito_internaci_2026-01-05_0840",
+          "start": 840,
+          "end": 900,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "antena3_dr_noticias_1_2026-01-05_0900",
+          "start": 900,
+          "end": 945,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "antena3_dr_espejo_p_blico_2026-01-05_0945",
+          "start": 945,
+          "end": 1125,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "antena3_dr_tu_tiempo_con_roberto_br_2026-01-05_1125",
+          "start": 1125,
+          "end": 1155,
+          "genre": "weather",
+          "score": 60
+        },
+        {
+          "program_id": "antena3_dr_cocina_abierta_2026-01-05_1155",
+          "start": 1155,
+          "end": 1185,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "antena3_dr_pasapalabra_2026-01-05_1185",
+          "start": 1185,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "antena3_dr_noticias_2_2026-01-05_1260",
+          "start": 1260,
+          "end": 1305,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "antena3_dr_y_ahora_sonsoles_2026-01-05_1305",
+          "start": 1305,
+          "end": 1395,
+          "genre": "unknown",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "DR - BitMe",
+      "programs": [
+        {
+          "program_id": "bitme_dr_saint_seiya_the_legend_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bitme_dr_los_caballeros_del_zodia_2026-01-05_0030",
+          "start": 30,
+          "end": 160,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "bitme_dr_mazinger_z_2026-01-05_0160",
+          "start": 160,
+          "end": 290,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "bitme_dr_dragon_ball_2026-01-05_0290",
+          "start": 290,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bitme_dr_los_caballeros_del_zodia_2026-01-05_0420",
+          "start": 420,
+          "end": 495,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "bitme_dr_sailor_moon_s_2026-01-05_0495",
+          "start": 495,
+          "end": 540,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "bitme_dr_dragon_ball_2026-01-05_0540",
+          "start": 540,
+          "end": 620,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "bitme_dr_one_piece_2026-01-05_0620",
+          "start": 620,
+          "end": 670,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bitme_dr_el_chavo_animado_2026-01-05_0670",
+          "start": 670,
+          "end": 750,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "bitme_dr_el_chapulin_colorado_ani_2026-01-05_0750",
+          "start": 750,
+          "end": 810,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bitme_dr_un_gallo_con_muchos_huev_2026-01-05_0810",
+          "start": 810,
+          "end": 910,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bitme_dr_planeta_51_2026-01-05_0910",
+          "start": 910,
+          "end": 1000,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "bitme_dr_dragon_ball_la_leyenda_2026-01-05_1000",
+          "start": 1000,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bitme_dr_one_piece_adventure_2026-01-05_1050",
+          "start": 1050,
+          "end": 1170,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "bitme_dr_caballeros_del_zodiaco_2026-01-05_1170",
+          "start": 1170,
+          "end": 1220,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "bitme_dr_dragon_ball_gt_la_legend_2026-01-05_1220",
+          "start": 1220,
+          "end": 1270,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "bitme_dr_la_princesa_durmiente_2026-01-05_1270",
+          "start": 1270,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "bitme_dr_sailor_moon_r_la_promesa_2026-01-05_1320",
+          "start": 1320,
+          "end": 1385,
+          "genre": "unknown",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "DR - CDN Deportes",
+      "programs": [
+        {
+          "program_id": "cdndeportes_dr_cdn_sportmax_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cdndeportes_dr_cdn_sportmax_2026-01-05_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cdndeportes_dr_cdn_sportmax_2026-01-05_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "cdndeportes_dr_cdn_sportmax_2026-01-05_0540",
+          "start": 540,
+          "end": 780,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "cdndeportes_dr_cdn_sportmax_2026-01-05_0780",
+          "start": 780,
+          "end": 1020,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "cdndeportes_dr_cdn_sportmax_2026-01-05_1020",
+          "start": 1020,
+          "end": 1260,
+          "genre": "sports",
+          "score": 94
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "DR - CNN",
+      "programs": [
+        {
+          "program_id": "cnn_dr_mirador_mundial_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cnn_dr_conecta2_2026-01-05_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "cnn_dr_la_historia_completa_2026-01-05_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "cnn_dr_oppenheimer_presenta_2026-01-05_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cnn_dr_m_xico_opina_2026-01-05_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cnn_dr_mirador_mundial_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cnn_dr_deportes_cnn_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "cnn_dr_la_historia_completa_2026-01-05_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "documentary",
+          "score": 79
+        },
+        {
+          "program_id": "cnn_dr_m_xico_opina_2026-01-05_0420",
+          "start": 420,
+          "end": 480,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cnn_dr_oppenheimer_presenta_2026-01-05_0480",
+          "start": 480,
+          "end": 540,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "cnn_dr_mirador_mundial_2026-01-05_0540",
+          "start": 540,
+          "end": 570,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "cnn_dr_deportes_cnn_2026-01-05_0570",
+          "start": 570,
+          "end": 600,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "cnn_dr_choque_de_opiniones_2026-01-05_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "cnn_dr_conecta2_2026-01-05_0660",
+          "start": 660,
+          "end": 720,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cnn_dr_m_xico_opina_2026-01-05_0720",
+          "start": 720,
+          "end": 780,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cnn_dr_cnn_primera_ma_ana_2026-01-05_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnn_dr_caf_cnn_2026-01-05_0840",
+          "start": 840,
+          "end": 900,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cnn_dr_conecta2_2026-01-05_0900",
+          "start": 900,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "cnn_dr_destinos_2026-01-05_1020",
+          "start": 1020,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "cnn_dr_mercado_sur_2026-01-05_1050",
+          "start": 1050,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "cnn_dr_choque_de_opiniones_2026-01-05_1080",
+          "start": 1080,
+          "end": 1140,
+          "genre": "talk",
+          "score": 76
+        },
+        {
+          "program_id": "cnn_dr_redacci_n_con_nacho_gir__2026-01-05_1140",
+          "start": 1140,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "cnn_dr_conclusiones_2026-01-05_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "cnn_dr_conclusiones_2026-01-05_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "cnn_dr_deportes_cnn_2026-01-05_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "sports",
+          "score": 100
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "DR - CNN Internacional",
+      "programs": [
+        {
+          "program_id": "cnninternacional_d_cnn_newsroom_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_newsroom_2026-01-05_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "cnninternacional_d_the_whole_story_2026-01-05_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cnninternacional_d_fareed_zakaria_gps_2026-01-05_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cnninternacional_d_african_voices_2026-01-05_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_market_place_africa_2026-01-05_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cnninternacional_d_feature_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "movie",
+          "score": 91
+        },
+        {
+          "program_id": "cnninternacional_d_inside_africa_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_newsroom_2026-01-05_0360",
+          "start": 360,
+          "end": 405,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "cnninternacional_d_world_sport_2026-01-05_0405",
+          "start": 405,
+          "end": 420,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_newsroom_2026-01-05_0420",
+          "start": 420,
+          "end": 480,
+          "genre": "news",
+          "score": 89
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_newsroom_2026-01-05_0480",
+          "start": 480,
+          "end": 525,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "cnninternacional_d_world_sport_2026-01-05_0525",
+          "start": 525,
+          "end": 540,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_newsroom_2026-01-05_0540",
+          "start": 540,
+          "end": 600,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "cnninternacional_d_the_amanpour_hour_2026-01-05_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "cnninternacional_d_early_start_2026-01-05_0660",
+          "start": 660,
+          "end": 720,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_this_morning_2026-01-05_0720",
+          "start": 720,
+          "end": 780,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_news_central_2026-01-05_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_news_central_2026-01-05_0840",
+          "start": 840,
+          "end": 870,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "cnninternacional_d_world_sport_2026-01-05_0870",
+          "start": 870,
+          "end": 900,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "cnninternacional_d_connect_the_world_2026-01-05_0900",
+          "start": 900,
+          "end": 945,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "cnninternacional_d_world_sport_2026-01-05_0945",
+          "start": 945,
+          "end": 960,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "cnninternacional_d_connect_the_world_2026-01-05_0960",
+          "start": 960,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cnninternacional_d_one_world_2026-01-05_1020",
+          "start": 1020,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "cnninternacional_d_cnn_creators_the_intro_2026-01-05_1050",
+          "start": 1050,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "cnninternacional_d_one_world_2026-01-05_1080",
+          "start": 1080,
+          "end": 1125,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "cnninternacional_d_amanpour_2026-01-05_1140",
+          "start": 1140,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "cnninternacional_d_isa_soares_tonight_2026-01-05_1200",
+          "start": 1200,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "cnninternacional_d_what_we_know_with_max_fo_2026-01-05_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "cnninternacional_d_quest_means_business_2026-01-05_1320",
+          "start": 1320,
+          "end": 1365,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "cnninternacional_d_the_lead_with_jake_tappe_2026-01-05_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "DR - Caracol Internacional",
+      "programs": [
+        {
+          "program_id": "caracolinternacion_suso_s_show_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "caracolinternacion_noticias_caracol_edici_n_2026-01-05_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "caracolinternacion_los_informantes_2026-01-05_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "caracolinternacion_s_ptimo_d_a_2026-01-05_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "caracolinternacion_una_mirada_al_mundo_2026-01-05_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "caracolinternacion_suso_s_show_2026-01-05_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "caracolinternacion_las_mujeres_de_mi_tierra_2026-01-05_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "caracolinternacion_s_ptimo_d_a_2026-01-05_0390",
+          "start": 390,
+          "end": 450,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "caracolinternacion_la_sart_n_por_el_mango_2026-01-05_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "caracolinternacion_la_dolce_vita_2026-01-05_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "caracolinternacion_de_moda_con_ericka_2026-01-05_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "caracolinternacion_se_dice_de_mi_2026-01-05_0540",
+          "start": 540,
+          "end": 600,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "caracolinternacion_expediente_final_2026-01-05_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "caracolinternacion_noticias_caracol_primera_2026-01-05_0690",
+          "start": 690,
+          "end": 900,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "caracolinternacion_d_a_a_d_a_2026-01-05_0900",
+          "start": 900,
+          "end": 990,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "caracolinternacion_la_vuelta_al_mundo_en_80_2026-01-05_0990",
+          "start": 990,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "caracolinternacion_el_diario_de_diana_2026-01-05_1050",
+          "start": 1050,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "caracolinternacion_random_360_2026-01-05_1080",
+          "start": 1080,
+          "end": 1110,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "caracolinternacion_noticias_caracol_edici_n_2026-01-05_1110",
+          "start": 1110,
+          "end": 1260,
+          "genre": "news",
+          "score": 83
+        },
+        {
+          "program_id": "caracolinternacion_festival_internacional_d_2026-01-05_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "music",
+          "score": 77
+        },
+        {
+          "program_id": "caracolinternacion_la_vuelta_al_mundo_en_80_2026-01-05_1320",
+          "start": 1320,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "caracolinternacion_traves_a_2026-01-05_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "DR - Cinemax",
+      "programs": [
+        {
+          "program_id": "cinemax_dr_parque_jur_sico_2026-01-05_0000",
+          "start": 0,
+          "end": 88,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "DR - DHE",
+      "programs": [
+        {
+          "program_id": "dhe_dr_gloria_bell_2026-01-05_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dhe_dr_el_tipo_perfecto_2026-01-05_0080",
+          "start": 80,
+          "end": 185,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dhe_dr_2012_2026-01-05_0185",
+          "start": 185,
+          "end": 345,
+          "genre": "weather",
+          "score": 45
+        },
+        {
+          "program_id": "dhe_dr_diario_de_una_adolescent_2026-01-05_0345",
+          "start": 345,
+          "end": 445,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "dhe_dr_d_nde_est_mi_hijo_2026-01-05_0445",
+          "start": 445,
+          "end": 535,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "dhe_dr_el_extra_o_2026-01-05_0535",
+          "start": 535,
+          "end": 630,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "dhe_dr_s_w_a_t_bajo_asedio_2026-01-05_0630",
+          "start": 630,
+          "end": 720,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "dhe_dr_la_familia_hollars_2026-01-05_0720",
+          "start": 720,
+          "end": 810,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dhe_dr_campamento_de_locos_2026-01-05_0810",
+          "start": 810,
+          "end": 905,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "dhe_dr_el_favorito_2026-01-05_0905",
+          "start": 905,
+          "end": 1025,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "dhe_dr_fr_gil_2026-01-05_1025",
+          "start": 1025,
+          "end": 1150,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "dhe_dr_cambios_inesperados_2026-01-05_1150",
+          "start": 1150,
+          "end": 1245,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "dhe_dr_pixeles_2026-01-05_1245",
+          "start": 1245,
+          "end": 1355,
+          "genre": "unknown",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "DR - DW",
+      "programs": [
+        {
+          "program_id": "dw_dr_dw_noticias_2026-01-05_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "dw_dr_visi_n_futuro_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "dw_dr_dw_noticias_2026-01-05_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "dw_dr_c_mo_te_afecta_2026-01-05_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dw_dr_dw_noticias_2026-01-05_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "dw_dr_rpm_2026-01-05_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "dw_dr_global_es_2026-01-05_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dw_dr_enfoque_europa_pa_ses_ge_2026-01-05_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dw_dr_visi_n_futuro_2026-01-05_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "dw_dr_cultura_21_2026-01-05_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "dw_dr_global_es_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "dw_dr_c_mo_te_afecta_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "dw_dr_docfilm_2026-01-05_0375",
+          "start": 375,
+          "end": 420,
+          "genre": "movie",
+          "score": 93
+        },
+        {
+          "program_id": "dw_dr_hecho_en_alemania_2026-01-05_0420",
+          "start": 420,
+          "end": 450,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "dw_dr_docfilm_2026-01-05_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "movie",
+          "score": 93
+        },
+        {
+          "program_id": "dw_dr_cultura_21_2026-01-05_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "dw_dr_euromaxx_2026-01-05_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "dw_dr_enfoque_europa_pa_ses_ge_2026-01-05_0570",
+          "start": 570,
+          "end": 600,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "dw_dr_docfilm_2026-01-05_0600",
+          "start": 600,
+          "end": 630,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "dw_dr_cultura_21_2026-01-05_0630",
+          "start": 630,
+          "end": 660,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dw_dr_docfilm_2026-01-05_0675",
+          "start": 675,
+          "end": 720,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "dw_dr_visi_n_futuro_2026-01-05_0720",
+          "start": 720,
+          "end": 750,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "dw_dr_global_es_2026-01-05_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "dw_dr_euromaxx_2026-01-05_0780",
+          "start": 780,
+          "end": 810,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dw_dr_cultura_21_2026-01-05_0810",
+          "start": 810,
+          "end": 840,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "dw_dr_aqu_estoy_2026-01-05_0840",
+          "start": 840,
+          "end": 870,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "dw_dr_hecho_en_alemania_2026-01-05_0870",
+          "start": 870,
+          "end": 900,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "dw_dr_visi_n_futuro_2026-01-05_0900",
+          "start": 900,
+          "end": 930,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "dw_dr_rpm_2026-01-05_0930",
+          "start": 930,
+          "end": 960,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "dw_dr_eco_latinoam_rica_2026-01-05_0960",
+          "start": 960,
+          "end": 990,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "dw_dr_docfilm_2026-01-05_0990",
+          "start": 990,
+          "end": 1020,
+          "genre": "movie",
+          "score": 97
+        },
+        {
+          "program_id": "dw_dr_todo_deporte_2026-01-05_1035",
+          "start": 1035,
+          "end": 1050,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "dw_dr_en_forma_2026-01-05_1050",
+          "start": 1050,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "dw_dr_docfilm_2026-01-05_1095",
+          "start": 1095,
+          "end": 1140,
+          "genre": "movie",
+          "score": 100
+        },
+        {
+          "program_id": "dw_dr_dw_noticias_2026-01-05_1140",
+          "start": 1140,
+          "end": 1170,
+          "genre": "news",
+          "score": 96
+        },
+        {
+          "program_id": "dw_dr_c_mo_te_afecta_2026-01-05_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "dw_dr_docfilm_2026-01-05_1215",
+          "start": 1215,
+          "end": 1260,
+          "genre": "movie",
+          "score": 100
+        },
+        {
+          "program_id": "dw_dr_dw_noticias_2026-01-05_1260",
+          "start": 1260,
+          "end": 1290,
+          "genre": "news",
+          "score": 99
+        },
+        {
+          "program_id": "dw_dr_rpm_2026-01-05_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "dw_dr_todo_deporte_2026-01-05_1320",
+          "start": 1320,
+          "end": 1335,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "dw_dr_zona_docu_2026-01-05_1335",
+          "start": 1335,
+          "end": 1380,
+          "genre": "documentary",
+          "score": 94
+        },
+        {
+          "program_id": "dw_dr_dw_noticias_2026-01-05_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "DR - De Película",
+      "programs": [
+        {
+          "program_id": "depelicula_dr_c_mo_matar_a_un_esposo_m_2026-01-05_0000",
+          "start": 0,
+          "end": 77,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "depelicula_dr_cuando_los_hijos_se_van__2026-01-05_0077",
+          "start": 77,
+          "end": 187,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "depelicula_dr_el_satiro_2026-01-05_0187",
+          "start": 187,
+          "end": 294,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "depelicula_dr_bellas_de_noche_2026-01-05_0294",
+          "start": 294,
+          "end": 406,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "depelicula_dr_con_el_coraz_n_en_la_man_2026-01-05_0406",
+          "start": 406,
+          "end": 536,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "depelicula_dr_neutron_vs_el_dr_caronte_2026-01-05_0536",
+          "start": 536,
+          "end": 618,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "depelicula_dr_la_ley_de_las_pistolas_2026-01-05_0618",
+          "start": 618,
+          "end": 700,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "depelicula_dr_el_grito_de_la_muerte_2026-01-05_0700",
+          "start": 700,
+          "end": 780,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "depelicula_dr_el_bello_durmiente_2026-01-05_0780",
+          "start": 780,
+          "end": 866,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "depelicula_dr_el_solitario_2026-01-05_0866",
+          "start": 866,
+          "end": 967,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "depelicula_dr_el_barrendero_2026-01-05_0967",
+          "start": 967,
+          "end": 1092,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "depelicula_dr_campe_n_sin_corona_2026-01-05_1092",
+          "start": 1092,
+          "end": 1216,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "depelicula_dr_el_hijo_del_palenque_2026-01-05_1216",
+          "start": 1216,
+          "end": 1318,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "depelicula_dr_el_karateca_azteca_2026-01-05_1318",
+          "start": 1318,
+          "end": 1421,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "DR - Discovery Science",
+      "programs": [
+        {
+          "program_id": "discoveryscience_d_planeta_energia_2026-01-05_0000",
+          "start": 0,
+          "end": 48,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "discoveryscience_d_clarividentes_2026-01-05_0048",
+          "start": 48,
+          "end": 96,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "discoveryscience_d_da_vinci_en_la_pr_ctica_2026-01-05_0096",
+          "start": 96,
+          "end": 144,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoveryscience_d_grandes_misterios_del_un_2026-01-05_0144",
+          "start": 144,
+          "end": 192,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "discoveryscience_d_the_explosion_show_2026-01-05_0192",
+          "start": 192,
+          "end": 240,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "discoveryscience_d_todo_sobre_2026-01-05_0240",
+          "start": 240,
+          "end": 288,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "discoveryscience_d_tesoro_en_el_espacio_el__2026-01-05_0288",
+          "start": 288,
+          "end": 336,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoveryscience_d_productores_de_armas_2026-01-05_0336",
+          "start": 336,
+          "end": 384,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discoveryscience_d_cazadores_de_tormentas_2026-01-05_0384",
+          "start": 384,
+          "end": 432,
+          "genre": "weather",
+          "score": 56
+        },
+        {
+          "program_id": "discoveryscience_d_megaconstrucciones_2026-01-05_0432",
+          "start": 432,
+          "end": 480,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "discoveryscience_d_popular_science_futuro_2026-01-05_0480",
+          "start": 480,
+          "end": 528,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "discoveryscience_d_la_era_del_videogame_2026-01-05_0528",
+          "start": 528,
+          "end": 576,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "discoveryscience_d_c_mo_funciona_el_univers_2026-01-05_0576",
+          "start": 576,
+          "end": 624,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "discoveryscience_d_secretos_de_la_nasa_2026-01-05_0624",
+          "start": 624,
+          "end": 672,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "discoveryscience_d_moonshiners_2026-01-05_0672",
+          "start": 672,
+          "end": 720,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "discoveryscience_d_tesoro_en_el_espacio_el__2026-01-05_0720",
+          "start": 720,
+          "end": 768,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "discoveryscience_d_megaconstrucciones_2026-01-05_0768",
+          "start": 768,
+          "end": 816,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "discoveryscience_d_contacto_alien_gena_2026-01-05_0816",
+          "start": 816,
+          "end": 864,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "discoveryscience_d_productores_de_armas_2026-01-05_0864",
+          "start": 864,
+          "end": 912,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "discoveryscience_d_guerra_de_genios_2026-01-05_0912",
+          "start": 912,
+          "end": 960,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "discoveryscience_d_secretos_de_la_nasa_2026-01-05_0960",
+          "start": 960,
+          "end": 1008,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discoveryscience_d_todo_sobre_2026-01-05_1008",
+          "start": 1008,
+          "end": 1056,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "discoveryscience_d_momias_al_descubierto_2026-01-05_1056",
+          "start": 1056,
+          "end": 1104,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "discoveryscience_d_reyes_de_la_construcci_n_2026-01-05_1104",
+          "start": 1104,
+          "end": 1152,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "discoveryscience_d_c_digos_y_conspiraciones_2026-01-05_1152",
+          "start": 1152,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "discoveryscience_d_ancient_unexplained_file_2026-01-05_1200",
+          "start": 1200,
+          "end": 1248,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "discoveryscience_d_mysteries_at_the_museum_2026-01-05_1248",
+          "start": 1248,
+          "end": 1296,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "discoveryscience_d_popular_science_futuro_2026-01-05_1296",
+          "start": 1296,
+          "end": 1344,
+          "genre": "documentary",
+          "score": 95
+        },
+        {
+          "program_id": "discoveryscience_d_guerra_de_genios_2026-01-05_1344",
+          "start": 1344,
+          "end": 1392,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "DR - Discovery Turbo",
+      "programs": [
+        {
+          "program_id": "discoveryturbo_dr_american_hot_rod_2026-01-05_0028",
+          "start": 28,
+          "end": 78,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoveryturbo_dr_al_estilo_kindig_detr_s__2026-01-05_0078",
+          "start": 78,
+          "end": 128,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "discoveryturbo_dr_mexic_nicos_2026-01-05_0128",
+          "start": 128,
+          "end": 178,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "discoveryturbo_dr_robert_downey_jr_el_auto_2026-01-05_0178",
+          "start": 178,
+          "end": 232,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoveryturbo_dr_robert_downey_jr_el_auto_2026-01-05_0232",
+          "start": 232,
+          "end": 278,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discoveryturbo_dr_american_chopper_2026-01-05_0278",
+          "start": 278,
+          "end": 328,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "discoveryturbo_dr_american_chopper_2026-01-05_0328",
+          "start": 328,
+          "end": 378,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "discoveryturbo_dr_al_estilo_kindig_detr_s__2026-01-05_0378",
+          "start": 378,
+          "end": 426,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "discoveryturbo_dr_mexic_nicos_2026-01-05_0426",
+          "start": 426,
+          "end": 474,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "discoveryturbo_dr_robert_downey_jr_el_auto_2026-01-05_0474",
+          "start": 474,
+          "end": 528,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "discoveryturbo_dr_robert_downey_jr_el_auto_2026-01-05_0528",
+          "start": 528,
+          "end": 576,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "discoveryturbo_dr_american_chopper_2026-01-05_0576",
+          "start": 576,
+          "end": 624,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "discoveryturbo_dr_american_chopper_2026-01-05_0624",
+          "start": 624,
+          "end": 672,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "discoveryturbo_dr_american_hot_rod_2026-01-05_0672",
+          "start": 672,
+          "end": 720,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoveryturbo_dr_alto_octanaje_en_las_veg_2026-01-05_0720",
+          "start": 720,
+          "end": 770,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "discoveryturbo_dr_alto_octanaje_en_las_veg_2026-01-05_0770",
+          "start": 770,
+          "end": 820,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discoveryturbo_dr_diesel_dave_2026-01-05_0820",
+          "start": 820,
+          "end": 870,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "discoveryturbo_dr_diesel_dave_2026-01-05_0870",
+          "start": 870,
+          "end": 920,
+          "genre": "religion",
+          "score": 56
+        },
+        {
+          "program_id": "discoveryturbo_dr_diesel_dave_2026-01-05_0920",
+          "start": 920,
+          "end": 970,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoveryturbo_dr_diesel_dave_2026-01-05_0970",
+          "start": 970,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discoveryturbo_dr_al_estilo_kindig_detr_s__2026-01-05_1020",
+          "start": 1020,
+          "end": 1068,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "discoveryturbo_dr_mexic_nicos_2026-01-05_1068",
+          "start": 1068,
+          "end": 1116,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "discoveryturbo_dr_robert_downey_jr_el_auto_2026-01-05_1116",
+          "start": 1116,
+          "end": 1170,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "discoveryturbo_dr_robert_downey_jr_el_auto_2026-01-05_1170",
+          "start": 1170,
+          "end": 1217,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "discoveryturbo_dr_american_chopper_2026-01-05_1217",
+          "start": 1217,
+          "end": 1269,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "discoveryturbo_dr_american_chopper_2026-01-05_1269",
+          "start": 1269,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "discoveryturbo_dr_chatarra_de_oro_2026-01-05_1370",
+          "start": 1370,
+          "end": 1420,
+          "genre": "religion",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "DR - Disney Junior",
+      "programs": [
+        {
+          "program_id": "disneyjunior_dr_aventuras_de_j_venes_jed_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "disneyjunior_dr_aventuras_de_j_venes_jed_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "disneyjunior_dr_spidey_y_sus_sorprendent_2026-01-05_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "disneyjunior_dr_supergatitos_2026-01-05_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "disneyjunior_dr_peque_o_gran_jurado_de_l_2026-01-05_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "disneyjunior_dr_junior_express_2026-01-05_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "disneyjunior_dr_disney_junior_ariel_2026-01-05_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "disneyjunior_dr_k_nder_el_musical_2026-01-05_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "disneyjunior_dr_eureka_2026-01-05_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "disneyjunior_dr_equipo_de_rescate_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "disneyjunior_dr_cachorros_a_la_obra_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "disneyjunior_dr_mickeyaventuras_sobre_ru_2026-01-05_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "disneyjunior_dr_mickeyaventuras_sobre_ru_2026-01-05_0390",
+          "start": 390,
+          "end": 420,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "disneyjunior_dr_mickeyaventuras_sobre_ru_2026-01-05_0420",
+          "start": 420,
+          "end": 450,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "disneyjunior_dr_mickeyaventuras_sobre_ru_2026-01-05_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "disneyjunior_dr_equipo_de_rescate_2026-01-05_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "disneyjunior_dr_gigantosaurus_2026-01-05_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "documentary",
+          "score": 79
+        },
+        {
+          "program_id": "disneyjunior_dr_mickey_mouse_funhouse_2026-01-05_0540",
+          "start": 540,
+          "end": 570,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "disneyjunior_dr_aventuras_de_j_venes_jed_2026-01-05_0570",
+          "start": 570,
+          "end": 600,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "disneyjunior_dr_spidey_y_sus_sorprendent_2026-01-05_0600",
+          "start": 600,
+          "end": 630,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "disneyjunior_dr_supergatitos_2026-01-05_0630",
+          "start": 630,
+          "end": 660,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "disneyjunior_dr_bluey_2026-01-05_0660",
+          "start": 660,
+          "end": 690,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "disneyjunior_dr_bluey_2026-01-05_0690",
+          "start": 690,
+          "end": 720,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "disneyjunior_dr_puppy_dog_pals_2026-01-05_0720",
+          "start": 720,
+          "end": 750,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "disneyjunior_dr_muppet_babies_2026-01-05_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "disneyjunior_dr_la_casa_de_mickey_mouse_2026-01-05_0780",
+          "start": 780,
+          "end": 810,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "disneyjunior_dr_tots_servicio_de_entrega_2026-01-05_0810",
+          "start": 810,
+          "end": 870,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "disneyjunior_dr_muppet_babies_2026-01-05_0870",
+          "start": 870,
+          "end": 900,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "disneyjunior_dr_mickey_mouse_funhouse_2026-01-05_0900",
+          "start": 900,
+          "end": 930,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "disneyjunior_dr_gigantosaurus_2026-01-05_0930",
+          "start": 930,
+          "end": 960,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "disneyjunior_dr_spidey_y_sus_sorprendent_2026-01-05_0990",
+          "start": 990,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "disneyjunior_dr_bluey_2026-01-05_1080",
+          "start": 1080,
+          "end": 1110,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "disneyjunior_dr_disney_junior_ariel_2026-01-05_1110",
+          "start": 1110,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "disneyjunior_dr_k_nder_el_musical_2026-01-05_1140",
+          "start": 1140,
+          "end": 1170,
+          "genre": "music",
+          "score": 74
+        },
+        {
+          "program_id": "disneyjunior_dr_supergatitos_2026-01-05_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "disneyjunior_dr_mickey_mouse_funhouse_2026-01-05_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "disneyjunior_dr_aventuras_de_j_venes_jed_2026-01-05_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "disneyjunior_dr_la_casa_de_mickey_mouse_2026-01-05_1260",
+          "start": 1260,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "disneyjunior_dr_la_casa_de_mickey_mouse_2026-01-05_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "disneyjunior_dr_la_casa_de_mickey_mouse_2026-01-05_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "disneyjunior_dr_la_casa_de_mickey_mouse_2026-01-05_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "disneyjunior_dr_robogobo_2026-01-05_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "DR - Distrito Comedia",
+      "programs": [
+        {
+          "program_id": "distritocomedia_dr_vecinos_2026-01-05_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "distritocomedia_dr_tal_para_cual_2026-01-05_0115",
+          "start": 115,
+          "end": 170,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "distritocomedia_dr_40_y_20_2026-01-05_0170",
+          "start": 170,
+          "end": 350,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "distritocomedia_dr_humor_sin_barreras_2026-01-05_0350",
+          "start": 350,
+          "end": 480,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "distritocomedia_dr_la_hora_pico_2026-01-05_0480",
+          "start": 480,
+          "end": 530,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "distritocomedia_dr_5x8_comedia_2026-01-05_0530",
+          "start": 530,
+          "end": 590,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "distritocomedia_dr_40_y_20_2026-01-05_0590",
+          "start": 590,
+          "end": 665,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "distritocomedia_dr_vecinos_2026-01-05_0665",
+          "start": 665,
+          "end": 740,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "distritocomedia_dr_sim_n_dice_2026-01-05_0740",
+          "start": 740,
+          "end": 790,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "distritocomedia_dr_una_familia_de_diez_2026-01-05_0790",
+          "start": 790,
+          "end": 865,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "distritocomedia_dr_40_y_20_2026-01-05_0865",
+          "start": 865,
+          "end": 940,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "distritocomedia_dr_mar_a_de_todos_los_angel_2026-01-05_0940",
+          "start": 940,
+          "end": 990,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "distritocomedia_dr_vecinos_2026-01-05_0990",
+          "start": 990,
+          "end": 1045,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "distritocomedia_dr_lorenza_beb_a_bordo_ini_2026-01-05_1045",
+          "start": 1045,
+          "end": 1100,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "distritocomedia_dr_una_familia_de_diez_2026-01-05_1100",
+          "start": 1100,
+          "end": 1175,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "distritocomedia_dr_sim_n_dice_2026-01-05_1175",
+          "start": 1175,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "distritocomedia_dr_el_chavo_del_ocho_2026-01-05_1230",
+          "start": 1230,
+          "end": 1305,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "distritocomedia_dr_40_y_20_2026-01-05_1305",
+          "start": 1305,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "distritocomedia_dr_lorenza_beb_a_bordo_ini_2026-01-05_1380",
+          "start": 1380,
+          "end": 1435,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "DR - EWTN",
+      "programs": [
+        {
+          "program_id": "ewtn_dr_los_reyes_magos_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "ewtn_dr_tertulias_de_fe_2026-01-05_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ewtn_dr_mientras_el_mundo_gira_2026-01-05_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ewtn_dr_conozca_primero_su_fe_ca_2026-01-05_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ewtn_dr_perspectiva_cat_lica_2026-01-05_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ewtn_dr_informe_provida_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ewtn_dr_de_dos_en_dos_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ewtn_dr_ngelus_con_el_papa_le_n__2026-01-05_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "ewtn_dr_santo_rosario_2026-01-05_0390",
+          "start": 390,
+          "end": 420,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "ewtn_dr_ewtn_noticias_2026-01-05_0420",
+          "start": 420,
+          "end": 450,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "ewtn_dr_la_pascua_eterna_2026-01-05_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "ewtn_dr_informe_provida_2026-01-05_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "ewtn_dr_de_dos_en_dos_2026-01-05_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ewtn_dr_los_cuentos_de_juan_el_m_2026-01-05_0540",
+          "start": 540,
+          "end": 570,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ewtn_dr_cient_ficos_cat_licos_es_2026-01-05_0570",
+          "start": 570,
+          "end": 600,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ewtn_dr_saint_john_neumann_2026-01-05_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ewtn_dr_los_caminos_de_jes_s_2026-01-05_0660",
+          "start": 660,
+          "end": 690,
+          "genre": "religion",
+          "score": 53
+        },
+        {
+          "program_id": "ewtn_dr_si_quieres_paz_defiende__2026-01-05_0690",
+          "start": 690,
+          "end": 720,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ewtn_dr_los_reyes_magos_2026-01-05_0720",
+          "start": 720,
+          "end": 780,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ewtn_dr_santo_rosario_2026-01-05_0780",
+          "start": 780,
+          "end": 810,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ewtn_dr_misa_diaria_2026-01-05_0840",
+          "start": 840,
+          "end": 890,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ewtn_dr_santos_y_h_roes_2026-01-05_0900",
+          "start": 900,
+          "end": 930,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "ewtn_dr_el_rosario_de_los_ni_os_2026-01-05_0930",
+          "start": 930,
+          "end": 960,
+          "genre": "kids",
+          "score": 66
+        },
+        {
+          "program_id": "ewtn_dr_la_pascua_eterna_2026-01-05_0960",
+          "start": 960,
+          "end": 990,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ewtn_dr_cen_culos_en_familia_2026-01-05_0990",
+          "start": 990,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ewtn_dr_informe_provida_2026-01-05_1020",
+          "start": 1020,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "ewtn_dr_de_dos_en_dos_2026-01-05_1050",
+          "start": 1050,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "ewtn_dr_ewtn_noticias_2026-01-05_1080",
+          "start": 1080,
+          "end": 1110,
+          "genre": "news",
+          "score": 92
+        },
+        {
+          "program_id": "ewtn_dr_ni_am_ni_fm_ni_mp3_2026-01-05_1110",
+          "start": 1110,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "ewtn_dr_la_coronilla_de_la_divin_2026-01-05_1140",
+          "start": 1140,
+          "end": 1170,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "ewtn_dr_misa_diaria_2026-01-05_1170",
+          "start": 1170,
+          "end": 1220,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "ewtn_dr_el_santo_rosario_desde_l_2026-01-05_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "ewtn_dr_ewtn_noticias_2026-01-05_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "news",
+          "score": 94
+        },
+        {
+          "program_id": "ewtn_dr_informe_provida_2026-01-05_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "ewtn_dr_de_dos_en_dos_2026-01-05_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "ewtn_dr_la_pascua_eterna_2026-01-05_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "DR - Elgourmet",
+      "programs": [
+        {
+          "program_id": "elgourmet_dr_fermentados_con_sonia_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "elgourmet_dr_me_voy_a_comer_el_mundo_2026-01-05_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "elgourmet_dr_productos_artesanos_m_xi_2026-01-05_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "elgourmet_dr_maestros_del_sushi_2026-01-05_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "elgourmet_dr_fiestas_con_sabor_mexica_2026-01-05_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "elgourmet_dr_los_petersen_en_chile_2026-01-05_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "elgourmet_dr_la_ruta_de_los_insectos_2026-01-05_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "elgourmet_dr_los_imperdibles_cdmx_2026-01-05_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "elgourmet_dr_me_voy_a_comer_el_mundo_2026-01-05_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "elgourmet_dr_cocina_de_mar_pacifico_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "elgourmet_dr_asado_de_obra_2026-01-05_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "elgourmet_dr_fiestas_con_sabor_mexica_2026-01-05_0390",
+          "start": 390,
+          "end": 420,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "elgourmet_dr_la_cocina_de_los_clubes_2026-01-05_0420",
+          "start": 420,
+          "end": 450,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "elgourmet_dr_la_ruta_del_cacao_2026-01-05_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "elgourmet_dr_la_raya_entre_esp_y_port_2026-01-05_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "elgourmet_dr_cocina_de_mar_pacifico_2026-01-05_0540",
+          "start": 540,
+          "end": 570,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "elgourmet_dr_delicias_de_la_antigua_e_2026-01-05_0570",
+          "start": 570,
+          "end": 600,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "elgourmet_dr_cocina_de_mercado_2026-01-05_0600",
+          "start": 600,
+          "end": 630,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "elgourmet_dr_maestros_del_ceviche_2026-01-05_0630",
+          "start": 630,
+          "end": 660,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "elgourmet_dr_las_mejores_recetas_de_z_2026-01-05_0660",
+          "start": 660,
+          "end": 690,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "elgourmet_dr_los_infalibles_de_gross_2026-01-05_0720",
+          "start": 720,
+          "end": 750,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "elgourmet_dr_la_ruta_del_cacao_2026-01-05_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "elgourmet_dr_con_pocos_ingredientes_2026-01-05_0780",
+          "start": 780,
+          "end": 810,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "elgourmet_dr_los_imperdibles_buenos_a_2026-01-05_0810",
+          "start": 810,
+          "end": 840,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "elgourmet_dr_mercados_del_mundo_2026-01-05_0840",
+          "start": 840,
+          "end": 870,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "elgourmet_dr_la_cocina_de_la_piedra_2026-01-05_0870",
+          "start": 870,
+          "end": 900,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "elgourmet_dr_productos_artesanos_m_xi_2026-01-05_0900",
+          "start": 900,
+          "end": 930,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "elgourmet_dr_delicias_de_la_antigua_e_2026-01-05_0930",
+          "start": 930,
+          "end": 960,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "elgourmet_dr_men_para_todos_los_d_as_2026-01-05_0960",
+          "start": 960,
+          "end": 990,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "elgourmet_dr_fiesta_en_casa_al_aire_l_2026-01-05_0990",
+          "start": 990,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "elgourmet_dr_mapa_de_los_sabores_de_m_2026-01-05_1020",
+          "start": 1020,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "elgourmet_dr_fogones_tradicionales_m__2026-01-05_1050",
+          "start": 1050,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "elgourmet_dr_maestros_del_taco_2026-01-05_1080",
+          "start": 1080,
+          "end": 1110,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "elgourmet_dr_cocina_de_mercado_2026-01-05_1110",
+          "start": 1110,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "elgourmet_dr_los_imperdibles_buenos_a_2026-01-05_1140",
+          "start": 1140,
+          "end": 1170,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "elgourmet_dr_guardianes_de_tradici_n__2026-01-05_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "elgourmet_dr_d_as_de_campo_c_los_pete_2026-01-05_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "elgourmet_dr_las_mejores_recetas_de_z_2026-01-05_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "elgourmet_dr_estefi_express_2026-01-05_1260",
+          "start": 1260,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "elgourmet_dr_mapa_de_los_sabores_de_m_2026-01-05_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "elgourmet_dr_cocina_de_mercado_2026-01-05_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "elgourmet_dr_fogones_tradicionales_m__2026-01-05_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "elgourmet_dr_guardianes_de_tradici_n__2026-01-05_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "DR - Enlace",
+      "programs": [
+        {
+          "program_id": "enlace_dr_vida_nueva_para_el_mundo_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "enlace_dr_camino_a_la_victoria_2026-01-05_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "religion",
+          "score": 58
+        },
+        {
+          "program_id": "enlace_dr_el_lugar_de_su_presencia_2026-01-05_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "enlace_dr_respuestas_con_bayless_c_2026-01-05_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "enlace_dr_prestonwood_con_gilberto_2026-01-05_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "enlace_dr_experiencia_m_s_vida_2026-01-05_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "enlace_dr_camino_de_fe_del_creyent_2026-01-05_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "religion",
+          "score": 55
+        },
+        {
+          "program_id": "enlace_dr_ministraci_n_con_joe_fer_2026-01-05_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "enlace_dr_esperanza_hoy_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "enlace_dr_cartas_abiertas_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "enlace_dr_lo_mejor_y_a_o_nuevo_en__2026-01-05_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "enlace_dr_primera_fila_2026-01-05_0420",
+          "start": 420,
+          "end": 450,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "enlace_dr_especial_infantil_2026-01-05_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "kids",
+          "score": 77
+        },
+        {
+          "program_id": "enlace_dr_las_ra_ces_hebreas_2026-01-05_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "enlace_dr_en_concierto_2026-01-05_0510",
+          "start": 510,
+          "end": 600,
+          "genre": "music",
+          "score": 75
+        },
+        {
+          "program_id": "enlace_dr_man_2026-01-05_0600",
+          "start": 600,
+          "end": 630,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "enlace_dr_a_una_voz_2026-01-05_0630",
+          "start": 630,
+          "end": 660,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "enlace_dr_aqu_entre_nos_2026-01-05_0660",
+          "start": 660,
+          "end": 720,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "enlace_dr_toda_la_biblia_juntos_2026-01-05_0720",
+          "start": 720,
+          "end": 750,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "enlace_dr_jerusalem_dateline_2026-01-05_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "enlace_dr_casa_de_dios_2026-01-05_0780",
+          "start": 780,
+          "end": 810,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "enlace_dr_la_voz_de_victoria_2026-01-05_0810",
+          "start": 810,
+          "end": 840,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "enlace_dr_enlace_ora_2026-01-05_0840",
+          "start": 840,
+          "end": 870,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "enlace_dr_ancient_nutrition_intl_2026-01-05_0870",
+          "start": 870,
+          "end": 900,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "enlace_dr_otoniel_font_2026-01-05_0900",
+          "start": 900,
+          "end": 930,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "enlace_dr_todo_es_posible_2026-01-05_0930",
+          "start": 930,
+          "end": 960,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "enlace_dr_aqu_entre_nos_2026-01-05_0960",
+          "start": 960,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "enlace_dr_esperanza_hoy_2026-01-05_1020",
+          "start": 1020,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "enlace_dr_mas_vida_2026-01-05_1050",
+          "start": 1050,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "enlace_dr_proclamaci_n_2026-01-05_1080",
+          "start": 1080,
+          "end": 1110,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "enlace_dr_el_puede_hacerlo_de_nuev_2026-01-05_1110",
+          "start": 1110,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "enlace_dr_disfrutando_la_vida_diar_2026-01-05_1140",
+          "start": 1140,
+          "end": 1170,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "enlace_dr_reflexi_n_espiritual_2026-01-05_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "enlace_dr_mesa_redonda_2026-01-05_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "enlace_dr_en_los_pasos_del_maestro_2026-01-05_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "enlace_dr_impacto_mundial_2026-01-05_1260",
+          "start": 1260,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "enlace_dr_viviendo_sin_l_mites_2026-01-05_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "enlace_dr_ministraci_n_con_joe_fer_2026-01-05_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "enlace_dr_c_digo_de_vida_2026-01-05_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "enlace_dr_vive_2026-01-05_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "DR - Exa TV",
+      "programs": [
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "exatv_dr_oldies_exa_tv_2026-01-05_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "exatv_dr_el_ex_metro_2026-01-05_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "exatv_dr_axeso_con_jessie_cervant_2026-01-05_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "exatv_dr_k_vibe_2026-01-05_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "exatv_dr_urb_nica_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "exatv_dr_oldies_exa_tv_2026-01-05_0420",
+          "start": 420,
+          "end": 480,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0480",
+          "start": 480,
+          "end": 540,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0540",
+          "start": 540,
+          "end": 600,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0660",
+          "start": 660,
+          "end": 720,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0720",
+          "start": 720,
+          "end": 780,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0840",
+          "start": 840,
+          "end": 900,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0900",
+          "start": 900,
+          "end": 960,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_0960",
+          "start": 960,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_1020",
+          "start": 1020,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "exatv_dr_exatv_en_espa_ol_2026-01-05_1080",
+          "start": 1080,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_1230",
+          "start": 1230,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "exatv_dr_k_vibe_2026-01-05_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "exatv_dr_videos_2026-01-05_1320",
+          "start": 1320,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "DR - Film & Arts",
+      "programs": [
+        {
+          "program_id": "filmandarts_dr_el_sonido_del_metal_2026-01-05_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "filmandarts_dr_historia_secreta_de_los__2026-01-05_0085",
+          "start": 85,
+          "end": 120,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "filmandarts_dr_il_volo_en_agrigento_2026-01-05_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "filmandarts_dr_a_very_royal_scandal_2026-01-05_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "filmandarts_dr_the_square_2026-01-05_0300",
+          "start": 300,
+          "end": 470,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "filmandarts_dr_tourn_e_2026-01-05_0470",
+          "start": 470,
+          "end": 600,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "filmandarts_dr_il_volo_en_agrigento_2026-01-05_0600",
+          "start": 600,
+          "end": 715,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "filmandarts_dr_a_very_royal_scandal_2026-01-05_0715",
+          "start": 715,
+          "end": 780,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "filmandarts_dr_maravillas_del_mediterr__2026-01-05_0780",
+          "start": 780,
+          "end": 810,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "filmandarts_dr_the_graham_norton_show_2026-01-05_0810",
+          "start": 810,
+          "end": 870,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "filmandarts_dr_human_requiem_eleusis_2026-01-05_0870",
+          "start": 870,
+          "end": 950,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "filmandarts_dr_tourn_e_2026-01-05_0950",
+          "start": 950,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "filmandarts_dr_il_volo_en_agrigento_2026-01-05_1080",
+          "start": 1080,
+          "end": 1210,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "filmandarts_dr_a_very_royal_scandal_2026-01-05_1210",
+          "start": 1210,
+          "end": 1275,
+          "genre": "unknown",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "DR - Fox News",
+      "programs": [
+        {
+          "program_id": "foxnews_dr_the_big_weekend_show_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "foxnews_dr_the_big_weekend_show_2026-01-05_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "foxnews_dr_life_liberty_and_levin_2026-01-05_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "foxnews_dr_sunday_night_in_america_2026-01-05_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "foxnews_dr_one_nation_w_brian_kilme_2026-01-05_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "foxnews_dr_life_liberty_and_levin_2026-01-05_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "foxnews_dr_sunday_night_in_america_2026-01-05_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "foxnews_dr_one_nation_with_l_jones_2026-01-05_0420",
+          "start": 420,
+          "end": 480,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "foxnews_dr_fox_news_sunday_2026-01-05_0480",
+          "start": 480,
+          "end": 540,
+          "genre": "news",
+          "score": 88
+        },
+        {
+          "program_id": "foxnews_dr_life_liberty_and_levin_2026-01-05_0540",
+          "start": 540,
+          "end": 600,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "foxnews_dr_sunday_night_in_america_2026-01-05_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "foxnews_dr_fox_and_friends_first_2026-01-05_0660",
+          "start": 660,
+          "end": 720,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "foxnews_dr_fox_and_friends_2026-01-05_0720",
+          "start": 720,
+          "end": 900,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "foxnews_dr_america_s_newsroom_2026-01-05_0900",
+          "start": 900,
+          "end": 1020,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "foxnews_dr_the_faulkner_focus_2026-01-05_1020",
+          "start": 1020,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "foxnews_dr_outnumbered_2026-01-05_1080",
+          "start": 1080,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "foxnews_dr_america_reports_2026-01-05_1140",
+          "start": 1140,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "foxnews_dr_america_reports_2026-01-05_1200",
+          "start": 1200,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "foxnews_dr_the_story_with_martha_m_2026-01-05_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "foxnews_dr_the_will_cain_show_2026-01-05_1320",
+          "start": 1320,
+          "end": 1380,
+          "genre": "talk",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "DR - Golf Channel",
+      "programs": [
+        {
+          "program_id": "golfchannel_dr_golf_pga_tour_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "golfchannel_dr_golf_central_2026-01-05_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "golfchannel_dr_golf_pga_tour_champions_2026-01-05_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "golfchannel_dr_international_golf_2026-01-05_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "golfchannel_dr_golf_pga_tour_2026-01-05_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "golfchannel_dr_golf_pga_tour_champions_2026-01-05_0420",
+          "start": 420,
+          "end": 540,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "golfchannel_dr_golf_pga_korn_ferry_tour_2026-01-05_0540",
+          "start": 540,
+          "end": 720,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "golfchannel_dr_golf_central_2026-01-05_0720",
+          "start": 720,
+          "end": 750,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "golfchannel_dr_golf_central_2026-01-05_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "golfchannel_dr_golf_central_2026-01-05_0780",
+          "start": 780,
+          "end": 810,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "golfchannel_dr_golf_central_2026-01-05_0810",
+          "start": 810,
+          "end": 840,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "golfchannel_dr_golf_central_2026-01-05_0840",
+          "start": 840,
+          "end": 870,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "golfchannel_dr_golf_pga_tour_2026-01-05_0870",
+          "start": 870,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "golfchannel_dr_golf_pga_tour_2026-01-05_1050",
+          "start": 1050,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "golfchannel_dr_golf_today_2026-01-05_1230",
+          "start": 1230,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "DR - HLN",
+      "programs": [
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0390",
+          "start": 390,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0420",
+          "start": 420,
+          "end": 450,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0540",
+          "start": 540,
+          "end": 570,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0570",
+          "start": 570,
+          "end": 600,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0600",
+          "start": 600,
+          "end": 630,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0630",
+          "start": 630,
+          "end": 660,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0660",
+          "start": 660,
+          "end": 690,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0690",
+          "start": 690,
+          "end": 720,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0720",
+          "start": 720,
+          "end": 750,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hln_dr_cnn_news_central_hln_2026-01-05_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "hln_dr_cnn_news_central_hln_2026-01-05_0840",
+          "start": 840,
+          "end": 900,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "hln_dr_cnn_news_central_hln_2026-01-05_0900",
+          "start": 900,
+          "end": 960,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0960",
+          "start": 960,
+          "end": 990,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_0990",
+          "start": 990,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1020",
+          "start": 1020,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1050",
+          "start": 1050,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1080",
+          "start": 1080,
+          "end": 1110,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1110",
+          "start": 1110,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1140",
+          "start": 1140,
+          "end": 1170,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1260",
+          "start": 1260,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "hln_dr_forensic_files_2026-01-05_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "DR - HTV",
+      "programs": [
+        {
+          "program_id": "htv_dr_htv_2026-01-05_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "htv_dr_htv_2026-01-05_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "htv_dr_htv_2026-01-05_0480",
+          "start": 480,
+          "end": 720,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "htv_dr_htv_2026-01-05_0720",
+          "start": 720,
+          "end": 960,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "htv_dr_htv_2026-01-05_0960",
+          "start": 960,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "DR - Las Estrellas",
+      "programs": [
+        {
+          "program_id": "lasestrellas_dr_la_rosa_de_guadalupe_2026-01-05_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "lasestrellas_dr_el_retador_2026-01-05_0045",
+          "start": 45,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "lasestrellas_dr_archivo_muerto_2026-01-05_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "lasestrellas_dr_monteverde_2026-01-05_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "lasestrellas_dr_la_fea_m_s_bella_2026-01-05_0360",
+          "start": 360,
+          "end": 425,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "lasestrellas_dr_la_3era_en_discordia_2026-01-05_0425",
+          "start": 425,
+          "end": 480,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "lasestrellas_dr_laura_sin_censura_2026-01-05_0480",
+          "start": 480,
+          "end": 540,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "lasestrellas_dr_una_familia_con_suerte_2026-01-05_0540",
+          "start": 540,
+          "end": 640,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "lasestrellas_dr_monteverde_2026-01-05_0640",
+          "start": 640,
+          "end": 690,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "lasestrellas_dr_amanecer_2026-01-05_0690",
+          "start": 690,
+          "end": 740,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "lasestrellas_dr_la_3era_en_discordia_2026-01-05_0740",
+          "start": 740,
+          "end": 795,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "lasestrellas_dr_mujer_casos_de_la_vida_r_2026-01-05_0795",
+          "start": 795,
+          "end": 850,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "lasestrellas_dr_la_rosa_de_guadalupe_2026-01-05_0850",
+          "start": 850,
+          "end": 900,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "lasestrellas_dr_las_noticias_en_vivo_2026-01-05_0900",
+          "start": 900,
+          "end": 960,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "lasestrellas_dr_despierta_en_vivo_2026-01-05_0960",
+          "start": 960,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "lasestrellas_dr_como_dice_el_dicho_2026-01-05_1080",
+          "start": 1080,
+          "end": 1130,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "lasestrellas_dr_mi_verdad_oculta_2026-01-05_1130",
+          "start": 1130,
+          "end": 1160,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "lasestrellas_dr_monteverde_2026-01-05_1160",
+          "start": 1160,
+          "end": 1280,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "lasestrellas_dr_amanecer_2026-01-05_1280",
+          "start": 1280,
+          "end": 1330,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "lasestrellas_dr_como_dice_el_dicho_2026-01-05_1330",
+          "start": 1330,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "DR - MTV 00s",
+      "programs": [
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0360",
+          "start": 360,
+          "end": 480,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0480",
+          "start": 480,
+          "end": 600,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0600",
+          "start": 600,
+          "end": 720,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0720",
+          "start": 720,
+          "end": 840,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0840",
+          "start": 840,
+          "end": 960,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_0960",
+          "start": 960,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_1080",
+          "start": 1080,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "mtv00s_dr_channel_no_longer_availa_2026-01-05_1200",
+          "start": 1200,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "DR - MTV Live",
+      "programs": [
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0420",
+          "start": 420,
+          "end": 540,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0540",
+          "start": 540,
+          "end": 660,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0660",
+          "start": 660,
+          "end": 780,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0780",
+          "start": 780,
+          "end": 900,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_0900",
+          "start": 900,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_1020",
+          "start": 1020,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_1140",
+          "start": 1140,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "mtvlive_dr_this_channel_is_now_clos_2026-01-05_1260",
+          "start": 1260,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "DR - RAI International",
+      "programs": [
+        {
+          "program_id": "raiinternational_d_canal_rai_2026-01-05_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "raiinternational_d_canal_rai_2026-01-05_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "raiinternational_d_canal_rai_2026-01-05_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "raiinternational_d_canal_rai_2026-01-05_0600",
+          "start": 600,
+          "end": 840,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "raiinternational_d_canal_rai_2026-01-05_0840",
+          "start": 840,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "raiinternational_d_canal_rai_2026-01-05_1080",
+          "start": 1080,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "DR - RCN Nuestra Tele (Internacional)",
+      "programs": [
+        {
+          "program_id": "rcnnuestratele_int_el_despecho_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rcnnuestratele_int_noticias_rcn_2026-01-05_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "rcnnuestratele_int_festival_de_m_sica_cl_si_2026-01-05_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "rcnnuestratele_int_colombiar_2026-01-05_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rcnnuestratele_int_deportistas_de_lujo_2026-01-05_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rcnnuestratele_int_yo_jos_gabriel_2026-01-05_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rcnnuestratele_int_colombia_a_la_carta_2026-01-05_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rcnnuestratele_int_vivendo_tv_2026-01-05_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rcnnuestratele_int_corazones_blindados_2026-01-05_0360",
+          "start": 360,
+          "end": 480,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "rcnnuestratele_int_trendiando_2026-01-05_0480",
+          "start": 480,
+          "end": 540,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "rcnnuestratele_int_programa_pagado_2026-01-05_0540",
+          "start": 540,
+          "end": 570,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "rcnnuestratele_int_programa_pagado_2026-01-05_0570",
+          "start": 570,
+          "end": 600,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "rcnnuestratele_int_programa_pagado_2026-01-05_0600",
+          "start": 600,
+          "end": 630,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rcnnuestratele_int_programa_pagado_2026-01-05_0630",
+          "start": 630,
+          "end": 660,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rcnnuestratele_int_programa_pagado_2026-01-05_0660",
+          "start": 660,
+          "end": 690,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rcnnuestratele_int_noticias_rcn_2026-01-05_0690",
+          "start": 690,
+          "end": 810,
+          "genre": "news",
+          "score": 84
+        },
+        {
+          "program_id": "rcnnuestratele_int_ma_ana_express_2026-01-05_0810",
+          "start": 810,
+          "end": 930,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rcnnuestratele_int_buen_d_a_colombia_2026-01-05_0930",
+          "start": 930,
+          "end": 1110,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rcnnuestratele_int_noticias_rcn_2026-01-05_1110",
+          "start": 1110,
+          "end": 1230,
+          "genre": "news",
+          "score": 99
+        },
+        {
+          "program_id": "rcnnuestratele_int_lo_mejor_de_la_liga_2026-01-05_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "sports",
+          "score": 95
+        },
+        {
+          "program_id": "rcnnuestratele_int_colombia_a_la_carta_2026-01-05_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "rcnnuestratele_int_carnaval_de_negros_y_bla_2026-01-05_1320",
+          "start": 1320,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "DR - TCM",
+      "programs": [
+        {
+          "program_id": "tcm_dr_calamity_jane_2026-01-05_0000",
+          "start": 0,
+          "end": 31,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tcm_dr_spl3_paradoja_2026-01-05_0031",
+          "start": 31,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tcm_dr_pacto_siniestro_2026-01-05_0120",
+          "start": 120,
+          "end": 224,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tcm_dr_el_hombre_equivocado_2026-01-05_0224",
+          "start": 224,
+          "end": 333,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tcm_dr_prisionero_del_rock_and__2026-01-05_0333",
+          "start": 333,
+          "end": 431,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tcm_dr_las_siete_caras_del_dr_l_2026-01-05_0431",
+          "start": 431,
+          "end": 537,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "tcm_dr_hollywood_one_on_one_2026-01-05_0537",
+          "start": 537,
+          "end": 574,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tcm_dr_hollywood_one_on_one_2026-01-05_0600",
+          "start": 600,
+          "end": 634,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "tcm_dr_hollywood_one_on_one_2026-01-05_0634",
+          "start": 634,
+          "end": 673,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tcm_dr_a_trav_s_de_la_noche_2026-01-05_0701",
+          "start": 701,
+          "end": 814,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "tcm_dr_la_llamada_fatal_2026-01-05_0814",
+          "start": 814,
+          "end": 923,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tcm_dr_calamity_jane_2026-01-05_0923",
+          "start": 923,
+          "end": 1028,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tcm_dr_spl3_paradoja_2026-01-05_1028",
+          "start": 1028,
+          "end": 1117,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "tcm_dr_mientras_la_ciudad_duerm_2026-01-05_1117",
+          "start": 1117,
+          "end": 1234,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "tcm_dr_annie_la_reina_del_circo_2026-01-05_1234",
+          "start": 1234,
+          "end": 1345,
+          "genre": "unknown",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "DR - TNT Novelas",
+      "programs": [
+        {
+          "program_id": "tntnovelas_dr_w_two_worlds_apart_2026-01-05_0000",
+          "start": 0,
+          "end": 47,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tntnovelas_dr_w_two_worlds_apart_2026-01-05_0047",
+          "start": 47,
+          "end": 112,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "DR - TNT Series",
+      "programs": [
+        {
+          "program_id": "tntseries_dr_csi_2026-01-05_0013",
+          "start": 13,
+          "end": 68,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "DR - TV5MONDE",
+      "programs": [
+        {
+          "program_id": "tv5monde_dr_le_journal_de_france_2_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "tv5monde_dr_bis_repetita_2026-01-05_0030",
+          "start": 30,
+          "end": 128,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tv5monde_dr_le_journal_de_la_rtbf_2026-01-05_0150",
+          "start": 150,
+          "end": 176,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "tv5monde_dr_le_myst_re_de_la_chambre_2026-01-05_0176",
+          "start": 176,
+          "end": 292,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tv5monde_dr_gala_de_meudon_de_tout_2026-01-05_0292",
+          "start": 292,
+          "end": 406,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tv5monde_dr_saint_gothard_au_coeur_d_2026-01-05_0431",
+          "start": 431,
+          "end": 507,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "tv5monde_dr_en_plein_coeur_2026-01-05_0507",
+          "start": 507,
+          "end": 600,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "tv5monde_dr_le_t_lejournal_2026-01-05_0600",
+          "start": 600,
+          "end": 621,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "tv5monde_dr_telematin_2026-01-05_0621",
+          "start": 621,
+          "end": 692,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tv5monde_dr_foot_2026-01-05_0719",
+          "start": 719,
+          "end": 759,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "tv5monde_dr_chef_pays_2026-01-05_0774",
+          "start": 774,
+          "end": 810,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv5monde_dr_le_journal_de_la_rtbf_2026-01-05_0810",
+          "start": 810,
+          "end": 840,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "tv5monde_dr_telematin_2026-01-05_0840",
+          "start": 840,
+          "end": 891,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tv5monde_dr_l_picerie_2026-01-05_0962",
+          "start": 962,
+          "end": 999,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv5monde_dr_tout_le_monde_veut_prend_2026-01-05_0999",
+          "start": 999,
+          "end": 1057,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tv5monde_dr_64_actu_2026-01-05_1080",
+          "start": 1080,
+          "end": 1110,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "tv5monde_dr_64_d_bat_2026-01-05_1110",
+          "start": 1110,
+          "end": 1143,
+          "genre": "talk",
+          "score": 81
+        },
+        {
+          "program_id": "tv5monde_dr_ce_que_pauline_ne_vous_d_2026-01-05_1143",
+          "start": 1143,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "tv5monde_dr_le_journal_de_la_rts_2026-01-05_1260",
+          "start": 1260,
+          "end": 1287,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "tv5monde_dr_slam_2026-01-05_1287",
+          "start": 1287,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "tv5monde_dr_tv5monde_le_journal_afri_2026-01-05_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "news",
+          "score": 92
+        },
+        {
+          "program_id": "tv5monde_dr_version_fran_aise_2026-01-05_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "DR - TVE Internacional",
+      "programs": [
+        {
+          "program_id": "tveinternacional_d_espa_oles_en_el_mundo_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tveinternacional_d_turismo_rural_en_el_mund_2026-01-05_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tveinternacional_d_aqui_la_tierra_2026-01-05_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tveinternacional_d_td_internacional_24_hora_2026-01-05_0120",
+          "start": 120,
+          "end": 155,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tveinternacional_d_programa_a_determinar_2026-01-05_0155",
+          "start": 155,
+          "end": 330,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "DR - Telehit",
+      "programs": [
+        {
+          "program_id": "telehit_dr_double_play_2026-01-05_0005",
+          "start": 5,
+          "end": 35,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telehit_dr_horoscop_a_2026-01-05_0035",
+          "start": 35,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telehit_dr_time_to_music_2026-01-05_0090",
+          "start": 90,
+          "end": 145,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "telehit_dr_super_beats_2026-01-05_0145",
+          "start": 145,
+          "end": 200,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "telehit_dr_dale_play_2026-01-05_0200",
+          "start": 200,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "telehit_dr_rainbowlist_2026-01-05_0255",
+          "start": 255,
+          "end": 310,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "telehit_dr_rocool_a_2026-01-05_0310",
+          "start": 310,
+          "end": 365,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "telehit_dr_playhit_2026-01-05_0390",
+          "start": 390,
+          "end": 420,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "telehit_dr_que_news_telehit_2026-01-05_0420",
+          "start": 420,
+          "end": 445,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "telehit_dr_double_play_2026-01-05_0445",
+          "start": 445,
+          "end": 500,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "telehit_dr_rocool_a_2026-01-05_0500",
+          "start": 500,
+          "end": 555,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "telehit_dr_mood_perreo_2026-01-05_0555",
+          "start": 555,
+          "end": 585,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "telehit_dr_rainbowlist_2026-01-05_0585",
+          "start": 585,
+          "end": 640,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "telehit_dr_dale_play_2026-01-05_0640",
+          "start": 640,
+          "end": 695,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "telehit_dr_rocool_a_2026-01-05_0695",
+          "start": 695,
+          "end": 750,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "telehit_dr_playhit_2026-01-05_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "telehit_dr_que_news_telehit_2026-01-05_0780",
+          "start": 780,
+          "end": 805,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "telehit_dr_double_play_2026-01-05_0805",
+          "start": 805,
+          "end": 860,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "telehit_dr_rocool_a_2026-01-05_0860",
+          "start": 860,
+          "end": 915,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "telehit_dr_mood_perreo_2026-01-05_0915",
+          "start": 915,
+          "end": 945,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "telehit_dr_rainbowlist_2026-01-05_0945",
+          "start": 945,
+          "end": 1000,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "telehit_dr_dale_play_2026-01-05_1000",
+          "start": 1000,
+          "end": 1055,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "telehit_dr_rocool_a_2026-01-05_1055",
+          "start": 1055,
+          "end": 1110,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "telehit_dr_playhit_2026-01-05_1110",
+          "start": 1110,
+          "end": 1140,
+          "genre": "music",
+          "score": 69
+        },
+        {
+          "program_id": "telehit_dr_que_news_telehit_2026-01-05_1140",
+          "start": 1140,
+          "end": 1165,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "telehit_dr_double_play_2026-01-05_1165",
+          "start": 1165,
+          "end": 1220,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "telehit_dr_rocool_a_2026-01-05_1220",
+          "start": 1220,
+          "end": 1275,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "telehit_dr_mood_perreo_2026-01-05_1275",
+          "start": 1275,
+          "end": 1305,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "telehit_dr_rainbowlist_2026-01-05_1305",
+          "start": 1305,
+          "end": 1360,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "telehit_dr_dale_play_2026-01-05_1360",
+          "start": 1360,
+          "end": 1415,
+          "genre": "unknown",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "DR - Telehit Música",
+      "programs": [
+        {
+          "program_id": "telehitmusica_dr_90s_pop_hits_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "telehitmusica_dr_playlist_telehit_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "telehitmusica_dr_super_hits_2026-01-05_0060",
+          "start": 60,
+          "end": 115,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "telehitmusica_dr_telehitazos_2026-01-05_0115",
+          "start": 115,
+          "end": 170,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "telehitmusica_dr_ranking_2026-01-05_0170",
+          "start": 170,
+          "end": 225,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telehitmusica_dr_reggaetown_2026-01-05_0225",
+          "start": 225,
+          "end": 280,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "telehitmusica_dr_musicolog_a_2026-01-05_0280",
+          "start": 280,
+          "end": 335,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "telehitmusica_dr_90s_pop_hits_2026-01-05_0335",
+          "start": 335,
+          "end": 390,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "telehitmusica_dr_playlist_telehit_2026-01-05_0390",
+          "start": 390,
+          "end": 420,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "telehitmusica_dr_top_10_2026-01-05_0420",
+          "start": 420,
+          "end": 475,
+          "genre": "music",
+          "score": 70
+        },
+        {
+          "program_id": "telehitmusica_dr_reggaetown_2026-01-05_0475",
+          "start": 475,
+          "end": 530,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "telehitmusica_dr_90s_pop_hits_2026-01-05_0530",
+          "start": 530,
+          "end": 585,
+          "genre": "music",
+          "score": 70
+        },
+        {
+          "program_id": "telehitmusica_dr_telehitazos_2026-01-05_0585",
+          "start": 585,
+          "end": 640,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "telehitmusica_dr_musicolog_a_2026-01-05_0640",
+          "start": 640,
+          "end": 695,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "telehitmusica_dr_suena_el_dembow_2026-01-05_0695",
+          "start": 695,
+          "end": 750,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "telehitmusica_dr_playlist_telehit_2026-01-05_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "telehitmusica_dr_top_10_2026-01-05_0780",
+          "start": 780,
+          "end": 835,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "telehitmusica_dr_reggaetown_2026-01-05_0835",
+          "start": 835,
+          "end": 890,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "telehitmusica_dr_90s_pop_hits_2026-01-05_0890",
+          "start": 890,
+          "end": 945,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "telehitmusica_dr_telehitazos_2026-01-05_0945",
+          "start": 945,
+          "end": 1000,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "telehitmusica_dr_musicolog_a_2026-01-05_1000",
+          "start": 1000,
+          "end": 1055,
+          "genre": "music",
+          "score": 69
+        },
+        {
+          "program_id": "telehitmusica_dr_suena_el_dembow_2026-01-05_1055",
+          "start": 1055,
+          "end": 1110,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "telehitmusica_dr_playlist_telehit_2026-01-05_1110",
+          "start": 1110,
+          "end": 1140,
+          "genre": "music",
+          "score": 71
+        },
+        {
+          "program_id": "telehitmusica_dr_top_10_2026-01-05_1140",
+          "start": 1140,
+          "end": 1195,
+          "genre": "music",
+          "score": 69
+        },
+        {
+          "program_id": "telehitmusica_dr_reggaetown_2026-01-05_1195",
+          "start": 1195,
+          "end": 1250,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "telehitmusica_dr_90s_pop_hits_2026-01-05_1250",
+          "start": 1250,
+          "end": 1305,
+          "genre": "music",
+          "score": 82
+        },
+        {
+          "program_id": "telehitmusica_dr_telehitazos_2026-01-05_1305",
+          "start": 1305,
+          "end": 1360,
+          "genre": "music",
+          "score": 75
+        },
+        {
+          "program_id": "telehitmusica_dr_musicolog_a_2026-01-05_1360",
+          "start": 1360,
+          "end": 1415,
+          "genre": "music",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "DR - Telemicro Internacional",
+      "programs": [
+        {
+          "program_id": "telemicrointernaci_lo_ltimo_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telemicrointernaci_sala_5_2026-01-05_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "telemicrointernaci_sala_5_2026-01-05_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "telemicrointernaci_noticiero_univisi_n_2026-01-05_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "telemicrointernaci_mortales_2026-01-05_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "telemicrointernaci_noticiero_univisi_n_2026-01-05_0420",
+          "start": 420,
+          "end": 480,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "telemicrointernaci_telemicro_2026-01-05_0480",
+          "start": 480,
+          "end": 600,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "telemicrointernaci_la_opci_n_de_la_ma_ana_2026-01-05_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telemicrointernaci_matinal_2026-01-05_0660",
+          "start": 660,
+          "end": 780,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "telemicrointernaci_despierta_am_rica_2026-01-05_0780",
+          "start": 780,
+          "end": 960,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "telemicrointernaci_la_rosa_de_guadalupe_2026-01-05_0960",
+          "start": 960,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telemicrointernaci_pap_s_por_conveniencia_2026-01-05_1020",
+          "start": 1020,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "telemicrointernaci_alborada_2026-01-05_1080",
+          "start": 1080,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "telemicrointernaci_noticias_telemicro_2026-01-05_1140",
+          "start": 1140,
+          "end": 1200,
+          "genre": "news",
+          "score": 95
+        },
+        {
+          "program_id": "telemicrointernaci_t_y_yo_2026-01-05_1200",
+          "start": 1200,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "telemicrointernaci_a_mar_donde_el_amor_teje_2026-01-05_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "telemicrointernaci_el_gordo_y_la_flaca_2026-01-05_1320",
+          "start": 1320,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "DR - USA Network",
+      "programs": [
+        {
+          "program_id": "usanetwork_dr_blue_bloods_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "usanetwork_dr_the_rookie_2026-01-05_0035",
+          "start": 35,
+          "end": 85,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "DR - VH1",
+      "programs": [
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0360",
+          "start": 360,
+          "end": 480,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0480",
+          "start": 480,
+          "end": 600,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0600",
+          "start": 600,
+          "end": 720,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0720",
+          "start": 720,
+          "end": 840,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0840",
+          "start": 840,
+          "end": 960,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_0960",
+          "start": 960,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_1080",
+          "start": 1080,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "vh1_dr_fuera_del_aire_2026-01-05_1200",
+          "start": 1200,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    }
+  ]
+}

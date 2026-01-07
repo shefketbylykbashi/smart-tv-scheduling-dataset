@@ -1,0 +1,3384 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 84,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 240,
+      "end": 345,
+      "allowed_channels": [
+        13,
+        10,
+        65,
+        4,
+        9,
+        11,
+        7,
+        24,
+        75,
+        12,
+        2,
+        8,
+        73,
+        53,
+        58,
+        50,
+        59,
+        37,
+        34,
+        23,
+        66,
+        62,
+        72,
+        14,
+        79,
+        16,
+        30,
+        35,
+        64,
+        68,
+        76,
+        83,
+        80,
+        3,
+        81,
+        26,
+        57,
+        70,
+        5,
+        36,
+        56,
+        49,
+        33,
+        22,
+        51,
+        60
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 42
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 40
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 32
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 38
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "sports",
+      "bonus": 39
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "sports",
+      "bonus": 37
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "sports",
+      "bonus": 35
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "sports",
+      "bonus": 33
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "sports",
+      "bonus": 37
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "MK - Action M",
+      "programs": [
+        {
+          "program_id": "actionm_mk_action_m_00_00_07_01_202_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "actionm_mk_action_m_04_00_07_01_202_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "MK - Алфа",
+      "programs": [
+        {
+          "program_id": "alfa_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "alfa_mk__2026-01-07_0090",
+          "start": 90,
+          "end": 385,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "MK - Aljazeera Balkans",
+      "programs": [
+        {
+          "program_id": "aljazeerabalkans_m_newsmax_usa_top_story_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeerabalkans_m_informativna_emisija_pre_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeerabalkans_m_stav_dana_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "aljazeerabalkans_m_prozori_balkana_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "aljazeerabalkans_m_stav_regiona_pregled_god_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "aljazeerabalkans_m_tra_im_re_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "aljazeerabalkans_m_sinteza_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "aljazeerabalkans_m_newsmax_usa_top_story_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "MK - Алсат М",
+      "programs": [
+        {
+          "program_id": "alsatm_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "alsatm_mk_9_11_2026-01-07_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "alsatm_mk__2026-01-07_0150",
+          "start": 150,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "alsatm_mk_prizma_2026-01-07_0270",
+          "start": 270,
+          "end": 320,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "alsatm_mk__2026-01-07_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "MK - Arena Esports",
+      "programs": [
+        {
+          "program_id": "arenaesports_mk_arena_esport_hd_00_00_07_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "arenaesports_mk_arena_esport_hd_04_00_07_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "MK - Arena Fight",
+      "programs": [
+        {
+          "program_id": "arenafight_mk_ufc_fight_night_diego_lo_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "arenafight_mk_ufc_efn_48_rakic_vs_smit_2026-01-07_0135",
+          "start": 135,
+          "end": 165,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "arenafight_mk_emea_rakic_vs_barroso_mm_2026-01-07_0165",
+          "start": 165,
+          "end": 195,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "arenafight_mk_abass_baraou_vs_brian_ch_2026-01-07_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "arenafight_mk_emmanuel_tagoe_vs_mason__2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "arenafight_mk_mahammadrasul_majidov_vs_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "arenafight_mk_nikita_ababiy_vs_brandon_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "MK - Arena Premium 1",
+      "programs": [
+        {
+          "program_id": "arenapremium1_mk_monaco_partizan_evroliga_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "arenapremium1_mk_minnesota_miami_nba_ko_a_2026-01-07_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "MK - Arena Premium 2",
+      "programs": [
+        {
+          "program_id": "arenapremium2_mk_crvena_zvezda_valencia_e_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "arenapremium2_mk_hapoel_tel_aviv_dubai_ev_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "arenapremium2_mk_asvel_real_madrid_evroli_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "MK - Arena Premium 3",
+      "programs": [
+        {
+          "program_id": "arenapremium3_mk_osmina_finala_7_afri_ki__2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "arenapremium3_mk_osmina_finala_8_afri_ki__2026-01-07_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "arenapremium3_mk_fenerbah_e_samsunspor_tu_2026-01-07_0210",
+          "start": 210,
+          "end": 360,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "MK - Arena Sport 1",
+      "programs": [
+        {
+          "program_id": "arenasport1_mk_celtic_rangers_kotska_li_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "arenasport1_mk_manchester_city_chelsea__2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "arenasport1_mk_tottenham_sunderland_eng_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "MK - Arena Sport 2",
+      "programs": [
+        {
+          "program_id": "arenasport2_mk_real_madrid_betis_panska_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "arenasport2_mk_oni_ive_za_fudbal_ep_209_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "arenasport2_mk_pisa_como_italijanska_li_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "arenasport2_mk_osasuna_athletic_panska__2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "MK - Arena Sport 3",
+      "programs": [
+        {
+          "program_id": "arenasport3_mk_lille_rennes_francuska_l_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "arenasport3_mk_bundesliga_specijal_rurs_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "arenasport3_mk_e_braunschweig_schalke_n_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "arenasport3_mk_santa_clara_porto_portug_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "MK - Arena Sport 4",
+      "programs": [
+        {
+          "program_id": "arenasport4_mk_bayer_leverkusen_newcast_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "arenasport4_mk_qarabag_ajax_uefa_liga_a_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "arenasport4_mk_celtic_roma_uefa_liga_ev_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "MK - Arena Sport 5",
+      "programs": [
+        {
+          "program_id": "arenasport5_mk_manresa_aris_evrokup_ko__2026-01-07_0000",
+          "start": 0,
+          "end": 150,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "arenasport5_mk_engdu_etvrtfinala_fiba_3_2026-01-07_0150",
+          "start": 150,
+          "end": 255,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "arenasport5_mk_engdu_polufinala_i_final_2026-01-07_0255",
+          "start": 255,
+          "end": 360,
+          "genre": "sports",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "MK - BBC First",
+      "programs": [
+        {
+          "program_id": "bbcfirst_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "bbcfirst_mk__2026-01-07_0060",
+          "start": 60,
+          "end": 95,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bbcfirst_mk__2026-01-07_0095",
+          "start": 95,
+          "end": 155,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "bbcfirst_mk__2026-01-07_0155",
+          "start": 155,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bbcfirst_mk__2026-01-07_0210",
+          "start": 210,
+          "end": 265,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bbcfirst_mk__2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "bbcfirst_mk__2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "MK - BRAINZ",
+      "programs": [
+        {
+          "program_id": "brainz_mk_u_na_em_ataru_2026-01-07_0000",
+          "start": 0,
+          "end": 540,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "MK - Balkan Music",
+      "programs": [
+        {
+          "program_id": "balkanmusic_mk_balkan_folk_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "balkanmusic_mk_jukebox_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "MK - Balkan Trip",
+      "programs": [
+        {
+          "program_id": "balkantrip_mk_balkan_trip_hd_00_00_07__2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "balkantrip_mk_balkan_trip_hd_04_00_07__2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "MK - Balkanika",
+      "programs": [
+        {
+          "program_id": "balkanika_mk_where_is_the_party_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "balkanika_mk_flirt_2026-01-07_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "balkanika_mk_tick_tack_2026-01-07_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "MK - Cinemania",
+      "programs": [
+        {
+          "program_id": "cinemania_mk_zoi_2026-01-07_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cinemania_mk_dvostruki_ljubavnik_2026-01-07_0065",
+          "start": 65,
+          "end": 170,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cinemania_mk_jupiterov_mesec_2026-01-07_0170",
+          "start": 170,
+          "end": 295,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cinemania_mk_svemo_ni_tor_2026-01-07_0295",
+          "start": 295,
+          "end": 385,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "MK - DA VINCHI LEARNING",
+      "programs": [
+        {
+          "program_id": "davinchilearning_m__2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "davinchilearning_m__2026-01-07_0327",
+          "start": 327,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "MK - DM Sat",
+      "programs": [
+        {
+          "program_id": "dmsat_mk_muzi_ki_program_sms_chat_2026-01-07_0015",
+          "start": 15,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "dmsat_mk_estradne_vesti_2026-01-07_0120",
+          "start": 120,
+          "end": 125,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "dmsat_mk_muzi_ki_program_sms_chat_2026-01-07_0125",
+          "start": 125,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "MK - Discovery",
+      "programs": [
+        {
+          "program_id": "discovery_mk_salvage_hunters_classic__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "discovery_mk_misfit_garage_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "discovery_mk_gold_rush_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "discovery_mk_the_last_woodsmen_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "discovery_mk_wheeler_dealers_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "discovery_mk_salvage_hunters_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "MK - Eurosport",
+      "programs": [
+        {
+          "program_id": "eurosport_mk_snuker_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "eurosport_mk_skija_ki_skokovi_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "eurosport_mk_snuker_2026-01-07_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "eurosport_mk_fristajl_skijanje_2026-01-07_0210",
+          "start": 210,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "eurosport_mk_skija_ki_skokovi_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "MK - Eurosport 2",
+      "programs": [
+        {
+          "program_id": "eurosport2_mk_fristajl_skijanje_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "eurosport2_mk_skija_ki_skokovi_2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "eurosport2_mk_skija_ki_skokovi_2026-01-07_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "eurosport2_mk_tenis_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "MK - FLASHBACK",
+      "programs": [
+        {
+          "program_id": "flashback_mk_party_time_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "flashback_mk_muzi_ki_spotovi_2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "MK - Fantasy M",
+      "programs": [
+        {
+          "program_id": "fantasym_mk_avengers_infinity_war_2026-01-07_0000",
+          "start": 0,
+          "end": 38,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "fantasym_mk_prime_2_m_00_38_07_01_20_2026-01-07_0038",
+          "start": 38,
+          "end": 80,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "fantasym_mk_prime_2_m_01_20_07_01_20_2026-01-07_0080",
+          "start": 80,
+          "end": 320,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "fantasym_mk_prime_2_m_05_20_07_01_20_2026-01-07_0320",
+          "start": 320,
+          "end": 560,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "MK - Hayat Folk",
+      "programs": [
+        {
+          "program_id": "hayatfolk_mk_samo_na_e_2026-01-07_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "MK - IDJ TV",
+      "programs": [
+        {
+          "program_id": "idjtv_mk_idjmas_2026-01-07_0000",
+          "start": 0,
+          "end": 5,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "idjtv_mk_idjbalkan_2026-01-07_0005",
+          "start": 5,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "idjtv_mk_idjrap_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "idjtv_mk_idjhits_2026-01-07_0120",
+          "start": 120,
+          "end": 480,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "MK - ИНФО КАНАЛ",
+      "programs": [
+        {
+          "program_id": "infokanal_mk_00_00_07_01_2026_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "infokanal_mk_04_00_07_01_2026_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "MK - JEKA",
+      "programs": [
+        {
+          "program_id": "jeka_mk_party_time_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "jeka_mk_muzi_ki_spotovi_2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "MK - KOHA",
+      "programs": [
+        {
+          "program_id": "koha_mk_film_artistik_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "koha_mk_best_off_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "koha_mk_muzik_e_huaj_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "koha_mk_bised_me_mjekun_tuaj_2026-01-07_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "koha_mk_lajme_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "koha_mk_pralla_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "koha_mk_pas_mengjesit_2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "MK - Канал 5",
+      "programs": [
+        {
+          "program_id": "kanal5_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 405,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "MK - Lov i ribolov",
+      "programs": [
+        {
+          "program_id": "loviribolov_mk_bez_granica_sa_andrejem_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "loviribolov_mk_ulovi_trofej_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "loviribolov_mk_ulovi_trofej_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "loviribolov_mk_kad_na_brod_plovi_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "loviribolov_mk_lova_ki_saveti_nauka_i_l_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "loviribolov_mk_lova_ki_saveti_nauka_i_l_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "loviribolov_mk_upoznajte_lovstvo_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "loviribolov_mk_upoznajte_lovstvo_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "loviribolov_mk_kuhinjica_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "loviribolov_mk_kuhinjica_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "loviribolov_mk_ribolova_ki_saveti_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "loviribolov_mk_ribolova_ki_saveti_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "MK - Luxe TV",
+      "programs": [
+        {
+          "program_id": "luxetv_mk_luxe_today_2026-01-07_0000",
+          "start": 0,
+          "end": 25,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "luxetv_mk_luxe_this_month_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "luxetv_mk_luxe_today_2026-01-07_0060",
+          "start": 60,
+          "end": 85,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "luxetv_mk_luxe_this_month_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "luxetv_mk_luxe_today_2026-01-07_0120",
+          "start": 120,
+          "end": 145,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "luxetv_mk_luxe_this_month_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "luxetv_mk_luxe_today_2026-01-07_0180",
+          "start": 180,
+          "end": 205,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "luxetv_mk_luxe_this_month_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "luxetv_mk_luxe_today_2026-01-07_0240",
+          "start": 240,
+          "end": 265,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "luxetv_mk_luxe_this_month_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "luxetv_mk_luxe_today_2026-01-07_0300",
+          "start": 300,
+          "end": 325,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "luxetv_mk_luxe_this_month_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "MK - M1",
+      "programs": [
+        {
+          "program_id": "m1_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "m1_mk__2026-01-07_0040",
+          "start": 40,
+          "end": 155,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "m1_mk__2026-01-07_0155",
+          "start": 155,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "m1_mk__2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "documentary",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "MK - M1 Family",
+      "programs": [
+        {
+          "program_id": "m1family_mk_joan_of_arc_2026-01-07_0000",
+          "start": 0,
+          "end": 70,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "m1family_mk_joan_of_arc_2026-01-07_0070",
+          "start": 70,
+          "end": 420,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "MK - M1 Gold",
+      "programs": [
+        {
+          "program_id": "m1gold_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 100,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "m1gold_mk__2026-01-07_0100",
+          "start": 100,
+          "end": 205,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "m1gold_mk__2026-01-07_0205",
+          "start": 205,
+          "end": 320,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "m1gold_mk__2026-01-07_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "MK - MOBA",
+      "programs": [
+        {
+          "program_id": "moba_mk_after_2026-01-07_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "MK - МРТ 1",
+      "programs": [
+        {
+          "program_id": "mrt1_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 113,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mrt1_mk_2_2026-01-07_0113",
+          "start": 113,
+          "end": 143,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "mrt1_mk__2026-01-07_0143",
+          "start": 143,
+          "end": 150,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "mrt1_mk__2026-01-07_0154",
+          "start": 154,
+          "end": 234,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mrt1_mk__2026-01-07_0249",
+          "start": 249,
+          "end": 290,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mrt1_mk__2026-01-07_0290",
+          "start": 290,
+          "end": 342,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mrt1_mk__2026-01-07_0342",
+          "start": 342,
+          "end": 405,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "MK - МРТ 2",
+      "programs": [
+        {
+          "program_id": "mrt2_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 5,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "mrt2_mk__2026-01-07_0014",
+          "start": 14,
+          "end": 47,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "mrt2_mk__2026-01-07_0047",
+          "start": 47,
+          "end": 170,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mrt2_mk__2026-01-07_0183",
+          "start": 183,
+          "end": 213,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "mrt2_mk__2026-01-07_0218",
+          "start": 218,
+          "end": 283,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mrt2_mk__2026-01-07_0299",
+          "start": 299,
+          "end": 333,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mrt2_mk__2026-01-07_0333",
+          "start": 333,
+          "end": 372,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "MK - МРТ 3",
+      "programs": [
+        {
+          "program_id": "mrt3_mk__2026-01-07_0001",
+          "start": 1,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mrt3_mk_27_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mrt3_mk__2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "MK - МРТ 4",
+      "programs": [
+        {
+          "program_id": "mrt4_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "mrt4_mk__2026-01-07_0020",
+          "start": 20,
+          "end": 55,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mrt4_mk__2026-01-07_0085",
+          "start": 85,
+          "end": 126,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mrt4_mk__2026-01-07_0126",
+          "start": 126,
+          "end": 183,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mrt4_mk__2026-01-07_0209",
+          "start": 209,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mrt4_mk_9_2026-01-07_0265",
+          "start": 265,
+          "end": 322,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mrt4_mk__2026-01-07_0322",
+          "start": 322,
+          "end": 362,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "MK - МРТ 5",
+      "programs": [
+        {
+          "program_id": "mrt5_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mrt5_mk__2026-01-07_0090",
+          "start": 90,
+          "end": 170,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mrt5_mk__2026-01-07_0170",
+          "start": 170,
+          "end": 200,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mrt5_mk__2026-01-07_0215",
+          "start": 215,
+          "end": 260,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mrt5_mk__2026-01-07_0280",
+          "start": 280,
+          "end": 310,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mrt5_mk__2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "MK - МРТ СОБРАНИСКИ КАНАЛ",
+      "programs": [
+        {
+          "program_id": "mrtsobraniskikanal_terra_magica_2026-01-07_0086",
+          "start": 86,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mrtsobraniskikanal__2026-01-07_0150",
+          "start": 150,
+          "end": 155,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "mrtsobraniskikanal__2026-01-07_0196",
+          "start": 196,
+          "end": 230,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mrtsobraniskikanal__2026-01-07_0240",
+          "start": 240,
+          "end": 326,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "MK - MTV 00s",
+      "programs": [
+        {
+          "program_id": "mtv00s_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mtv00s_mk__2026-01-07_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mtv00s_mk__2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "MK - MTV 80s",
+      "programs": [
+        {
+          "program_id": "mtv80s_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mtv80s_mk__2026-01-07_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mtv80s_mk__2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "MK - MUZZIK",
+      "programs": [
+        {
+          "program_id": "muzzik_mk_party_time_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "muzzik_mk_muzi_ki_spotovi_2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "MK - N1",
+      "programs": [
+        {
+          "program_id": "n1_mk_n1_hd_00_00_07_01_2026_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "n1_mk_n1_hd_04_00_07_01_2026_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "MK - Наша ТВ",
+      "programs": [
+        {
+          "program_id": "nasatv_mk_love_tv_2026-01-07_0035",
+          "start": 35,
+          "end": 95,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "nasatv_mk__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "nasatv_mk__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nasatv_mk__2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "nasatv_mk__2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "nasatv_mk_cv_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nasatv_mk__2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "MK - Nat Geo",
+      "programs": [
+        {
+          "program_id": "natgeo_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "natgeo_mk__2026-01-07_0050",
+          "start": 50,
+          "end": 95,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "natgeo_mk__2026-01-07_0095",
+          "start": 95,
+          "end": 135,
+          "genre": "education",
+          "score": 67
+        },
+        {
+          "program_id": "natgeo_mk_taboo_2026-01-07_0160",
+          "start": 160,
+          "end": 205,
+          "genre": "kids",
+          "score": 59
+        },
+        {
+          "program_id": "natgeo_mk_trafficked_with_mariana__2026-01-07_0205",
+          "start": 205,
+          "end": 250,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "natgeo_mk_1_2026-01-07_0250",
+          "start": 250,
+          "end": 295,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "natgeo_mk__2026-01-07_0295",
+          "start": 295,
+          "end": 335,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "MK - NatGeo Wild",
+      "programs": [
+        {
+          "program_id": "natgeowild_mk_wild_alaska_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "natgeowild_mk_kingdom_of_the_polar_bea_2026-01-07_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "natgeowild_mk_wild_lapland_1_2026-01-07_0075",
+          "start": 75,
+          "end": 125,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "natgeowild_mk_snow_school_2026-01-07_0125",
+          "start": 125,
+          "end": 170,
+          "genre": "education",
+          "score": 66
+        },
+        {
+          "program_id": "natgeowild_mk_winter_of_the_bear_2026-01-07_0170",
+          "start": 170,
+          "end": 220,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "natgeowild_mk__2026-01-07_0220",
+          "start": 220,
+          "end": 265,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "natgeowild_mk_wild_lapland_1_2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "natgeowild_mk_snow_school_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "education",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "MK - Nickelodeon",
+      "programs": [
+        {
+          "program_id": "nickelodeon_mk_best_and_bester_2026-01-07_0010",
+          "start": 10,
+          "end": 35,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "nickelodeon_mk_best_and_bester_2026-01-07_0035",
+          "start": 35,
+          "end": 55,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "nickelodeon_mk_best_and_bester_2026-01-07_0055",
+          "start": 55,
+          "end": 80,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "nickelodeon_mk_spongebob_squarepants_2026-01-07_0125",
+          "start": 125,
+          "end": 150,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "MK - Nova S",
+      "programs": [
+        {
+          "program_id": "novas_mk_zvezda_za_bo_i_2026-01-07_0015",
+          "start": 15,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "novas_mk_pisac_iz_senke_2026-01-07_0120",
+          "start": 120,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "novas_mk_medju_nama_2026-01-07_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "MK - POP STAR",
+      "programs": [
+        {
+          "program_id": "popstar_mk_party_time_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "popstar_mk_muzi_ki_spotovi_2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "MK - Pickbox TV",
+      "programs": [
+        {
+          "program_id": "pickboxtv_mk__2026-01-07_0015",
+          "start": 15,
+          "end": 65,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "pickboxtv_mk__2026-01-07_0065",
+          "start": 65,
+          "end": 165,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "pickboxtv_mk__2026-01-07_0165",
+          "start": 165,
+          "end": 455,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "MK - RTV 21",
+      "programs": [
+        {
+          "program_id": "rtv21_mk_programet_e_rtv_21_2026-01-07_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "MK - RTV 21 M",
+      "programs": [
+        {
+          "program_id": "rtv21m_mk_click_plus_2026-01-07_0005",
+          "start": 5,
+          "end": 85,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtv21m_mk_pastel_2026-01-07_0085",
+          "start": 85,
+          "end": 205,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtv21m_mk_ikat_n_trip_2026-01-07_0205",
+          "start": 205,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rtv21m_mk_reportazh_2026-01-07_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtv21m_mk_muzik_top_10_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "MK - Сител",
+      "programs": [
+        {
+          "program_id": "sitel_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "sitel_mk__2026-01-07_0115",
+          "start": 115,
+          "end": 160,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sitel_mk__2026-01-07_0160",
+          "start": 160,
+          "end": 205,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "sitel_mk__2026-01-07_0205",
+          "start": 205,
+          "end": 319,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "sitel_mk__2026-01-07_0319",
+          "start": 319,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "MK - Star Channel",
+      "programs": [
+        {
+          "program_id": "starchannel_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "starchannel_mk__2026-01-07_0045",
+          "start": 45,
+          "end": 95,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "starchannel_mk__2026-01-07_0095",
+          "start": 95,
+          "end": 145,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "starchannel_mk__2026-01-07_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "starchannel_mk__2026-01-07_0190",
+          "start": 190,
+          "end": 235,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "starchannel_mk__2026-01-07_0235",
+          "start": 235,
+          "end": 285,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "starchannel_mk_1_2026-01-07_0285",
+          "start": 285,
+          "end": 335,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "MK - Star Crime",
+      "programs": [
+        {
+          "program_id": "starcrime_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "starcrime_mk__2026-01-07_0055",
+          "start": 55,
+          "end": 115,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "starcrime_mk__2026-01-07_0115",
+          "start": 115,
+          "end": 165,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "starcrime_mk__2026-01-07_0185",
+          "start": 185,
+          "end": 230,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "starcrime_mk__2026-01-07_0230",
+          "start": 230,
+          "end": 275,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "starcrime_mk__2026-01-07_0275",
+          "start": 275,
+          "end": 315,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "starcrime_mk__2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "MK - Star Life",
+      "programs": [
+        {
+          "program_id": "starlife_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "starlife_mk__2026-01-07_0040",
+          "start": 40,
+          "end": 95,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "starlife_mk__2026-01-07_0095",
+          "start": 95,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "starlife_mk__2026-01-07_0195",
+          "start": 195,
+          "end": 245,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "starlife_mk__2026-01-07_0245",
+          "start": 245,
+          "end": 290,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "starlife_mk__2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "series",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "MK - Star Movies",
+      "programs": [
+        {
+          "program_id": "starmovies_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "starmovies_mk__2026-01-07_0050",
+          "start": 50,
+          "end": 185,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "starmovies_mk__2026-01-07_0185",
+          "start": 185,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "starmovies_mk_4_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "MK - Super M",
+      "programs": [
+        {
+          "program_id": "superm_mk_prime_1_m_00_28_07_01_20_2026-01-07_0028",
+          "start": 28,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "superm_mk_prime_1_m_01_00_07_01_20_2026-01-07_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "superm_mk_prime_1_m_05_00_07_01_20_2026-01-07_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "MK - Superstar",
+      "programs": [
+        {
+          "program_id": "superstar_mk_telohranitelj_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "superstar_mk_etiri_bo_i_a_2026-01-07_0120",
+          "start": 120,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "superstar_mk_bejb_2026-01-07_0210",
+          "start": 210,
+          "end": 305,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "superstar_mk_dr_avni_posao_novogodi_n_2026-01-07_0305",
+          "start": 305,
+          "end": 355,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "superstar_mk_ruski_konzul_2026-01-07_0355",
+          "start": 355,
+          "end": 415,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "MK - Superstar 2",
+      "programs": [
+        {
+          "program_id": "superstar2_mk_azbuka_na_eg_ivota_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "superstar2_mk_to_se_bore_misli_moje_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "superstar2_mk_izazov_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "superstar2_mk_dr_avni_posao_2026-01-07_0180",
+          "start": 180,
+          "end": 195,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "superstar2_mk_srpski_junaci_srednjeg_v_2026-01-07_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "superstar2_mk_aviond_ije_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "superstar2_mk_aviond_ije_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "MK - TLC",
+      "programs": [
+        {
+          "program_id": "tlc_mk_izdaja_ubistvo_u_hladnja_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tlc_mk_bra_ni_par_el_musa_renov_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tlc_mk_bejlin_eli_da_je_uju_nec_2026-01-07_0120",
+          "start": 120,
+          "end": 170,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tlc_mk_poligamna_porodica_o_moj_2026-01-07_0170",
+          "start": 170,
+          "end": 220,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "tlc_mk_teret_maj_inske_ljubavi_2026-01-07_0220",
+          "start": 220,
+          "end": 270,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tlc_mk_sedmoro_malih_d_onstona__2026-01-07_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tlc_mk_ven_anica_iz_snova_ujedi_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "MK - TV 1000",
+      "programs": [
+        {
+          "program_id": "tv1000_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 110,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv1000_mk_28_2026-01-07_0110",
+          "start": 110,
+          "end": 260,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv1000_mk_3_2026-01-07_0260",
+          "start": 260,
+          "end": 355,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tv1000_mk__2026-01-07_0355",
+          "start": 355,
+          "end": 390,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "MK - ТВ 24",
+      "programs": [
+        {
+          "program_id": "tv24_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv24_mk__2026-01-07_0030",
+          "start": 30,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "MK - TV EDO",
+      "programs": [
+        {
+          "program_id": "tvedo_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvedo_mk__2026-01-07_0090",
+          "start": 90,
+          "end": 130,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvedo_mk__2026-01-07_0130",
+          "start": 130,
+          "end": 236,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tvedo_mk__2026-01-07_0236",
+          "start": 236,
+          "end": 320,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "tvedo_mk__2026-01-07_0320",
+          "start": 320,
+          "end": 376,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "MK - TV SHENJA",
+      "programs": [
+        {
+          "program_id": "tvshenja_mk_film_artistik_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "tvshenja_mk_vajza_e_pasur_djali_i_va_2026-01-07_0030",
+          "start": 30,
+          "end": 70,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tvshenja_mk_ringjallja_2026-01-07_0070",
+          "start": 70,
+          "end": 130,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tvshenja_mk_lajmet_r_2026-01-07_0130",
+          "start": 130,
+          "end": 160,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "tvshenja_mk_mozaiku_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tvshenja_mk_emision_fjala_2026-01-07_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tvshenja_mk_paradite_me_ne_2026-01-07_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "MK - ТВ Сонце",
+      "programs": [
+        {
+          "program_id": "tvsonce_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tvsonce_mk__2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tvsonce_mk__2026-01-07_0180",
+          "start": 180,
+          "end": 200,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "tvsonce_mk__2026-01-07_0200",
+          "start": 200,
+          "end": 320,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvsonce_mk__2026-01-07_0320",
+          "start": 320,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "MK - Телма",
+      "programs": [
+        {
+          "program_id": "telma_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "telma_mk__2026-01-07_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "telma_mk__2026-01-07_0150",
+          "start": 150,
+          "end": 270,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "telma_mk__2026-01-07_0270",
+          "start": 270,
+          "end": 310,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "telma_mk__2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "MK - Toxic Folk",
+      "programs": [
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_live_2026-01-07_0005",
+          "start": 5,
+          "end": 35,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_classics_2026-01-07_0035",
+          "start": 35,
+          "end": 65,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_emotion_2026-01-07_0065",
+          "start": 65,
+          "end": 95,
+          "genre": "weather",
+          "score": 42
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_tuner_2026-01-07_0095",
+          "start": 95,
+          "end": 125,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_club_2026-01-07_0125",
+          "start": 125,
+          "end": 155,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_accordian_2026-01-07_0155",
+          "start": 155,
+          "end": 185,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_tuner_2026-01-07_0185",
+          "start": 185,
+          "end": 215,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_classics_2026-01-07_0215",
+          "start": 215,
+          "end": 245,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_live_2026-01-07_0245",
+          "start": 245,
+          "end": 275,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_hits_2026-01-07_0275",
+          "start": 275,
+          "end": 305,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_accordian_2026-01-07_0305",
+          "start": 305,
+          "end": 335,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "toxicfolk_mk_toxic_folk_live_2026-01-07_0335",
+          "start": 335,
+          "end": 365,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "MK - Toxic Rap",
+      "programs": [
+        {
+          "program_id": "toxicrap_mk_toxic_rap_world_2026-01-07_0005",
+          "start": 5,
+          "end": 35,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_alternative_2026-01-07_0035",
+          "start": 35,
+          "end": 65,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_rap_2026-01-07_0065",
+          "start": 65,
+          "end": 95,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_crossover_2026-01-07_0095",
+          "start": 95,
+          "end": 125,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_hits_2026-01-07_0125",
+          "start": 125,
+          "end": 155,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_trap_2026-01-07_0155",
+          "start": 155,
+          "end": 185,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_world_2026-01-07_0185",
+          "start": 185,
+          "end": 215,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_hits_2026-01-07_0215",
+          "start": 215,
+          "end": 245,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_alternative_2026-01-07_0245",
+          "start": 245,
+          "end": 275,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_crossover_2026-01-07_0275",
+          "start": 275,
+          "end": 305,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_world_2026-01-07_0305",
+          "start": 305,
+          "end": 335,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "toxicrap_mk_toxic_rap_rap_2026-01-07_0335",
+          "start": 335,
+          "end": 365,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "MK - Toxic TV",
+      "programs": [
+        {
+          "program_id": "toxictv_mk_toxic_emotion_2026-01-07_0065",
+          "start": 65,
+          "end": 95,
+          "genre": "weather",
+          "score": 41
+        },
+        {
+          "program_id": "toxictv_mk_toxic_urban_2026-01-07_0095",
+          "start": 95,
+          "end": 125,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "toxictv_mk_toxic_tuner_2026-01-07_0125",
+          "start": 125,
+          "end": 155,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "toxictv_mk_toxic_club_2026-01-07_0155",
+          "start": 155,
+          "end": 185,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "toxictv_mk_toxic_live_2026-01-07_0185",
+          "start": 185,
+          "end": 305,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "toxictv_mk_90_s_and_00_s_2026-01-07_0305",
+          "start": 305,
+          "end": 335,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "toxictv_mk_toxic_hits_2026-01-07_0335",
+          "start": 335,
+          "end": 365,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "MK - Travel Channel",
+      "programs": [
+        {
+          "program_id": "travelchannel_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "travelchannel_mk__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "travelchannel_mk__2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "travelchannel_mk__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "travelchannel_mk__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "MK - Vavoom",
+      "programs": [
+        {
+          "program_id": "vavoom_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "vavoom_mk__2026-01-07_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "vavoom_mk__2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "MK - Vavoom Test",
+      "programs": [
+        {
+          "program_id": "vavoomtest_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "vavoomtest_mk__2026-01-07_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "vavoomtest_mk__2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "MK - Viasat Explore",
+      "programs": [
+        {
+          "program_id": "viasatexplore_mk__2026-01-07_0005",
+          "start": 5,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viasatexplore_mk__2026-01-07_0060",
+          "start": 60,
+          "end": 125,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "viasatexplore_mk__2026-01-07_0125",
+          "start": 125,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "viasatexplore_mk__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasatexplore_mk__2026-01-07_0240",
+          "start": 240,
+          "end": 295,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "viasatexplore_mk__2026-01-07_0295",
+          "start": 295,
+          "end": 375,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "MK - Viasat History",
+      "programs": [
+        {
+          "program_id": "viasathistory_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "viasathistory_mk__2026-01-07_0030",
+          "start": 30,
+          "end": 95,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasathistory_mk__2026-01-07_0095",
+          "start": 95,
+          "end": 160,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "viasathistory_mk__2026-01-07_0160",
+          "start": 160,
+          "end": 230,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "viasathistory_mk__2026-01-07_0230",
+          "start": 230,
+          "end": 305,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "viasathistory_mk__2026-01-07_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "MK - Viasat Nature",
+      "programs": [
+        {
+          "program_id": "viasatnature_mk__2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viasatnature_mk__2026-01-07_0040",
+          "start": 40,
+          "end": 95,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "viasatnature_mk__2026-01-07_0095",
+          "start": 95,
+          "end": 145,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viasatnature_mk__2026-01-07_0145",
+          "start": 145,
+          "end": 200,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viasatnature_mk__2026-01-07_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasatnature_mk__2026-01-07_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "viasatnature_mk__2026-01-07_0300",
+          "start": 300,
+          "end": 365,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "MK - WWM",
+      "programs": [
+        {
+          "program_id": "wwm_mk_wwmix_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "wwm_mk_jazzy_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "wwm_mk_sense_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "MK - ZZ TV",
+      "programs": [
+        {
+          "program_id": "zztv_mk_party_time_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "zztv_mk_muzi_ki_spotovi_2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    }
+  ]
+}
