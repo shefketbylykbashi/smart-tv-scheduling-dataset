@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: >
+  If you use this dataset in your research, please cite it using the metadata below.
+
+title: >
+  Smart TV Scheduling in Public Venues: A Large-Scale Multi-Source Instance Dataset
+
+type: dataset
+
+authors:
+  - family-names: Bylykbashi
+    given-names: Shefket
+    affiliation: University of Pristina "Hasan Prishtina"
+
+repository-code: https://github.com/shefketbylykbashi/smart-tv-scheduling-dataset
+repository-artifact: https://github.com/shefketbylykbashi/smart-tv-scheduling-dataset
+
+abstract: >
+  This dataset provides a large-scale, multi-source collection of instance-based scheduling
+  problems for Smart TV scheduling in public venues such as cafes, lounges, gyms, and waiting
+  areas. Instances are derived from real Electronic Program Guide (EPG) broadcasts and
+  future-oriented livestream metadata, and are transformed into a unified JSON format suitable
+  for benchmarking scheduling, optimization, and decision-support algorithms. The dataset
+  captures realistic operational constraints, including channel availability, temporal
+  restrictions, genre diversity limits, switching penalties, and time-dependent audience
+  preferences, enabling reproducible and comparative evaluation of scheduling methods.
+
+keywords:
+  - smart tv
+  - scheduling
+  - optimization
+  - electronic program guide
+  - livestream metadata
+  - decision support systems
+  - constraint programming
+  - benchmark dataset
+  - public venues
+
+license: CC-BY-4.0
+
+version: 1.0.0
+
+date-released: 2026-01-10
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Bylykbashi
+      given-names: Shefket
+  title: >
+    Smart TV Scheduling in Public Venues: A Large-Scale Multi-Source Instance Dataset
+  journal: Data in Brief
+  year: 2026
+  status: submitted

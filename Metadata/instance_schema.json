@@ -1,0 +1,215 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/smart-tv-scheduling/instance_schema.json",
+  "title": "Smart TV Scheduling Instance",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "opening_time",
+    "closing_time",
+    "min_duration",
+    "max_consecutive_genre",
+    "channels_count",
+    "switch_penalty",
+    "termination_penalty",
+    "priority_blocks",
+    "time_preferences",
+    "channels"
+  ],
+  "properties": {
+    "opening_time": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100000,
+      "description": "Scheduling horizon start time in minutes from the beginning of the instance timeline."
+    },
+    "closing_time": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 100000,
+      "description": "Scheduling horizon end time (exclusive) in minutes. Must be greater than opening_time."
+    },
+    "min_duration": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 100000,
+      "description": "Minimum allowed program duration in minutes (generator may filter out shorter items unless specially handled)."
+    },
+    "max_consecutive_genre": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 100000,
+      "description": "Soft/hard policy parameter: maximum number of consecutive scheduled programs with the same genre before incurring penalties or becoming infeasible (solver-defined)."
+    },
+    "channels_count": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1000000,
+      "description": "Declared number of channels contained in this instance. Should match channels.length."
+    },
+    "switch_penalty": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1000000000,
+      "description": "Penalty (cost) for switching channels between consecutive scheduled segments (solver objective dependent)."
+    },
+    "termination_penalty": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1000000000,
+      "description": "Penalty (cost) for ending the schedule early / not filling the horizon (solver objective dependent)."
+    },
+    "priority_blocks": {
+      "type": "array",
+      "description": "Hard constraint blocks. For each block, only allowed_channels may be scheduled during [start,end).",
+      "items": { "$ref": "#/$defs/priorityBlock" },
+      "default": []
+    },
+    "time_preferences": {
+      "type": "array",
+      "description": "Soft preference blocks. Scheduling preferred_genre within [start,end) yields a bonus or higher utility (solver objective dependent).",
+      "items": { "$ref": "#/$defs/timePreference" },
+      "default": []
+    },
+    "channels": {
+      "type": "array",
+      "minItems": 1,
+      "description": "List of channels. Each channel contains its programs for the instance horizon.",
+      "items": { "$ref": "#/$defs/channel" }
+    }
+  },
+  "allOf": [
+    {
+      "description": "closing_time must be greater than opening_time.",
+      "properties": {
+        "closing_time": { "type": "integer" },
+        "opening_time": { "type": "integer" }
+      }
+    }
+  ],
+  "$defs": {
+    "programItem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["program_id", "start", "end", "genre", "score"],
+      "properties": {
+        "program_id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 512,
+          "description": "Program identifier (unique within a channel is recommended)."
+        },
+        "start": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100000,
+          "description": "Program start time in minutes (inclusive)."
+        },
+        "end": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100000,
+          "description": "Program end time in minutes (exclusive). Must be > start."
+        },
+        "genre": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 128,
+          "description": "Program genre/category label (e.g., news, sports, movie, series, documentary, kids, music, talk, etc.)."
+        },
+        "score": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Program quality/utility score on a 0..100 scale (generator-defined)."
+        }
+      }
+    },
+    "channel": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["channel_id", "channel_name", "programs"],
+      "properties": {
+        "channel_id": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 1000000000,
+          "description": "Channel numeric identifier (typically 0..channels_count-1)."
+        },
+        "channel_name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 512,
+          "description": "Human-readable channel name."
+        },
+        "programs": {
+          "type": "array",
+          "description": "Programs on this channel within the instance horizon.",
+          "items": { "$ref": "#/$defs/programItem" },
+          "default": []
+        }
+      }
+    },
+    "priorityBlock": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start", "end", "allowed_channels"],
+      "properties": {
+        "start": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100000,
+          "description": "Block start time in minutes (inclusive)."
+        },
+        "end": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100000,
+          "description": "Block end time in minutes (exclusive). Must be > start."
+        },
+        "allowed_channels": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 1000000000
+          },
+          "description": "List of channel_id values allowed during this block."
+        }
+      }
+    },
+    "timePreference": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start", "end", "preferred_genre", "bonus"],
+      "properties": {
+        "start": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100000,
+          "description": "Preference window start time in minutes (inclusive)."
+        },
+        "end": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100000,
+          "description": "Preference window end time in minutes (exclusive). Must be > start."
+        },
+        "preferred_genre": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 128,
+          "description": "Genre preferred during this window."
+        },
+        "bonus": {
+          "type": "integer",
+          "minimum": -1000000000,
+          "maximum": 1000000000,
+          "description": "Additive bonus/utility for matching the preferred genre in this time window (solver objective dependent)."
+        }
+      }
+    }
+  }
+}
