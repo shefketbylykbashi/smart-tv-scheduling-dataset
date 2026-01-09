@@ -1,0 +1,7341 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 175,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 75,
+      "end": 105,
+      "allowed_channels": [
+        59,
+        108,
+        55,
+        58,
+        139,
+        57,
+        107,
+        171,
+        122,
+        6,
+        11,
+        120,
+        123,
+        9,
+        23,
+        24,
+        109,
+        112,
+        124,
+        150,
+        56,
+        101,
+        14,
+        119,
+        72,
+        125,
+        39,
+        92,
+        95,
+        121,
+        133,
+        48,
+        64,
+        127,
+        21,
+        42,
+        43,
+        130,
+        144,
+        170,
+        41,
+        51,
+        117,
+        167,
+        169,
+        142,
+        3,
+        7,
+        28,
+        32,
+        88,
+        89,
+        97,
+        126,
+        128,
+        143,
+        158,
+        165,
+        37,
+        36,
+        140,
+        16,
+        38,
+        45,
+        49,
+        70,
+        94,
+        111,
+        135,
+        157,
+        50,
+        82,
+        141,
+        29,
+        80,
+        85,
+        87,
+        96,
+        99,
+        105,
+        10,
+        12,
+        66,
+        73,
+        76,
+        98,
+        168,
+        2,
+        25,
+        54,
+        77,
+        81,
+        118,
+        131,
+        145,
+        147
+      ]
+    },
+    {
+      "start": 300,
+      "end": 345,
+      "allowed_channels": [
+        59,
+        171,
+        57,
+        58,
+        120,
+        139,
+        11,
+        109,
+        122,
+        107,
+        108,
+        56,
+        123,
+        124,
+        24,
+        51,
+        55,
+        64,
+        97,
+        112,
+        119,
+        69,
+        125,
+        133,
+        39,
+        121,
+        70,
+        110,
+        111,
+        126,
+        127,
+        135,
+        140,
+        155,
+        101,
+        72,
+        77,
+        92,
+        95,
+        137,
+        150,
+        160,
+        166,
+        169,
+        80,
+        86,
+        117,
+        162,
+        170,
+        18,
+        34,
+        40,
+        41,
+        54,
+        81,
+        93,
+        167,
+        23,
+        46,
+        106,
+        134,
+        156,
+        159,
+        141,
+        3,
+        7,
+        26,
+        45,
+        94,
+        115,
+        161,
+        168,
+        173,
+        114,
+        6,
+        10,
+        21,
+        35,
+        37,
+        47,
+        50,
+        142,
+        145,
+        158,
+        144,
+        25,
+        28,
+        43,
+        49,
+        67,
+        87,
+        4,
+        32,
+        38,
+        42,
+        73,
+        85
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "talk",
+      "bonus": 39
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "talk",
+      "bonus": 38
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "talk",
+      "bonus": 39
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "talk",
+      "bonus": 39
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "talk",
+      "bonus": 39
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "talk",
+      "bonus": 40
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "talk",
+      "bonus": 31
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "sports",
+      "bonus": 37
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 36
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "AL - 21 Junior",
+      "programs": [
+        {
+          "program_id": "21junior_al_21_junior_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "kids",
+          "score": 58
+        },
+        {
+          "program_id": "21junior_al_21_junior_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "21junior_al_21_junior_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "21junior_al_21_junior_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "21junior_al_21_junior_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "kids",
+          "score": 54
+        },
+        {
+          "program_id": "21junior_al_21_junior_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "kids",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "AL - 21 Plus",
+      "programs": [
+        {
+          "program_id": "21plus_al_rtv_21_plus_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "21plus_al_rtv_21_plus_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "AL - 21 Popullore",
+      "programs": [
+        {
+          "program_id": "21popullore_al_rtv_21_popullore_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "21popullore_al_rtv_21_popullore_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "21popullore_al_rtv_21_popullore_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "21popullore_al_rtv_21_popullore_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "21popullore_al_rtv_21_popullore_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "21popullore_al_rtv_21_popullore_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "AL - 24 TV",
+      "programs": [
+        {
+          "program_id": "24tv_al_kanal_24_tr_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "24tv_al_kanal_24_tr_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "24tv_al_kanal_24_tr_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "24tv_al_kanal_24_tr_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "AL - 3 Plus",
+      "programs": [
+        {
+          "program_id": "3plus_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "3plus_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "3plus_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "3plus_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "3plus_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "3plus_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "AL - A2",
+      "programs": [
+        {
+          "program_id": "a2_al_hercai_2026-01-06_0020",
+          "start": 20,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "a2_al_can_m_ailem_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "a2_al_kertenkele_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "AL - A2 CNN",
+      "programs": [
+        {
+          "program_id": "a2cnn_al_off_the_record_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "a2cnn_al_dokumentar_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "documentary",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "AL - A Haber",
+      "programs": [
+        {
+          "program_id": "ahaber_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "ahaber_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "ahaber_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "ahaber_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "ahaber_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "ahaber_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "AL - ALB UK TV",
+      "programs": [
+        {
+          "program_id": "albuktv_al_programi_i_alb_uk_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "albuktv_al_programi_i_alb_uk_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "albuktv_al_programi_i_alb_uk_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "albuktv_al_programi_i_alb_uk_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "AL - A News",
+      "programs": [
+        {
+          "program_id": "anews_al_newsdesk_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "anews_al_newsdesk_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "anews_al_newsdesk_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "anews_al_newsdesk_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "anews_al_newsdesk_2026-01-06_0240",
+          "start": 240,
+          "end": 265,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "anews_al_newshour_2026-01-06_0270",
+          "start": 270,
+          "end": 290,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "anews_al_sports_2026-01-06_0290",
+          "start": 290,
+          "end": 295,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "anews_al_weather_2026-01-06_0295",
+          "start": 295,
+          "end": 300,
+          "genre": "weather",
+          "score": 29
+        },
+        {
+          "program_id": "anews_al_newshour_2026-01-06_0300",
+          "start": 300,
+          "end": 325,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "anews_al_sports_2026-01-06_0350",
+          "start": 350,
+          "end": 355,
+          "genre": "sports",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "AL - A Para",
+      "programs": [
+        {
+          "program_id": "apara_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "apara_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "apara_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "apara_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "apara_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "apara_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "AL - A Spor",
+      "programs": [
+        {
+          "program_id": "aspor_al_a_spor_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "aspor_al_a_spor_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "aspor_al_a_spor_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "aspor_al_a_spor_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "AL - ATD TV",
+      "programs": [
+        {
+          "program_id": "atdtv_al_atd_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "atdtv_al_atd_tv_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "atdtv_al_atd_tv_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "atdtv_al_atd_tv_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atdtv_al_atd_tv_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "atdtv_al_atd_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "AL - ATV",
+      "programs": [
+        {
+          "program_id": "atv_al_programi_i_atv_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "atv_al_programi_i_atv_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "atv_al_programi_i_atv_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "AL - Alsat M",
+      "programs": [
+        {
+          "program_id": "alsatm_al_k_z_karde_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "alsatm_al_9me11_2026-01-06_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "alsatm_al_muzik_2026-01-06_0150",
+          "start": 150,
+          "end": 270,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "alsatm_al_prizma_2026-01-06_0270",
+          "start": 270,
+          "end": 320,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "alsatm_al_emision_gatimi_2026-01-06_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "AL - BBF",
+      "programs": [
+        {
+          "program_id": "bbf_al_bbf_music_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "bbf_al_bbf_music_tv_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "bbf_al_bbf_music_tv_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "bbf_al_bbf_music_tv_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "bbf_al_bbf_music_tv_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "bbf_al_bbf_music_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "AL - Bang Bang",
+      "programs": [
+        {
+          "program_id": "bangbang_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "bangbang_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "bangbang_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "bangbang_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "bangbang_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "bangbang_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "AL - Beat TV",
+      "programs": [
+        {
+          "program_id": "beattv_al_beat_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "beattv_al_beat_tv_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "beattv_al_beat_tv_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "beattv_al_beat_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "AL - Bubble",
+      "programs": [
+        {
+          "program_id": "bubble_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "bubble_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "bubble_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "bubble_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "bubble_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "bubble_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "AL - Click TV",
+      "programs": [
+        {
+          "program_id": "clicktv_al_night_vision_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "clicktv_al_insomnia_2026-01-06_0060",
+          "start": 60,
+          "end": 360,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "AL - Club TV",
+      "programs": [
+        {
+          "program_id": "clubtv_al_evolution_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "clubtv_al_figures_of_speech_2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "clubtv_al_english_in_focus_2026-01-06_0230",
+          "start": 230,
+          "end": 340,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "AL - Cufo",
+      "programs": [
+        {
+          "program_id": "cufo_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "cufo_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "cufo_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "cufo_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "cufo_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "cufo_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "AL - DTV",
+      "programs": [
+        {
+          "program_id": "dtv_al_dtv_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dtv_al_dtv_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "dtv_al_dtv_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "dtv_al_dtv_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "AL - Doku 1",
+      "programs": [
+        {
+          "program_id": "doku1_al_artdoku_1_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "doku1_al_artdoku_1_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "documentary",
+          "score": 77
+        },
+        {
+          "program_id": "doku1_al_artdoku_1_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "documentary",
+          "score": 69
+        },
+        {
+          "program_id": "doku1_al_artdoku_1_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "documentary",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "AL - Doku 2",
+      "programs": [
+        {
+          "program_id": "doku2_al_artdoku_2_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "doku2_al_artdoku_2_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "documentary",
+          "score": 77
+        },
+        {
+          "program_id": "doku2_al_artdoku_2_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "doku2_al_artdoku_2_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "documentary",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "AL - Dorcel XXX",
+      "programs": [
+        {
+          "program_id": "dorcelxxx_al_program_p_r_t_rritur_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "dorcelxxx_al_program_p_r_t_rritur_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "dorcelxxx_al_program_p_r_t_rritur_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "dorcelxxx_al_program_p_r_t_rritur_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "AL - Dream Porn",
+      "programs": [
+        {
+          "program_id": "dreamporn_al_dream_porn_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dreamporn_al_dream_porn_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "dreamporn_al_dream_porn_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "AL - Dream Turk",
+      "programs": [
+        {
+          "program_id": "dreamturk_al_dreamturk_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dreamturk_al_dream_t_rk_en_i_yiler_2026-01-06_0300",
+          "start": 300,
+          "end": 600,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "AL - E -TV",
+      "programs": [
+        {
+          "program_id": "e_tv_al_e_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "e_tv_al_e_tv_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "AL - EXP Histori",
+      "programs": [
+        {
+          "program_id": "exphistori_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "exphistori_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "exphistori_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "exphistori_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "exphistori_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "exphistori_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "AL - EXP Shkence",
+      "programs": [
+        {
+          "program_id": "expshkence_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "expshkence_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "expshkence_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "expshkence_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "expshkence_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "expshkence_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "AL - Elrodi",
+      "programs": [
+        {
+          "program_id": "elrodi_al_elrodi_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "elrodi_al_elrodi_tv_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "elrodi_al_elrodi_tv_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "AL - Episode",
+      "programs": [
+        {
+          "program_id": "episode_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "episode_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "episode_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "episode_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "episode_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "episode_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "AL - Eroxxx",
+      "programs": [
+        {
+          "program_id": "eroxxx_al_femd_hard_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eroxxx_al_wet_1_hard_2026-01-06_0045",
+          "start": 45,
+          "end": 80,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "eroxxx_al_only_18_2026-01-06_0080",
+          "start": 80,
+          "end": 175,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "eroxxx_al_hot_water_2_hard_2026-01-06_0175",
+          "start": 175,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "eroxxx_al_the_cult_2026-01-06_0210",
+          "start": 210,
+          "end": 350,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "AL - Euro D",
+      "programs": [
+        {
+          "program_id": "eurod_al_poyraz_karayel_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "eurod_al_k_z_karde_2026-01-06_0055",
+          "start": 55,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "eurod_al_yle_bir_ge_er_zaman_ki_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "eurod_al_neler_oluyor_hayatta_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "AL - EuroFilm",
+      "programs": [
+        {
+          "program_id": "eurofilm_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "eurofilm_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "eurofilm_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "eurofilm_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "eurofilm_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "eurofilm_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "AL - Euro Star",
+      "programs": [
+        {
+          "program_id": "eurostar_al_hanim_k_yl_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "eurostar_al_star_ana_haber_2026-01-06_0050",
+          "start": 50,
+          "end": 100,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "eurostar_al_s_z_2026-01-06_0100",
+          "start": 100,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "eurostar_al_s_z_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "eurostar_al_i_stanbullu_gelin_2026-01-06_0210",
+          "start": 210,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "eurostar_al_sana_de_er_2026-01-06_0330",
+          "start": 330,
+          "end": 570,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "AL - Euronews Albania",
+      "programs": [
+        {
+          "program_id": "euronewsalbania_al_now_me_erla_m_hilli_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "euronewsalbania_al_dokumentar_2026-01-06_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "euronewsalbania_al_news_edition_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsalbania_al_now_me_erla_m_hilli_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "talk",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "AL - Family",
+      "programs": [
+        {
+          "program_id": "family_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "family_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "family_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "family_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "family_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "family_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "AL - Fax News",
+      "programs": [
+        {
+          "program_id": "faxnews_al_fax_news_2026-01-06_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "AL - Film Aksion",
+      "programs": [
+        {
+          "program_id": "filmaksion_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "filmaksion_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "filmaksion_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "filmaksion_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "filmaksion_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "filmaksion_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "AL - Film Autor",
+      "programs": [
+        {
+          "program_id": "filmautor_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "filmautor_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "filmautor_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "filmautor_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "filmautor_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "filmautor_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "AL - Film Drame",
+      "programs": [
+        {
+          "program_id": "filmdrame_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "filmdrame_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "filmdrame_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "filmdrame_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "filmdrame_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "filmdrame_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "AL - Film Hits",
+      "programs": [
+        {
+          "program_id": "filmhits_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "filmhits_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "filmhits_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "filmhits_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "filmhits_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "filmhits_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "AL - Film Komedi",
+      "programs": [
+        {
+          "program_id": "filmkomedi_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "filmkomedi_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "filmkomedi_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "filmkomedi_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "filmkomedi_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "filmkomedi_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "AL - Film Thriller",
+      "programs": [
+        {
+          "program_id": "filmthriller_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "filmthriller_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "filmthriller_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "filmthriller_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "filmthriller_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "filmthriller_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "AL - First Channel",
+      "programs": [
+        {
+          "program_id": "firstchannel_al_first_channel_programe_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "firstchannel_al_first_channel_programe_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "firstchannel_al_first_channel_programe_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "AL - Folk +",
+      "programs": [
+        {
+          "program_id": "folk_al_folk_muzik_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "folk_al_folk_muzik_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "folk_al_folk_muzik_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "folk_al_folk_muzik_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "music",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "AL - France 24",
+      "programs": [
+        {
+          "program_id": "france24_al_le_journal_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "france24_al_le_d_bat_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "france24_al_le_journal_2026-01-06_0060",
+          "start": 60,
+          "end": 74,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "france24_al_le_journal_de_l_afrique_2026-01-06_0074",
+          "start": 74,
+          "end": 90,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24_al_le_journal_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "france24_al_le_journal_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "france24_al_bulletin_2026-01-06_0150",
+          "start": 150,
+          "end": 165,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24_al_le_journal_2026-01-06_0180",
+          "start": 180,
+          "end": 191,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "france24_al_le_d_bat_2026-01-06_0191",
+          "start": 191,
+          "end": 235,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "france24_al_le_journal_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "france24_al_bulletin_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "france24_al_le_journal_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "france24_al_bulletin_2026-01-06_0330",
+          "start": 330,
+          "end": 344,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "france24_al_le_journal_de_l_afrique_2026-01-06_0344",
+          "start": 344,
+          "end": 360,
+          "genre": "news",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "AL - Gold",
+      "programs": [
+        {
+          "program_id": "gold_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "gold_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "gold_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "gold_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "gold_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "gold_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "AL - Gurmania",
+      "programs": [
+        {
+          "program_id": "gurmania_al_the_great_canadian_bakin_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "gurmania_al_masterchef_usa_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "gurmania_al_baking_impossible_2026-01-06_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "gurmania_al_drink_masters_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "gurmania_al_is_it_cake_2026-01-06_0200",
+          "start": 200,
+          "end": 255,
+          "genre": "education",
+          "score": 58
+        },
+        {
+          "program_id": "gurmania_al_million_pound_menu_2026-01-06_0255",
+          "start": 255,
+          "end": 330,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "gurmania_al_selena_chef_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "AL - Haber Turk",
+      "programs": [
+        {
+          "program_id": "haberturk_al_habert_rk_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "haberturk_al_habert_rk_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "haberturk_al_habert_rk_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "haberturk_al_habert_rk_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "AL - Halk TV",
+      "programs": [
+        {
+          "program_id": "halktv_al_halk_tv_de_bug_n_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "halktv_al_halk_tv_de_bug_n_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "halktv_al_halk_tv_de_bug_n_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "halktv_al_g_nayd_n_t_rkiye_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "AL - IPKO Promo",
+      "programs": [
+        {
+          "program_id": "ipkopromo_al_ipko_promo_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "promo",
+          "score": 31
+        },
+        {
+          "program_id": "ipkopromo_al_ipko_promo_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "promo",
+          "score": 28
+        },
+        {
+          "program_id": "ipkopromo_al_ipko_promo_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "promo",
+          "score": 24
+        },
+        {
+          "program_id": "ipkopromo_al_ipko_promo_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "promo",
+          "score": 28
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "AL - Junior TV",
+      "programs": [
+        {
+          "program_id": "juniortv_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "juniortv_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "juniortv_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "juniortv_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "juniortv_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "juniortv_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "AL - K-Sport 1",
+      "programs": [
+        {
+          "program_id": "k_sport1_al_k_sport_1_program_sporti_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "k_sport1_al_k_sport_1_program_sporti_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "k_sport1_al_k_sport_1_program_sporti_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "k_sport1_al_k_sport_1_program_sporti_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "AL - K-Sport 2",
+      "programs": [
+        {
+          "program_id": "k_sport2_al_k_sport_2_program_sporti_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "k_sport2_al_k_sport_2_program_sporti_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "k_sport2_al_k_sport_2_program_sporti_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "k_sport2_al_k_sport_2_program_sporti_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "AL - K-Sport 3",
+      "programs": [
+        {
+          "program_id": "k_sport3_al_k_sport_3_program_sporti_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "k_sport3_al_k_sport_3_program_sporti_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "k_sport3_al_k_sport_3_program_sporti_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "k_sport3_al_k_sport_3_program_sporti_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "AL - K-Sport 4",
+      "programs": [
+        {
+          "program_id": "k_sport4_al_k_sport_k_sport_4_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "k_sport4_al_k_sport_k_sport_4_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "k_sport4_al_k_sport_k_sport_4_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "k_sport4_al_k_sport_k_sport_4_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "AL - KB Peja",
+      "programs": [
+        {
+          "program_id": "kbpeja_al_k_sport_5_vet_m_ndeshje__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "kbpeja_al_k_sport_5_vet_m_ndeshje__2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "kbpeja_al_k_sport_5_vet_m_ndeshje__2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "kbpeja_al_k_sport_5_vet_m_ndeshje__2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "AL - KTV",
+      "programs": [
+        {
+          "program_id": "ktv_al_kohavision_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ktv_al_kohavision_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ktv_al_kohavision_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ktv_al_kohavision_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "AL - Kanal 10",
+      "programs": [
+        {
+          "program_id": "kanal10_al_programi_i_kanal_10_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "kanal10_al_programi_i_kanal_10_2026-01-06_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "AL - Kanal 7",
+      "programs": [
+        {
+          "program_id": "kanal7_al_diya_aur_baati_hum_2026-01-06_0020",
+          "start": 20,
+          "end": 270,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "kanal7_al_kanal_7_de_sabah_2026-01-06_0270",
+          "start": 270,
+          "end": 345,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kanal7_al_elif_bolum_1_2026-01-06_0345",
+          "start": 345,
+          "end": 470,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "AL - KanalD Drama",
+      "programs": [
+        {
+          "program_id": "kanalddrama_al_fatmag_l_n_su_u_ne_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kanalddrama_al_genco_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "kanalddrama_al_emberimde_g_l_oya_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "kanalddrama_al_g_llerin_sava_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "kanalddrama_al_ikizler_memo_can_2026-01-06_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kanalddrama_al_fatmag_l_n_su_u_ne_2026-01-06_0250",
+          "start": 250,
+          "end": 295,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "kanalddrama_al_genco_2026-01-06_0295",
+          "start": 295,
+          "end": 340,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "kanalddrama_al_emberimde_g_l_oya_2026-01-06_0340",
+          "start": 340,
+          "end": 390,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "AL - Kanali 7",
+      "programs": [
+        {
+          "program_id": "kanali7_al_kanali_7_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "kanali7_al_kanali_7_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "kanali7_al_kanali_7_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "kanali7_al_kanali_7_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "kanali7_al_kanali_7_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "kanali7_al_kanali_7_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "AL - Kids",
+      "programs": [
+        {
+          "program_id": "kids_al_kids_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "kids",
+          "score": 54
+        },
+        {
+          "program_id": "kids_al_kids_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "kids",
+          "score": 56
+        },
+        {
+          "program_id": "kids_al_kids_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "kids",
+          "score": 53
+        },
+        {
+          "program_id": "kids_al_kids_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "kids",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "AL - Kino 1",
+      "programs": [
+        {
+          "program_id": "kino1_al_love_lies_bleeding_2026-01-06_0000",
+          "start": 0,
+          "end": 53,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "kino1_al_kandahar_2026-01-06_0055",
+          "start": 55,
+          "end": 174,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "kino1_al_trespass_against_us_2026-01-06_0175",
+          "start": 175,
+          "end": 273,
+          "genre": "kids",
+          "score": 58
+        },
+        {
+          "program_id": "kino1_al_avengement_2026-01-06_0275",
+          "start": 275,
+          "end": 362,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "AL - Kino 2",
+      "programs": [
+        {
+          "program_id": "kino2_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "kino2_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "kino2_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "kino2_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "kino2_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "kino2_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "AL - Kino 3",
+      "programs": [
+        {
+          "program_id": "kino3_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "kino3_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "kino3_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "kino3_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "kino3_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "kino3_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "AL - Klan",
+      "programs": [
+        {
+          "program_id": "klan_al_the_blacklist_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "klan_al_stop_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "klan_al_e_ref_r_ya_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "kids",
+          "score": 54
+        },
+        {
+          "program_id": "klan_al_qyteti_i_larg_t_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "klan_al_opinion_2026-01-06_0195",
+          "start": 195,
+          "end": 300,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "klan_al_rudina_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "AL - Klan Kosova",
+      "programs": [
+        {
+          "program_id": "klankosova_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "klankosova_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "klankosova_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "klankosova_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "klankosova_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "klankosova_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "AL - Klan Music",
+      "programs": [
+        {
+          "program_id": "klanmusic_al_muzik_klan_music_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "klanmusic_al_muzik_klan_music_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "AL - Klan News",
+      "programs": [
+        {
+          "program_id": "klannews_al_klan_news_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "klannews_al_klan_news_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "klannews_al_klan_news_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "klannews_al_klan_news_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "AL - Klan Plus",
+      "programs": [
+        {
+          "program_id": "klanplus_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "klanplus_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "klanplus_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "klanplus_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "klanplus_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "AL - Life",
+      "programs": [
+        {
+          "program_id": "life_al_life_hd_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "life_al_life_hd_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "life_al_life_hd_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "life_al_life_hd_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "AL - Living",
+      "programs": [
+        {
+          "program_id": "living_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "living_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "living_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "living_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "living_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "living_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "AL - Max",
+      "programs": [
+        {
+          "program_id": "max_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "max_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "max_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "max_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "max_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "max_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "AL - Muse",
+      "programs": [
+        {
+          "program_id": "muse_al_muse_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "muse_al_muse_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "muse_al_muse_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "muse_al_muse_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "music",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "AL - My Music",
+      "programs": [
+        {
+          "program_id": "mymusic_al_my_music_hits_24_ore_2026-01-06_0000",
+          "start": 0,
+          "end": 420,
+          "genre": "music",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "AL - NTV",
+      "programs": [
+        {
+          "program_id": "ntv_al_ni_ka_televizija_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ntv_al_ni_ka_televizija_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "AL - Novelas",
+      "programs": [
+        {
+          "program_id": "novelas_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "novelas_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "novelas_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "novelas_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "novelas_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "novelas_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "AL - PRO1",
+      "programs": [
+        {
+          "program_id": "pro1_al_pro1_info_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "pro1_al_pro1_info_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "pro1_al_pro1_info_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "AL - Peace TV",
+      "programs": [
+        {
+          "program_id": "peacetv_al_dawah_ilallah_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "peacetv_al_peace_mission_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "peacetv_al_taraaweeh_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "peacetv_al_ramadhaan_a_date_with_dr_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "peacetv_al_ramadhaan_a_date_with_dr_2026-01-06_0120",
+          "start": 120,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "peacetv_al_ramadhaan_a_date_with_dr_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "peacetv_al_man_with_a_mission_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "peacetv_al_in_the_shade_of_the_scho_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "peacetv_al_inspiration_2026-01-06_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "AL - Positive Gold",
+      "programs": [
+        {
+          "program_id": "positivegold_al_positive_gold_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "positivegold_al_positive_gold_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "positivegold_al_positive_gold_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "positivegold_al_positive_gold_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "positivegold_al_positive_gold_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "positivegold_al_positive_gold_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "AL - Power Turk",
+      "programs": [
+        {
+          "program_id": "powerturk_al_100_hi_t_2026-01-06_0000",
+          "start": 0,
+          "end": 385,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "AL - Premiere 1",
+      "programs": [
+        {
+          "program_id": "premiere1_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "premiere1_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "premiere1_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "premiere1_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "premiere1_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "premiere1_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "AL - Premiere 2",
+      "programs": [
+        {
+          "program_id": "premiere2_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "premiere2_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "premiere2_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "premiere2_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "premiere2_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "premiere2_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "AL - Premiere 3",
+      "programs": [
+        {
+          "program_id": "premiere3_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "premiere3_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "premiere3_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "premiere3_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "premiere3_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "premiere3_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "AL - Premiere 4",
+      "programs": [
+        {
+          "program_id": "premiere4_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "premiere4_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "premiere4_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "premiere4_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "premiere4_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "premiere4_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "AL - Premium Channel",
+      "programs": [
+        {
+          "program_id": "premiumchannel_al_premium_channel_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "premiumchannel_al_premium_channel_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "premiumchannel_al_premium_channel_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "premiumchannel_al_premium_channel_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "AL - Prime TV",
+      "programs": [
+        {
+          "program_id": "primetv_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "primetv_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "primetv_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "primetv_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "primetv_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "primetv_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "AL - Prince Kids",
+      "programs": [
+        {
+          "program_id": "princekids_al_prince_kids_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "kids",
+          "score": 55
+        },
+        {
+          "program_id": "princekids_al_prince_kids_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "kids",
+          "score": 55
+        },
+        {
+          "program_id": "princekids_al_prince_kids_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "kids",
+          "score": 56
+        },
+        {
+          "program_id": "princekids_al_prince_kids_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "kids",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "AL - RTK 1",
+      "programs": [
+        {
+          "program_id": "rtk1_al_film_artistik_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "movie",
+          "score": 85
+        },
+        {
+          "program_id": "rtk1_al_bllok_muzikor_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "rtk1_al_film_artistik_2026-01-06_0120",
+          "start": 120,
+          "end": 210,
+          "genre": "movie",
+          "score": 91
+        },
+        {
+          "program_id": "rtk1_al_programi_pasdites_imazh_2026-01-06_0210",
+          "start": 210,
+          "end": 285,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtk1_al_svetlo_gore_2026-01-06_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rtk1_al_rtk_prime_2026-01-06_0330",
+          "start": 330,
+          "end": 419,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "AL - RTK 2",
+      "programs": [
+        {
+          "program_id": "rtk2_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "rtk2_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "rtk2_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "rtk2_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "rtk2_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "rtk2_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "AL - RTK 3",
+      "programs": [
+        {
+          "program_id": "rtk3_al_rtk_3_shpejt_de_sakht_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rtk3_al_rtk_3_shpejt_de_sakht_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rtk3_al_rtk_3_shpejt_de_sakht_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rtk3_al_rtk_3_shpejt_de_sakht_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtk3_al_rtk_3_shpejt_de_sakht_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtk3_al_rtk_3_shpejt_de_sakht_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "AL - RTK 4",
+      "programs": [
+        {
+          "program_id": "rtk4_al_rtk_4_dokumentar_filma_d_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "rtk4_al_rtk_4_dokumentar_filma_d_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "documentary",
+          "score": 73
+        },
+        {
+          "program_id": "rtk4_al_rtk_4_dokumentar_filma_d_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "rtk4_al_rtk_4_dokumentar_filma_d_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "rtk4_al_rtk_4_dokumentar_filma_d_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "documentary",
+          "score": 77
+        },
+        {
+          "program_id": "rtk4_al_rtk_4_dokumentar_filma_d_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "documentary",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "AL - RTSH 1",
+      "programs": [
+        {
+          "program_id": "rtsh1_al_rtsh_1_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtsh1_al_rtsh_1_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtsh1_al_rtsh_1_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rtsh1_al_rtsh_1_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "AL - RTSH 24",
+      "programs": [
+        {
+          "program_id": "rtsh24_al_edicioni_informativ_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "rtsh24_al_edicioni_informativ_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "rtsh24_al_edicioni_informativ_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "rtsh24_al_edicioni_informativ_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "AL - RTSH 3",
+      "programs": [
+        {
+          "program_id": "rtsh3_al_rtsh_3_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rtsh3_al_rtsh_3_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtsh3_al_rtsh_3_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtsh3_al_rtsh_3_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "AL - RTSH Muzike",
+      "programs": [
+        {
+          "program_id": "rtshmuzike_al_rtsh_muzike_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "rtshmuzike_al_rtsh_muzike_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "rtshmuzike_al_rtsh_muzike_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "rtshmuzike_al_rtsh_muzike_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "music",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "AL - RTSH Shqip",
+      "programs": [
+        {
+          "program_id": "rtshshqip_al_rtsh_shqip_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtshshqip_al_rtsh_shqip_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rtshshqip_al_rtsh_shqip_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rtshshqip_al_rtsh_shqip_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "AL - RTV 21",
+      "programs": [
+        {
+          "program_id": "rtv21_al_21_grade_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rtv21_al_yarg_2026-01-06_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "rtv21_al_21_minuta_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rtv21_al_muzik_arg_tuese_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "rtv21_al_bon_bon_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "rtv21_al_21_drejtp_rdrejt_2026-01-06_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "rtv21_al_muzik_popullore_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "AL - Show Maxx",
+      "programs": [
+        {
+          "program_id": "showmaxx_al_dudaktan_kalbe_2026-01-06_0000",
+          "start": 0,
+          "end": 135,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "showmaxx_al_dila_hanim_2026-01-06_0135",
+          "start": 135,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "showmaxx_al_gelin_evi_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "AL - Show Turk",
+      "programs": [
+        {
+          "program_id": "showturk_al_ekonomi_d_nyas_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "showturk_al_veliaht_2026-01-06_0030",
+          "start": 30,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "showturk_al_bahar_2026-01-06_0180",
+          "start": 180,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "showturk_al_kuzey_y_ld_z_i_lk_a_k_2026-01-06_0330",
+          "start": 330,
+          "end": 510,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "AL - Sky 360",
+      "programs": [
+        {
+          "program_id": "sky360_al_ben_bilirim_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "sky360_al_unutama_beni_2026-01-06_0030",
+          "start": 30,
+          "end": 135,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "sky360_al_sonbahar_r_zgarlar_2026-01-06_0135",
+          "start": 135,
+          "end": 225,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sky360_al_ataman_i_le_devr_i_alem_2026-01-06_0225",
+          "start": 225,
+          "end": 285,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "sky360_al_d_sman_2026-01-06_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "AL - Smile",
+      "programs": [
+        {
+          "program_id": "smile_al_tring_smile_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "smile_al_tring_smile_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "smile_al_tring_smile_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "smile_al_tring_smile_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "AL - Sofia",
+      "programs": [
+        {
+          "program_id": "sofia_al_digi_sofia_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "sofia_al_digi_sofia_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "sofia_al_digi_sofia_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "sofia_al_digi_sofia_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "sofia_al_digi_sofia_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "sofia_al_digi_sofia_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "AL - Sport 1",
+      "programs": [
+        {
+          "program_id": "sport1_al_art_sport_1_program_spor_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "sport1_al_art_sport_1_program_spor_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "sport1_al_art_sport_1_program_spor_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "sport1_al_art_sport_1_program_spor_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "AL - Sport 2",
+      "programs": [
+        {
+          "program_id": "sport2_al_art_sport_2_program_spor_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "sport2_al_art_sport_2_program_spor_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "sport2_al_art_sport_2_program_spor_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "sport2_al_art_sport_2_program_spor_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "AL - Sport 3",
+      "programs": [
+        {
+          "program_id": "sport3_al_art_sport_3_program_spor_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "sport3_al_art_sport_3_program_spor_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "sport3_al_art_sport_3_program_spor_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "sport3_al_art_sport_3_program_spor_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "AL - Sport 4",
+      "programs": [
+        {
+          "program_id": "sport4_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "sport4_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "sport4_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "sport4_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "sport4_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "sport4_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "AL - Sport 5",
+      "programs": [
+        {
+          "program_id": "sport5_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "sport5_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "sport5_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "sport5_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "sport5_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "sport5_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "AL - Sport 6",
+      "programs": [
+        {
+          "program_id": "sport6_al_art_sport_6_program_spor_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "sport6_al_art_sport_6_program_spor_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "sport6_al_art_sport_6_program_spor_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "sport6_al_art_sport_6_program_spor_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "AL - Star",
+      "programs": [
+        {
+          "program_id": "star_al_castle_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "star_al_castle_2026-01-06_0045",
+          "start": 45,
+          "end": 95,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "star_al_the_simpsons_2026-01-06_0105",
+          "start": 105,
+          "end": 145,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "star_al_csi_miami_2026-01-06_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "star_al_csi_miami_2026-01-06_0190",
+          "start": 190,
+          "end": 235,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "star_al_fbi_international_2026-01-06_0235",
+          "start": 235,
+          "end": 285,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "star_al_lost_2026-01-06_0285",
+          "start": 285,
+          "end": 335,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "AL - Star Life",
+      "programs": [
+        {
+          "program_id": "starlife_al_chicago_med_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "starlife_al_9_1_1_lone_star_2026-01-06_0050",
+          "start": 50,
+          "end": 95,
+          "genre": "education",
+          "score": 61
+        },
+        {
+          "program_id": "starlife_al_9_1_1_lone_star_2026-01-06_0095",
+          "start": 95,
+          "end": 150,
+          "genre": "education",
+          "score": 67
+        },
+        {
+          "program_id": "starlife_al_fantasy_island_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "starlife_al_house_m_d_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "starlife_al_house_m_d_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "starlife_al_grace_and_frankie_2026-01-06_0285",
+          "start": 285,
+          "end": 315,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "starlife_al_fantasy_island_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "AL - Star Movies",
+      "programs": [
+        {
+          "program_id": "starmovies_al_repo_men_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "starmovies_al_elizabeth_the_golden_age_2026-01-06_0030",
+          "start": 30,
+          "end": 165,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "starmovies_al_deuce_bigalow_european_g_2026-01-06_0165",
+          "start": 165,
+          "end": 250,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "starmovies_al_the_descendants_2026-01-06_0250",
+          "start": 250,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "AL - Star Plus TV",
+      "programs": [
+        {
+          "program_id": "starplustv_al_star_plus_tv_programe_2026-01-06_0000",
+          "start": 0,
+          "end": 420,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "AL - Stinet",
+      "programs": [
+        {
+          "program_id": "stinet_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "stinet_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "stinet_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "stinet_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "stinet_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "stinet_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "AL - Suite",
+      "programs": [
+        {
+          "program_id": "suite_al_suite_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "suite_al_suite_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "AL - SuperSport 1",
+      "programs": [
+        {
+          "program_id": "supersport1_al_sport_news_2026-01-06_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "AL - SuperSport 2",
+      "programs": [
+        {
+          "program_id": "supersport2_al_fa_premier_league_man_ci_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "supersport2_al_laliga_real_madrid_betis_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "supersport2_al_fa_premier_league_fulham_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "supersport2_al_laliga_espanyol_barcelon_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "AL - SuperSport 3",
+      "programs": [
+        {
+          "program_id": "supersport3_al_premier_league_channel_2026-01-06_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "documentary",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "AL - SuperSport 4",
+      "programs": [
+        {
+          "program_id": "supersport4_al_supersport_4_program_spo_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "supersport4_al_supersport_4_program_spo_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "supersport4_al_supersport_4_program_spo_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "supersport4_al_supersport_4_program_spo_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "AL - SuperSport 5",
+      "programs": [
+        {
+          "program_id": "supersport5_al_info_2026-01-06_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "AL - SuperSport 6",
+      "programs": [
+        {
+          "program_id": "supersport6_al_info_2026-01-06_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "AL - SuperSport 7",
+      "programs": [
+        {
+          "program_id": "supersport7_al_info_2026-01-06_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "AL - Syri TV",
+      "programs": [
+        {
+          "program_id": "syritv_al_task_force_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "syritv_al_edicioni_i_lajmeve_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "syritv_al_im_peka_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "talk",
+          "score": 74
+        },
+        {
+          "program_id": "syritv_al_edicioni_i_lajmeve_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "syritv_al_task_force_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "AL - T",
+      "programs": [
+        {
+          "program_id": "t_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "t_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "t_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "t_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "t_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "t_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "AL - T7",
+      "programs": [
+        {
+          "program_id": "t7_al_marketing_2026-01-06_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "t7_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "t7_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "t7_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "t7_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "AL - TGRT Belgesel",
+      "programs": [
+        {
+          "program_id": "tgrtbelgesel_al_devr_i_alem_2026-01-06_0069",
+          "start": 69,
+          "end": 114,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tgrtbelgesel_al_k_lt_r_m_z_medeniyetimiz_2026-01-06_0114",
+          "start": 114,
+          "end": 156,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tgrtbelgesel_al_hac_bayram_veli_hazretle_2026-01-06_0156",
+          "start": 156,
+          "end": 237,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tgrtbelgesel_al_d_rt_halifenin_st_nl_kle_2026-01-06_0291",
+          "start": 291,
+          "end": 341,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tgrtbelgesel_al_buram_buram_anadolu_2026-01-06_0341",
+          "start": 341,
+          "end": 384,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 130,
+      "channel_name": "AL - TGRT EU",
+      "programs": [
+        {
+          "program_id": "tgrteu_al_p_nar_erg_ner_i_le_haber_2026-01-06_0015",
+          "start": 15,
+          "end": 150,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "tgrteu_al_ef_abdullah_usta_anadolu_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tgrteu_al_doktorlar_konu_uyor_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tgrteu_al_huzura_do_ru_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tgrteu_al_g_nayd_n_t_rkiye_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 131,
+      "channel_name": "AL - TGRT Haber",
+      "programs": [
+        {
+          "program_id": "tgrthaber_al_taksim_meydan_2026-01-06_0000",
+          "start": 0,
+          "end": 150,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tgrthaber_al_geceni_n_i_i_nden_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tgrthaber_al_gece_haberleri_tgrt_habe_2026-01-06_0180",
+          "start": 180,
+          "end": 195,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "tgrthaber_al_huzura_do_ru_2026-01-06_0195",
+          "start": 195,
+          "end": 225,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tgrthaber_al_haber_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "tgrthaber_al_g_nayd_n_t_rkiye_2026-01-06_0300",
+          "start": 300,
+          "end": 465,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 132,
+      "channel_name": "AL - TOP Channel",
+      "programs": [
+        {
+          "program_id": "topchannel_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "topchannel_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "topchannel_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "topchannel_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "topchannel_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "topchannel_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 133,
+      "channel_name": "AL - TOP News",
+      "programs": [
+        {
+          "program_id": "topnews_al_lajme_moti_2026-01-06_0000",
+          "start": 0,
+          "end": 270,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "topnews_al_lajme_moti_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "topnews_al_lajme_moti_2026-01-06_0300",
+          "start": 300,
+          "end": 450,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 134,
+      "channel_name": "AL - TRT 1",
+      "programs": [
+        {
+          "program_id": "trt1_al_trt_1_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "trt1_al_trt_1_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trt1_al_trt_1_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "trt1_al_trt_1_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 135,
+      "channel_name": "AL - TRT Belgesel",
+      "programs": [
+        {
+          "program_id": "trtbelgesel_al_trt_belgesel_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "trtbelgesel_al_trt_belgesel_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "documentary",
+          "score": 67
+        },
+        {
+          "program_id": "trtbelgesel_al_trt_belgesel_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "trtbelgesel_al_trt_belgesel_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "documentary",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 136,
+      "channel_name": "AL - TRT Cocuk",
+      "programs": [
+        {
+          "program_id": "trtcocuk_al_ibi_2026-01-06_0245",
+          "start": 245,
+          "end": 365,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 137,
+      "channel_name": "AL - TRT Haber",
+      "programs": [
+        {
+          "program_id": "trthaber_al_g_n_sonu_2026-01-06_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "trthaber_al_hava_durumu_2026-01-06_0115",
+          "start": 115,
+          "end": 120,
+          "genre": "weather",
+          "score": 35
+        },
+        {
+          "program_id": "trthaber_al_haber_04_2026-01-06_0120",
+          "start": 120,
+          "end": 175,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "trthaber_al_hava_durumu_2026-01-06_0175",
+          "start": 175,
+          "end": 180,
+          "genre": "weather",
+          "score": 36
+        },
+        {
+          "program_id": "trthaber_al_haber_05_2026-01-06_0180",
+          "start": 180,
+          "end": 235,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "trthaber_al_hava_durumu_2026-01-06_0235",
+          "start": 235,
+          "end": 240,
+          "genre": "weather",
+          "score": 31
+        },
+        {
+          "program_id": "trthaber_al_haber_06_2026-01-06_0240",
+          "start": 240,
+          "end": 295,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "trthaber_al_hava_durumu_2026-01-06_0295",
+          "start": 295,
+          "end": 300,
+          "genre": "weather",
+          "score": 28
+        },
+        {
+          "program_id": "trthaber_al_trt_haber_de_d_n_bug_n_2026-01-06_0300",
+          "start": 300,
+          "end": 475,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 138,
+      "channel_name": "AL - TRT MUZIK",
+      "programs": [
+        {
+          "program_id": "trtmuzik_al_g_n_lde_bir_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "trtmuzik_al_90_lar_akustik_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtmuzik_al_t_rk_deryas_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "trtmuzik_al_m_zik_yolcular_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "trtmuzik_al_sade_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtmuzik_al_s_mer_ezg_i_le_anadolu_d_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "trtmuzik_al_senin_ark_n_2026-01-06_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 139,
+      "channel_name": "AL - TRT Spor",
+      "programs": [
+        {
+          "program_id": "trtspor_al_trt_spor_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "trtspor_al_trt_spor_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "trtspor_al_trt_spor_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "trtspor_al_trt_spor_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 140,
+      "channel_name": "AL - TRT Turk",
+      "programs": [
+        {
+          "program_id": "trtturk_al_b_yle_bitmesin_2026-01-06_0020",
+          "start": 20,
+          "end": 70,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "trtturk_al_haberdar_2026-01-06_0070",
+          "start": 70,
+          "end": 100,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "trtturk_al_aile_2026-01-06_0100",
+          "start": 100,
+          "end": 160,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trtturk_al_sa_l_k_olsun_2026-01-06_0160",
+          "start": 160,
+          "end": 220,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "trtturk_al_g_n_l_verenler_2026-01-06_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "trtturk_al_trt_haber_de_d_n_bug_n_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 141,
+      "channel_name": "AL - TRT World",
+      "programs": [
+        {
+          "program_id": "trtworld_al_trt_news_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "trtworld_al_inside_america_with_ghid_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "trtworld_al_trt_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "trtworld_al_strait_talk_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "trtworld_al_trt_news_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "trtworld_al_newsfeed_2026-01-06_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "trtworld_al_roundtable_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trtworld_al_trt_news_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "trtworld_al_the_news_makers_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "trtworld_al_storyteller_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "trtworld_al_trt_news_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "trtworld_al_nexus_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 142,
+      "channel_name": "AL - TV 4",
+      "programs": [
+        {
+          "program_id": "tv4_al_forces_sp_ciales_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "tv4_al_love_island_wyspa_milosc_2026-01-06_0085",
+          "start": 85,
+          "end": 160,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tv4_al_superludzie_2026-01-06_0175",
+          "start": 175,
+          "end": 205,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tv4_al_superludzie_2026-01-06_0205",
+          "start": 205,
+          "end": 235,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tv4_al_superludzie_2026-01-06_0235",
+          "start": 235,
+          "end": 265,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tv4_al_superludzie_2026-01-06_0265",
+          "start": 265,
+          "end": 295,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tv4_al_superludzie_2026-01-06_0295",
+          "start": 295,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv4_al_telezakupy_tv_okazje_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 143,
+      "channel_name": "AL - TV8-Int",
+      "programs": [
+        {
+          "program_id": "tv8_int_al_tv8_tr_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tv8_int_al_tv8_tr_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv8_int_al_tv8_tr_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv8_int_al_tv8_tr_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 144,
+      "channel_name": "AL - TV Arta",
+      "programs": [
+        {
+          "program_id": "tvarta_al_lajmet_qendrore_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "tvarta_al_arta_tv_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tvarta_al_lajmet_e_mbr_mjes_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "tvarta_al_60_minuta_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "documentary",
+          "score": 77
+        },
+        {
+          "program_id": "tvarta_al_lajme_arta_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "tvarta_al_interaktiv_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "tvarta_al_lajme_arta_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "tvarta_al_sporti_n_arta_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "tvarta_al_lajme_arta_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "tvarta_al_drive_me_crazy_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 145,
+      "channel_name": "AL - TV Dukagjini",
+      "programs": [
+        {
+          "program_id": "tvdukagjini_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "tvdukagjini_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "tvdukagjini_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "tvdukagjini_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "tvdukagjini_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "tvdukagjini_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 146,
+      "channel_name": "AL - TV Festina",
+      "programs": [
+        {
+          "program_id": "tvfestina_al_tv_festina_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tvfestina_al_tv_festina_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 147,
+      "channel_name": "AL - TV Llapi",
+      "programs": [
+        {
+          "program_id": "tvllapi_al_tv_llapi_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tvllapi_al_tv_llapi_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tvllapi_al_tv_llapi_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tvllapi_al_tv_llapi_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tvllapi_al_tv_llapi_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvllapi_al_tv_llapi_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 148,
+      "channel_name": "AL - TV Mitrovica",
+      "programs": [
+        {
+          "program_id": "tvmitrovica_al_tv_mitrovica_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tvmitrovica_al_tv_mitrovica_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 149,
+      "channel_name": "AL - TV Puls",
+      "programs": [
+        {
+          "program_id": "tvpuls_al_tv_puls_24_asa_dnevno_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tvpuls_al_tv_puls_24_asa_dnevno_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tvpuls_al_tv_puls_24_asa_dnevno_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tvpuls_al_tv_puls_24_asa_dnevno_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tvpuls_al_tv_puls_24_asa_dnevno_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tvpuls_al_tv_puls_24_asa_dnevno_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 150,
+      "channel_name": "AL - TV Syri Vision",
+      "programs": [
+        {
+          "program_id": "tvsyrivision_al_syri_vizion_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "tvsyrivision_al_syri_vizion_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "tvsyrivision_al_syri_vizion_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "tvsyrivision_al_syri_vizion_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "tvsyrivision_al_syri_vizion_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "tvsyrivision_al_syri_vizion_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 151,
+      "channel_name": "AL - Tao Tao",
+      "programs": [
+        {
+          "program_id": "taotao_al_tao_tao_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "taotao_al_tao_tao_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 152,
+      "channel_name": "AL - TeVe 1",
+      "programs": [
+        {
+          "program_id": "teve1_al_programi_i_teve1_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "teve1_al_programi_i_teve1_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "teve1_al_programi_i_teve1_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "teve1_al_programi_i_teve1_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 153,
+      "channel_name": "AL - Terra",
+      "programs": [
+        {
+          "program_id": "terra_al_programi_terra_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "terra_al_programi_terra_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "terra_al_programi_terra_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 154,
+      "channel_name": "AL - Travelingo",
+      "programs": [
+        {
+          "program_id": "travelingo_al_travelingo_a_video_catal_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "promo",
+          "score": 24
+        },
+        {
+          "program_id": "travelingo_al_travelingo_a_video_catal_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "promo",
+          "score": 23
+        },
+        {
+          "program_id": "travelingo_al_travelingo_a_video_catal_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "promo",
+          "score": 32
+        },
+        {
+          "program_id": "travelingo_al_travelingo_a_video_catal_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "promo",
+          "score": 28
+        },
+        {
+          "program_id": "travelingo_al_travelingo_a_video_catal_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "promo",
+          "score": 24
+        },
+        {
+          "program_id": "travelingo_al_travelingo_a_video_catal_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "promo",
+          "score": 23
+        }
+      ]
+    },
+    {
+      "channel_id": 155,
+      "channel_name": "AL - Tring Action",
+      "programs": [
+        {
+          "program_id": "tringaction_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "tringaction_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "tringaction_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "tringaction_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "tringaction_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "tringaction_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 156,
+      "channel_name": "AL - Tring Classics",
+      "programs": [
+        {
+          "program_id": "tringclassics_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "tringclassics_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "tringclassics_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "tringclassics_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "tringclassics_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "tringclassics_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 157,
+      "channel_name": "AL - Tring Collection",
+      "programs": [
+        {
+          "program_id": "tringcollection_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "tringcollection_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "tringcollection_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "tringcollection_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "tringcollection_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "tringcollection_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 158,
+      "channel_name": "AL - Tring Comedy",
+      "programs": [
+        {
+          "program_id": "tringcomedy_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "tringcomedy_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "tringcomedy_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "tringcomedy_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "tringcomedy_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "tringcomedy_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 159,
+      "channel_name": "AL - Tring Family",
+      "programs": [
+        {
+          "program_id": "tringfamily_al_programi_i_tring_family_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tringfamily_al_programi_i_tring_family_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tringfamily_al_programi_i_tring_family_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tringfamily_al_programi_i_tring_family_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 160,
+      "channel_name": "AL - Tring Fantasy",
+      "programs": [
+        {
+          "program_id": "tringfantasy_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "tringfantasy_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "tringfantasy_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "tringfantasy_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "tringfantasy_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "tringfantasy_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 161,
+      "channel_name": "AL - Tring History",
+      "programs": [
+        {
+          "program_id": "tringhistory_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "tringhistory_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "tringhistory_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "tringhistory_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "tringhistory_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "tringhistory_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 162,
+      "channel_name": "AL - Tring Kids",
+      "programs": [
+        {
+          "program_id": "tringkids_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "tringkids_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "tringkids_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "tringkids_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "tringkids_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "tringkids_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 163,
+      "channel_name": "AL - Tring Life",
+      "programs": [
+        {
+          "program_id": "tringlife_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "tringlife_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "tringlife_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "tringlife_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "tringlife_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "tringlife_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 164,
+      "channel_name": "AL - Tring Originals",
+      "programs": [
+        {
+          "program_id": "tringoriginals_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "tringoriginals_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "tringoriginals_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "tringoriginals_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "tringoriginals_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "tringoriginals_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 165,
+      "channel_name": "AL - Tring Planet",
+      "programs": [
+        {
+          "program_id": "tringplanet_al_tring_planet_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tringplanet_al_tring_planet_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tringplanet_al_tring_planet_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tringplanet_al_tring_planet_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 166,
+      "channel_name": "AL - Tring Series",
+      "programs": [
+        {
+          "program_id": "tringseries_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "tringseries_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "tringseries_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "tringseries_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "tringseries_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "tringseries_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 167,
+      "channel_name": "AL - Tring Shqip",
+      "programs": [
+        {
+          "program_id": "tringshqip_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "tringshqip_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "tringshqip_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "tringshqip_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "tringshqip_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "tringshqip_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 168,
+      "channel_name": "AL - Tring Super",
+      "programs": [
+        {
+          "program_id": "tringsuper_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "tringsuper_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "tringsuper_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "tringsuper_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "tringsuper_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "tringsuper_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 169,
+      "channel_name": "AL - Tring Tring",
+      "programs": [
+        {
+          "program_id": "tringtring_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "tringtring_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "tringtring_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "tringtring_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "tringtring_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "tringtring_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 170,
+      "channel_name": "AL - Tring World",
+      "programs": [
+        {
+          "program_id": "tringworld_al_unknown_show_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "tringworld_al_unknown_show_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "tringworld_al_unknown_show_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "tringworld_al_unknown_show_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "tringworld_al_unknown_show_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "tringworld_al_unknown_show_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 171,
+      "channel_name": "AL - Turkish Stories",
+      "programs": [
+        {
+          "program_id": "turkishstories_al_turkish_stories_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "turkishstories_al_turkish_stories_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "movie",
+          "score": 81
+        },
+        {
+          "program_id": "turkishstories_al_turkish_stories_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "turkishstories_al_turkish_stories_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "movie",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 172,
+      "channel_name": "AL - Ulke TV",
+      "programs": [
+        {
+          "program_id": "ulketv_al_lke_de_bu_gece_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "ulketv_al_lke_de_bu_sabah_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 173,
+      "channel_name": "AL - Vizion +",
+      "programs": [
+        {
+          "program_id": "vizion_al_lajmet_e_fundit_2026-01-06_0000",
+          "start": 0,
+          "end": 28,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "vizion_al_fake_off_2026-01-06_0028",
+          "start": 28,
+          "end": 63,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "vizion_al_safir_2026-01-06_0063",
+          "start": 63,
+          "end": 163,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "vizion_al_lajmet_e_fundit_2026-01-06_0163",
+          "start": 163,
+          "end": 193,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "vizion_al_mi_amor_sin_tiempo_2026-01-06_0193",
+          "start": 193,
+          "end": 268,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "vizion_al_can_borcu_2026-01-06_0268",
+          "start": 268,
+          "end": 340,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "vizion_al_living_day_2026-01-06_0340",
+          "start": 340,
+          "end": 405,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 174,
+      "channel_name": "AL - Zico TV",
+      "programs": [
+        {
+          "program_id": "zicotv_al_muzik_2026-01-06_0003",
+          "start": 3,
+          "end": 60,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "zicotv_al_muzik_2026-01-06_0063",
+          "start": 63,
+          "end": 120,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "zicotv_al_muzik_2026-01-06_0120",
+          "start": 120,
+          "end": 420,
+          "genre": "music",
+          "score": 55
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5948 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 132,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 30,
+      "end": 90,
+      "allowed_channels": [
+        32,
+        92,
+        77,
+        27,
+        87,
+        31,
+        25,
+        63,
+        94,
+        126,
+        107,
+        125,
+        57,
+        127,
+        129,
+        12,
+        15,
+        70,
+        86,
+        123,
+        44,
+        6,
+        18,
+        56,
+        120,
+        14,
+        28,
+        37,
+        117,
+        34,
+        54,
+        36,
+        124,
+        81,
+        128,
+        26,
+        104,
+        21,
+        115,
+        88,
+        46,
+        7,
+        97,
+        82,
+        8,
+        122,
+        65,
+        45,
+        39,
+        62,
+        67,
+        95,
+        55,
+        75,
+        29,
+        43,
+        90,
+        91,
+        101,
+        121,
+        2,
+        9,
+        49,
+        89,
+        5,
+        20,
+        38,
+        96,
+        106
+      ]
+    },
+    {
+      "start": 165,
+      "end": 225,
+      "allowed_channels": [
+        33,
+        14,
+        120,
+        94,
+        121,
+        124,
+        60,
+        15,
+        75,
+        129,
+        2,
+        106,
+        6,
+        28,
+        97,
+        31,
+        20,
+        125,
+        34,
+        127,
+        7,
+        117,
+        19,
+        27,
+        107,
+        99,
+        123,
+        57,
+        55,
+        37,
+        104,
+        126,
+        50,
+        3,
+        32,
+        44,
+        72,
+        63,
+        12,
+        21,
+        10,
+        5,
+        95,
+        36,
+        45,
+        62,
+        41,
+        22,
+        49,
+        130,
+        92,
+        25,
+        43,
+        56,
+        89,
+        91,
+        115,
+        9,
+        118,
+        70,
+        78,
+        122,
+        38,
+        85,
+        11,
+        47,
+        87
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "music",
+      "bonus": 22
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "music",
+      "bonus": 25
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "music",
+      "bonus": 23
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 22
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "news",
+      "bonus": 24
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "music",
+      "bonus": 22
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "sports",
+      "bonus": 26
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "sports",
+      "bonus": 37
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "sports",
+      "bonus": 54
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "sports",
+      "bonus": 53
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "sports",
+      "bonus": 46
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "NL - 100% NL TV",
+      "programs": [
+        {
+          "program_id": "100_nltv_nl_100_muzieknacht_2026-01-07_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "NL - 192 TV",
+      "programs": [
+        {
+          "program_id": "192tv_nl_nachtklup_2026-01-07_0000",
+          "start": 0,
+          "end": 362,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "NL - 24Kitchen",
+      "programs": [
+        {
+          "program_id": "24kitchen_nl_guilty_pleasures_2026-01-07_0010",
+          "start": 10,
+          "end": 40,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "24kitchen_nl_next_level_chef_2026-01-07_0040",
+          "start": 40,
+          "end": 100,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "24kitchen_nl_great_british_menu_2026-01-07_0100",
+          "start": 100,
+          "end": 170,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "24kitchen_nl_gordon_ramsay_s_future_f_2026-01-07_0170",
+          "start": 170,
+          "end": 230,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "24kitchen_nl_nadiya_bakes_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "24kitchen_nl_snel_met_miljuschka_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "NL - 2M",
+      "programs": [
+        {
+          "program_id": "2m_nl_al_amanah_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "2m_nl_ahsan_patissier_2026-01-07_0030",
+          "start": 30,
+          "end": 165,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "2m_nl_al_melaf_2026-01-07_0165",
+          "start": 165,
+          "end": 230,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "2m_nl_al_barlaman_wa_al_nas_2026-01-07_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "2m_nl_al_montaqem_2026-01-07_0260",
+          "start": 260,
+          "end": 305,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "2m_nl_hadeek_hayati_2026-01-07_0305",
+          "start": 305,
+          "end": 350,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "NL - ARD",
+      "programs": [
+        {
+          "program_id": "ard_nl_charlotte_link_2026-01-07_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "ard_nl_tagesschau_2026-01-07_0080",
+          "start": 80,
+          "end": 85,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "ard_nl_die_heiland_wir_sind_anw_2026-01-07_0085",
+          "start": 85,
+          "end": 130,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "ard_nl_in_aller_freundschaft_2026-01-07_0130",
+          "start": 130,
+          "end": 178,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ard_nl_tagesschau_2026-01-07_0178",
+          "start": 178,
+          "end": 180,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "ard_nl_charlotte_link_2026-01-07_0180",
+          "start": 180,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ard_nl_tagesschau_2026-01-07_0283",
+          "start": 283,
+          "end": 285,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "ard_nl_die_braut_ihr_mann_die_e_2026-01-07_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "ard_nl_zdf_morgenmagazin_2026-01-07_0330",
+          "start": 330,
+          "end": 540,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "NL - ATV Avrupa",
+      "programs": [
+        {
+          "program_id": "atvavrupa_nl_stajyer_mafya_2026-01-07_0000",
+          "start": 0,
+          "end": 110,
+          "genre": "kids",
+          "score": 63
+        },
+        {
+          "program_id": "atvavrupa_nl_avrupa_haber_2026-01-07_0110",
+          "start": 110,
+          "end": 120,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "atvavrupa_nl_atv_ana_haber_b_lteni_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "atvavrupa_nl_kardeslerim_2026-01-07_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "atvavrupa_nl_aldatmak_2026-01-07_0230",
+          "start": 230,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atvavrupa_nl_aldatmak_2026-01-07_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "NL - Aljazeera English",
+      "programs": [
+        {
+          "program_id": "aljazeeraenglish_n_news_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "aljazeeraenglish_n_inside_story_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "aljazeeraenglish_n_newshour_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "aljazeeraenglish_n_the_el_masri_case_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "aljazeeraenglish_n_news_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeeraenglish_n_talk_to_al_jazeera_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "aljazeeraenglish_n_news_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "aljazeeraenglish_n_witness_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "education",
+          "score": 64
+        },
+        {
+          "program_id": "aljazeeraenglish_n_news_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "aljazeeraenglish_n_upfront_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "NL - Animal Planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_nl_extinct_or_alive_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "animalplanet_nl_louisiana_law_2026-01-07_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "animalplanet_nl_tanked_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "animalplanet_nl_the_vet_life_2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "animalplanet_nl_the_vet_life_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "animalplanet_nl_animal_er_2026-01-07_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "animalplanet_nl_louisiana_law_2026-01-07_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_nl_dogs_cats_pets_101_2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "NL - Arte",
+      "programs": [
+        {
+          "program_id": "arte_nl_vom_impfstoff_zur_krebst_2026-01-07_0025",
+          "start": 25,
+          "end": 115,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "arte_nl_epidemien_der_infizierte_2026-01-07_0115",
+          "start": 115,
+          "end": 215,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "arte_nl_die_seucheninsel_forschu_2026-01-07_0215",
+          "start": 215,
+          "end": 260,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "arte_nl_mit_offenen_augen_2026-01-07_0260",
+          "start": 260,
+          "end": 285,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "arte_nl_mitbestimmung_im_tierrei_2026-01-07_0305",
+          "start": 305,
+          "end": 355,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "arte_nl_geo_reportage_2026-01-07_0355",
+          "start": 355,
+          "end": 410,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "NL - BBC First",
+      "programs": [
+        {
+          "program_id": "bbcfirst_nl_vienna_blood_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "bbcfirst_nl_queens_of_mystery_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbcfirst_nl_ghosts_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "documentary",
+          "score": 69
+        },
+        {
+          "program_id": "bbcfirst_nl_darby_and_joan_2026-01-07_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbcfirst_nl_outrageous_2026-01-07_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "bbcfirst_nl_father_brown_2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bbcfirst_nl_professor_t_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "series",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "NL - BBC One",
+      "programs": [
+        {
+          "program_id": "bbcone_nl_waterloo_road_2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbcone_nl_mrs_brown_s_boys_2026-01-07_0040",
+          "start": 40,
+          "end": 70,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bbcone_nl_shedites_2026-01-07_0070",
+          "start": 70,
+          "end": 100,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bbcone_nl_the_weakest_link_2026-01-07_0100",
+          "start": 100,
+          "end": 145,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bbcone_nl_weather_for_the_week_ahe_2026-01-07_0145",
+          "start": 145,
+          "end": 150,
+          "genre": "weather",
+          "score": 25
+        },
+        {
+          "program_id": "bbcone_nl_tech_now_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bbcone_nl_newsday_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "bbcone_nl_business_today_2026-01-07_0210",
+          "start": 210,
+          "end": 225,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "bbcone_nl_bbc_sport_2026-01-07_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "bbcone_nl_newsday_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "bbcone_nl_business_today_2026-01-07_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "bbcone_nl_bbc_sport_2026-01-07_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "bbcone_nl_newsday_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "bbcone_nl_business_today_2026-01-07_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "bbcone_nl_bbc_sport_2026-01-07_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "sports",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "NL - BBC Two",
+      "programs": [
+        {
+          "program_id": "bbctwo_nl_priscilla_2026-01-07_0000",
+          "start": 0,
+          "end": 110,
+          "genre": "weather",
+          "score": 43
+        },
+        {
+          "program_id": "bbctwo_nl_the_traitors_2026-01-07_0110",
+          "start": 110,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bbctwo_nl_titanic_sinks_tonight_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbctwo_nl_this_is_bbc_two_2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "NL - BBC World News",
+      "programs": [
+        {
+          "program_id": "bbcworldnews_nl_bbc_world_news_america_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bbcworldnews_nl_bbc_news_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "bbcworldnews_nl_newscast_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "bbcworldnews_nl_bbc_news_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bbcworldnews_nl_tech_now_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bbcworldnews_nl_newsday_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "bbcworldnews_nl_business_today_2026-01-07_0210",
+          "start": 210,
+          "end": 225,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "bbcworldnews_nl_bbc_sport_2026-01-07_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "bbcworldnews_nl_newsday_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "bbcworldnews_nl_business_today_2026-01-07_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "bbcworldnews_nl_bbc_sport_2026-01-07_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "bbcworldnews_nl_newsday_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "bbcworldnews_nl_business_today_2026-01-07_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "bbcworldnews_nl_bbc_sport_2026-01-07_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "NL - Baby TV",
+      "programs": [
+        {
+          "program_id": "babytv_nl_twilight_2026-01-07_0267",
+          "start": 267,
+          "end": 271,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "babytv_nl_songs_and_rhymes_2026-01-07_0321",
+          "start": 321,
+          "end": 322,
+          "genre": "sports",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "NL - CNBC Europe",
+      "programs": [
+        {
+          "program_id": "cnbceurope_nl_squawk_box_asia_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "cnbceurope_nl_squawk_box_asia_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "cnbceurope_nl_squawk_box_asia_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "cnbceurope_nl_squawk_box_asia_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "cnbceurope_nl_squawk_box_asia_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "cnbceurope_nl_squawk_box_asia_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "cnbceurope_nl_the_china_connection_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "cnbceurope_nl_the_china_connection_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "cnbceurope_nl_inside_india_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "cnbceurope_nl_inside_india_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "cnbceurope_nl_access_middle_east_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "cnbceurope_nl_access_middle_east_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "talk",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "NL - CNN",
+      "programs": [
+        {
+          "program_id": "cnn_nl_the_brief_with_jim_sciut_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "cnn_nl_erin_burnett_outfront_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "cnn_nl_anderson_cooper_360_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "cnn_nl_the_source_with_kaitlan__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "cnn_nl_cnn_newsnight_with_abby__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "cnn_nl_laura_coates_live_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "NL - Canvas",
+      "programs": [
+        {
+          "program_id": "canvas_nl_nachtlus_2026-01-07_0010",
+          "start": 10,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "NL - Cartoon Network",
+      "programs": [
+        {
+          "program_id": "cartoonnetwork_nl_totally_spies_2026-01-07_0100",
+          "start": 100,
+          "end": 120,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "cartoonnetwork_nl_totally_spies_2026-01-07_0290",
+          "start": 290,
+          "end": 315,
+          "genre": "sports",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "NL - Comedy Central",
+      "programs": [
+        {
+          "program_id": "comedycentral_nl_according_to_jim_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "comedycentral_nl_family_guy_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "comedycentral_nl_family_guy_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "comedycentral_nl_south_park_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "NL - Crime+Investigation",
+      "programs": [
+        {
+          "program_id": "crime_investigatio_homicide_hunter_2026-01-07_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "weather",
+          "score": 46
+        },
+        {
+          "program_id": "crime_investigatio_homicide_hunter_2026-01-07_0055",
+          "start": 55,
+          "end": 110,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "crime_investigatio_an_hour_to_kill_2026-01-07_0110",
+          "start": 110,
+          "end": 170,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "crime_investigatio_homicide_hours_to_kill_2026-01-07_0170",
+          "start": 170,
+          "end": 215,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "crime_investigatio_green_eyed_killers_2026-01-07_0215",
+          "start": 215,
+          "end": 265,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "crime_investigatio_witness_to_murder_digita_2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "crime_investigatio_last_night_out_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "NL - DanceTelevision",
+      "programs": [
+        {
+          "program_id": "dancetelevision_nl_carl_craig_909_festival__2026-01-07_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "dancetelevision_nl_late_knights_chekka_with_2026-01-07_0080",
+          "start": 80,
+          "end": 145,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "dancetelevision_nl_dj_boring_wonderland_202_2026-01-07_0145",
+          "start": 145,
+          "end": 208,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "dancetelevision_nl_dam_swindle_loveland_fes_2026-01-07_0208",
+          "start": 208,
+          "end": 325,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "dancetelevision_nl_saytek_live_awesome_soun_2026-01-07_0325",
+          "start": 325,
+          "end": 400,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "NL - Discovery",
+      "programs": [
+        {
+          "program_id": "discovery_nl_ghost_adventures_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "discovery_nl_body_cam_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "discovery_nl_border_control_spain_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "discovery_nl_trucking_hell_2026-01-07_0120",
+          "start": 120,
+          "end": 170,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discovery_nl_building_bad_2026-01-07_0170",
+          "start": 170,
+          "end": 220,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "discovery_nl_gold_rush_2026-01-07_0220",
+          "start": 220,
+          "end": 315,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "discovery_nl_wheeler_dealers_2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "NL - Discovery Science",
+      "programs": [
+        {
+          "program_id": "discoveryscience_n_above_and_beyond_nasa_s__2026-01-07_0045",
+          "start": 45,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "discoveryscience_n_how_the_universe_works_2026-01-07_0120",
+          "start": 120,
+          "end": 168,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "discoveryscience_n_incredible_engineering_b_2026-01-07_0168",
+          "start": 168,
+          "end": 216,
+          "genre": "education",
+          "score": 66
+        },
+        {
+          "program_id": "discoveryscience_n_incredible_engineering_b_2026-01-07_0216",
+          "start": 216,
+          "end": 264,
+          "genre": "education",
+          "score": 59
+        },
+        {
+          "program_id": "discoveryscience_n_dino_hunters_2026-01-07_0264",
+          "start": 264,
+          "end": 312,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "discoveryscience_n_dino_hunters_2026-01-07_0312",
+          "start": 312,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "NL - Disney Channel",
+      "programs": [
+        {
+          "program_id": "disneychannel_nl_phineas_and_ferb_2026-01-07_0004",
+          "start": 4,
+          "end": 17,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "disneychannel_nl_phineas_and_ferb_2026-01-07_0263",
+          "start": 263,
+          "end": 284,
+          "genre": "sports",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "NL - Dreamworks",
+      "programs": [
+        {
+          "program_id": "dreamworks_nl_archibald_s_next_big_thi_2026-01-07_0170",
+          "start": 170,
+          "end": 195,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "dreamworks_nl_where_s_waldo_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "dreamworks_nl_my_life_me_2026-01-07_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "NL - ESPN",
+      "programs": [
+        {
+          "program_id": "espn_nl_voetbalpraat_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "espn_nl_espn_vandaag_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "espn_nl_espn_vandaag_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "espn_nl_espn_vandaag_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "espn_nl_nba_minnesota_timberwolv_2026-01-07_0120",
+          "start": 120,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "espn_nl_espn_vandaag_2026-01-07_0270",
+          "start": 270,
+          "end": 295,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "espn_nl_voetbalpraat_2026-01-07_0295",
+          "start": 295,
+          "end": 340,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "espn_nl_espn_vandaag_2026-01-07_0340",
+          "start": 340,
+          "end": 360,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "NL - ESPN 2",
+      "programs": [
+        {
+          "program_id": "espn2_nl_espn_vandaag_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "espn2_nl_voetbalpraat_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "espn2_nl_nhl_new_york_islanders_n_2026-01-07_0090",
+          "start": 90,
+          "end": 240,
+          "genre": "education",
+          "score": 58
+        },
+        {
+          "program_id": "espn2_nl_espn_vandaag_2026-01-07_0240",
+          "start": 240,
+          "end": 265,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "espn2_nl_voetbalpraat_2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "espn2_nl_espn_vandaag_2026-01-07_0310",
+          "start": 310,
+          "end": 335,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "espn2_nl_espn_vandaag_2026-01-07_0335",
+          "start": 335,
+          "end": 360,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "NL - ESPN 3",
+      "programs": [
+        {
+          "program_id": "espn3_nl_the_pat_mcafee_show_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "espn3_nl_nfl_live_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "espn3_nl_ncaa_championships_divis_2026-01-07_0120",
+          "start": 120,
+          "end": 265,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "espn3_nl_dossier_eredivisie_de_ko_2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "NL - ESPN 4",
+      "programs": [
+        {
+          "program_id": "espn4_nl_nba_today_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "espn4_nl_college_basketball_louis_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "espn4_nl_college_basketball_kansa_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "espn4_nl_nfl_highlights_2026-01-07_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "NL - E! Entertainment",
+      "programs": [
+        {
+          "program_id": "e_entertainment_nl_botched_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "e_entertainment_nl_keeping_up_with_the_kard_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "e_entertainment_nl_keeping_up_with_the_kard_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "weather",
+          "score": 41
+        },
+        {
+          "program_id": "e_entertainment_nl_botched_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "e_entertainment_nl_botched_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "e_entertainment_nl_wags_la_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "movie",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "NL - Euro D",
+      "programs": [
+        {
+          "program_id": "eurod_nl_k_z_karde_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "eurod_nl_gelinim_mutfakta_2026-01-07_0060",
+          "start": 60,
+          "end": 210,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "eurod_nl_afili_a_k_yeni_2026-01-07_0210",
+          "start": 210,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "eurod_nl_k_k_aga_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "NL - Euronews",
+      "programs": [
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0015",
+          "start": 15,
+          "end": 30,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0180",
+          "start": 180,
+          "end": 194,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0194",
+          "start": 194,
+          "end": 210,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "euronews_nl_the_european_debrief_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "NL - Eurosport 1",
+      "programs": [
+        {
+          "program_id": "eurosport1_nl_world_snooker_tour_north_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 90
+        },
+        {
+          "program_id": "eurosport1_nl_fis_ski_jumping_bischofs_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "eurosport1_nl_world_snooker_tour_inter_2026-01-07_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "eurosport1_nl_fis_freestyle_skiing_wor_2026-01-07_0210",
+          "start": 210,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "eurosport1_nl_fis_ski_jumping_villach__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "NL - Eurosport 2",
+      "programs": [
+        {
+          "program_id": "eurosport2_nl_fis_freestyle_skiing_wor_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "eurosport2_nl_fis_ski_jumping_villach__2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "eurosport2_nl_fis_ski_jumping_bischofs_2026-01-07_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "eurosport2_nl_australian_open_jannik_s_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "NL - Eurostar",
+      "programs": [
+        {
+          "program_id": "eurostar_nl_yerli_dizi_2026-01-07_0000",
+          "start": 0,
+          "end": 70,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "eurostar_nl_hanim_k_yl_2026-01-07_0070",
+          "start": 70,
+          "end": 170,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurostar_nl_star_haber_haberler_2026-01-07_0170",
+          "start": 170,
+          "end": 220,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "eurostar_nl_s_z_2026-01-07_0220",
+          "start": 220,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "eurostar_nl_s_z_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "eurostar_nl_istanbullu_gelin_2026-01-07_0330",
+          "start": 330,
+          "end": 450,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "NL - FOX",
+      "programs": [
+        {
+          "program_id": "fox_nl_hawaii_five_0_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "fox_nl_the_resident_2026-01-07_0045",
+          "start": 45,
+          "end": 105,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fox_nl_the_resident_2026-01-07_0105",
+          "start": 105,
+          "end": 145,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "fox_nl_below_deck_adventure_2026-01-07_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "fox_nl_below_deck_down_under_2026-01-07_0190",
+          "start": 190,
+          "end": 235,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "fox_nl_the_real_housewives_of_b_2026-01-07_0235",
+          "start": 235,
+          "end": 275,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "fox_nl_the_kardashians_2026-01-07_0275",
+          "start": 275,
+          "end": 320,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "NL - Family7",
+      "programs": [
+        {
+          "program_id": "family7_nl_wind_at_my_back_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "family7_nl_uitgelicht_extra_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "family7_nl_joyce_meyer_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "family7_nl_uitzien_en_bouwen_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "family7_nl_answers_with_bayless_con_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "religion",
+          "score": 56
+        },
+        {
+          "program_id": "family7_nl_uitgelicht_extra_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "talk",
+          "score": 76
+        },
+        {
+          "program_id": "family7_nl_thuis_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "education",
+          "score": 63
+        },
+        {
+          "program_id": "family7_nl_uitzien_en_bouwen_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "family7_nl_uitgelicht_extra_2026-01-07_0295",
+          "start": 295,
+          "end": 330,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "family7_nl_wind_at_my_back_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "NL - Fashion TV",
+      "programs": [
+        {
+          "program_id": "fashiontv_nl_lingerie_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "fashiontv_nl_lingerie_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "fashiontv_nl_swimwear_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_nl_swimwear_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "fashiontv_nl_top_models_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "fashiontv_nl_top_models_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "fashiontv_nl_lingerie_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "fashiontv_nl_lingerie_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "fashiontv_nl_swimwear_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "fashiontv_nl_swimwear_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "fashiontv_nl_top_photoshoots_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_nl_top_photoshoots_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "NL - Film1 Action",
+      "programs": [
+        {
+          "program_id": "film1action_nl_fairytale_garden_2026-01-07_0010",
+          "start": 10,
+          "end": 110,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "film1action_nl_before_the_wedding_2026-01-07_0110",
+          "start": 110,
+          "end": 205,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "film1action_nl_all_fun_and_games_2026-01-07_0205",
+          "start": 205,
+          "end": 300,
+          "genre": "kids",
+          "score": 62
+        },
+        {
+          "program_id": "film1action_nl_i_am_lisa_2026-01-07_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "NL - Film1 Drama",
+      "programs": [
+        {
+          "program_id": "film1drama_nl_hell_or_high_water_2026-01-07_0020",
+          "start": 20,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "film1drama_nl_superposition_2026-01-07_0120",
+          "start": 120,
+          "end": 220,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "film1drama_nl_golda_2026-01-07_0220",
+          "start": 220,
+          "end": 320,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "film1drama_nl_corner_office_2026-01-07_0320",
+          "start": 320,
+          "end": 420,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "NL - Film1 Family",
+      "programs": [
+        {
+          "program_id": "film1family_nl_dirty_dutch_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "film1family_nl_ellis_in_glamourland_2026-01-07_0030",
+          "start": 30,
+          "end": 130,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "film1family_nl_american_dreamer_2026-01-07_0130",
+          "start": 130,
+          "end": 225,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "film1family_nl_head_south_2026-01-07_0225",
+          "start": 225,
+          "end": 320,
+          "genre": "religion",
+          "score": 49
+        },
+        {
+          "program_id": "film1family_nl_almost_friends_2026-01-07_0320",
+          "start": 320,
+          "end": 420,
+          "genre": "series",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "NL - Film1 Premiere",
+      "programs": [
+        {
+          "program_id": "film1premiere_nl_vox_lux_2026-01-07_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "film1premiere_nl_the_rental_2026-01-07_0105",
+          "start": 105,
+          "end": 190,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "film1premiere_nl_cascade_2026-01-07_0190",
+          "start": 190,
+          "end": 285,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "film1premiere_nl_gunner_2026-01-07_0285",
+          "start": 285,
+          "end": 390,
+          "genre": "kids",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "NL - FilmBox",
+      "programs": [
+        {
+          "program_id": "filmbox_nl_chief_of_station_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "filmbox_nl_the_lair_2026-01-07_0060",
+          "start": 60,
+          "end": 170,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "filmbox_nl_clara_sola_2026-01-07_0170",
+          "start": 170,
+          "end": 290,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "filmbox_nl_hide_and_seek_2026-01-07_0290",
+          "start": 290,
+          "end": 390,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "NL - Habertürk",
+      "programs": [
+        {
+          "program_id": "haberturk_nl_haber_b_lteni_2026-01-07_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "haberturk_nl_nedir_ne_degildir_2026-01-07_0015",
+          "start": 15,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "haberturk_nl_g_n_ba_l_yor_2026-01-07_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "NL - History",
+      "programs": [
+        {
+          "program_id": "history_nl_forged_in_fire_2026-01-07_0015",
+          "start": 15,
+          "end": 70,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "history_nl_odysseus_returns_2026-01-07_0070",
+          "start": 70,
+          "end": 125,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "history_nl_secrets_in_the_dark_2026-01-07_0125",
+          "start": 125,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "history_nl_holy_marvels_with_dennis_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "history_nl_ancient_aliens_2026-01-07_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "history_nl_american_pickers_2026-01-07_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "education",
+          "score": 57
+        },
+        {
+          "program_id": "history_nl_american_pickers_2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "movie",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "NL - Horse & Country TV",
+      "programs": [
+        {
+          "program_id": "horseandcountrytv__equestrianism_uspa_offic_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "horseandcountrytv__equestrianism_jump_saudi_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "horseandcountrytv__de_wereld_van_luiten_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "horseandcountrytv__ncea_national_collegiate_2026-01-07_0090",
+          "start": 90,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "horseandcountrytv__international_jumping_of_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "horseandcountrytv__riding_with_the_reddens_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "kids",
+          "score": 61
+        },
+        {
+          "program_id": "horseandcountrytv__mochara_all_star_academy_2026-01-07_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "horseandcountrytv__postcards_from_paris_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "talk",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "NL - ID Investigation Discovery",
+      "programs": [
+        {
+          "program_id": "idinvestigationdis_the_killer_closer_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "idinvestigationdis_who_hired_the_hitman_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "idinvestigationdis_i_almost_got_away_with_i_2026-01-07_0120",
+          "start": 120,
+          "end": 170,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "idinvestigationdis_til_death_do_us_part_2026-01-07_0170",
+          "start": 170,
+          "end": 220,
+          "genre": "weather",
+          "score": 43
+        },
+        {
+          "program_id": "idinvestigationdis_betrayed_2026-01-07_0220",
+          "start": 220,
+          "end": 265,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "idinvestigationdis_betrayed_2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "idinvestigationdis_murder_in_the_heartland_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "NL - Ketnet",
+      "programs": [
+        {
+          "program_id": "ketnet_nl_sign_off_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ketnet_nl_sign_off_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "NL - L1 TV",
+      "programs": [
+        {
+          "program_id": "l1tv_nl_nachtcarrousel_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "l1tv_nl_nachtcarrousel_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "NL - Love Nature",
+      "programs": [
+        {
+          "program_id": "lovenature_nl_animals_decoded_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "lovenature_nl_land_of_primates_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "lovenature_nl_gladiators_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "lovenature_nl_gladiators_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "lovenature_nl_secrets_of_the_enchanted_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "lovenature_nl_animals_decoded_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "NL - MTV",
+      "programs": [
+        {
+          "program_id": "mtv_nl_ridiculousness_2026-01-07_0025",
+          "start": 25,
+          "end": 55,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtv_nl_ridiculousness_2026-01-07_0055",
+          "start": 55,
+          "end": 90,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "mtv_nl_caught_in_the_act_double_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mtv_nl_ex_on_the_beach_uk_2026-01-07_0135",
+          "start": 135,
+          "end": 175,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mtv_nl_geordie_shore_2026-01-07_0175",
+          "start": 175,
+          "end": 220,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "mtv_nl_geordie_shore_2026-01-07_0220",
+          "start": 220,
+          "end": 260,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "mtv_nl_celebrity_ex_on_the_beac_2026-01-07_0260",
+          "start": 260,
+          "end": 305,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "NL - MTV 80s",
+      "programs": [
+        {
+          "program_id": "mtv80s_nl_channel_no_longer_availa_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mtv80s_nl_channel_no_longer_availa_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mtv80s_nl_channel_no_longer_availa_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mtv80s_nl_channel_no_longer_availa_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "NL - Mediaset Italia",
+      "programs": [
+        {
+          "program_id": "mediasetitalia_nl_quarta_repubblica_2026-01-07_0010",
+          "start": 10,
+          "end": 182,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "mediasetitalia_nl_caduta_libera_2026-01-07_0193",
+          "start": 193,
+          "end": 248,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "mediasetitalia_nl_4_di_sera_news_2026-01-07_0248",
+          "start": 248,
+          "end": 304,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "mediasetitalia_nl_tira_e_molla_2026-01-07_0316",
+          "start": 316,
+          "end": 360,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "NL - Mezzo",
+      "programs": [
+        {
+          "program_id": "mezzo_nl_les_p_cheurs_de_perles_b_2026-01-07_0000",
+          "start": 0,
+          "end": 78,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mezzo_nl_orchestre_de_paris_klaus_2026-01-07_0078",
+          "start": 78,
+          "end": 179,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mezzo_nl_royal_concertbouw_orches_2026-01-07_0179",
+          "start": 179,
+          "end": 257,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "mezzo_nl_leonard_bernstein_conduc_2026-01-07_0257",
+          "start": 257,
+          "end": 350,
+          "genre": "music",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "NL - MvH Hard",
+      "programs": [
+        {
+          "program_id": "mvhhard_nl_feestelijk_valentijns_tr_2026-01-07_0012",
+          "start": 12,
+          "end": 43,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "mvhhard_nl_linns_kinky_verrassing_2026-01-07_0043",
+          "start": 43,
+          "end": 82,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "mvhhard_nl_s_spelletjes_met_tiener__2026-01-07_0082",
+          "start": 82,
+          "end": 110,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "mvhhard_nl_geile_deurwaarder_mel_tr_2026-01-07_0161",
+          "start": 161,
+          "end": 194,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mvhhard_nl_wk_darts_gigi_vs_romy_2026-01-07_0194",
+          "start": 194,
+          "end": 224,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mvhhard_nl_mel_s_kloppende_s_hart_2026-01-07_0297",
+          "start": 297,
+          "end": 331,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "NL - MyZen",
+      "programs": [
+        {
+          "program_id": "myzen_nl_body_and_soul_yoga_2026-01-07_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "myzen_nl_body_and_soul_yoga_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "myzen_nl_audio_advice_2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "myzen_nl_my_zen_relaxation_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "myzen_nl_escape_beautiful_landsca_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "myzen_nl_body_and_soul_spiritual__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "NL - NDR",
+      "programs": [
+        {
+          "program_id": "ndr_nl_tatort_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 77
+        },
+        {
+          "program_id": "ndr_nl_die_nordreportage_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ndr_nl_unterwegs_auf_der_luftli_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "weather",
+          "score": 45
+        },
+        {
+          "program_id": "ndr_nl_die_nordreportage_2026-01-07_0135",
+          "start": 135,
+          "end": 165,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ndr_nl_hallo_niedersachsen_2026-01-07_0165",
+          "start": 165,
+          "end": 195,
+          "genre": "education",
+          "score": 63
+        },
+        {
+          "program_id": "ndr_nl_nordmagazin_2026-01-07_0195",
+          "start": 195,
+          "end": 225,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ndr_nl_schleswig_holstein_magaz_2026-01-07_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "ndr_nl_hamburg_journal_2026-01-07_0255",
+          "start": 255,
+          "end": 285,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "ndr_nl_buten_un_binnen_2026-01-07_0285",
+          "start": 285,
+          "end": 315,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "ndr_nl_das_rote_sofa_2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "NL - NPO 1",
+      "programs": [
+        {
+          "program_id": "npo1_nl_pauw_and_de_wit_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "npo1_nl_nos_journaal_2026-01-07_0045",
+          "start": 45,
+          "end": 75,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "npo1_nl_pauw_and_de_wit_2026-01-07_0075",
+          "start": 75,
+          "end": 120,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "npo1_nl_eenvandaag_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "npo1_nl_nos_journaal_met_gebaren_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "npo1_nl_nos_journaal_2026-01-07_0180",
+          "start": 180,
+          "end": 200,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "npo1_nl_nos_journaal_2026-01-07_0200",
+          "start": 200,
+          "end": 350,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "NL - NPO 1 Extra",
+      "programs": [
+        {
+          "program_id": "npo1extra_nl_onderweg_naar_liefde_2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "weather",
+          "score": 39
+        },
+        {
+          "program_id": "npo1extra_nl_tv_monument_2026-01-07_0050",
+          "start": 50,
+          "end": 95,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "npo1extra_nl_woeste_grond_2026-01-07_0115",
+          "start": 115,
+          "end": 145,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "npo1extra_nl_toppop_2026-01-07_0145",
+          "start": 145,
+          "end": 205,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "npo1extra_nl_onderweg_naar_liefde_2026-01-07_0205",
+          "start": 205,
+          "end": 255,
+          "genre": "weather",
+          "score": 49
+        },
+        {
+          "program_id": "npo1extra_nl_binnenstebuiten_2026-01-07_0255",
+          "start": 255,
+          "end": 290,
+          "genre": "education",
+          "score": 66
+        },
+        {
+          "program_id": "npo1extra_nl_vroeg_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "NL - NPO 2",
+      "programs": [
+        {
+          "program_id": "npo2_nl_nieuwsuur_2026-01-07_0025",
+          "start": 25,
+          "end": 65,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "npo2_nl_nieuwsuur_2026-01-07_0065",
+          "start": 65,
+          "end": 420,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "NL - NPO 2 Extra",
+      "programs": [
+        {
+          "program_id": "npo2extra_nl_the_day_will_come_2026-01-07_0025",
+          "start": 25,
+          "end": 135,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "npo2extra_nl_a_film_and_its_era_2026-01-07_0135",
+          "start": 135,
+          "end": 190,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "npo2extra_nl_countdown_special_2026-01-07_0190",
+          "start": 190,
+          "end": 245,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "npo2extra_nl_jazzportretten_2026-01-07_0245",
+          "start": 245,
+          "end": 275,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "npo2extra_nl_wildlife_2026-01-07_0275",
+          "start": 275,
+          "end": 375,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "NL - NPO 3",
+      "programs": [
+        {
+          "program_id": "npo3_nl_een_huis_vol_2026-01-07_0015",
+          "start": 15,
+          "end": 45,
+          "genre": "kids",
+          "score": 54
+        },
+        {
+          "program_id": "npo3_nl_een_huis_vol_2026-01-07_0045",
+          "start": 45,
+          "end": 75,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "npo3_nl_vier_handen_op_n_buik_2026-01-07_0075",
+          "start": 75,
+          "end": 135,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "npo3_nl_woonkoorts_2026-01-07_0135",
+          "start": 135,
+          "end": 185,
+          "genre": "kids",
+          "score": 54
+        },
+        {
+          "program_id": "npo3_nl_nos_jeugdjournaal_met_ge_2026-01-07_0185",
+          "start": 185,
+          "end": 360,
+          "genre": "kids",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "NL - NPO Politiek en Nieuws",
+      "programs": [
+        {
+          "program_id": "npopolitiekennieuw_haagse_politiek_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "npopolitiekennieuw_haagse_politiek_2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "talk",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "NL - National Geographic Channel",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_world_war_ii_secrets_fro_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_destruction_decoded_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "nationalgeographic_megafactories_2026-01-07_0140",
+          "start": 140,
+          "end": 185,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "nationalgeographic_drugs_inc_2026-01-07_0185",
+          "start": 185,
+          "end": 235,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "nationalgeographic_drugs_inc_2026-01-07_0235",
+          "start": 235,
+          "end": 280,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_car_s_o_s_2026-01-07_0280",
+          "start": 280,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "nationalgeographic_car_s_o_s_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "NL - National Geographic Wild",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_wild_alaska_2026-01-07_0010",
+          "start": 10,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_kingdom_of_the_polar_bea_2026-01-07_0060",
+          "start": 60,
+          "end": 110,
+          "genre": "religion",
+          "score": 51
+        },
+        {
+          "program_id": "nationalgeographic_wild_lapland_2026-01-07_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "nationalgeographic_snow_school_2026-01-07_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "nationalgeographic_winter_of_the_bear_2026-01-07_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "nationalgeographic_winter_s_hidden_wonders_2026-01-07_0250",
+          "start": 250,
+          "end": 295,
+          "genre": "education",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "NL - Net5",
+      "programs": [
+        {
+          "program_id": "net5_nl_lang_leve_de_liefde_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "net5_nl_flo_2026-01-07_0030",
+          "start": 30,
+          "end": 65,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "net5_nl_house_rules_2026-01-07_0065",
+          "start": 65,
+          "end": 125,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "net5_nl_loop_hart_van_nederland_2026-01-07_0125",
+          "start": 125,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "NL - Nick Jr.",
+      "programs": [
+        {
+          "program_id": "nickjr_nl_rubble_and_crew_2026-01-07_0035",
+          "start": 35,
+          "end": 60,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "nickjr_nl_rubble_and_crew_2026-01-07_0175",
+          "start": 175,
+          "end": 200,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "nickjr_nl_blaze_and_the_monster_ma_2026-01-07_0245",
+          "start": 245,
+          "end": 270,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "nickjr_nl_blaze_and_the_monster_ma_2026-01-07_0270",
+          "start": 270,
+          "end": 295,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "nickjr_nl_barbapapa_one_big_happy__2026-01-07_0315",
+          "start": 315,
+          "end": 335,
+          "genre": "news",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "NL - Nick Music",
+      "programs": [
+        {
+          "program_id": "nickmusic_nl_channel_closureloopnick__2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "nickmusic_nl_channel_closureloopnick__2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "nickmusic_nl_channel_closureloopnick__2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "music",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "NL - Nickelodeon",
+      "programs": [
+        {
+          "program_id": "nickelodeon_nl_best_and_bester_2026-01-07_0010",
+          "start": 10,
+          "end": 35,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "nickelodeon_nl_tales_of_the_teenage_mut_2026-01-07_0245",
+          "start": 245,
+          "end": 265,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "NL - Nicktoons",
+      "programs": [
+        {
+          "program_id": "nicktoons_nl_monster_high_2026-01-07_0040",
+          "start": 40,
+          "end": 60,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "nicktoons_nl_best_and_bester_2026-01-07_0060",
+          "start": 60,
+          "end": 80,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "nicktoons_nl_best_and_bester_2026-01-07_0080",
+          "start": 80,
+          "end": 105,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "nicktoons_nl_spongebob_2026-01-07_0210",
+          "start": 210,
+          "end": 225,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "NL - ONS",
+      "programs": [
+        {
+          "program_id": "ons_nl_the_flying_doctors_2026-01-07_0001",
+          "start": 1,
+          "end": 60,
+          "genre": "documentary",
+          "score": 73
+        },
+        {
+          "program_id": "ons_nl_alarm_f_r_cobra_11_2026-01-07_0060",
+          "start": 60,
+          "end": 121,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "ons_nl_rex_a_cop_s_friend_2026-01-07_0149",
+          "start": 149,
+          "end": 209,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ons_nl_doctor_finlay_2026-01-07_0209",
+          "start": 209,
+          "end": 271,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "ons_nl_ons_nostalgisch_uur_2026-01-07_0271",
+          "start": 271,
+          "end": 334,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ons_nl_ballykissangel_2026-01-07_0334",
+          "start": 334,
+          "end": 395,
+          "genre": "documentary",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "NL - OUTTV",
+      "programs": [
+        {
+          "program_id": "outtv_nl_kokon_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "education",
+          "score": 58
+        },
+        {
+          "program_id": "outtv_nl_love_club_2026-01-07_0058",
+          "start": 58,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "outtv_nl_boystown_2026-01-07_0148",
+          "start": 148,
+          "end": 178,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "outtv_nl_kokon_2026-01-07_0199",
+          "start": 199,
+          "end": 240,
+          "genre": "education",
+          "score": 63
+        },
+        {
+          "program_id": "outtv_nl_sign_off_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "NL - Omroep Brabant",
+      "programs": [
+        {
+          "program_id": "omroepbrabant_nl_nachtprogrammering_2026-01-07_0047",
+          "start": 47,
+          "end": 420,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "NL - Omroep Flevoland",
+      "programs": [
+        {
+          "program_id": "omroepflevoland_nl_weer_2026-01-07_0012",
+          "start": 12,
+          "end": 15,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "omroepflevoland_nl_weer_2026-01-07_0027",
+          "start": 27,
+          "end": 30,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "omroepflevoland_nl_weer_2026-01-07_0042",
+          "start": 42,
+          "end": 45,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "omroepflevoland_nl_weer_2026-01-07_0057",
+          "start": 57,
+          "end": 60,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "omroepflevoland_nl_weer_2026-01-07_0072",
+          "start": 72,
+          "end": 75,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "omroepflevoland_nl_weer_2026-01-07_0087",
+          "start": 87,
+          "end": 90,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "omroepflevoland_nl_weer_2026-01-07_0102",
+          "start": 102,
+          "end": 105,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "omroepflevoland_nl_weer_2026-01-07_0117",
+          "start": 117,
+          "end": 120,
+          "genre": "news",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "NL - Omroep Zeeland",
+      "programs": [
+        {
+          "program_id": "omroepzeeland_nl_tekst_televisie_2026-01-07_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "NL - Paramount Network",
+      "programs": [
+        {
+          "program_id": "paramountnetwork_n_buffy_the_vampire_slayer_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "paramountnetwork_n_jane_the_virgin_2026-01-07_0030",
+          "start": 30,
+          "end": 85,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "paramountnetwork_n_jane_the_virgin_2026-01-07_0085",
+          "start": 85,
+          "end": 135,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "paramountnetwork_n_medium_2026-01-07_0135",
+          "start": 135,
+          "end": 175,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "paramountnetwork_n_macgyver_2026-01-07_0175",
+          "start": 175,
+          "end": 220,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "paramountnetwork_n_macgyver_2026-01-07_0220",
+          "start": 220,
+          "end": 265,
+          "genre": "kids",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "NL - PassieXXX",
+      "programs": [
+        {
+          "program_id": "passiexxx_nl_ass_f_3_2026-01-07_0026",
+          "start": 26,
+          "end": 57,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "passiexxx_nl_oktavia_milton_a_little__2026-01-07_0101",
+          "start": 101,
+          "end": 137,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "passiexxx_nl_bushy_young_p_2026-01-07_0163",
+          "start": 163,
+          "end": 194,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "passiexxx_nl_tied_up_and_desperate_3_2026-01-07_0240",
+          "start": 240,
+          "end": 268,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "passiexxx_nl_make_mommy_sq_2_2026-01-07_0300",
+          "start": 300,
+          "end": 348,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "passiexxx_nl_nu_we_er_toch_zijn_2026-01-07_0348",
+          "start": 348,
+          "end": 379,
+          "genre": "talk",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "NL - Penthouse Gold",
+      "programs": [
+        {
+          "program_id": "penthousegold_nl_a_sex_games_2026-01-07_0001",
+          "start": 1,
+          "end": 116,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "penthousegold_nl_my_maid_s_a_milf_2026-01-07_0120",
+          "start": 120,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "penthousegold_nl_college_sex_favors_2026-01-07_0240",
+          "start": 240,
+          "end": 338,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "NL - RTL",
+      "programs": [
+        {
+          "program_id": "rtl_nl_rtl_nachtjournal_2026-01-07_0000",
+          "start": 0,
+          "end": 43,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "rtl_nl_rtl_nachtjournal_das_wet_2026-01-07_0043",
+          "start": 43,
+          "end": 45,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "rtl_nl_csi_miami_2026-01-07_0045",
+          "start": 45,
+          "end": 95,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtl_nl_csi_miami_2026-01-07_0095",
+          "start": 95,
+          "end": 140,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rtl_nl_csi_miami_2026-01-07_0140",
+          "start": 140,
+          "end": 185,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtl_nl_csi_vegas_2026-01-07_0185",
+          "start": 185,
+          "end": 230,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "rtl_nl_csi_vegas_2026-01-07_0230",
+          "start": 230,
+          "end": 275,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "rtl_nl_csi_vegas_2026-01-07_0275",
+          "start": 275,
+          "end": 320,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "rtl_nl_csi_vegas_2026-01-07_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "documentary",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "NL - RTL 4",
+      "programs": [
+        {
+          "program_id": "rtl4_nl_rtl_tonight_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "rtl4_nl_rtl_boulevard_2026-01-07_0030",
+          "start": 30,
+          "end": 85,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtl4_nl_tommy_teleshopping_2026-01-07_0130",
+          "start": 130,
+          "end": 360,
+          "genre": "religion",
+          "score": 46
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "NL - RTL 5",
+      "programs": [
+        {
+          "program_id": "rtl5_nl_police_interceptors_2026-01-07_0005",
+          "start": 5,
+          "end": 70,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "rtl5_nl_tommy_teleshopping_2026-01-07_0070",
+          "start": 70,
+          "end": 130,
+          "genre": "religion",
+          "score": 51
+        },
+        {
+          "program_id": "rtl5_nl_tommy_teleshopping_2026-01-07_0130",
+          "start": 130,
+          "end": 330,
+          "genre": "religion",
+          "score": 45
+        },
+        {
+          "program_id": "rtl5_nl_rtl_de_journal_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "NL - RTL 7",
+      "programs": [
+        {
+          "program_id": "rtl7_nl_transporter_the_series_2026-01-07_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "rtl7_nl_pawn_stars_2026-01-07_0055",
+          "start": 55,
+          "end": 85,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtl7_nl_tommy_teleshopping_2026-01-07_0085",
+          "start": 85,
+          "end": 120,
+          "genre": "religion",
+          "score": 49
+        },
+        {
+          "program_id": "rtl7_nl_tommy_teleshopping_2026-01-07_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "religion",
+          "score": 48
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "NL - RTL 8",
+      "programs": [
+        {
+          "program_id": "rtl8_nl_csi_crime_scene_investig_2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "rtl8_nl_mediashop_2026-01-07_0050",
+          "start": 50,
+          "end": 121,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "rtl8_nl_mediashop_2026-01-07_0121",
+          "start": 121,
+          "end": 390,
+          "genre": "religion",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "NL - RTL Crime",
+      "programs": [
+        {
+          "program_id": "rtlcrime_nl_bloodline_detectives_2026-01-07_0005",
+          "start": 5,
+          "end": 65,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtlcrime_nl_bloodline_detectives_2026-01-07_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtlcrime_nl_csi_new_york_2026-01-07_0120",
+          "start": 120,
+          "end": 160,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rtlcrime_nl_csi_new_york_2026-01-07_0160",
+          "start": 160,
+          "end": 200,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtlcrime_nl_csi_new_york_2026-01-07_0200",
+          "start": 200,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rtlcrime_nl_csi_new_york_2026-01-07_0240",
+          "start": 240,
+          "end": 280,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rtlcrime_nl_bloodline_detectives_2026-01-07_0280",
+          "start": 280,
+          "end": 380,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "NL - RTL Lounge",
+      "programs": [
+        {
+          "program_id": "rtllounge_nl_the_bold_and_the_beautif_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "rtllounge_nl_in_de_vlaamsche_pot_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rtllounge_nl_in_de_vlaamsche_pot_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtllounge_nl_sam_sam_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "education",
+          "score": 57
+        },
+        {
+          "program_id": "rtllounge_nl_celblok_h_2026-01-07_0120",
+          "start": 120,
+          "end": 210,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "NL - RTL Telekids",
+      "programs": [
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_de_ver_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_de_ver_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_de_ver_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_de_ver_2026-01-07_0090",
+          "start": 90,
+          "end": 121,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_de_ver_2026-01-07_0140",
+          "start": 140,
+          "end": 170,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_het_ge_2026-01-07_0170",
+          "start": 170,
+          "end": 200,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_het_ge_2026-01-07_0200",
+          "start": 200,
+          "end": 230,
+          "genre": "education",
+          "score": 61
+        },
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_het_ge_2026-01-07_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtltelekids_nl_bassie_en_adriaan_het_ge_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rtltelekids_nl_the_daltons_2026-01-07_0320",
+          "start": 320,
+          "end": 325,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "NL - RTL Z",
+      "programs": [
+        {
+          "program_id": "rtlz_nl_a_new_life_in_the_sun_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "rtlz_nl_a_new_life_in_the_sun_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "rtlz_nl_a_new_life_in_the_sun_2026-01-07_0090",
+          "start": 90,
+          "end": 140,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "NL - RTV-7",
+      "programs": [
+        {
+          "program_id": "rtv_7_nl_bo_trai_merdia_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "rtv_7_nl_we_talk_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "rtv_7_nl_nieuws_aruba_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rtv_7_nl_nieuws_suriname_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtv_7_nl_punto_final_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "NL - SBS6",
+      "programs": [
+        {
+          "program_id": "sbs6_nl_de_bondgenoten_2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "sbs6_nl_shownieuws_late_editie_2026-01-07_0050",
+          "start": 50,
+          "end": 95,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "sbs6_nl_loop_hart_van_nederland_2026-01-07_0114",
+          "start": 114,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "NL - SBS9",
+      "programs": [
+        {
+          "program_id": "sbs9_nl_seal_team_2026-01-07_0010",
+          "start": 10,
+          "end": 65,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "sbs9_nl_telvero_2026-01-07_0065",
+          "start": 65,
+          "end": 215,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "sbs9_nl_loop_hart_van_nederland_2026-01-07_0215",
+          "start": 215,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "NL - SET Asia",
+      "programs": [
+        {
+          "program_id": "setasia_nl_crime_patrol_tez_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "setasia_nl_crime_patrol_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "setasia_nl_crime_patrol_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "setasia_nl_crime_patrol_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "setasia_nl_crime_patrol_2026-01-07_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "news",
+          "score": 84
+        },
+        {
+          "program_id": "setasia_nl_crime_patrol_tez_2026-01-07_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "setasia_nl_crime_patrol_tez_2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "NL - SLAM",
+      "programs": [
+        {
+          "program_id": "slam_nl_slam_boost_your_night_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "slam_nl_slam_boost_your_night_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "NL - Sat. 1",
+      "programs": [
+        {
+          "program_id": "sat1_nl_ron_l_uft_schief_2026-01-07_0010",
+          "start": 10,
+          "end": 125,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "sat1_nl_jackass_nummer_zwei_2026-01-07_0125",
+          "start": 125,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "sat1_nl_auf_streife_2026-01-07_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sat1_nl_auf_streife_2026-01-07_0255",
+          "start": 255,
+          "end": 305,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "sat1_nl_sat_1_fr_hst_cksfernsehe_2026-01-07_0330",
+          "start": 330,
+          "end": 600,
+          "genre": "music",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "NL - Secret Circle",
+      "programs": [
+        {
+          "program_id": "secretcircle_nl_bunny_s_stoute_game_2026-01-07_0067",
+          "start": 67,
+          "end": 86,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "secretcircle_nl_gigi_s_perfecte_plaatje_2026-01-07_0172",
+          "start": 172,
+          "end": 205,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "secretcircle_nl_the_puppeteer_2026-01-07_0288",
+          "start": 288,
+          "end": 323,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "NL - Shorts TV",
+      "programs": [
+        {
+          "program_id": "shortstv_nl_the_midnight_hour_2026-01-07_0002",
+          "start": 2,
+          "end": 60,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "shortstv_nl_animazing_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "shortstv_nl_sex_in_shorts_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "movie",
+          "score": 85
+        },
+        {
+          "program_id": "shortstv_nl_midnight_horror_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "shortstv_nl_dutch_stories_2026-01-07_0240",
+          "start": 240,
+          "end": 301,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "shortstv_nl_real_stories_2026-01-07_0301",
+          "start": 301,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "NL - ShowTürk",
+      "programs": [
+        {
+          "program_id": "showturk_nl_kiz_tarafi_erkek_tarafi_2026-01-07_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "showturk_nl_evrim_akin_ile_ev_kusu_2026-01-07_0075",
+          "start": 75,
+          "end": 195,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "showturk_nl_asla_vazge_mem_2026-01-07_0195",
+          "start": 195,
+          "end": 270,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "showturk_nl_kiz_tarafi_erkek_tarafi_2026-01-07_0270",
+          "start": 270,
+          "end": 450,
+          "genre": "talk",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "NL - Stingray Classica",
+      "programs": [
+        {
+          "program_id": "stingrayclassica_n_verdi_la_traviata_2026-01-07_0000",
+          "start": 0,
+          "end": 136,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "stingrayclassica_n_mozartconcert_vanuit_sal_2026-01-07_0136",
+          "start": 136,
+          "end": 246,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "stingrayclassica_n_werk_van_mozart_en_sarti_2026-01-07_0246",
+          "start": 246,
+          "end": 311,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "NL - Stingray DJAZZ",
+      "programs": [
+        {
+          "program_id": "stingraydjazz_nl_womex_2018_2026-01-07_0000",
+          "start": 0,
+          "end": 51,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "stingraydjazz_nl_mn_jam_experiment_live_w_2026-01-07_0051",
+          "start": 51,
+          "end": 102,
+          "genre": "music",
+          "score": 70
+        },
+        {
+          "program_id": "stingraydjazz_nl_bill_evans_european_tour_2026-01-07_0102",
+          "start": 102,
+          "end": 200,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "stingraydjazz_nl_we_are_birds_la_ciotat_2_2026-01-07_0200",
+          "start": 200,
+          "end": 238,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "stingraydjazz_nl_jazz_open_stuttgart_blue_2026-01-07_0258",
+          "start": 258,
+          "end": 320,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "stingraydjazz_nl_seine_sessions_2026-01-07_0320",
+          "start": 320,
+          "end": 361,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "NL - Stingray LiteTV",
+      "programs": [
+        {
+          "program_id": "stingraylitetv_nl_hit_parade_2026-01-07_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "music",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "NL - TLC",
+      "programs": [
+        {
+          "program_id": "tlc_nl_secret_eaters_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tlc_nl_90_day_fianc_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tlc_nl_90_day_fianc_2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tlc_nl_my_big_fat_american_gyps_2026-01-07_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tlc_nl_hoarding_buried_alive_2026-01-07_0200",
+          "start": 200,
+          "end": 245,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "tlc_nl_my_600_lb_life_2026-01-07_0245",
+          "start": 245,
+          "end": 290,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tlc_nl_four_weddings_uk_2026-01-07_0290",
+          "start": 290,
+          "end": 335,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "NL - TRT Çocuk",
+      "programs": [
+        {
+          "program_id": "trtcocuk_nl_buras_trt_ocuk_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "trtcocuk_nl_buras_trt_ocuk_2026-01-07_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "kids",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "NL - TRT Müzik",
+      "programs": [
+        {
+          "program_id": "trtmuzik_nl_ilan_edilecek_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "trtmuzik_nl_ilan_edilecek_2026-01-07_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "NL - TRT Türk",
+      "programs": [
+        {
+          "program_id": "trtturk_nl_b_yle_bitmesin_2026-01-07_0020",
+          "start": 20,
+          "end": 70,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "trtturk_nl_haberdar_2026-01-07_0070",
+          "start": 70,
+          "end": 100,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "trtturk_nl_aile_2026-01-07_0100",
+          "start": 100,
+          "end": 160,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "trtturk_nl_sa_l_k_olsun_2026-01-07_0160",
+          "start": 160,
+          "end": 220,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "trtturk_nl_g_n_l_verenler_2026-01-07_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "trtturk_nl_trt_haber_de_d_n_bug_n_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "NL - TV538",
+      "programs": [
+        {
+          "program_id": "tv538_nl_floris_molenaar_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "tv538_nl_kylian_van_luijt_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tv538_nl_de_538_ochtendshow_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "NL - TV5 Monde",
+      "programs": [
+        {
+          "program_id": "tv5monde_nl_les_indociles_2026-01-07_0009",
+          "start": 9,
+          "end": 52,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "tv5monde_nl_les_indociles_2026-01-07_0052",
+          "start": 52,
+          "end": 108,
+          "genre": "documentary",
+          "score": 67
+        },
+        {
+          "program_id": "tv5monde_nl_le_journal_afrique_2026-01-07_0108",
+          "start": 108,
+          "end": 134,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "tv5monde_nl_la_m_t_o_2026-01-07_0134",
+          "start": 134,
+          "end": 140,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "tv5monde_nl_juliette_dans_son_bain_2026-01-07_0140",
+          "start": 140,
+          "end": 240,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "tv5monde_nl_le_23h_2026-01-07_0240",
+          "start": 240,
+          "end": 302,
+          "genre": "talk",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "NL - TV8 Int",
+      "programs": [
+        {
+          "program_id": "tv8int_nl_vitrin_2026-01-07_0000",
+          "start": 0,
+          "end": 330,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "tv8int_nl_maral_2026-01-07_0330",
+          "start": 330,
+          "end": 480,
+          "genre": "documentary",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "NL - TVE",
+      "programs": [
+        {
+          "program_id": "tve_nl_late_xou_con_marc_gir_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "tve_nl_noticias_24h_2026-01-07_0120",
+          "start": 120,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "tve_nl_la_aventura_del_saber_2026-01-07_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "NL - TV Gelderland",
+      "programs": [
+        {
+          "program_id": "tvgelderland_nl_gisteren_gemist_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "tvgelderland_nl_gisteren_gemist_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "NL - TV Oost",
+      "programs": [
+        {
+          "program_id": "tvoost_nl_afslag_31_2026-01-07_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvoost_nl_afslag_31_2026-01-07_0080",
+          "start": 80,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tvoost_nl_afslag_31_2026-01-07_0140",
+          "start": 140,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tvoost_nl_afslag_31_2026-01-07_0200",
+          "start": 200,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tvoost_nl_afslag_31_2026-01-07_0260",
+          "start": 260,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tvoost_nl_afslag_31_2026-01-07_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "NL - TV Oranje",
+      "programs": [
+        {
+          "program_id": "tvoranje_nl_tv_oranje_nonstop_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "tvoranje_nl_tv_oranje_nonstop_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "tvoranje_nl_wakker_worden_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "NL - TV Rijnmond",
+      "programs": [
+        {
+          "program_id": "tvrijnmond_nl_nachtprogrammering_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "tvrijnmond_nl_nachtprogrammering_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "NL - TV West",
+      "programs": [
+        {
+          "program_id": "tvwest_nl_nachtprogrammering_2026-01-07_0000",
+          "start": 0,
+          "end": 420,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "NL - Utsav Gold",
+      "programs": [
+        {
+          "program_id": "utsavgold_nl_war_2026-01-07_0000",
+          "start": 0,
+          "end": 70,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "utsavgold_nl_stree_2_sarkate_ka_aatan_2026-01-07_0070",
+          "start": 70,
+          "end": 255,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "utsavgold_nl_mauli_2026-01-07_0255",
+          "start": 255,
+          "end": 420,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "NL - Utsav Plus",
+      "programs": [
+        {
+          "program_id": "utsavplus_nl_udne_ki_aasha_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "weather",
+          "score": 48
+        },
+        {
+          "program_id": "utsavplus_nl_anupamaa_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "utsavplus_nl_kyunki_saas_bhi_kabhi_ba_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "utsavplus_nl_yeh_rishta_kya_kehlata_h_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "utsavplus_nl_advocate_anjali_awasthi_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "utsavplus_nl_maana_ke_hum_yaar_nahi_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "utsavplus_nl_shehzaadi_hai_tu_dil_ki_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "utsavplus_nl_udne_ki_aasha_2026-01-07_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "weather",
+          "score": 47
+        },
+        {
+          "program_id": "utsavplus_nl_advocate_anjali_awasthi_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "utsavplus_nl_jhanak_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "NL - Veronica / Disney XD",
+      "programs": [
+        {
+          "program_id": "veronicadisneyxd_n_veronica_film_2026-01-07_0025",
+          "start": 25,
+          "end": 60,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "veronicadisneyxd_n_loop_hart_van_nederland_2026-01-07_0080",
+          "start": 80,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "veronicadisneyxd_n_eureka_2026-01-07_0263",
+          "start": 263,
+          "end": 286,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "veronicadisneyxd_n_mickey_mouse_funhouse_2026-01-07_0336",
+          "start": 336,
+          "end": 360,
+          "genre": "sports",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "NL - Viaplay TV",
+      "programs": [
+        {
+          "program_id": "viaplaytv_nl_formule_1_grand_prix_van_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "education",
+          "score": 57
+        },
+        {
+          "program_id": "viaplaytv_nl_viaplay_tv_gids_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "viaplaytv_nl_viaplay_tv_gids_2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viaplaytv_nl_viaplay_tv_gids_2026-01-07_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "viaplaytv_nl_viaplay_tv_gids_2026-01-07_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "viaplaytv_nl_viaplay_tv_gids_2026-01-07_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "viaplaytv_nl_viaplay_tv_gids_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "NL - Viaplay TV+",
+      "programs": [
+        {
+          "program_id": "viaplaytvplus_nl_viaplay_tv_gids_2026-01-07_0025",
+          "start": 25,
+          "end": 300,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "viaplaytvplus_nl_viaplay_tv_gids_2026-01-07_0300",
+          "start": 300,
+          "end": 730,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "NL - WDR",
+      "programs": [
+        {
+          "program_id": "wdr_nl_der_amsterdam_krimi_2026-01-07_0000",
+          "start": 0,
+          "end": 70,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "wdr_nl_die_heiland_wir_sind_anw_2026-01-07_0070",
+          "start": 70,
+          "end": 120,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_aus_k_ln_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_aus_aachen_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_aus_d_sseldorf_2026-01-07_0180",
+          "start": 180,
+          "end": 205,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_bergisches_lan_2026-01-07_0205",
+          "start": 205,
+          "end": 235,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_ruhr_2026-01-07_0235",
+          "start": 235,
+          "end": 265,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_aus_dortmund_2026-01-07_0265",
+          "start": 265,
+          "end": 295,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_m_nsterland_2026-01-07_0295",
+          "start": 295,
+          "end": 325,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_owl_2026-01-07_0325",
+          "start": 325,
+          "end": 350,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "wdr_nl_lokalzeit_s_dwestfalen_2026-01-07_0350",
+          "start": 350,
+          "end": 380,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "NL - X-MO",
+      "programs": [
+        {
+          "program_id": "x_mo_nl_twinks_horsing_around_2026-01-07_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "x_mo_nl_the_masqulin_project_vol_2026-01-07_0056",
+          "start": 56,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "x_mo_nl_c_k_crazed_amateurs_2026-01-07_0090",
+          "start": 90,
+          "end": 192,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "x_mo_nl_schoolboys_f_k_party_2026-01-07_0192",
+          "start": 192,
+          "end": 308,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "x_mo_nl_young_boys_and_their_tig_2026-01-07_0308",
+          "start": 308,
+          "end": 426,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "NL - XITE",
+      "programs": [
+        {
+          "program_id": "xite_nl_all_night_hits_x_classic_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "xite_nl_early_birds_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "NL - ZDF",
+      "programs": [
+        {
+          "program_id": "zdf_nl_heute_journal_update_2026-01-07_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "zdf_nl_dune_2026-01-07_0015",
+          "start": 15,
+          "end": 155,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "zdf_nl_springflut_2026-01-07_0155",
+          "start": 155,
+          "end": 245,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "zdf_nl_arctic_circle_der_unsich_2026-01-07_0245",
+          "start": 245,
+          "end": 290,
+          "genre": "documentary",
+          "score": 67
+        },
+        {
+          "program_id": "zdf_nl_hallo_deutschland_2026-01-07_0290",
+          "start": 290,
+          "end": 330,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "zdf_nl_zdf_morgenmagazin_2026-01-07_0330",
+          "start": 330,
+          "end": 540,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "NL - Zee Cinema",
+      "programs": [
+        {
+          "program_id": "zeecinema_nl_karz_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "zeecinema_nl_dosti_2026-01-07_0090",
+          "start": 90,
+          "end": 295,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "zeecinema_nl_phir_teri_kahani_yaad_ay_2026-01-07_0295",
+          "start": 295,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "NL - Zee TV",
+      "programs": [
+        {
+          "program_id": "zeetv_nl_saru_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "zeetv_nl_jibon_saathi_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "zeetv_nl_neem_phooler_madhu_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "zeetv_nl_jagadhatri_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "zeetv_nl_tum_se_tum_tak_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "zeetv_nl_saru_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "zeetv_nl_ganga_mai_ki_betiyaan_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "zeetv_nl_jagriti_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "zeetv_nl_vasudha_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "zeetv_nl_tum_se_tum_tak_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "zeetv_nl_ganga_mai_ki_betiyaan_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "zeetv_nl_saru_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "NL - Ziggo Sport",
+      "programs": [
+        {
+          "program_id": "ziggosport_nl_fia_world_rally_raid_cha_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "ziggosport_nl_2025_africa_cup_of_natio_2026-01-07_0060",
+          "start": 60,
+          "end": 165,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "ziggosport_nl_2025_africa_cup_of_natio_2026-01-07_0165",
+          "start": 165,
+          "end": 270,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "ziggosport_nl_2026_bank_of_hong_kong_t_2026-01-07_0270",
+          "start": 270,
+          "end": 390,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "NL - Ziggo Sport 2",
+      "programs": [
+        {
+          "program_id": "ziggosport2_nl_2025_africa_cup_of_natio_2026-01-07_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "ziggosport2_nl_serie_a_lecce_as_roma_2026-01-07_0105",
+          "start": 105,
+          "end": 210,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "ziggosport2_nl_2025_africa_cup_of_natio_2026-01-07_0210",
+          "start": 210,
+          "end": 315,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "ziggosport2_nl_serie_a_sassuolo_juventu_2026-01-07_0315",
+          "start": 315,
+          "end": 420,
+          "genre": "series",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "NL - Ziggo Sport 3",
+      "programs": [
+        {
+          "program_id": "ziggosport3_nl_ziggo_sport_race_caf_com_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "ziggosport3_nl_sailgp_racing_on_the_edg_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "ziggosport3_nl_ziggo_sport_race_caf_com_2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "ziggosport3_nl_uim_f1h2o_world_champion_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ziggosport3_nl_ziggo_sport_race_caf_com_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "ziggosport3_nl_sailgp_racing_on_the_edg_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "ziggosport3_nl_ziggo_sport_race_caf_com_2026-01-07_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "ziggosport3_nl_uim_f1h2o_world_champion_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "NL - Ziggo Sport 4",
+      "programs": [
+        {
+          "program_id": "ziggosport4_nl_2026_brisbane_internatio_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ziggosport4_nl_2025_erste_bank_open_ten_2026-01-07_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "ziggosport4_nl_classic_tennis_australia_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ziggosport4_nl_tennis_mutua_madrid_open_2026-01-07_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "ziggosport4_nl_classic_tennis_australia_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ziggosport4_nl_atp_tennis_hoogtepunten__2026-01-07_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ziggosport4_nl_atp_tennis_hoogtepunten__2026-01-07_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "NL - Ziggo Sport 5",
+      "programs": [
+        {
+          "program_id": "ziggosport5_nl_the_iconic_voetbal_2026-01-07_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "ziggosport5_nl_the_iconic_tennis_2026-01-07_0020",
+          "start": 20,
+          "end": 45,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "ziggosport5_nl_the_rising_muhammad_ali__2026-01-07_0045",
+          "start": 45,
+          "end": 70,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "ziggosport5_nl_the_rising_lewis_hamilto_2026-01-07_0070",
+          "start": 70,
+          "end": 90,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "ziggosport5_nl_the_iconic_voetbal_2026-01-07_0090",
+          "start": 90,
+          "end": 115,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "ziggosport5_nl_heldinnen_strike_a_pose_2026-01-07_0115",
+          "start": 115,
+          "end": 140,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "ziggosport5_nl_heldinnen_nieuwe_generat_2026-01-07_0140",
+          "start": 140,
+          "end": 165,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "ziggosport5_nl_the_iconic_formule_1_2026-01-07_0165",
+          "start": 165,
+          "end": 190,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "ziggosport5_nl_the_iconic_de_olympische_2026-01-07_0190",
+          "start": 190,
+          "end": 210,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "ziggosport5_nl_ziggo_sport_extra_inform_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "ziggosport5_nl_2026_brisbane_internatio_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "NL - Ziggo Sport 6",
+      "programs": [
+        {
+          "program_id": "ziggosport6_nl_tgl_golf_the_bay_golf_cl_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "ziggosport6_nl_2025_masters_tournament__2026-01-07_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ziggosport6_nl_dp_world_tour_golf_afras_2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "NL - Ziggo TV",
+      "programs": [
+        {
+          "program_id": "ziggotv_nl_nl_ziggo_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "ziggotv_nl_nl_ziggo_tv_2026-01-07_0090",
+          "start": 90,
+          "end": 180,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "ziggotv_nl_nl_ziggo_tv_2026-01-07_0190",
+          "start": 190,
+          "end": 600,
+          "genre": "sports",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 130,
+      "channel_name": "NL - Zing",
+      "programs": [
+        {
+          "program_id": "zing_nl_yolo_hits_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "zing_nl_yolo_hits_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "zing_nl_yolo_hits_2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "zing_nl_fomo_tunes_2026-01-07_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "zing_nl_fomo_tunes_2026-01-07_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "zing_nl_fomo_tunes_2026-01-07_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "zing_nl_yolo_hits_2026-01-07_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 131,
+      "channel_name": "NL - één",
+      "programs": [
+        {
+          "program_id": "een_nl_journaallus_2026-01-07_0045",
+          "start": 45,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    }
+  ]
+}

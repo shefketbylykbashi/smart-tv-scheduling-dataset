@@ -1,0 +1,8767 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 633,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 0,
+      "end": 60,
+      "allowed_channels": [
+        584,
+        308,
+        364,
+        434,
+        232,
+        304,
+        377,
+        474,
+        143,
+        375,
+        536,
+        128,
+        475,
+        109,
+        368,
+        104,
+        158,
+        159,
+        191,
+        204,
+        452,
+        596,
+        598,
+        601,
+        102,
+        105,
+        141,
+        153,
+        459,
+        577,
+        72,
+        101,
+        202,
+        240,
+        330,
+        492,
+        62,
+        134,
+        213,
+        235,
+        247,
+        280,
+        400,
+        444,
+        485,
+        502,
+        509,
+        556,
+        597,
+        144,
+        338,
+        493,
+        524,
+        606,
+        625,
+        12,
+        15,
+        20,
+        51,
+        71,
+        121,
+        186,
+        288,
+        312,
+        370,
+        383,
+        441,
+        470,
+        476,
+        518,
+        621,
+        21,
+        106,
+        163,
+        239,
+        269,
+        294,
+        449,
+        504,
+        537,
+        543,
+        553,
+        562,
+        26,
+        78,
+        86,
+        98,
+        142,
+        160,
+        171,
+        224,
+        324,
+        361,
+        435,
+        531,
+        563,
+        623,
+        57,
+        81,
+        95,
+        113,
+        365,
+        397,
+        399,
+        538,
+        539,
+        545,
+        557,
+        561,
+        16,
+        23,
+        77,
+        103,
+        195,
+        305,
+        348,
+        352,
+        421,
+        422,
+        489,
+        506,
+        549,
+        558,
+        574,
+        600,
+        14,
+        18,
+        24,
+        49,
+        90,
+        126,
+        169,
+        236,
+        260,
+        359,
+        389,
+        409,
+        482,
+        495,
+        496,
+        41,
+        84,
+        137,
+        173,
+        275,
+        372,
+        387,
+        415,
+        516,
+        520,
+        570,
+        79,
+        82,
+        87,
+        89,
+        108,
+        146,
+        147,
+        149,
+        156,
+        194,
+        220,
+        222,
+        227,
+        229,
+        242,
+        293,
+        355,
+        358,
+        369,
+        373,
+        464,
+        465,
+        483,
+        535,
+        578,
+        585,
+        607,
+        629,
+        9,
+        39,
+        45,
+        46,
+        111,
+        205,
+        261,
+        274,
+        284,
+        315,
+        396,
+        428,
+        430,
+        469,
+        513,
+        542,
+        587,
+        609,
+        13,
+        19,
+        29,
+        37,
+        67,
+        96,
+        123,
+        127,
+        175,
+        184,
+        264,
+        316,
+        326,
+        335,
+        411,
+        420,
+        431,
+        527,
+        568,
+        575,
+        580,
+        612,
+        226,
+        279,
+        390,
+        406,
+        437,
+        497,
+        583,
+        626,
+        22,
+        43,
+        314,
+        423,
+        427,
+        454,
+        471,
+        499,
+        544,
+        550,
+        603,
+        610,
+        618,
+        164,
+        217,
+        281,
+        313,
+        350,
+        385,
+        593,
+        7,
+        76,
+        150,
+        225,
+        244,
+        310,
+        311,
+        374,
+        510,
+        112,
+        133,
+        165,
+        189,
+        258,
+        354,
+        403,
+        511,
+        4,
+        27,
+        48,
+        65,
+        125,
+        157,
+        177,
+        190,
+        197,
+        200,
+        263,
+        317,
+        321,
+        332,
+        337,
+        344,
+        380,
+        455,
+        486,
+        491,
+        521,
+        559,
+        571,
+        582,
+        592,
+        2,
+        3,
+        11,
+        59,
+        97,
+        122,
+        172,
+        181,
+        198,
+        203,
+        231,
+        248,
+        253,
+        265,
+        268,
+        289,
+        329,
+        342,
+        351,
+        505,
+        517,
+        552,
+        565,
+        573,
+        595,
+        614,
+        631,
+        17,
+        55,
+        94,
+        120,
+        124,
+        132,
+        140,
+        145,
+        228,
+        233,
+        291,
+        299,
+        306,
+        388,
+        429,
+        451,
+        514,
+        519,
+        533,
+        554,
+        602,
+        10,
+        47,
+        63,
+        73,
+        88,
+        135
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 34
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 34
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "NFL6SC",
+      "programs": [
+        {
+          "program_id": "470288_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "NFL Sunday Ticket NFL11 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470289_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "NFL Sunday Ticket NFL14 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470290_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "HPItv Canada",
+      "programs": [
+        {
+          "program_id": "470291_hpitv_canada_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "EMCI TV",
+      "programs": [
+        {
+          "program_id": "470292_a_table_avec_annabelle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "NFL Network ALT - Canadian Feed HD",
+      "programs": [
+        {
+          "program_id": "470293_nfl_football_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "Fairchild 2 SD",
+      "programs": [
+        {
+          "program_id": "470294_double_happiness_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "Bell Netflix",
+      "programs": [
+        {
+          "program_id": "470295_netflix_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "NFL Sunday Ticket NFL6 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470296_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "CFCF",
+      "programs": [
+        {
+          "program_id": "470297_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "Bell Fireplace",
+      "programs": [
+        {
+          "program_id": "470298_fireplace_hd_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "Global Toronto",
+      "programs": [
+        {
+          "program_id": "470299_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "CJDC",
+      "programs": [
+        {
+          "program_id": "470300_movie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "CHCH-DT",
+      "programs": [
+        {
+          "program_id": "470301_nightline_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "CFAP",
+      "programs": [
+        {
+          "program_id": "470302_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "NBA League Pass HD 5",
+      "programs": [
+        {
+          "program_id": "470303_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "Sportsnet One Oilers SD",
+      "programs": [
+        {
+          "program_id": "470304_sportsnet_one_edmonton_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "CKRY FM Radio",
+      "programs": [
+        {
+          "program_id": "470305_the_bobby_bones_show_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "CFKS",
+      "programs": [
+        {
+          "program_id": "470306_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "CNBC Canadian Feed",
+      "programs": [
+        {
+          "program_id": "470307_cnbc_u_s_markets_edition_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "Citytv Montreal HD",
+      "programs": [
+        {
+          "program_id": "470308_impractical_jokers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "Treehouse HD",
+      "programs": [
+        {
+          "program_id": "470309_sesame_street_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "NTV HD",
+      "programs": [
+        {
+          "program_id": "470310_fire_masters_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "Sportsnet One Canucks HD",
+      "programs": [
+        {
+          "program_id": "470311_sportsnet_one_vancouver__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "CFRS",
+      "programs": [
+        {
+          "program_id": "470312_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "CTV News Channel",
+      "programs": [
+        {
+          "program_id": "470313_power_play_with_vassy_ka_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "NHL Centre Ice HD 9",
+      "programs": [
+        {
+          "program_id": "470314_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "Super Écran 4 HD",
+      "programs": [
+        {
+          "program_id": "470315_gossip_girl_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "Télétoon Français",
+      "programs": [
+        {
+          "program_id": "470316_red_ketchup_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "USA Network HD",
+      "programs": [
+        {
+          "program_id": "470317_bones_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "NFL12SC",
+      "programs": [
+        {
+          "program_id": "470318_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "Global Montreal HD",
+      "programs": [
+        {
+          "program_id": "470319_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "CBMT - CBC Montreal",
+      "programs": [
+        {
+          "program_id": "470320_north_of_north_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "CBC St. John’s",
+      "programs": [
+        {
+          "program_id": "470321_workin_moms_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "CKPG HD Cable Feed",
+      "programs": [
+        {
+          "program_id": "470322_me_and_mr_right_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "Prime Asia TV SD",
+      "programs": [
+        {
+          "program_id": "470323_khabar_di_khabar_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "Red Hot Premium",
+      "programs": [
+        {
+          "program_id": "470324_oiled_ass_overload_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "Super Channel Vault HD",
+      "programs": [
+        {
+          "program_id": "470325_serpico_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "CTV News Channel HD",
+      "programs": [
+        {
+          "program_id": "470326_power_play_with_vassy_ka_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "Super Channel Vault",
+      "programs": [
+        {
+          "program_id": "470327_serpico_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "Super Channel Fuse",
+      "programs": [
+        {
+          "program_id": "470328_how_not_to_hire_a_hitman_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "Global Okanagan",
+      "programs": [
+        {
+          "program_id": "470329_doc_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "ONETV",
+      "programs": [
+        {
+          "program_id": "470330_heartbeat_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "MLB Extra Innings 1",
+      "programs": [
+        {
+          "program_id": "470331_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "CBUFT",
+      "programs": [
+        {
+          "program_id": "470332_mea_culpa_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "VCTV (CHVC-TV)",
+      "programs": [
+        {
+          "program_id": "470333_community_bulletin_board_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "CJOH-DT",
+      "programs": [
+        {
+          "program_id": "470334_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "WGN-DT",
+      "programs": [
+        {
+          "program_id": "470335_the_big_bang_theory_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "Crave2 HD",
+      "programs": [
+        {
+          "program_id": "470336_the_spy_who_loved_me_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "Tamil Vision (Canada)",
+      "programs": [
+        {
+          "program_id": "470337_news_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "National Geographic (Canada)",
+      "programs": [
+        {
+          "program_id": "470338_plane_crash_recreated_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "Réseau des Sports Info",
+      "programs": [
+        {
+          "program_id": "470339_live_sports_30_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "beIN Sports HD (Canada)",
+      "programs": [
+        {
+          "program_id": "470340_brave_mma_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "Global Regina",
+      "programs": [
+        {
+          "program_id": "470341_the_goldbergs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "Unis TV HD",
+      "programs": [
+        {
+          "program_id": "470342_sexe_techno_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "promo",
+          "score": 24
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "Crave3",
+      "programs": [
+        {
+          "program_id": "470343_the_man_with_the_golden__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "AMI-télé",
+      "programs": [
+        {
+          "program_id": "470344_a_me_regarde_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "CTV Halifax",
+      "programs": [
+        {
+          "program_id": "470345_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "ICI RDI HD",
+      "programs": [
+        {
+          "program_id": "470346_24_60_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "National Geographic Wild Canada HD",
+      "programs": [
+        {
+          "program_id": "470347_critter_fixers_country_v_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "WGBH-DT",
+      "programs": [
+        {
+          "program_id": "470348_rick_steves_europe_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "Classical 96FM Toronto (CFMZ-FM)",
+      "programs": [
+        {
+          "program_id": "470349_classical_96fm_toronto_c_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "Sportsnet One Canucks SD",
+      "programs": [
+        {
+          "program_id": "470350_sportsnet_one_vancouver__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "CKPG",
+      "programs": [
+        {
+          "program_id": "470351_me_and_mr_right_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "Prise 2 HD",
+      "programs": [
+        {
+          "program_id": "470352_rain_man_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "[CPACF] Cable Public Affairs Channel (French)",
+      "programs": [
+        {
+          "program_id": "470353_dossier_public_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "NFL14SC",
+      "programs": [
+        {
+          "program_id": "470354_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "EPG Cricket (Pay-Per-View)",
+      "programs": [
+        {
+          "program_id": "470355_cricket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "Fairchild (Vancouver) VCHILD",
+      "programs": [
+        {
+          "program_id": "470356_china_review_2025_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "HPItv International",
+      "programs": [
+        {
+          "program_id": "470357_hpitv_international_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "ELLE FICTIONS HD",
+      "programs": [
+        {
+          "program_id": "470358_le_festival_de_l_amour_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI2",
+      "programs": [
+        {
+          "program_id": "470359_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "ATN Jaya TV",
+      "programs": [
+        {
+          "program_id": "470360_movie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "Global Durham",
+      "programs": [
+        {
+          "program_id": "470361_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "TVA (Pacific)",
+      "programs": [
+        {
+          "program_id": "470362_matlock_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "WGBH",
+      "programs": [
+        {
+          "program_id": "470363_rick_steves_europe_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "WCVB Satellite",
+      "programs": [
+        {
+          "program_id": "470364_nightline_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "CNN International",
+      "programs": [
+        {
+          "program_id": "470365_live_the_story_is_with_e_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "NBA TV Canada HD",
+      "programs": [
+        {
+          "program_id": "470366_nba_shot_clock_best_game_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "CNN HD",
+      "programs": [
+        {
+          "program_id": "470367_live_the_story_is_with_e_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "NFL Network ALT - Canadian Feed",
+      "programs": [
+        {
+          "program_id": "470368_nfl_football_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "WBTS-CD",
+      "programs": [
+        {
+          "program_id": "470369_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "CKCO",
+      "programs": [
+        {
+          "program_id": "470370_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "The Weather Network Canada HD",
+      "programs": [
+        {
+          "program_id": "470371_overnight_on_the_weather_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 44
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "HBO Canada West HD",
+      "programs": [
+        {
+          "program_id": "470372_an_intimate_evening_with_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "KTLA-DT",
+      "programs": [
+        {
+          "program_id": "470373_wwe_nxt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "GAME 9",
+      "programs": [
+        {
+          "program_id": "470374_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "OMNI2",
+      "programs": [
+        {
+          "program_id": "470375_omni_news_filipino_editi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "EPG Local Origination",
+      "programs": [
+        {
+          "program_id": "470376_local_origination_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "Global Maritimes",
+      "programs": [
+        {
+          "program_id": "470377_fire_masters_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "NHL Centre Ice HD 11",
+      "programs": [
+        {
+          "program_id": "470378_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "Historia - Canal Histoire",
+      "programs": [
+        {
+          "program_id": "470379_les_a_de_la_brocante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "KOMO-DT",
+      "programs": [
+        {
+          "program_id": "470380_high_potential_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "Super Écran HD",
+      "programs": [
+        {
+          "program_id": "470381_voyageurs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "ATN Star Plus",
+      "programs": [
+        {
+          "program_id": "470382_maana_ke_hum_yaar_nahi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "MLB Extra Innings HD 3",
+      "programs": [
+        {
+          "program_id": "470383_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "CBC Vancouver HD",
+      "programs": [
+        {
+          "program_id": "470384_austin_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "Super Écran 4",
+      "programs": [
+        {
+          "program_id": "470385_gossip_girl_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "Sportsnet One Flames SD",
+      "programs": [
+        {
+          "program_id": "470386_sportsnet_one_calgary_fl_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "NFL Sunday Ticket NFL10 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470387_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "CHCO",
+      "programs": [
+        {
+          "program_id": "470388_community_billboard_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 40
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "TSN 3 HD",
+      "programs": [
+        {
+          "program_id": "470389_live_sc_with_jay_onrait_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "TSN 5",
+      "programs": [
+        {
+          "program_id": "470390_live_sc_with_jay_onrait_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "MLB Extra Innings HD 14",
+      "programs": [
+        {
+          "program_id": "470391_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "Sportsnet 360 HD",
+      "programs": [
+        {
+          "program_id": "470392_ufc_reloaded_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "DORCEL TV",
+      "programs": [
+        {
+          "program_id": "470393_cin_ma_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "NHLVU (Static)",
+      "programs": [
+        {
+          "program_id": "470394_nhl_blackout_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "CHOT",
+      "programs": [
+        {
+          "program_id": "470395_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "Global Calgary",
+      "programs": [
+        {
+          "program_id": "470396_doc_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "MuchMusic Network",
+      "programs": [
+        {
+          "program_id": "470397_futurama_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "Cartoon Network Canada",
+      "programs": [
+        {
+          "program_id": "470398_the_stanley_dynamic_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "Réseau des Sports (RDS) HD",
+      "programs": [
+        {
+          "program_id": "470399_basketball_nba_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "CFTF-DT",
+      "programs": [
+        {
+          "program_id": "470400_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "TSN 2 HD",
+      "programs": [
+        {
+          "program_id": "470401_why_we_love_sports_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "Canal M",
+      "programs": [
+        {
+          "program_id": "470402_radio_canal_m_radio_de_v_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "Crave 2 West HD",
+      "programs": [
+        {
+          "program_id": "470403_the_man_with_the_golden__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "STARZ 2 West",
+      "programs": [
+        {
+          "program_id": "470404_the_big_lebowski_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "CBWFT",
+      "programs": [
+        {
+          "program_id": "470405_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "CityTv",
+      "programs": [
+        {
+          "program_id": "470406_impractical_jokers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "CIMT",
+      "programs": [
+        {
+          "program_id": "470407_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "CinéPop",
+      "programs": [
+        {
+          "program_id": "470408_300_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "GAME 12",
+      "programs": [
+        {
+          "program_id": "470409_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "CBC Halifax",
+      "programs": [
+        {
+          "program_id": "470410_workin_moms_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "CFTK",
+      "programs": [
+        {
+          "program_id": "470411_gilded_newport_mysteries_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "STARZ 1 West HD",
+      "programs": [
+        {
+          "program_id": "470412_casino_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "CFJP-DT",
+      "programs": [
+        {
+          "program_id": "470413_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "documentary HD",
+      "programs": [
+        {
+          "program_id": "470414_a_holes_a_theory_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "Al Jazeera English",
+      "programs": [
+        {
+          "program_id": "470415_inside_story_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "GAME 6",
+      "programs": [
+        {
+          "program_id": "470416_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 90
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "CFRB",
+      "programs": [
+        {
+          "program_id": "470417_beyond_reality_radio_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 130,
+      "channel_name": "Mega Cosmos (US)",
+      "programs": [
+        {
+          "program_id": "470418_wedding_ring_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 131,
+      "channel_name": "STARZ 1 West",
+      "programs": [
+        {
+          "program_id": "470419_casino_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 132,
+      "channel_name": "Investigation Discovery",
+      "programs": [
+        {
+          "program_id": "470420_the_cult_behind_the_kill_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 133,
+      "channel_name": "CTV Two - Atlantic",
+      "programs": [
+        {
+          "program_id": "470421_ctv_national_news_with_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 134,
+      "channel_name": "MCTV/CTV Sudbury Ch.5",
+      "programs": [
+        {
+          "program_id": "470422_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 135,
+      "channel_name": "Filipino TV",
+      "programs": [
+        {
+          "program_id": "470423_hapi_ang_buhay_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 136,
+      "channel_name": "CTV Calgary",
+      "programs": [
+        {
+          "program_id": "470424_high_potential_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 137,
+      "channel_name": "CTV Saskatoon",
+      "programs": [
+        {
+          "program_id": "470425_ctv_news_saskatoon_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 138,
+      "channel_name": "TÉMOIN",
+      "programs": [
+        {
+          "program_id": "470426_snapped_les_femmes_tueus_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 139,
+      "channel_name": "Hollywood Suite 2000s",
+      "programs": [
+        {
+          "program_id": "470427_the_astronaut_farmer_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 140,
+      "channel_name": "Canal Evasion",
+      "programs": [
+        {
+          "program_id": "470428_le_dernier_loup_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 141,
+      "channel_name": "CBN Commonwealth Broadcasting Network",
+      "programs": [
+        {
+          "program_id": "470429_live_super_smash_t20_cri_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 142,
+      "channel_name": "GAME 2",
+      "programs": [
+        {
+          "program_id": "470430_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 143,
+      "channel_name": "E! Entertainment Television Canada HD",
+      "programs": [
+        {
+          "program_id": "470431_tmz_live_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 144,
+      "channel_name": "CTV Regina HD",
+      "programs": [
+        {
+          "program_id": "470432_live_ctv_news_regina_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 145,
+      "channel_name": "Crave3 HD",
+      "programs": [
+        {
+          "program_id": "470433_the_man_with_the_golden__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 146,
+      "channel_name": "NBA League Pass HD 10",
+      "programs": [
+        {
+          "program_id": "470434_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 147,
+      "channel_name": "CTV Halifax HD",
+      "programs": [
+        {
+          "program_id": "470435_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 148,
+      "channel_name": "CBC Television-Windsor 9",
+      "programs": [
+        {
+          "program_id": "470436_north_of_north_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 149,
+      "channel_name": "Fox Sports Racing",
+      "programs": [
+        {
+          "program_id": "470437_dangerous_drives_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 150,
+      "channel_name": "Oxygen True Crime HD",
+      "programs": [
+        {
+          "program_id": "470438_snapped_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 151,
+      "channel_name": "BBC Earth",
+      "programs": [
+        {
+          "program_id": "470439_walking_with_dinosaurs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 152,
+      "channel_name": "Magnolia Network",
+      "programs": [
+        {
+          "program_id": "470440_mini_reni_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "kids",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 153,
+      "channel_name": "Sportsnet One Oilers HD",
+      "programs": [
+        {
+          "program_id": "470441_sportsnet_one_edmonton_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 154,
+      "channel_name": "Ontario Legislature HD",
+      "programs": [
+        {
+          "program_id": "470442_legislative_assembly_of__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 155,
+      "channel_name": "Sportsnet West HD",
+      "programs": [
+        {
+          "program_id": "470443_misplays_of_the_month_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 156,
+      "channel_name": "Cottage Life HD",
+      "programs": [
+        {
+          "program_id": "470444_impossible_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 157,
+      "channel_name": "Crave2",
+      "programs": [
+        {
+          "program_id": "470445_the_spy_who_loved_me_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 158,
+      "channel_name": "TSN 1",
+      "programs": [
+        {
+          "program_id": "470446_live_sc_with_jay_onrait_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 159,
+      "channel_name": "GAME 11",
+      "programs": [
+        {
+          "program_id": "470447_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 160,
+      "channel_name": "Sportsnet One Flames HD",
+      "programs": [
+        {
+          "program_id": "470448_sportsnet_one_calgary_fl_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 161,
+      "channel_name": "AMI-télé HD",
+      "programs": [
+        {
+          "program_id": "470449_a_me_regarde_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 162,
+      "channel_name": "WGN (Chicago)",
+      "programs": [
+        {
+          "program_id": "470450_the_big_bang_theory_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 163,
+      "channel_name": "GAME 5",
+      "programs": [
+        {
+          "program_id": "470451_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 164,
+      "channel_name": "AMI Audio",
+      "programs": [
+        {
+          "program_id": "470452_double_tap_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 165,
+      "channel_name": "HLN",
+      "programs": [
+        {
+          "program_id": "470453_forensic_files_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 166,
+      "channel_name": "Bravo Canada",
+      "programs": [
+        {
+          "program_id": "470454_the_real_housewives_of_s_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 167,
+      "channel_name": "NFL Sunday Ticket NFL13 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470455_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 168,
+      "channel_name": "CTV Vancouver HD",
+      "programs": [
+        {
+          "program_id": "470456_high_potential_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 169,
+      "channel_name": "OMNI Prairies HD",
+      "programs": [
+        {
+          "program_id": "470457_focus_cantonese_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 170,
+      "channel_name": "CFTM Montréal",
+      "programs": [
+        {
+          "program_id": "470458_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 171,
+      "channel_name": "SLICE HD",
+      "programs": [
+        {
+          "program_id": "470459_the_goldbergs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 172,
+      "channel_name": "NFL4SC",
+      "programs": [
+        {
+          "program_id": "470460_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 173,
+      "channel_name": "CTV Regina",
+      "programs": [
+        {
+          "program_id": "470461_live_ctv_news_regina_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 174,
+      "channel_name": "HPItv",
+      "programs": [
+        {
+          "program_id": "470462_hpitv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 175,
+      "channel_name": "Réseau des Sports (RDS)",
+      "programs": [
+        {
+          "program_id": "470463_basketball_nba_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 176,
+      "channel_name": "CTV Speed HD",
+      "programs": [
+        {
+          "program_id": "470464_highway_thru_hell_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 177,
+      "channel_name": "Rewind HD",
+      "programs": [
+        {
+          "program_id": "470465_crimes_of_the_heart_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 178,
+      "channel_name": "Knowledge Network",
+      "programs": [
+        {
+          "program_id": "470466_becoming_labrador_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 179,
+      "channel_name": "Deja View",
+      "programs": [
+        {
+          "program_id": "470467_cheers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 180,
+      "channel_name": "Mediaset Italia Canada",
+      "programs": [
+        {
+          "program_id": "470468_le_iene_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 181,
+      "channel_name": "CTV COMEDY CHANNEL WEST",
+      "programs": [
+        {
+          "program_id": "470469_the_big_bang_theory_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 182,
+      "channel_name": "Alpha TV",
+      "programs": [
+        {
+          "program_id": "470470_happy_day_ston_alpha_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 183,
+      "channel_name": "NFL10SC",
+      "programs": [
+        {
+          "program_id": "470471_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 184,
+      "channel_name": "CFPL - A Channel London",
+      "programs": [
+        {
+          "program_id": "470472_ctv_national_news_with_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 185,
+      "channel_name": "ZesteHD (Zeste-HD)",
+      "programs": [
+        {
+          "program_id": "470473_les_stars_de_gordon_rams_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 186,
+      "channel_name": "Much Music HD",
+      "programs": [
+        {
+          "program_id": "470474_futurama_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 187,
+      "channel_name": "TSC",
+      "programs": [
+        {
+          "program_id": "470475_ecoflow_delta_3_portable_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 188,
+      "channel_name": "CIIT",
+      "programs": [
+        {
+          "program_id": "470476_peter_popoff_ministries_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 189,
+      "channel_name": "MSNBC Canada, Caribbean and International HD",
+      "programs": [
+        {
+          "program_id": "470477_the_briefing_with_jen_ps_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 190,
+      "channel_name": "Exxxtsy Channel (Canada)",
+      "programs": [
+        {
+          "program_id": "470478_let_s_bang_the_girlfrien_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 191,
+      "channel_name": "GAME 14",
+      "programs": [
+        {
+          "program_id": "470479_live_nhl_hockey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 192,
+      "channel_name": "Zeste",
+      "programs": [
+        {
+          "program_id": "470480_les_stars_de_gordon_rams_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 193,
+      "channel_name": "CFTM-DT",
+      "programs": [
+        {
+          "program_id": "470481_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 194,
+      "channel_name": "MLB Extra Innings HD 7",
+      "programs": [
+        {
+          "program_id": "470482_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 195,
+      "channel_name": "BBC News (North America)",
+      "programs": [
+        {
+          "program_id": "470483_business_today_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 196,
+      "channel_name": "TFO HD",
+      "programs": [
+        {
+          "program_id": "470484_gaston_lagaffe_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 197,
+      "channel_name": "Shaw Direct NBA 2",
+      "programs": [
+        {
+          "program_id": "470485_nba_league_pass_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 198,
+      "channel_name": "Super Écran 3 HD",
+      "programs": [
+        {
+          "program_id": "470486_valentine_d_b_ne_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 199,
+      "channel_name": "Citytv Edmonton",
+      "programs": [
+        {
+          "program_id": "470487_family_feud_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 200,
+      "channel_name": "Global Edmonton",
+      "programs": [
+        {
+          "program_id": "470488_doc_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 201,
+      "channel_name": "Super Écran HD2",
+      "programs": [
+        {
+          "program_id": "470489_un_diad_me_pour_caro_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 202,
+      "channel_name": "Hollywood Suite 70s+",
+      "programs": [
+        {
+          "program_id": "470490_the_man_who_fell_to_eart_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 203,
+      "channel_name": "CTV Wild HD",
+      "programs": [
+        {
+          "program_id": "470491_cold_water_cowboys_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 204,
+      "channel_name": "Crave 1 West",
+      "programs": [
+        {
+          "program_id": "470492_i_am_chris_farley_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 205,
+      "channel_name": "Accessible Media Inc.",
+      "programs": [
+        {
+          "program_id": "470493_dish_with_mary_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 206,
+      "channel_name": "ADDIK HD",
+      "programs": [
+        {
+          "program_id": "470494_la_nettoyeuse_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 207,
+      "channel_name": "CKSH",
+      "programs": [
+        {
+          "program_id": "470495_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 208,
+      "channel_name": "Citytv Vancouver",
+      "programs": [
+        {
+          "program_id": "470496_hudson_and_rex_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 209,
+      "channel_name": "Super Channel Fuse HD",
+      "programs": [
+        {
+          "program_id": "470497_how_not_to_hire_a_hitman_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 210,
+      "channel_name": "CBC Ottawa",
+      "programs": [
+        {
+          "program_id": "470498_north_of_north_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 211,
+      "channel_name": "CBAT",
+      "programs": [
+        {
+          "program_id": "470499_workin_moms_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 212,
+      "channel_name": "CHEM",
+      "programs": [
+        {
+          "program_id": "470500_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 213,
+      "channel_name": "NBA League Pass HD 9",
+      "programs": [
+        {
+          "program_id": "470501_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 214,
+      "channel_name": "CBUFT-DT",
+      "programs": [
+        {
+          "program_id": "470502_mea_culpa_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 215,
+      "channel_name": "CBC Halifax HD",
+      "programs": [
+        {
+          "program_id": "470503_workin_moms_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 216,
+      "channel_name": "Fox News Channel",
+      "programs": [
+        {
+          "program_id": "470504_the_five_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 217,
+      "channel_name": "Crave1",
+      "programs": [
+        {
+          "program_id": "470505_gunslingers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 218,
+      "channel_name": "CFJC-DT",
+      "programs": [
+        {
+          "program_id": "470506_me_and_mr_right_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 219,
+      "channel_name": "NFL Sunday Ticket NFL12 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470508_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 220,
+      "channel_name": "CTV LIFE CHANNEL",
+      "programs": [
+        {
+          "program_id": "470509_blue_bloods_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 221,
+      "channel_name": "WPCH-DT4",
+      "programs": [
+        {
+          "program_id": "470510_seinfeld_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 222,
+      "channel_name": "CBC Vancouver",
+      "programs": [
+        {
+          "program_id": "470511_austin_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 223,
+      "channel_name": "YTVP",
+      "programs": [
+        {
+          "program_id": "470512_lego_scooby_doo_haunted__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 224,
+      "channel_name": "TSN 5 HD",
+      "programs": [
+        {
+          "program_id": "470513_live_sc_with_jay_onrait_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 225,
+      "channel_name": "CHEX",
+      "programs": [
+        {
+          "program_id": "470514_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 226,
+      "channel_name": "USA Network",
+      "programs": [
+        {
+          "program_id": "470515_bones_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 227,
+      "channel_name": "Sportsman Channel",
+      "programs": [
+        {
+          "program_id": "470516_crush_with_lee_and_tiffa_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 228,
+      "channel_name": "AMC Canada HD",
+      "programs": [
+        {
+          "program_id": "470517_hancock_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 229,
+      "channel_name": "Global Maritimes (CIHF)",
+      "programs": [
+        {
+          "program_id": "470518_fire_masters_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 230,
+      "channel_name": "Natyf TV",
+      "programs": [
+        {
+          "program_id": "470519_la_playlist_urbano_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 231,
+      "channel_name": "CIVM-DT",
+      "programs": [
+        {
+          "program_id": "470520_kebec_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 232,
+      "channel_name": "GAME 3",
+      "programs": [
+        {
+          "program_id": "470521_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 233,
+      "channel_name": "CTV Calgary HD",
+      "programs": [
+        {
+          "program_id": "470522_high_potential_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 234,
+      "channel_name": "CBAFT",
+      "programs": [
+        {
+          "program_id": "470523_candice_renoir_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 235,
+      "channel_name": "CTV Winnipeg HD",
+      "programs": [
+        {
+          "program_id": "470524_live_ctv_news_winnipeg_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 236,
+      "channel_name": "MLB Extra Innings HD 9",
+      "programs": [
+        {
+          "program_id": "470525_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 237,
+      "channel_name": "OMNI1",
+      "programs": [
+        {
+          "program_id": "470526_l_arte_di_cucinare_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 238,
+      "channel_name": "Canal D",
+      "programs": [
+        {
+          "program_id": "470527_panique_sur_la_401_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 239,
+      "channel_name": "NHL Centre Ice HD 5",
+      "programs": [
+        {
+          "program_id": "470528_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 240,
+      "channel_name": "Home Network HD",
+      "programs": [
+        {
+          "program_id": "470529_my_lottery_dream_home_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 241,
+      "channel_name": "Toon-A-Vision",
+      "programs": [
+        {
+          "program_id": "470530_chilly_beach_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 242,
+      "channel_name": "TV5 (La Télévision Internationale)",
+      "programs": [
+        {
+          "program_id": "470531_journal_tv_monaco_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 243,
+      "channel_name": "CBC Radio Two FM",
+      "programs": [
+        {
+          "program_id": "470532_cbc_music_vancouver_cbu__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 244,
+      "channel_name": "CBC Saskatchewan",
+      "programs": [
+        {
+          "program_id": "470533_this_hour_has_22_minutes_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 245,
+      "channel_name": "NDTV 24X7 Canada",
+      "programs": [
+        {
+          "program_id": "470534_daily_10_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 246,
+      "channel_name": "Amber Alerts (French)",
+      "programs": [
+        {
+          "program_id": "470535_alertes_amber_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 247,
+      "channel_name": "GAME 7",
+      "programs": [
+        {
+          "program_id": "470536_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 248,
+      "channel_name": "Shaw Direct NBA 1",
+      "programs": [
+        {
+          "program_id": "470537_nba_league_pass_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 249,
+      "channel_name": "CFEM",
+      "programs": [
+        {
+          "program_id": "470538_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 250,
+      "channel_name": "Citytv Winnipeg HD",
+      "programs": [
+        {
+          "program_id": "470539_impractical_jokers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 251,
+      "channel_name": "Max",
+      "programs": [
+        {
+          "program_id": "470540_hudson_and_rex_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 252,
+      "channel_name": "WPIX",
+      "programs": [
+        {
+          "program_id": "470541_two_and_a_half_men_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 253,
+      "channel_name": "CFJC",
+      "programs": [
+        {
+          "program_id": "470542_me_and_mr_right_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 254,
+      "channel_name": "Talentvision - Vancouver",
+      "programs": [
+        {
+          "program_id": "470543_expert_hour_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 255,
+      "channel_name": "MétéoMédia (MM) HD",
+      "programs": [
+        {
+          "program_id": "470544_m_t_om_dia_la_nuit_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 38
+        }
+      ]
+    },
+    {
+      "channel_id": 256,
+      "channel_name": "Hustler Mature HD",
+      "programs": [
+        {
+          "program_id": "470545_dd_milfs_stroke_and_slid_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 257,
+      "channel_name": "Inuit TV Network",
+      "programs": [
+        {
+          "program_id": "470546_off_air_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 258,
+      "channel_name": "CTV LIFE CHANNEL HD",
+      "programs": [
+        {
+          "program_id": "470547_blue_bloods_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 259,
+      "channel_name": "CKTM",
+      "programs": [
+        {
+          "program_id": "470548_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 260,
+      "channel_name": "CBXFT-DT",
+      "programs": [
+        {
+          "program_id": "470549_le_t_l_journal_avec_c_li_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 261,
+      "channel_name": "TSN 2",
+      "programs": [
+        {
+          "program_id": "470550_why_we_love_sports_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 262,
+      "channel_name": "Shaw Direct NBA 4",
+      "programs": [
+        {
+          "program_id": "470551_nba_league_pass_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 263,
+      "channel_name": "NFL Sunday Ticket NFL4 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470552_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 264,
+      "channel_name": "CFJP",
+      "programs": [
+        {
+          "program_id": "470553_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 265,
+      "channel_name": "CBLA FM CBC Radio One",
+      "programs": [
+        {
+          "program_id": "470554_as_it_happens_the_midnig_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 266,
+      "channel_name": "NFL Sunday Ticket NFL3 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470555_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 267,
+      "channel_name": "Telelatino Network",
+      "programs": [
+        {
+          "program_id": "470556_millionaire_holiday_home_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 268,
+      "channel_name": "RTV International",
+      "programs": [
+        {
+          "program_id": "470557_drobyshevskiy_plyus_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 269,
+      "channel_name": "GAME 8",
+      "programs": [
+        {
+          "program_id": "470558_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 270,
+      "channel_name": "CKWS",
+      "programs": [
+        {
+          "program_id": "470559_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 271,
+      "channel_name": "NFL5SC",
+      "programs": [
+        {
+          "program_id": "470560_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 272,
+      "channel_name": "NFL Sunday Ticket NFL2 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470561_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 273,
+      "channel_name": "CBKFT",
+      "programs": [
+        {
+          "program_id": "470562_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 274,
+      "channel_name": "Évasion HD",
+      "programs": [
+        {
+          "program_id": "470563_le_dernier_loup_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 275,
+      "channel_name": "TVA Sports 3 HD",
+      "programs": [
+        {
+          "program_id": "470564_tva_sports_3_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 276,
+      "channel_name": "WPIX-DT",
+      "programs": [
+        {
+          "program_id": "470565_two_and_a_half_men_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 277,
+      "channel_name": "CBOFT-DT",
+      "programs": [
+        {
+          "program_id": "470566_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 278,
+      "channel_name": "Prime Monday Night Hockey",
+      "programs": [
+        {
+          "program_id": "470567_prime_monday_night_hocke_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 279,
+      "channel_name": "KIRO 7",
+      "programs": [
+        {
+          "program_id": "470568_ncis_origins_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 280,
+      "channel_name": "GAME 10",
+      "programs": [
+        {
+          "program_id": "470569_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 281,
+      "channel_name": "CTV Two - Ottawa",
+      "programs": [
+        {
+          "program_id": "470570_ctv_national_news_with_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 282,
+      "channel_name": "Sportsnet Ontario HD",
+      "programs": [
+        {
+          "program_id": "470571_misplays_of_the_month_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 283,
+      "channel_name": "NFL Sunday Ticket NFL8 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470572_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 284,
+      "channel_name": "NHL Centre Ice HD 2",
+      "programs": [
+        {
+          "program_id": "470573_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 285,
+      "channel_name": "Sportsnet East",
+      "programs": [
+        {
+          "program_id": "470574_misplays_of_the_month_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 286,
+      "channel_name": "ICI Tele HD",
+      "programs": [
+        {
+          "program_id": "470575_zornica_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 287,
+      "channel_name": "CinéPop HD",
+      "programs": [
+        {
+          "program_id": "470576_300_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 288,
+      "channel_name": "MLB Extra Innings HD 8",
+      "programs": [
+        {
+          "program_id": "470577_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 289,
+      "channel_name": "TVA Sports HD",
+      "programs": [
+        {
+          "program_id": "470578_hockey_lnh_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 290,
+      "channel_name": "CHOT-DT",
+      "programs": [
+        {
+          "program_id": "470579_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 291,
+      "channel_name": "Cable Public Affairs Channel (French)",
+      "programs": [
+        {
+          "program_id": "470580_dossier_public_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 292,
+      "channel_name": "3ABN Canada Network",
+      "programs": [
+        {
+          "program_id": "470581_rebuild_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 293,
+      "channel_name": "MLB Extra Innings HD 4",
+      "programs": [
+        {
+          "program_id": "470582_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 294,
+      "channel_name": "CHNM-DT",
+      "programs": [
+        {
+          "program_id": "470583_focus_cantonese_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 295,
+      "channel_name": "Adult Only Video - Maleflixxx.tv",
+      "programs": [
+        {
+          "program_id": "470584_muscle_ranch_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 296,
+      "channel_name": "WSBK-DT",
+      "programs": [
+        {
+          "program_id": "470585_48_hours_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 297,
+      "channel_name": "Bravo Canada HD",
+      "programs": [
+        {
+          "program_id": "470586_the_real_housewives_of_s_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 298,
+      "channel_name": "NFL8SC",
+      "programs": [
+        {
+          "program_id": "470587_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 299,
+      "channel_name": "Super Écran",
+      "programs": [
+        {
+          "program_id": "470588_voyageurs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 300,
+      "channel_name": "CIMT-DT",
+      "programs": [
+        {
+          "program_id": "470589_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 301,
+      "channel_name": "Lock (Static)",
+      "programs": [
+        {
+          "program_id": "470590_lock_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 302,
+      "channel_name": "Canal D HD",
+      "programs": [
+        {
+          "program_id": "470591_panique_sur_la_401_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 303,
+      "channel_name": "Crave 3 West HD",
+      "programs": [
+        {
+          "program_id": "470592_corner_gas_animated_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 304,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI9",
+      "programs": [
+        {
+          "program_id": "470593_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 305,
+      "channel_name": "CTV Winnipeg",
+      "programs": [
+        {
+          "program_id": "470594_live_ctv_news_winnipeg_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 306,
+      "channel_name": "CBC Ottawa HD",
+      "programs": [
+        {
+          "program_id": "470595_north_of_north_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 307,
+      "channel_name": "MLB Network Canada HD",
+      "programs": [
+        {
+          "program_id": "470596_mlb_network_double_play_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 308,
+      "channel_name": "SET - Asia International Canada",
+      "programs": [
+        {
+          "program_id": "470597_kaun_banega_crorepati_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 93
+        }
+      ]
+    },
+    {
+      "channel_id": 309,
+      "channel_name": "TFO",
+      "programs": [
+        {
+          "program_id": "470598_gaston_lagaffe_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 310,
+      "channel_name": "HLN HD",
+      "programs": [
+        {
+          "program_id": "470599_forensic_files_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 311,
+      "channel_name": "Global BC HD",
+      "programs": [
+        {
+          "program_id": "470600_doc_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 312,
+      "channel_name": "OMNI Pacific",
+      "programs": [
+        {
+          "program_id": "470601_focus_cantonese_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 313,
+      "channel_name": "Documentary Canada",
+      "programs": [
+        {
+          "program_id": "470602_a_holes_a_theory_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 314,
+      "channel_name": "OMNI East HD",
+      "programs": [
+        {
+          "program_id": "470603_omni_news_filipino_editi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 315,
+      "channel_name": "MLB Extra Innings HD 5",
+      "programs": [
+        {
+          "program_id": "470604_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 316,
+      "channel_name": "NTV",
+      "programs": [
+        {
+          "program_id": "470605_fire_masters_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 317,
+      "channel_name": "CBVT-DT",
+      "programs": [
+        {
+          "program_id": "470606_candice_renoir_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 318,
+      "channel_name": "CKES",
+      "programs": [
+        {
+          "program_id": "470607_hagee_ministries_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 49
+        }
+      ]
+    },
+    {
+      "channel_id": 319,
+      "channel_name": "ICI Tele",
+      "programs": [
+        {
+          "program_id": "470608_zornica_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 320,
+      "channel_name": "History Television HD (Canada)",
+      "programs": [
+        {
+          "program_id": "470609_monsterquest_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 321,
+      "channel_name": "Vision TV HD",
+      "programs": [
+        {
+          "program_id": "470610_the_english_patient_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 322,
+      "channel_name": "TVO",
+      "programs": [
+        {
+          "program_id": "470611_cfny_the_spirit_of_radio_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 323,
+      "channel_name": "Citytv Calgary",
+      "programs": [
+        {
+          "program_id": "470612_family_feud_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 324,
+      "channel_name": "Odyssey Greek TV",
+      "programs": [
+        {
+          "program_id": "470613_live_kalimera_ellada_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 325,
+      "channel_name": "Phoenix Satellite TV",
+      "programs": [
+        {
+          "program_id": "470614_chief_editor_s_time_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 326,
+      "channel_name": "CTV Two - London/Windsor",
+      "programs": [
+        {
+          "program_id": "470615_ctv_national_news_with_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 327,
+      "channel_name": "Silver Screen Classics",
+      "programs": [
+        {
+          "program_id": "470616_assassination_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 328,
+      "channel_name": "Historia HD",
+      "programs": [
+        {
+          "program_id": "470617_les_a_de_la_brocante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 329,
+      "channel_name": "CTV DRAMA CHANNEL HD",
+      "programs": [
+        {
+          "program_id": "470618_gilmore_girls_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 330,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI10",
+      "programs": [
+        {
+          "program_id": "470619_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 331,
+      "channel_name": "The Learning Channel HD Canada",
+      "programs": [
+        {
+          "program_id": "470620_1000_lb_sisters_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 332,
+      "channel_name": "Cable Pulse 24 (CP24) HD",
+      "programs": [
+        {
+          "program_id": "470621_ctv_toronto_late_news_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 333,
+      "channel_name": "Yes TV Calgary",
+      "programs": [
+        {
+          "program_id": "470622_hagee_ministries_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 334,
+      "channel_name": "STARZ 2",
+      "programs": [
+        {
+          "program_id": "470623_moving_day_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 335,
+      "channel_name": "RDS2 HD",
+      "programs": [
+        {
+          "program_id": "470624_le_5_7_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 336,
+      "channel_name": "KTLA",
+      "programs": [
+        {
+          "program_id": "470625_wwe_nxt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 337,
+      "channel_name": "ICI Explora HD",
+      "programs": [
+        {
+          "program_id": "470626_la_recherche_de_la_balei_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 338,
+      "channel_name": "GAME 4",
+      "programs": [
+        {
+          "program_id": "470627_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 339,
+      "channel_name": "Sportsnet MST",
+      "programs": [
+        {
+          "program_id": "470628_misplays_of_the_month_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 340,
+      "channel_name": "NFL1SC",
+      "programs": [
+        {
+          "program_id": "470629_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 341,
+      "channel_name": "Global Thunder Bay HD",
+      "programs": [
+        {
+          "program_id": "470630_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 342,
+      "channel_name": "B4U Canada",
+      "programs": [
+        {
+          "program_id": "470631_parinati_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 343,
+      "channel_name": "CTV SCI-FI CHANNEL HD",
+      "programs": [
+        {
+          "program_id": "470632_the_librarians_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 344,
+      "channel_name": "Global Manitoba",
+      "programs": [
+        {
+          "program_id": "470633_the_goldbergs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 345,
+      "channel_name": "Super Écran 3",
+      "programs": [
+        {
+          "program_id": "470634_valentine_d_b_ne_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 346,
+      "channel_name": "ADDIK",
+      "programs": [
+        {
+          "program_id": "470635_la_nettoyeuse_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 347,
+      "channel_name": "HPItv West",
+      "programs": [
+        {
+          "program_id": "470636_hpitv_west_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 348,
+      "channel_name": "NBA League Pass HD 3",
+      "programs": [
+        {
+          "program_id": "470637_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 349,
+      "channel_name": "Game Show Network",
+      "programs": [
+        {
+          "program_id": "470638_family_feud_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 350,
+      "channel_name": "CTV Two - Barrie",
+      "programs": [
+        {
+          "program_id": "470639_ctv_national_news_with_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 351,
+      "channel_name": "ERT World",
+      "programs": [
+        {
+          "program_id": "470640_sindeseis_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 352,
+      "channel_name": "Fox Sports Racing HD",
+      "programs": [
+        {
+          "program_id": "470641_dangerous_drives_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 353,
+      "channel_name": "City Saskatchewan",
+      "programs": [
+        {
+          "program_id": "470642_dirt_farmers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 354,
+      "channel_name": "WFXT",
+      "programs": [
+        {
+          "program_id": "470643_boston_25_news_at_10pm_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 355,
+      "channel_name": "GameTV Canada",
+      "programs": [
+        {
+          "program_id": "470644_pain_and_gain_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 356,
+      "channel_name": "WBZ",
+      "programs": [
+        {
+          "program_id": "470645_comics_unleashed_with_by_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 357,
+      "channel_name": "CHNU",
+      "programs": [
+        {
+          "program_id": "470646_pastor_schott_glad_tidin_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 358,
+      "channel_name": "Cottage Life",
+      "programs": [
+        {
+          "program_id": "470647_impossible_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 359,
+      "channel_name": "MCTV/CTV Timmins",
+      "programs": [
+        {
+          "program_id": "470648_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 360,
+      "channel_name": "WBZ-DT",
+      "programs": [
+        {
+          "program_id": "470649_comics_unleashed_with_by_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 361,
+      "channel_name": "NHL Centre Ice HD 3",
+      "programs": [
+        {
+          "program_id": "470650_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 362,
+      "channel_name": "A and E Canada HD",
+      "programs": [
+        {
+          "program_id": "470651_road_wars_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 363,
+      "channel_name": "Hollywood Suite 80s and 90s",
+      "programs": [
+        {
+          "program_id": "470652_terminator_2_judgment_da_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 364,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI4",
+      "programs": [
+        {
+          "program_id": "470653_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 93
+        }
+      ]
+    },
+    {
+      "channel_id": 365,
+      "channel_name": "NHL Centre Ice HD 6",
+      "programs": [
+        {
+          "program_id": "470654_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 366,
+      "channel_name": "CHET-TV",
+      "programs": [
+        {
+          "program_id": "470655_grizfest_2017_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 367,
+      "channel_name": "Merit TV Canada",
+      "programs": [
+        {
+          "program_id": "470656_getconnected_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 368,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI1",
+      "programs": [
+        {
+          "program_id": "470657_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 369,
+      "channel_name": "MCTV/CTV Sault Ste. Marie",
+      "programs": [
+        {
+          "program_id": "470658_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 370,
+      "channel_name": "ATN Colors",
+      "programs": [
+        {
+          "program_id": "470659_mangal_lakshmi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 371,
+      "channel_name": "ATN Punjabi",
+      "programs": [
+        {
+          "program_id": "470660_atn_punjabi_preview_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 372,
+      "channel_name": "STARZ 1 HD",
+      "programs": [
+        {
+          "program_id": "470661_bmf_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 373,
+      "channel_name": "PPV Sports",
+      "programs": [
+        {
+          "program_id": "470662_ppv_sports_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 374,
+      "channel_name": "KIRO 7 SD",
+      "programs": [
+        {
+          "program_id": "470663_ncis_origins_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 375,
+      "channel_name": "GAME 13",
+      "programs": [
+        {
+          "program_id": "470664_live_nhl_hockey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 376,
+      "channel_name": "Telile TV (CIMC-TV)",
+      "programs": [
+        {
+          "program_id": "470665_community_scroll_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 377,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI7",
+      "programs": [
+        {
+          "program_id": "470666_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 378,
+      "channel_name": "Shaw Direct NBA 3",
+      "programs": [
+        {
+          "program_id": "470667_nba_league_pass_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 379,
+      "channel_name": "National Geographic Canada HD",
+      "programs": [
+        {
+          "program_id": "470668_plane_crash_recreated_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 380,
+      "channel_name": "BBC First",
+      "programs": [
+        {
+          "program_id": "470669_sister_boniface_mysterie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 381,
+      "channel_name": "Star",
+      "programs": [
+        {
+          "program_id": "470670_starving_agents_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 382,
+      "channel_name": "YTV",
+      "programs": [
+        {
+          "program_id": "470671_be_cool_scooby_doo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 383,
+      "channel_name": "REV TV Canada",
+      "programs": [
+        {
+          "program_id": "470672_muscle_and_classics_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 384,
+      "channel_name": "ICI ARTV HD",
+      "programs": [
+        {
+          "program_id": "470673_le_meilleur_pays_du_mond_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 385,
+      "channel_name": "Discovery Channel",
+      "programs": [
+        {
+          "program_id": "470674_moonshiners_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 386,
+      "channel_name": "KCTS-DT",
+      "programs": [
+        {
+          "program_id": "470675_american_experience_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 387,
+      "channel_name": "Boomerang Network Canada",
+      "programs": [
+        {
+          "program_id": "470676_ruby_gloom_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 388,
+      "channel_name": "CBFT-DT",
+      "programs": [
+        {
+          "program_id": "470677_candice_renoir_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 389,
+      "channel_name": "CTV Two - Vancouver/Victoria",
+      "programs": [
+        {
+          "program_id": "470678_gilded_newport_mysteries_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 390,
+      "channel_name": "CityNews 680",
+      "programs": [
+        {
+          "program_id": "470679_citynews_680_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 391,
+      "channel_name": "NFL Sunday Ticket NFL18 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470680_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 392,
+      "channel_name": "Shaw Direct NBA 5",
+      "programs": [
+        {
+          "program_id": "470681_nba_league_pass_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 393,
+      "channel_name": "Le Canal Vie",
+      "programs": [
+        {
+          "program_id": "470682_chirurgie_de_l_extr_me_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 394,
+      "channel_name": "MovieTime",
+      "programs": [
+        {
+          "program_id": "470683_indiana_jones_and_the_ki_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 395,
+      "channel_name": "BNN Bloomberg HD",
+      "programs": [
+        {
+          "program_id": "470684_market_call_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 396,
+      "channel_name": "CFKM",
+      "programs": [
+        {
+          "program_id": "470685_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 397,
+      "channel_name": "Playboy TV",
+      "programs": [
+        {
+          "program_id": "470686_adult_film_school_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 398,
+      "channel_name": "FICT (Canal Séries)",
+      "programs": [
+        {
+          "program_id": "470687_les_origines_du_p_ch_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 399,
+      "channel_name": "NBA League Pass HD 6",
+      "programs": [
+        {
+          "program_id": "470688_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 400,
+      "channel_name": "NHL Centre Ice HD 4",
+      "programs": [
+        {
+          "program_id": "470689_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 401,
+      "channel_name": "Penthouse TV Canada Premium",
+      "programs": [
+        {
+          "program_id": "470690_models_on_top_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 402,
+      "channel_name": "Disney Channel Canada",
+      "programs": [
+        {
+          "program_id": "470691_make_it_pop_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 403,
+      "channel_name": "PTC Punjabi TV",
+      "programs": [
+        {
+          "program_id": "470692_vichar_taqrar_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 404,
+      "channel_name": "History",
+      "programs": [
+        {
+          "program_id": "470693_monsterquest_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 405,
+      "channel_name": "CTV Wild",
+      "programs": [
+        {
+          "program_id": "470694_cold_water_cowboys_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 406,
+      "channel_name": "CBC News Network",
+      "programs": [
+        {
+          "program_id": "470695_the_national_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 407,
+      "channel_name": "Smithsonian Channel",
+      "programs": [
+        {
+          "program_id": "470696_how_did_they_build_that_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 408,
+      "channel_name": "CFCM",
+      "programs": [
+        {
+          "program_id": "470697_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 409,
+      "channel_name": "CFCF-DT",
+      "programs": [
+        {
+          "program_id": "470698_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 410,
+      "channel_name": "The Fight Network",
+      "programs": [
+        {
+          "program_id": "470699_rizin_ff_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 411,
+      "channel_name": "CBC Calgary HD",
+      "programs": [
+        {
+          "program_id": "470700_the_national_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 412,
+      "channel_name": "The Fight Network HD",
+      "programs": [
+        {
+          "program_id": "470701_rizin_ff_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 413,
+      "channel_name": "MovieTime HD",
+      "programs": [
+        {
+          "program_id": "470702_indiana_jones_and_the_ki_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 414,
+      "channel_name": "NFL Sunday Ticket NFL15 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470703_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 415,
+      "channel_name": "YesTV",
+      "programs": [
+        {
+          "program_id": "470704_murdoch_mysteries_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 416,
+      "channel_name": "CTV DRAMA CHANNEL",
+      "programs": [
+        {
+          "program_id": "470705_gilmore_girls_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 417,
+      "channel_name": "MLB Network Canada",
+      "programs": [
+        {
+          "program_id": "470706_mlb_network_double_play_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 418,
+      "channel_name": "DTour HD",
+      "programs": [
+        {
+          "program_id": "470707_chuck_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 419,
+      "channel_name": "PPV - PPV",
+      "programs": [
+        {
+          "program_id": "470708_pay_per_view_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 420,
+      "channel_name": "Treehouse",
+      "programs": [
+        {
+          "program_id": "470709_sesame_street_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 421,
+      "channel_name": "WILD TV",
+      "programs": [
+        {
+          "program_id": "470710_national_walleye_tour_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 422,
+      "channel_name": "NBA League Pass HD 4",
+      "programs": [
+        {
+          "program_id": "470711_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 423,
+      "channel_name": "CFVS",
+      "programs": [
+        {
+          "program_id": "470712_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 424,
+      "channel_name": "Alert (Static)",
+      "programs": [
+        {
+          "program_id": "470713_alert_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 425,
+      "channel_name": "Aquarium Channel HD",
+      "programs": [
+        {
+          "program_id": "470714_aquarium_channel_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 426,
+      "channel_name": "NFL Sunday Ticket NFL5 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470715_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 427,
+      "channel_name": "CTV Two Alberta",
+      "programs": [
+        {
+          "program_id": "470716_criminal_minds_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 428,
+      "channel_name": "NHL Centre Ice HD 7",
+      "programs": [
+        {
+          "program_id": "470717_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 429,
+      "channel_name": "Disney Channel Canada HD",
+      "programs": [
+        {
+          "program_id": "470718_make_it_pop_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 430,
+      "channel_name": "CTV Prince Albert",
+      "programs": [
+        {
+          "program_id": "470719_ctv_news_saskatoon_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 431,
+      "channel_name": "TVA Sports 2 HD",
+      "programs": [
+        {
+          "program_id": "470720_dans_l_oeil_du_chat_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 432,
+      "channel_name": "Unis TV",
+      "programs": [
+        {
+          "program_id": "470721_sexe_techno_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "promo",
+          "score": 26
+        }
+      ]
+    },
+    {
+      "channel_id": 433,
+      "channel_name": "Flavour Network HD",
+      "programs": [
+        {
+          "program_id": "470722_great_british_menu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 434,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI6",
+      "programs": [
+        {
+          "program_id": "470723_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 93
+        }
+      ]
+    },
+    {
+      "channel_id": 435,
+      "channel_name": "CKPR Thunder Bay HD",
+      "programs": [
+        {
+          "program_id": "470724_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 436,
+      "channel_name": "WPCH Cable HD",
+      "programs": [
+        {
+          "program_id": "470725_seinfeld_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 437,
+      "channel_name": "CFTF Channel 29",
+      "programs": [
+        {
+          "program_id": "470726_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 438,
+      "channel_name": "Fairchild (Toronto)",
+      "programs": [
+        {
+          "program_id": "470727_big_biz_duel_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 439,
+      "channel_name": "CBFT Montréal",
+      "programs": [
+        {
+          "program_id": "470728_candice_renoir_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 440,
+      "channel_name": "Global Toronto HD",
+      "programs": [
+        {
+          "program_id": "470729_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 441,
+      "channel_name": "TSN 4",
+      "programs": [
+        {
+          "program_id": "470730_live_sc_with_jay_onrait_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 442,
+      "channel_name": "CH Vancouver Island",
+      "programs": [
+        {
+          "program_id": "470731_cold_case_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 443,
+      "channel_name": "Sportsnet (Pacific)",
+      "programs": [
+        {
+          "program_id": "470732_misplays_of_the_month_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 444,
+      "channel_name": "CKPR Thunder Bay",
+      "programs": [
+        {
+          "program_id": "470733_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 445,
+      "channel_name": "NFL13SC",
+      "programs": [
+        {
+          "program_id": "470734_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 446,
+      "channel_name": "ICI ARTV Canada",
+      "programs": [
+        {
+          "program_id": "470735_le_meilleur_pays_du_mond_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 447,
+      "channel_name": "EWTNC (EWTN - Canadian Feed)",
+      "programs": [
+        {
+          "program_id": "470736_daily_mass_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 448,
+      "channel_name": "Makeful TV SD",
+      "programs": [
+        {
+          "program_id": "470737_the_great_british_baking_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 449,
+      "channel_name": "OMNI Prairies",
+      "programs": [
+        {
+          "program_id": "470738_focus_cantonese_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 450,
+      "channel_name": "NFL Sunday Ticket NFL17 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470739_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 451,
+      "channel_name": "CBVT",
+      "programs": [
+        {
+          "program_id": "470740_candice_renoir_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 452,
+      "channel_name": "Golf Channel",
+      "programs": [
+        {
+          "program_id": "470741_the_big_break_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 453,
+      "channel_name": "CHAU",
+      "programs": [
+        {
+          "program_id": "470742_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 454,
+      "channel_name": "TOTALLY ENTERTAINING",
+      "programs": [
+        {
+          "program_id": "470743_the_proof_is_out_there_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 455,
+      "channel_name": "Uvagut TV",
+      "programs": [
+        {
+          "program_id": "470744_qimaivik_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 456,
+      "channel_name": "Showcase Canada HD",
+      "programs": [
+        {
+          "program_id": "470745_syriana_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 457,
+      "channel_name": "Cartoon Network Canada (Pacific)",
+      "programs": [
+        {
+          "program_id": "470746_total_dramarama_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "kids",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 458,
+      "channel_name": "Cable Public Affairs HD Channel (French)",
+      "programs": [
+        {
+          "program_id": "470747_dossier_public_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 459,
+      "channel_name": "NHL Centre Ice HD 8",
+      "programs": [
+        {
+          "program_id": "470748_live_nhl_hockey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 460,
+      "channel_name": "Adult Swim",
+      "programs": [
+        {
+          "program_id": "470749_genndy_tartakovsky_s_pri_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 461,
+      "channel_name": "Global Saskatoon",
+      "programs": [
+        {
+          "program_id": "470750_the_goldbergs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 462,
+      "channel_name": "Bell ALERT (French)",
+      "programs": [
+        {
+          "program_id": "470751_verouillez_can_explicite_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 463,
+      "channel_name": "The News Forum",
+      "programs": [
+        {
+          "program_id": "470752_counterpoint_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 464,
+      "channel_name": "NBA League Pass HD 7",
+      "programs": [
+        {
+          "program_id": "470753_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 465,
+      "channel_name": "CTV Nature",
+      "programs": [
+        {
+          "program_id": "470754_wicked_tuna_outer_banks_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 466,
+      "channel_name": "Super Channel Heart and Home HD",
+      "programs": [
+        {
+          "program_id": "470755_the_perfect_man_icure_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 467,
+      "channel_name": "CBAFT-DT",
+      "programs": [
+        {
+          "program_id": "470756_candice_renoir_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 468,
+      "channel_name": "Lifetime (Canada)",
+      "programs": [
+        {
+          "program_id": "470757_ncis_los_angeles_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 469,
+      "channel_name": "NHL Centre Ice HD 1",
+      "programs": [
+        {
+          "program_id": "470758_nhl_centre_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 470,
+      "channel_name": "NHL Centre Ice HD 12",
+      "programs": [
+        {
+          "program_id": "470759_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 471,
+      "channel_name": "CBC News Network HD",
+      "programs": [
+        {
+          "program_id": "470760_the_national_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 472,
+      "channel_name": "CTV Edmonton HD",
+      "programs": [
+        {
+          "program_id": "470761_high_potential_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 473,
+      "channel_name": "CBCT",
+      "programs": [
+        {
+          "program_id": "470762_workin_moms_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 474,
+      "channel_name": "Home and Garden Television",
+      "programs": [
+        {
+          "program_id": "470763_fixer_to_fabulous_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 475,
+      "channel_name": "Rai Italia",
+      "programs": [
+        {
+          "program_id": "470764_rai_news_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 90
+        }
+      ]
+    },
+    {
+      "channel_id": 476,
+      "channel_name": "Univision Canada",
+      "programs": [
+        {
+          "program_id": "470765_contacto_deportivo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 477,
+      "channel_name": "Noovo",
+      "programs": [
+        {
+          "program_id": "470766_les_d_batteurs_de_noovo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 478,
+      "channel_name": "CJBR",
+      "programs": [
+        {
+          "program_id": "470767_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 479,
+      "channel_name": "Investigation HD",
+      "programs": [
+        {
+          "program_id": "470768_48_heures_pour_un_crime_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 480,
+      "channel_name": "Lifetime HD (Canada)",
+      "programs": [
+        {
+          "program_id": "470769_ncis_los_angeles_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 481,
+      "channel_name": "The Miracle Channel - CJIL",
+      "programs": [
+        {
+          "program_id": "470770_tribal_trails_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 482,
+      "channel_name": "NHL Centre Ice 2 HD",
+      "programs": [
+        {
+          "program_id": "470771_ligue_nationale_de_hocke_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 483,
+      "channel_name": "Accessible Media Inc. HD",
+      "programs": [
+        {
+          "program_id": "470772_dish_with_mary_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 484,
+      "channel_name": "Showcase Television Inc. (Canada)",
+      "programs": [
+        {
+          "program_id": "470773_syriana_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 485,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI5",
+      "programs": [
+        {
+          "program_id": "470774_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 486,
+      "channel_name": "Z",
+      "programs": [
+        {
+          "program_id": "470775_agence_roman_maisons_han_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 487,
+      "channel_name": "Game Show Network HD",
+      "programs": [
+        {
+          "program_id": "470776_family_feud_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 488,
+      "channel_name": "Canal Séries Plus HD",
+      "programs": [
+        {
+          "program_id": "470777_les_origines_du_p_ch_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 489,
+      "channel_name": "MCTV/CTV North Bay",
+      "programs": [
+        {
+          "program_id": "470778_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 490,
+      "channel_name": "Cartoon Network HD Canada",
+      "programs": [
+        {
+          "program_id": "470779_the_stanley_dynamic_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 491,
+      "channel_name": "American Heroes Channel - Canada",
+      "programs": [
+        {
+          "program_id": "470780_ultimate_weapons_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 492,
+      "channel_name": "Crave4",
+      "programs": [
+        {
+          "program_id": "470781_i_am_chris_farley_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 493,
+      "channel_name": "CKLT",
+      "programs": [
+        {
+          "program_id": "470782_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 494,
+      "channel_name": "NFL Sunday Ticket NFL16 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470783_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 495,
+      "channel_name": "Cable News Network",
+      "programs": [
+        {
+          "program_id": "470784_live_the_story_is_with_e_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 496,
+      "channel_name": "NBA League Pass HD 2",
+      "programs": [
+        {
+          "program_id": "470785_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 497,
+      "channel_name": "Global Lethbridge",
+      "programs": [
+        {
+          "program_id": "470786_doc_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 498,
+      "channel_name": "BNN Bloomberg",
+      "programs": [
+        {
+          "program_id": "470787_market_call_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 499,
+      "channel_name": "CBC Edmonton HD",
+      "programs": [
+        {
+          "program_id": "470788_the_national_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 500,
+      "channel_name": "Food Network",
+      "programs": [
+        {
+          "program_id": "470789_wildcard_kitchen_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 501,
+      "channel_name": "CBC Winnipeg HD",
+      "programs": [
+        {
+          "program_id": "470790_this_hour_has_22_minutes_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 502,
+      "channel_name": "Dorcel TV Canada",
+      "programs": [
+        {
+          "program_id": "470791_movie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 503,
+      "channel_name": "CHLT Sherbrooke",
+      "programs": [
+        {
+          "program_id": "470792_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 504,
+      "channel_name": "NHL Centre Ice HD 10",
+      "programs": [
+        {
+          "program_id": "470793_nhl_centre_ice_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 505,
+      "channel_name": "Fireplace",
+      "programs": [
+        {
+          "program_id": "470794_access_ambience_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 506,
+      "channel_name": "TV 5 Québec Canada HD",
+      "programs": [
+        {
+          "program_id": "470795_journal_tv_monaco_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 507,
+      "channel_name": "NFL11SC",
+      "programs": [
+        {
+          "program_id": "470796_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 508,
+      "channel_name": "Love Nature",
+      "programs": [
+        {
+          "program_id": "470797_animals_like_us_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 509,
+      "channel_name": "CJCB",
+      "programs": [
+        {
+          "program_id": "470798_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 510,
+      "channel_name": "CTV Two - Toronto",
+      "programs": [
+        {
+          "program_id": "470799_ctv_national_news_with_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 511,
+      "channel_name": "Crave1 HD",
+      "programs": [
+        {
+          "program_id": "470800_gunslingers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 512,
+      "channel_name": "CBC Radio One AM",
+      "programs": [
+        {
+          "program_id": "470801_cbc_radio_one_vancouver__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 513,
+      "channel_name": "Sportsnet One HD",
+      "programs": [
+        {
+          "program_id": "470802_tgl_golf_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 514,
+      "channel_name": "HISTORY 2",
+      "programs": [
+        {
+          "program_id": "470803_american_godfathers_the__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 515,
+      "channel_name": "GMA Pinoy TV",
+      "programs": [
+        {
+          "program_id": "470804_unica_hija_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 516,
+      "channel_name": "CFGS-DT",
+      "programs": [
+        {
+          "program_id": "470805_noovo_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 517,
+      "channel_name": "W Network HD",
+      "programs": [
+        {
+          "program_id": "470806_lion_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 518,
+      "channel_name": "Rogers Community 20 Kitchener HD",
+      "programs": [
+        {
+          "program_id": "470807_live_worth_noting_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 519,
+      "channel_name": "CJAD 800 Montréal",
+      "programs": [
+        {
+          "program_id": "470808_cjad_800_am_montreal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 520,
+      "channel_name": "CTV Nature HD",
+      "programs": [
+        {
+          "program_id": "470809_wicked_tuna_outer_banks_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 521,
+      "channel_name": "CBXFT",
+      "programs": [
+        {
+          "program_id": "470810_le_t_l_journal_avec_c_li_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 522,
+      "channel_name": "Sportsnet World",
+      "programs": [
+        {
+          "program_id": "470811_premiership_rugby_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 523,
+      "channel_name": "Sportsnet East HD",
+      "programs": [
+        {
+          "program_id": "470812_misplays_of_the_month_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 524,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI3",
+      "programs": [
+        {
+          "program_id": "470813_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 525,
+      "channel_name": "NFL Sunday Ticket NFL1 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470814_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 526,
+      "channel_name": "Le Canal Nouvelles TVA",
+      "programs": [
+        {
+          "program_id": "470815_tva_nouvelles_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 527,
+      "channel_name": "WFXT-DT",
+      "programs": [
+        {
+          "program_id": "470816_boston_25_news_at_10pm_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 528,
+      "channel_name": "Sportsnet (Pacific) HD",
+      "programs": [
+        {
+          "program_id": "470817_misplays_of_the_month_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 529,
+      "channel_name": "Turner Classic Movies Canada HD",
+      "programs": [
+        {
+          "program_id": "470818_something_of_value_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 530,
+      "channel_name": "Daystar Canada",
+      "programs": [
+        {
+          "program_id": "470819_joni_table_talk_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 531,
+      "channel_name": "FXX Canada",
+      "programs": [
+        {
+          "program_id": "470820_it_s_always_sunny_in_phi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 532,
+      "channel_name": "CJPM",
+      "programs": [
+        {
+          "program_id": "470821_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 533,
+      "channel_name": "Prise 2",
+      "programs": [
+        {
+          "program_id": "470822_rain_man_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 534,
+      "channel_name": "Zee TV Canada",
+      "programs": [
+        {
+          "program_id": "470823_vasudha_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 535,
+      "channel_name": "CKCW",
+      "programs": [
+        {
+          "program_id": "470824_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 536,
+      "channel_name": "DirecTV - NHL Center Ice - NHLCI8",
+      "programs": [
+        {
+          "program_id": "470825_nhl_center_ice_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 537,
+      "channel_name": "MLB Extra Innings HD 2",
+      "programs": [
+        {
+          "program_id": "470826_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 538,
+      "channel_name": "NBA LEAGUE PASS HD 0",
+      "programs": [
+        {
+          "program_id": "470827_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 539,
+      "channel_name": "OMNI Pacific HD",
+      "programs": [
+        {
+          "program_id": "470828_focus_cantonese_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 540,
+      "channel_name": "CTV COMEDY CHANNEL",
+      "programs": [
+        {
+          "program_id": "470829_the_big_bang_theory_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 541,
+      "channel_name": "DTOUR",
+      "programs": [
+        {
+          "program_id": "470830_chuck_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 542,
+      "channel_name": "CBC Calgary",
+      "programs": [
+        {
+          "program_id": "470831_the_national_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 543,
+      "channel_name": "SLICE",
+      "programs": [
+        {
+          "program_id": "470832_the_goldbergs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 544,
+      "channel_name": "CFYK",
+      "programs": [
+        {
+          "program_id": "470833_the_national_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 545,
+      "channel_name": "MLB Extra Innings HD 6",
+      "programs": [
+        {
+          "program_id": "470834_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 546,
+      "channel_name": "CBMT-DT",
+      "programs": [
+        {
+          "program_id": "470835_north_of_north_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 547,
+      "channel_name": "CTV COMEDY CHANNEL SD",
+      "programs": [
+        {
+          "program_id": "470836_the_big_bang_theory_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 548,
+      "channel_name": "Cable Public Affairs Channel HD",
+      "programs": [
+        {
+          "program_id": "470837_public_record_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 549,
+      "channel_name": "MLB Extra Innings HD 10",
+      "programs": [
+        {
+          "program_id": "470838_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 550,
+      "channel_name": "KCPQ-DT",
+      "programs": [
+        {
+          "program_id": "470839_doc_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 551,
+      "channel_name": "CFER",
+      "programs": [
+        {
+          "program_id": "470840_miss_balle_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 552,
+      "channel_name": "CTV Edmonton",
+      "programs": [
+        {
+          "program_id": "470841_high_potential_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 553,
+      "channel_name": "TSN HD",
+      "programs": [
+        {
+          "program_id": "470842_live_sc_with_jay_onrait_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 554,
+      "channel_name": "Le Canal Vie HD",
+      "programs": [
+        {
+          "program_id": "470843_chirurgie_de_l_extr_me_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 555,
+      "channel_name": "NFL3SC",
+      "programs": [
+        {
+          "program_id": "470844_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 556,
+      "channel_name": "Crave 1 West HD",
+      "programs": [
+        {
+          "program_id": "470845_i_am_chris_farley_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 557,
+      "channel_name": "Adult Only Video - Movies",
+      "programs": [
+        {
+          "program_id": "470846_canadian_quickies_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 558,
+      "channel_name": "CJEO",
+      "programs": [
+        {
+          "program_id": "470847_focus_cantonese_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 559,
+      "channel_name": "NFL2SC",
+      "programs": [
+        {
+          "program_id": "470848_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 560,
+      "channel_name": "Global Thunder Bay",
+      "programs": [
+        {
+          "program_id": "470849_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 561,
+      "channel_name": "CBF-FM",
+      "programs": [
+        {
+          "program_id": "470850_radio_ici_radio_canada_p_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 562,
+      "channel_name": "HBO Canada 1 HD",
+      "programs": [
+        {
+          "program_id": "470851_pelosi_in_the_house_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 563,
+      "channel_name": "RDS2",
+      "programs": [
+        {
+          "program_id": "470852_le_5_7_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 564,
+      "channel_name": "CBC Toronto HD",
+      "programs": [
+        {
+          "program_id": "470853_north_of_north_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 565,
+      "channel_name": "CBC Winnipeg",
+      "programs": [
+        {
+          "program_id": "470854_this_hour_has_22_minutes_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 566,
+      "channel_name": "Super Écran 2",
+      "programs": [
+        {
+          "program_id": "470855_un_diad_me_pour_caro_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 567,
+      "channel_name": "CIVM",
+      "programs": [
+        {
+          "program_id": "470856_kebec_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 568,
+      "channel_name": "Aboriginal Peoples Television Network HD",
+      "programs": [
+        {
+          "program_id": "470857_life_below_zero_canada_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 569,
+      "channel_name": "NFL9SC",
+      "programs": [
+        {
+          "program_id": "470858_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 570,
+      "channel_name": "CTV Toronto HD",
+      "programs": [
+        {
+          "program_id": "470859_late_night_with_seth_mey_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 571,
+      "channel_name": "Z HD",
+      "programs": [
+        {
+          "program_id": "470860_agence_roman_maisons_han_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 572,
+      "channel_name": "Weather Network (CWEA)",
+      "programs": [
+        {
+          "program_id": "470861_overnight_on_the_weather_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 41
+        }
+      ]
+    },
+    {
+      "channel_id": 573,
+      "channel_name": "Citytv Toronto HD",
+      "programs": [
+        {
+          "program_id": "470862_impractical_jokers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 574,
+      "channel_name": "Neepawa Access TV",
+      "programs": [
+        {
+          "program_id": "470863_neepawa_news_and_views_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 575,
+      "channel_name": "OMNI2 HD",
+      "programs": [
+        {
+          "program_id": "470864_omni_news_filipino_editi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 576,
+      "channel_name": "CJRT FM Radio",
+      "programs": [
+        {
+          "program_id": "470865_cjrt_fm_toronto_jazzfm_9_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 577,
+      "channel_name": "Jewelry Television",
+      "programs": [
+        {
+          "program_id": "470866_affordable_jewelry_luxur_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 578,
+      "channel_name": "Crime Plus Investigation SD",
+      "programs": [
+        {
+          "program_id": "470867_ncis_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 579,
+      "channel_name": "ASSEMBLÉE NATIONALE (CF Cable TV)",
+      "programs": [
+        {
+          "program_id": "470868_assembl_e_nationale_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 580,
+      "channel_name": "NBA League Pass HD 8",
+      "programs": [
+        {
+          "program_id": "470869_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 581,
+      "channel_name": "NFL7SC",
+      "programs": [
+        {
+          "program_id": "470871_nfl_sunday_ticket_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 582,
+      "channel_name": "CTV Yorkton",
+      "programs": [
+        {
+          "program_id": "470872_ctv_news_regina_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 583,
+      "channel_name": "Sportsnet One",
+      "programs": [
+        {
+          "program_id": "470873_tgl_golf_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 584,
+      "channel_name": "E! Entertainment Television Canada",
+      "programs": [
+        {
+          "program_id": "470874_tmz_live_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 97
+        }
+      ]
+    },
+    {
+      "channel_id": 585,
+      "channel_name": "OMNI Vancouver",
+      "programs": [
+        {
+          "program_id": "470875_focus_cantonese_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 586,
+      "channel_name": "CASA HD",
+      "programs": [
+        {
+          "program_id": "470876_masterchef_australie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 587,
+      "channel_name": "Super Channel Quest HD",
+      "programs": [
+        {
+          "program_id": "470877_my_misdiagnosis_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 588,
+      "channel_name": "Le Canal Nouvelles TVA HD",
+      "programs": [
+        {
+          "program_id": "470878_tva_nouvelles_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 589,
+      "channel_name": "Country Music Television (CMT)",
+      "programs": [
+        {
+          "program_id": "470879_wings_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 590,
+      "channel_name": "NWT and Nunavut Legislative Assembly",
+      "programs": [
+        {
+          "program_id": "470880_legislative_assemblies_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 591,
+      "channel_name": "CBLFT",
+      "programs": [
+        {
+          "program_id": "470881_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 592,
+      "channel_name": "Frissons TV",
+      "programs": [
+        {
+          "program_id": "470882_oiseaux_de_malheur_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 593,
+      "channel_name": "WCVB-DT",
+      "programs": [
+        {
+          "program_id": "470883_nightline_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 594,
+      "channel_name": "Savoir média",
+      "programs": [
+        {
+          "program_id": "470884_cr_ateurs_de_demain_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 595,
+      "channel_name": "Global Calgary HD",
+      "programs": [
+        {
+          "program_id": "470885_doc_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 596,
+      "channel_name": "Golf Channel HD",
+      "programs": [
+        {
+          "program_id": "470886_the_big_break_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 597,
+      "channel_name": "KING-DT",
+      "programs": [
+        {
+          "program_id": "470887_live_nba_basketball_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 598,
+      "channel_name": "TSN 3",
+      "programs": [
+        {
+          "program_id": "470888_live_sc_with_jay_onrait_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 599,
+      "channel_name": "Global Montreal",
+      "programs": [
+        {
+          "program_id": "470889_the_late_show_with_steph_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 600,
+      "channel_name": "MLB Extra Innings HD 12",
+      "programs": [
+        {
+          "program_id": "470890_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 601,
+      "channel_name": "LS Times TV",
+      "programs": [
+        {
+          "program_id": "470891_to_live_and_die_in_mongk_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 602,
+      "channel_name": "OUTtv",
+      "programs": [
+        {
+          "program_id": "470892_raw_and_real_the_truth_b_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 603,
+      "channel_name": "MLB Extra Innings HD 11",
+      "programs": [
+        {
+          "program_id": "470893_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 604,
+      "channel_name": "NFL Sunday Ticket NFL9 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470894_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 605,
+      "channel_name": "Citytv Calgary HD",
+      "programs": [
+        {
+          "program_id": "470895_family_feud_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 606,
+      "channel_name": "NBA League Pass HD 1",
+      "programs": [
+        {
+          "program_id": "470896_nba_league_pass_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 607,
+      "channel_name": "HBO Canada West",
+      "programs": [
+        {
+          "program_id": "470897_an_intimate_evening_with_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 608,
+      "channel_name": "YTV HD",
+      "programs": [
+        {
+          "program_id": "470898_be_cool_scooby_doo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 609,
+      "channel_name": "CBHA FM CBC Radio One",
+      "programs": [
+        {
+          "program_id": "470899_asian_view_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 610,
+      "channel_name": "APTN Languages",
+      "programs": [
+        {
+          "program_id": "470900_wolastoqey_petroglyphs_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 611,
+      "channel_name": "[CPAC] Cable Public Affairs Channel HD",
+      "programs": [
+        {
+          "program_id": "470901_public_record_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 612,
+      "channel_name": "Global BC",
+      "programs": [
+        {
+          "program_id": "470902_doc_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 613,
+      "channel_name": "W Network",
+      "programs": [
+        {
+          "program_id": "470903_lion_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 614,
+      "channel_name": "NFL Sunday Ticket NFL7 (HDTV)",
+      "programs": [
+        {
+          "program_id": "470904_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 615,
+      "channel_name": "CKSH-DT",
+      "programs": [
+        {
+          "program_id": "470905_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 616,
+      "channel_name": "Citytv Winnipeg",
+      "programs": [
+        {
+          "program_id": "470906_impractical_jokers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 617,
+      "channel_name": "CKTV",
+      "programs": [
+        {
+          "program_id": "470907_on_va_se_le_dire_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 618,
+      "channel_name": "MLB Extra Innings HD 13",
+      "programs": [
+        {
+          "program_id": "470908_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 619,
+      "channel_name": "Citytv Vancouver HD",
+      "programs": [
+        {
+          "program_id": "470909_hudson_and_rex_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 620,
+      "channel_name": "FX HD",
+      "programs": [
+        {
+          "program_id": "470910_shogun_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 621,
+      "channel_name": "Citytv Montreal",
+      "programs": [
+        {
+          "program_id": "470911_impractical_jokers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 622,
+      "channel_name": "Vision TV",
+      "programs": [
+        {
+          "program_id": "470912_the_english_patient_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 623,
+      "channel_name": "OMNI Calgary HD",
+      "programs": [
+        {
+          "program_id": "470913_focus_cantonese_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 624,
+      "channel_name": "The Learning Channel Canada",
+      "programs": [
+        {
+          "program_id": "470914_1000_lb_sisters_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 625,
+      "channel_name": "TSN 4 HD",
+      "programs": [
+        {
+          "program_id": "470915_live_sc_with_jay_onrait_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 626,
+      "channel_name": "MLB Extra Innings HD 1",
+      "programs": [
+        {
+          "program_id": "470916_mlb_extra_innings_info_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 627,
+      "channel_name": "Hollywood Suite 2010s+",
+      "programs": [
+        {
+          "program_id": "470917_warrior_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 628,
+      "channel_name": "OMNI1 HD",
+      "programs": [
+        {
+          "program_id": "470918_l_arte_di_cucinare_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 629,
+      "channel_name": "NHL Centre Ice 1 HD",
+      "programs": [
+        {
+          "program_id": "470919_ligue_nationale_de_hocke_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 630,
+      "channel_name": "Sportsnet World HD",
+      "programs": [
+        {
+          "program_id": "470920_premiership_rugby_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 631,
+      "channel_name": "DW HD",
+      "programs": [
+        {
+          "program_id": "472364_made_in_germany_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 632,
+      "channel_name": "[TFC] Filipino Channel Canada East HD",
+      "programs": [
+        {
+          "program_id": "474958_maalaala_mo_kaya_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    }
+  ]
+}

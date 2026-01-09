@@ -1,0 +1,1225 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 37,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 120,
+      "end": 150,
+      "allowed_channels": [
+        21,
+        28,
+        33,
+        23,
+        27,
+        1,
+        13,
+        20,
+        35,
+        4,
+        22,
+        25,
+        5,
+        31,
+        0,
+        15,
+        16,
+        17,
+        26,
+        34,
+        30
+      ]
+    },
+    {
+      "start": 180,
+      "end": 210,
+      "allowed_channels": [
+        27,
+        28,
+        23,
+        35,
+        22,
+        25,
+        3,
+        14,
+        16,
+        31,
+        0,
+        4,
+        10,
+        11,
+        12,
+        15,
+        9,
+        20,
+        21,
+        26,
+        30,
+        34
+      ]
+    },
+    {
+      "start": 240,
+      "end": 270,
+      "allowed_channels": [
+        28,
+        22,
+        23,
+        25,
+        35,
+        36,
+        3,
+        14,
+        16,
+        31,
+        4,
+        10,
+        11,
+        12,
+        15,
+        24,
+        9,
+        20,
+        21,
+        26,
+        30,
+        34
+      ]
+    },
+    {
+      "start": 300,
+      "end": 330,
+      "allowed_channels": [
+        34,
+        22,
+        25,
+        30,
+        24,
+        36,
+        23,
+        3,
+        14,
+        16,
+        21,
+        27,
+        28,
+        31,
+        4,
+        10,
+        11,
+        12,
+        15,
+        9,
+        20,
+        33
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 54
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 54
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 54
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "GE - GDS",
+      "programs": [
+        {
+          "program_id": "gds_ge_1_4_2026-01-07_0005",
+          "start": 5,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "gds_ge__2026-01-07_0060",
+          "start": 60,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "gds_ge__2026-01-07_0210",
+          "start": 210,
+          "end": 350,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "gds_ge__2026-01-07_0350",
+          "start": 350,
+          "end": 540,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "GE - Setanta 1",
+      "programs": [
+        {
+          "program_id": "setanta1_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "setanta1_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "GE - Setanta 10",
+      "programs": [
+        {
+          "program_id": "setanta10_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "setanta10_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "GE - Setanta 11",
+      "programs": [
+        {
+          "program_id": "setanta11_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "setanta11_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "GE - Setanta 12",
+      "programs": [
+        {
+          "program_id": "setanta12_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "setanta12_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "GE - Setanta 13",
+      "programs": [
+        {
+          "program_id": "setanta13_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "setanta13_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "GE - Setanta 14",
+      "programs": [
+        {
+          "program_id": "setanta14_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "setanta14_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "GE - Setanta 15",
+      "programs": [
+        {
+          "program_id": "setanta15_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "setanta15_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "GE - Setanta 16",
+      "programs": [
+        {
+          "program_id": "setanta16_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "setanta16_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "GE - Setanta 17",
+      "programs": [
+        {
+          "program_id": "setanta17_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "setanta17_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "GE - Setanta 18",
+      "programs": [
+        {
+          "program_id": "setanta18_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "setanta18_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "GE - Setanta 19",
+      "programs": [
+        {
+          "program_id": "setanta19_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "setanta19_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "GE - Setanta 2",
+      "programs": [
+        {
+          "program_id": "setanta2_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "setanta2_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "GE - Setanta 20",
+      "programs": [
+        {
+          "program_id": "setanta20_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "setanta20_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "GE - Setanta 3",
+      "programs": [
+        {
+          "program_id": "setanta3_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "setanta3_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "GE - Setanta 4",
+      "programs": [
+        {
+          "program_id": "setanta4_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "setanta4_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "GE - Setanta 5",
+      "programs": [
+        {
+          "program_id": "setanta5_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "setanta5_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "GE - Setanta 6",
+      "programs": [
+        {
+          "program_id": "setanta6_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "setanta6_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "GE - Setanta 7",
+      "programs": [
+        {
+          "program_id": "setanta7_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "setanta7_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "GE - Setanta 8",
+      "programs": [
+        {
+          "program_id": "setanta8_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "setanta8_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "GE - Setanta 9",
+      "programs": [
+        {
+          "program_id": "setanta9_ge_no_event_today_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "setanta9_ge_no_event_today_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "GE - Silk უნივერსალი",
+      "programs": [
+        {
+          "program_id": "silk_ge__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "silk_ge_live_2026-01-07_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "silk_ge__2026-01-07_0150",
+          "start": 150,
+          "end": 260,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "silk_ge__2026-01-07_0260",
+          "start": 260,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "silk_ge__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "GE - ერთსულოვნება",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ge__2026-01-07_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ge__2026-01-07_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "GE - იმედი",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ge__2026-01-07_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ge__2026-01-07_0210",
+          "start": 210,
+          "end": 320,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ge__2026-01-07_0320",
+          "start": 320,
+          "end": 430,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "GE - კომედი არხი",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ge__2026-01-07_0060",
+          "start": 60,
+          "end": 220,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ge__2026-01-07_0220",
+          "start": 220,
+          "end": 320,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "ge__2026-01-07_0320",
+          "start": 320,
+          "end": 405,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "GE - მაგთი კინო",
+      "programs": [
+        {
+          "program_id": "ge_12_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ge__2026-01-07_0030",
+          "start": 30,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ge_11_2026-01-07_0210",
+          "start": 210,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ge__2026-01-07_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "GE - მაგთი ჰიტი",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ge__2026-01-07_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ge__2026-01-07_0210",
+          "start": 210,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "GE - მაესტრო",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ge__2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ge__2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ge__2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ge__2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ge__2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "GE - მარაო",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ge__2026-01-07_0060",
+          "start": 60,
+          "end": 170,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ge__2026-01-07_0170",
+          "start": 170,
+          "end": 270,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ge__2026-01-07_0270",
+          "start": 270,
+          "end": 390,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "GE - პირველი არხი",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 365,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "GE - პოსTV",
+      "programs": [
+        {
+          "program_id": "tv_ge__2026-01-07_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv_ge__2026-01-07_0105",
+          "start": 105,
+          "end": 285,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tv_ge__2026-01-07_0285",
+          "start": 285,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "GE - რაგბი ტვ",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ge__2026-01-07_0055",
+          "start": 55,
+          "end": 660,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "GE - რიონი",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 600,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "GE - რუსთავი 2",
+      "programs": [
+        {
+          "program_id": "2_ge__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "2_ge__2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "2_ge__2026-01-07_0180",
+          "start": 180,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "2_ge__2026-01-07_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "GE - სამეფო არხი",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ge__2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "ge__2026-01-07_0120",
+          "start": 120,
+          "end": 175,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ge__2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ge__2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ge__2026-01-07_0240",
+          "start": 240,
+          "end": 275,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ge__2026-01-07_0285",
+          "start": 285,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "GE - ფორმულა",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ge__2026-01-07_0090",
+          "start": 90,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ge__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ge_3000_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "GE - ჩვენი მაგთი",
+      "programs": [
+        {
+          "program_id": "ge__2026-01-07_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ge__2026-01-07_0075",
+          "start": 75,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ge__2026-01-07_0240",
+          "start": 240,
+          "end": 315,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ge__2026-01-07_0315",
+          "start": 315,
+          "end": 450,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    }
+  ]
+}

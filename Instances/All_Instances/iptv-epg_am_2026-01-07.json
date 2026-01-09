@@ -1,0 +1,1143 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 18,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 195,
+      "end": 255,
+      "allowed_channels": [
+        5,
+        12,
+        2,
+        10,
+        0,
+        4,
+        7,
+        1,
+        3
+      ]
+    },
+    {
+      "start": 270,
+      "end": 300,
+      "allowed_channels": [
+        5,
+        4,
+        8,
+        11,
+        2,
+        12,
+        0,
+        13,
+        7
+      ]
+    },
+    {
+      "start": 315,
+      "end": 360,
+      "allowed_channels": [
+        2,
+        5,
+        15,
+        0,
+        4,
+        10,
+        9,
+        6,
+        12
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "series",
+      "bonus": 33
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "movie",
+      "bonus": 45
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "series",
+      "bonus": 32
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "documentary",
+      "bonus": 33
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "series",
+      "bonus": 37
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "series",
+      "bonus": 34
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "movie",
+      "bonus": 39
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "movie",
+      "bonus": 65
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "AM - Animal Planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_am__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0075",
+          "start": 75,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0350",
+          "start": 350,
+          "end": 400,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "AM - Animal planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_am__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0075",
+          "start": 75,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_am__2026-01-07_0350",
+          "start": 350,
+          "end": 400,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "AM - Armenian Public TV",
+      "programs": [
+        {
+          "program_id": "armenianpublictv_a_teletheater_2026-01-07_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "armenianpublictv_a_classical_concert_2026-01-07_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "armenianpublictv_a_documentary_film_2026-01-07_0150",
+          "start": 150,
+          "end": 290,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "armenianpublictv_a_classical_concert_2026-01-07_0290",
+          "start": 290,
+          "end": 330,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "armenianpublictv_a_feature_film_2026-01-07_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "movie",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "AM - Curiosity Stream",
+      "programs": [
+        {
+          "program_id": "curiositystream_am__2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "curiositystream_am__2026-01-07_0065",
+          "start": 65,
+          "end": 95,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "curiositystream_am__2026-01-07_0095",
+          "start": 95,
+          "end": 115,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "curiositystream_am__2026-01-07_0115",
+          "start": 115,
+          "end": 140,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "curiositystream_am__2026-01-07_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "curiositystream_am__2026-01-07_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "curiositystream_am__2026-01-07_0260",
+          "start": 260,
+          "end": 290,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "AM - Discovery Channel",
+      "programs": [
+        {
+          "program_id": "discoverychannel_a__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "discoverychannel_a__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "discoverychannel_a__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "discoverychannel_a__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "discoverychannel_a__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "discoverychannel_a__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "AM - Food Network",
+      "programs": [
+        {
+          "program_id": "foodnetwork_am_bizarre_foods_delicious__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "foodnetwork_am_bizarre_foods_delicious__2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "foodnetwork_am_holiday_baking_champions_2026-01-07_0195",
+          "start": 195,
+          "end": 300,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "foodnetwork_am_girl_meets_farm_series_6_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "foodnetwork_am_girl_meets_farm_series_6_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "AM - History",
+      "programs": [
+        {
+          "program_id": "history_am__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "history_am__2026-01-07_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "history_am__2026-01-07_0075",
+          "start": 75,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "history_am__2026-01-07_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "history_am__2026-01-07_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "history_am__2026-01-07_0210",
+          "start": 210,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "history_am__2026-01-07_0300",
+          "start": 300,
+          "end": 340,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "history_am__2026-01-07_0340",
+          "start": 340,
+          "end": 385,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "AM - Investigation Discovery",
+      "programs": [
+        {
+          "program_id": "investigationdisco__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "investigationdisco__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "investigationdisco__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "investigationdisco__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "investigationdisco__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "investigationdisco__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "AM - Love Nature",
+      "programs": [
+        {
+          "program_id": "lovenature_am_gladiators_2026-01-07_0025",
+          "start": 25,
+          "end": 80,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "lovenature_am_gladiators_2026-01-07_0080",
+          "start": 80,
+          "end": 135,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "lovenature_am_secrets_of_the_enchanted_2026-01-07_0135",
+          "start": 135,
+          "end": 190,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "lovenature_am_surviving_the_amazon_2026-01-07_0190",
+          "start": 190,
+          "end": 245,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "lovenature_am_surviving_the_amazon_2026-01-07_0245",
+          "start": 245,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "lovenature_am_surviving_the_amazon_2026-01-07_0325",
+          "start": 325,
+          "end": 380,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "AM - National Geographic",
+      "programs": [
+        {
+          "program_id": "nationalgeographic__2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0050",
+          "start": 50,
+          "end": 95,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0095",
+          "start": 95,
+          "end": 135,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0180",
+          "start": 180,
+          "end": 205,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0275",
+          "start": 275,
+          "end": 320,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0320",
+          "start": 320,
+          "end": 365,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "AM - Ocean-TV",
+      "programs": [
+        {
+          "program_id": "ocean_tv_am__2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ocean_tv_am__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "ocean_tv_am__2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ocean_tv_am__2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ocean_tv_am__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "documentary",
+          "score": 73
+        },
+        {
+          "program_id": "ocean_tv_am__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ocean_tv_am__2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ocean_tv_am__2026-01-07_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "AM - Terra",
+      "programs": [
+        {
+          "program_id": "terra_am__2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "terra_am__2026-01-07_0050",
+          "start": 50,
+          "end": 105,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "terra_am__2026-01-07_0105",
+          "start": 105,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "terra_am__2026-01-07_0245",
+          "start": 245,
+          "end": 275,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "terra_am__2026-01-07_0275",
+          "start": 275,
+          "end": 305,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "terra_am__2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "AM - Viju history",
+      "programs": [
+        {
+          "program_id": "vijuhistory_am__2026-01-07_0010",
+          "start": 10,
+          "end": 70,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "vijuhistory_am__2026-01-07_0070",
+          "start": 70,
+          "end": 125,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "vijuhistory_am__2026-01-07_0125",
+          "start": 125,
+          "end": 180,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "vijuhistory_am__2026-01-07_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "vijuhistory_am__2026-01-07_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "vijuhistory_am__2026-01-07_0260",
+          "start": 260,
+          "end": 310,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "vijuhistory_am__2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "AM - Арсенал",
+      "programs": [
+        {
+          "program_id": "am__2026-01-07_0000",
+          "start": 0,
+          "end": 8,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "am__2026-01-07_0036",
+          "start": 36,
+          "end": 66,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "am__2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "am__2026-01-07_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "am__2026-01-07_0255",
+          "start": 255,
+          "end": 303,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "am__2026-01-07_0303",
+          "start": 303,
+          "end": 350,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "am__2026-01-07_0350",
+          "start": 350,
+          "end": 399,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "AM - Глазами Туриста",
+      "programs": [
+        {
+          "program_id": "am__2026-01-07_0127",
+          "start": 127,
+          "end": 159,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "am_stas_railcars_2026-01-07_0303",
+          "start": 303,
+          "end": 351,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "am_dika_2026-01-07_0351",
+          "start": 351,
+          "end": 398,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "AM - Живая Планета",
+      "programs": [
+        {
+          "program_id": "am__2026-01-07_0050",
+          "start": 50,
+          "end": 80,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "am__2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "am__2026-01-07_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "am__2026-01-07_0280",
+          "start": 280,
+          "end": 310,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "am__2026-01-07_0310",
+          "start": 310,
+          "end": 340,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "am__2026-01-07_0340",
+          "start": 340,
+          "end": 370,
+          "genre": "series",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "AM - Загородный int",
+      "programs": [
+        {
+          "program_id": "int_am__2026-01-07_0326",
+          "start": 326,
+          "end": 362,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "AM - Наша Тема",
+      "programs": [
+        {
+          "program_id": "am__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "am__2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "am__2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "am__2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "am__2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "am__2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "am__2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "am__2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "am__2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "am__2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "am__2026-01-07_0300",
+          "start": 300,
+          "end": 335,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    }
+  ]
+}

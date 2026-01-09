@@ -1,0 +1,1987 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 132,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 0,
+      "end": 60,
+      "allowed_channels": [
+        34,
+        106,
+        49,
+        122,
+        96,
+        110,
+        57,
+        114,
+        128,
+        58,
+        0,
+        7,
+        9,
+        11,
+        20,
+        45,
+        76,
+        78,
+        95,
+        101,
+        119,
+        15,
+        30,
+        41,
+        60,
+        62,
+        88,
+        98,
+        99,
+        107,
+        3,
+        22,
+        47,
+        48,
+        89,
+        97,
+        115,
+        123,
+        26,
+        28,
+        42,
+        43,
+        56,
+        72,
+        73,
+        74,
+        81,
+        92,
+        6,
+        16,
+        31,
+        33,
+        38,
+        51,
+        70,
+        79,
+        90,
+        102,
+        116,
+        4,
+        17,
+        24,
+        37,
+        40,
+        44,
+        46,
+        71,
+        105,
+        112,
+        120,
+        130,
+        1,
+        8,
+        12,
+        50,
+        55
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "music",
+      "bonus": 28
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "music",
+      "bonus": 28
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "tvOne",
+      "programs": [
+        {
+          "program_id": "11691_apa_kabar_indonesia_mala_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "TRANS TV",
+      "programs": [
+        {
+          "program_id": "11695_bioskop_trans_tv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "Zee Bioskop",
+      "programs": [
+        {
+          "program_id": "171851_14_phere_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "SCTV",
+      "programs": [
+        {
+          "program_id": "171854_sctv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "Al Jazeera English",
+      "programs": [
+        {
+          "program_id": "171855_counting_the_cost_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "CCM",
+      "programs": [
+        {
+          "program_id": "171856_swift_sword_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "Thrill",
+      "programs": [
+        {
+          "program_id": "171864_wifi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "Animax",
+      "programs": [
+        {
+          "program_id": "171865_the_red_ranger_becomes_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "CNBC",
+      "programs": [
+        {
+          "program_id": "171867_money_movers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "Music TV",
+      "programs": [
+        {
+          "program_id": "171876_indonesian_idol_x_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "KIX",
+      "programs": [
+        {
+          "program_id": "171877_love_punch_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "Sindo News TV HD",
+      "programs": [
+        {
+          "program_id": "171880_omg_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "Love Nature",
+      "programs": [
+        {
+          "program_id": "171884_land_of_primates_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "AXN HD",
+      "programs": [
+        {
+          "program_id": "171887_the_rookie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "EURONEWS",
+      "programs": [
+        {
+          "program_id": "171893_the_european_debrief_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "Fight Sports",
+      "programs": [
+        {
+          "program_id": "171902_fs_mma_figueroa_vs_sabal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "JakTV",
+      "programs": [
+        {
+          "program_id": "171905_kabar_misteri_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "IDX HD",
+      "programs": [
+        {
+          "program_id": "171906_new_top_files_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "BBC Earth HD",
+      "programs": [
+        {
+          "program_id": "171907_armstrong_in_sri_lanka_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "SPOTV",
+      "programs": [
+        {
+          "program_id": "171915_2025_ausx_supercross_c_s_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "Celebrities TV",
+      "programs": [
+        {
+          "program_id": "171916_seleb_on_news_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "Rock Entertainment",
+      "programs": [
+        {
+          "program_id": "171917_below_deck_mediterranean_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "Crime Investigation",
+      "programs": [
+        {
+          "program_id": "171922_city_confidential_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "GTV",
+      "programs": [
+        {
+          "program_id": "171924_gtv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "Tawaf TV",
+      "programs": [
+        {
+          "program_id": "171927_dmi_tv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "FOX News",
+      "programs": [
+        {
+          "program_id": "171929_the_faulkner_focus_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "IDX",
+      "programs": [
+        {
+          "program_id": "171932_new_top_files_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "iNews HD",
+      "programs": [
+        {
+          "program_id": "171936_new_top_files_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "Outdoor Channel",
+      "programs": [
+        {
+          "program_id": "171940_gold_fever_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "GTV HD",
+      "programs": [
+        {
+          "program_id": "171947_gtv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "Bloomberg",
+      "programs": [
+        {
+          "program_id": "171949_bloomberg_tech_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "NET TV",
+      "programs": [
+        {
+          "program_id": "171951_eve_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "BBC Earth",
+      "programs": [
+        {
+          "program_id": "171960_armstrong_in_sri_lanka_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "tvN HD",
+      "programs": [
+        {
+          "program_id": "171966_my_dearest_nemesis_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "HITS MOVIES",
+      "programs": [
+        {
+          "program_id": "171967_the_good_the_bad_and_the_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "ABC Australia",
+      "programs": [
+        {
+          "program_id": "171970_built_to_survive_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "tvN",
+      "programs": [
+        {
+          "program_id": "171973_my_dearest_nemesis_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "AXN",
+      "programs": [
+        {
+          "program_id": "171974_the_rookie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "Rock Action",
+      "programs": [
+        {
+          "program_id": "171977_the_whole_nine_yards_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "IMC",
+      "programs": [
+        {
+          "program_id": "171980_hantu_budeg_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "Global Trekker",
+      "programs": [
+        {
+          "program_id": "171981_building_the_impossible_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "Sindo News TV",
+      "programs": [
+        {
+          "program_id": "171987_omg_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "MNCTV HD",
+      "programs": [
+        {
+          "program_id": "171989_skripsick_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "HITS",
+      "programs": [
+        {
+          "program_id": "171990_bewitched_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "BTV",
+      "programs": [
+        {
+          "program_id": "171991_one_vault_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "Outdoor channel HD",
+      "programs": [
+        {
+          "program_id": "171994_gold_fever_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "SPOTV HD",
+      "programs": [
+        {
+          "program_id": "171998_2025_ausx_supercross_c_s_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "Celestial Movies",
+      "programs": [
+        {
+          "program_id": "171999_treasure_hunt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "ANTV",
+      "programs": [
+        {
+          "program_id": "172012_antv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "HITS MOVIES HD",
+      "programs": [
+        {
+          "program_id": "172015_the_good_the_bad_and_the_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "DAAI TV",
+      "programs": [
+        {
+          "program_id": "188223_halo_indonesia_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "Aljazeera",
+      "programs": [
+        {
+          "program_id": "190468_counting_the_cost_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "NHK World Japan",
+      "programs": [
+        {
+          "program_id": "190511_outside_in_lost_in_acade_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "beIN Sports 3 HD",
+      "programs": [
+        {
+          "program_id": "411914_uecl_2025_26_ray_vs_dri_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "Net.",
+      "programs": [
+        {
+          "program_id": "411915_md_drakor_eve_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "Dunia Lain",
+      "programs": [
+        {
+          "program_id": "411916_kumis_eps_198_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "SCTV HD",
+      "programs": [
+        {
+          "program_id": "411917_sctv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "beIN Sports 2 HD",
+      "programs": [
+        {
+          "program_id": "411918_mini_match_australian_op_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "Da Vinci Learning",
+      "programs": [
+        {
+          "program_id": "411919_sciencexplosion_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "TV5Monde",
+      "programs": [
+        {
+          "program_id": "411920_les_petits_meurtres_d_ag_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "New Tv Variety",
+      "programs": [
+        {
+          "program_id": "411924_loud_echo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "Warner",
+      "programs": [
+        {
+          "program_id": "411925_georgie_and_mandy_s_firs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "Animal Planet",
+      "programs": [
+        {
+          "program_id": "411926_parenthood_s1_eps_2_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "New Tv Finance",
+      "programs": [
+        {
+          "program_id": "411928_china_economic_lecture_h_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "HGTV",
+      "programs": [
+        {
+          "program_id": "411929_my_lottery_dream_home_cl_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "FashionTV",
+      "programs": [
+        {
+          "program_id": "411931_lingerie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "Antara",
+      "programs": [
+        {
+          "program_id": "411932_hoaks_atau_benar_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "AllPlay Ent",
+      "programs": [
+        {
+          "program_id": "411933_cod_celeb_on_date_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "ORIGINALS HD",
+      "programs": [
+        {
+          "program_id": "411934_gold_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "Cartoon Network",
+      "programs": [
+        {
+          "program_id": "411935_regular_show_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "Maxstream",
+      "programs": [
+        {
+          "program_id": "411936_madam_rose_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "BeritaSatu",
+      "programs": [
+        {
+          "program_id": "411938_berita_satu_sore_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "Fight Sport",
+      "programs": [
+        {
+          "program_id": "411941_fs_mma_jorge_santiago_vs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "TLC",
+      "programs": [
+        {
+          "program_id": "411942_barbie_dreamhouse_challe_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "Discovery Asia",
+      "programs": [
+        {
+          "program_id": "411943_the_asian_pitch_s1_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "TransTV",
+      "programs": [
+        {
+          "program_id": "411944_bioskop_transtv_1911_rev_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "TV9 NU",
+      "programs": [
+        {
+          "program_id": "411945_uswah_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "Moonbug",
+      "programs": [
+        {
+          "program_id": "411946_little_baby_bum_lullabie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "TV One",
+      "programs": [
+        {
+          "program_id": "411948_apa_kabar_indonesia_mala_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "Horizon Sports",
+      "programs": [
+        {
+          "program_id": "411949_wizz_air_cardiff_half_ma_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "CNN Indonesia",
+      "programs": [
+        {
+          "program_id": "411950_redaksi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "Zhejiang",
+      "programs": [
+        {
+          "program_id": "411951_amazing_zhejiang_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "Jawa Pos TV",
+      "programs": [
+        {
+          "program_id": "411952_dragon_man_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "CCTV4",
+      "programs": [
+        {
+          "program_id": "411953_tv_drama_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "Phoenix Chinese",
+      "programs": [
+        {
+          "program_id": "411955_phoenix_weather_forecast_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 38
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "TVBS News",
+      "programs": [
+        {
+          "program_id": "411957_late_night_vision_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "Phoenix InfoNews",
+      "programs": [
+        {
+          "program_id": "411958_phoenix_weather_forecast_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 47
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "MQTV",
+      "programs": [
+        {
+          "program_id": "411959_murottal_al_quran_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "Global Trekker HD",
+      "programs": [
+        {
+          "program_id": "411960_building_the_impossible_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "Hanacaraka TV",
+      "programs": [
+        {
+          "program_id": "411961_ketoprak_humor_s7_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "DW (English)",
+      "programs": [
+        {
+          "program_id": "411962_to_the_point_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "Food Travel HD",
+      "programs": [
+        {
+          "program_id": "411963_makan_bareng_luna_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "KBS World",
+      "programs": [
+        {
+          "program_id": "411968_immortal_songs_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "Citra Dangdut",
+      "programs": [
+        {
+          "program_id": "411969_ungkap_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "Rodja TV",
+      "programs": [
+        {
+          "program_id": "411970_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "HIts Movie",
+      "programs": [
+        {
+          "program_id": "411971_inside_man_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "beIN Sports 2",
+      "programs": [
+        {
+          "program_id": "411972_mini_match_australian_op_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "BUDDY STARS HD",
+      "programs": [
+        {
+          "program_id": "411973_silver_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "Bali TV",
+      "programs": [
+        {
+          "program_id": "411974_penutup_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "FunPlanet",
+      "programs": [
+        {
+          "program_id": "411976_little_charmers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "CNN International",
+      "programs": [
+        {
+          "program_id": "411978_one_world_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "Curiosity",
+      "programs": [
+        {
+          "program_id": "411981_tycoons_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "France 24",
+      "programs": [
+        {
+          "program_id": "411984_entr_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "Prambors",
+      "programs": [
+        {
+          "program_id": "411985_prambors_indonesia_hitli_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "Muhammadiyah TV",
+      "programs": [
+        {
+          "program_id": "411986_sign_off_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "Chinese Drama",
+      "programs": [
+        {
+          "program_id": "411988_dokter_laki_laki_di_bida_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "Asian Food Network",
+      "programs": [
+        {
+          "program_id": "411989_sour_salty_and_alive_s1__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "Celestial Movie",
+      "programs": [
+        {
+          "program_id": "411995_septet_the_story_of_hong_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "CNBC Asia",
+      "programs": [
+        {
+          "program_id": "411996_unlocked_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "ATV",
+      "programs": [
+        {
+          "program_id": "411997_homeshopping_benvit_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "New Tv Comprehensive",
+      "programs": [
+        {
+          "program_id": "411998_evening_news_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "HITS Now",
+      "programs": [
+        {
+          "program_id": "412000_sheriff_country_s1_eps_1_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "BUDDY STARS",
+      "programs": [
+        {
+          "program_id": "412004_silver_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "UChannel",
+      "programs": [
+        {
+          "program_id": "412005_hope_city_tv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "NBA",
+      "programs": [
+        {
+          "program_id": "412007_nba_preseason_on_nba_tv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "FOOD TRAVEL",
+      "programs": [
+        {
+          "program_id": "412008_makan_bareng_luna_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "Nick Junior",
+      "programs": [
+        {
+          "program_id": "412009_rubble_and_crew_eps_313_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "Cartoonito",
+      "programs": [
+        {
+          "program_id": "412010_interstellar_ella_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "Rajawali TV",
+      "programs": [
+        {
+          "program_id": "412011_stb_sangat_tidak_biasa_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "ORIGINALS",
+      "programs": [
+        {
+          "program_id": "412012_gold_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "Discovery Channel",
+      "programs": [
+        {
+          "program_id": "412013_mud_madness_eps_1_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "beIN Sports 3",
+      "programs": [
+        {
+          "program_id": "412014_uecl_2025_26_ray_vs_dri_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "AlQuran Kareem",
+      "programs": [
+        {
+          "program_id": "412016_live_from_mecca_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "Shenzen",
+      "programs": [
+        {
+          "program_id": "414714_reveal_time_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "Horee",
+      "programs": [
+        {
+          "program_id": "417394_masha_and_the_bear_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "Mentari TV",
+      "programs": [
+        {
+          "program_id": "417395_madun_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "JTV",
+      "programs": [
+        {
+          "program_id": "417396_muter_lagu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "Jak tv\",",
+      "programs": [
+        {
+          "program_id": "417397_douluo_continent_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "Trans7",
+      "programs": [
+        {
+          "program_id": "417399_newstainment_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "Cinema World",
+      "programs": [
+        {
+          "program_id": "443272_the_grump_in_search_of_a_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 130,
+      "channel_name": "ZBioskop",
+      "programs": [
+        {
+          "program_id": "443470_dabangg_3_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 131,
+      "channel_name": "MTATV",
+      "programs": [
+        {
+          "program_id": "443471_tabligh_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    }
+  ]
+}

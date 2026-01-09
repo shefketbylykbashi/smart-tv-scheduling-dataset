@@ -1,0 +1,691 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 18,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 0,
+      "end": 60,
+      "allowed_channels": [
+        1,
+        8,
+        2,
+        3,
+        7,
+        5,
+        9,
+        10,
+        16,
+        4,
+        15
+      ]
+    },
+    {
+      "start": 360,
+      "end": 540,
+      "allowed_channels": [
+        12,
+        5,
+        10,
+        1,
+        9,
+        16,
+        7,
+        14,
+        0,
+        8,
+        4
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "SA - Al Ahli",
+      "programs": [
+        {
+          "program_id": "alahli_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "alahli_sa_no_game_today_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "alahli_sa_no_game_today_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "SA - Al Akhdoud",
+      "programs": [
+        {
+          "program_id": "alakhdoud_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "alakhdoud_sa_no_game_today_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "alakhdoud_sa_no_game_today_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "SA - Al Fateh",
+      "programs": [
+        {
+          "program_id": "alfateh_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "alfateh_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "alfateh_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "SA - Al Feiha",
+      "programs": [
+        {
+          "program_id": "alfeiha_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "alfeiha_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "alfeiha_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "SA - Al Hilal",
+      "programs": [
+        {
+          "program_id": "alhilal_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "alhilal_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "alhilal_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "SA - Al Ittifaq",
+      "programs": [
+        {
+          "program_id": "alittifaq_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "alittifaq_sa_no_game_today_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "alittifaq_sa_no_game_today_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "SA - Al Ittihad",
+      "programs": [
+        {
+          "program_id": "alittihad_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "alittihad_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "alittihad_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "SA - Al Khaleej",
+      "programs": [
+        {
+          "program_id": "alkhaleej_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "alkhaleej_sa_no_game_today_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "alkhaleej_sa_no_game_today_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "SA - Al Kholood",
+      "programs": [
+        {
+          "program_id": "alkholood_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "alkholood_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "alkholood_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "SA - Al Nassr",
+      "programs": [
+        {
+          "program_id": "alnassr_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "alnassr_sa_no_game_today_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "alnassr_sa_no_game_today_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "SA - Al Orubah",
+      "programs": [
+        {
+          "program_id": "alorubah_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "alorubah_sa_no_game_today_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "alorubah_sa_no_game_today_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "SA - Al Quadisiya",
+      "programs": [
+        {
+          "program_id": "alquadisiya_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "alquadisiya_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "alquadisiya_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "SA - Al Raed",
+      "programs": [
+        {
+          "program_id": "alraed_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "alraed_sa_no_game_today_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "alraed_sa_no_game_today_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "sports",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "SA - Al Riyadh",
+      "programs": [
+        {
+          "program_id": "alriyadh_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "alriyadh_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "alriyadh_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "SA - Al Shabab",
+      "programs": [
+        {
+          "program_id": "alshabab_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "alshabab_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "alshabab_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "SA - Al Taawon",
+      "programs": [
+        {
+          "program_id": "altaawon_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "altaawon_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "altaawon_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "SA - Al Wahda",
+      "programs": [
+        {
+          "program_id": "alwahda_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "alwahda_sa_no_game_today_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "alwahda_sa_no_game_today_2026-01-06_0360",
+          "start": 360,
+          "end": 600,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "SA - Dhamk",
+      "programs": [
+        {
+          "program_id": "dhamk_sa_no_game_today_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "dhamk_sa_no_game_today_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "dhamk_sa_no_game_today_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    }
+  ]
+}

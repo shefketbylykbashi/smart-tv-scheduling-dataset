@@ -1,0 +1,6045 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 152,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 30,
+      "end": 75,
+      "allowed_channels": [
+        39,
+        34,
+        103,
+        29,
+        36,
+        50,
+        117,
+        33,
+        111,
+        119,
+        134,
+        38,
+        37,
+        123,
+        125,
+        115,
+        122,
+        35,
+        106,
+        108,
+        120,
+        124,
+        105,
+        121,
+        107,
+        113,
+        114,
+        49,
+        109,
+        100,
+        101,
+        102,
+        25,
+        85,
+        110,
+        78,
+        30,
+        47,
+        112,
+        118,
+        126,
+        104,
+        65,
+        20,
+        69,
+        116,
+        82,
+        3,
+        6,
+        43,
+        62,
+        66,
+        93,
+        94,
+        89,
+        147,
+        9,
+        133,
+        61,
+        19,
+        130,
+        79,
+        16,
+        54,
+        55,
+        135,
+        97,
+        128,
+        141,
+        11,
+        18,
+        90,
+        127,
+        138,
+        140,
+        146,
+        1,
+        13,
+        59,
+        88,
+        86,
+        84,
+        144
+      ]
+    },
+    {
+      "start": 120,
+      "end": 165,
+      "allowed_channels": [
+        115,
+        39,
+        33,
+        36,
+        50,
+        103,
+        85,
+        111,
+        116,
+        119,
+        38,
+        34,
+        37,
+        123,
+        125,
+        117,
+        118,
+        122,
+        31,
+        106,
+        108,
+        120,
+        124,
+        99,
+        105,
+        134,
+        35,
+        49,
+        121,
+        47,
+        107,
+        113,
+        109,
+        25,
+        104,
+        110,
+        114,
+        100,
+        102,
+        112,
+        126,
+        65,
+        78,
+        79,
+        30,
+        131,
+        72,
+        19,
+        75,
+        97,
+        144,
+        140,
+        43,
+        66,
+        129,
+        86,
+        63,
+        93,
+        101,
+        0,
+        16,
+        20,
+        54,
+        55,
+        62,
+        69,
+        80,
+        83,
+        92,
+        135,
+        148,
+        13,
+        74,
+        18,
+        133,
+        94,
+        6,
+        61,
+        137,
+        127,
+        1,
+        45
+      ]
+    },
+    {
+      "start": 255,
+      "end": 300,
+      "allowed_channels": [
+        115,
+        34,
+        33,
+        50,
+        103,
+        111,
+        36,
+        116,
+        119,
+        38,
+        35,
+        39,
+        49,
+        123,
+        125,
+        117,
+        118,
+        122,
+        100,
+        106,
+        108,
+        120,
+        124,
+        89,
+        99,
+        105,
+        121,
+        37,
+        107,
+        113,
+        133,
+        109,
+        28,
+        25,
+        27,
+        104,
+        19,
+        110,
+        114,
+        90,
+        102,
+        112,
+        126,
+        65,
+        11,
+        68,
+        69,
+        127,
+        20,
+        80,
+        87,
+        88,
+        92,
+        141,
+        22,
+        1,
+        42,
+        75,
+        134,
+        142,
+        66,
+        146,
+        147,
+        72,
+        54,
+        55,
+        56,
+        60,
+        83,
+        3,
+        74,
+        150,
+        6,
+        15,
+        16,
+        30,
+        71,
+        98,
+        97,
+        0,
+        26,
+        46
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 47
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 48
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 46
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 45
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "sports",
+      "bonus": 45
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "sports",
+      "bonus": 44
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "sports",
+      "bonus": 49
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "sports",
+      "bonus": 50
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "sports",
+      "bonus": 52
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "sports",
+      "bonus": 54
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "sports",
+      "bonus": 64
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "sports",
+      "bonus": 46
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "news",
+      "bonus": 54
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "news",
+      "bonus": 54
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "GR - 4Ε",
+      "programs": [
+        {
+          "program_id": "4_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "4_gr__2026-01-07_0105",
+          "start": 105,
+          "end": 135,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "4_gr__2026-01-07_0135",
+          "start": 135,
+          "end": 195,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "4_gr__2026-01-07_0220",
+          "start": 220,
+          "end": 260,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "4_gr__2026-01-07_0260",
+          "start": 260,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "4_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 340,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "4_gr__2026-01-07_0340",
+          "start": 340,
+          "end": 385,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "GR - ALPHA",
+      "programs": [
+        {
+          "program_id": "alpha_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "alpha_gr__2026-01-07_0040",
+          "start": 40,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "alpha_gr__2026-01-07_0090",
+          "start": 90,
+          "end": 165,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "alpha_gr_10_2026-01-07_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "alpha_gr__2026-01-07_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "alpha_gr_9_2026-01-07_0255",
+          "start": 255,
+          "end": 310,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "alpha_gr_no_information_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "CY - ALPHA CYPRUS",
+      "programs": [
+        {
+          "program_id": "alphacyprus_cy_e_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "alphacyprus_cy_singles_2_e_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "alphacyprus_cy_e_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "alphacyprus_cy_e_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "alphacyprus_cy_alpha_e_2026-01-07_0225",
+          "start": 225,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "alphacyprus_cy_deal_e_2026-01-07_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "alphacyprus_cy_alpha_2026-01-07_0345",
+          "start": 345,
+          "end": 500,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "CY - ANT1 CYPRUS",
+      "programs": [
+        {
+          "program_id": "ant1_cy__2026-01-07_0015",
+          "start": 15,
+          "end": 105,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ant1_cy_e_2026-01-07_0105",
+          "start": 105,
+          "end": 190,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ant1_cy_e_2026-01-07_0190",
+          "start": 190,
+          "end": 220,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ant1_cy_e_2026-01-07_0220",
+          "start": 220,
+          "end": 270,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ant1_cy_e_2026-01-07_0270",
+          "start": 270,
+          "end": 320,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ant1_cy_ii_e_2026-01-07_0320",
+          "start": 320,
+          "end": 370,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "GR - ANT 1",
+      "programs": [
+        {
+          "program_id": "ant1_gr_viny_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ant1_gr__2026-01-07_0045",
+          "start": 45,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ant1_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ant1_gr__2026-01-07_0165",
+          "start": 165,
+          "end": 300,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "ant1_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "GR - ATTICA TV",
+      "programs": [
+        {
+          "program_id": "atticatv_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "atticatv_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atticatv_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "GR - Action 24",
+      "programs": [
+        {
+          "program_id": "action24_gr_back_2_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "action24_gr_pure_action_show_2026-01-07_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "action24_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 530,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "GR - Al Jazeera",
+      "programs": [
+        {
+          "program_id": "aljazeera_gr_al_jazeera_arab_version_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "aljazeera_gr_al_jazeera_arab_version_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "GR - Al Jazeera English",
+      "programs": [
+        {
+          "program_id": "aljazeeraenglish_g_al_jazeera_english_hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "aljazeeraenglish_g_al_jazeera_english_hd_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "GR - Animal Planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_gr_2_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_gr__2026-01-07_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_gr_3_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "animalplanet_gr_4_2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_gr_4_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_gr__2026-01-07_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "animalplanet_gr__2026-01-07_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "animalplanet_gr_dogs_101_3_2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "GR - Arirang World",
+      "programs": [
+        {
+          "program_id": "arirangworld_gr_arirang_world_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "arirangworld_gr_arirang_world_tv_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "GR - BBC Earth",
+      "programs": [
+        {
+          "program_id": "bbcearth_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "bbcearth_gr__2026-01-07_0040",
+          "start": 40,
+          "end": 110,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbcearth_gr__2026-01-07_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bbcearth_gr__2026-01-07_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbcearth_gr__2026-01-07_0200",
+          "start": 200,
+          "end": 255,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "bbcearth_gr__2026-01-07_0255",
+          "start": 255,
+          "end": 305,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "bbcearth_gr__2026-01-07_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "GR - BOYΛΗ",
+      "programs": [
+        {
+          "program_id": "boy_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "promo",
+          "score": 22
+        },
+        {
+          "program_id": "boy_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 450,
+          "genre": "promo",
+          "score": 24
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "GR - Baby TV",
+      "programs": [
+        {
+          "program_id": "babytv_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "babytv_gr_baby_tv_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "babytv_gr__2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "GR - Bloomberg",
+      "programs": [
+        {
+          "program_id": "bloomberg_gr_bloomberg_european_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "bloomberg_gr_bloomberg_european_tv_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "GR - Blue Hustler",
+      "programs": [
+        {
+          "program_id": "bluehustler_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bluehustler_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "bluehustler_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "bluehustler_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bluehustler_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bluehustler_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "GR - Blue Sky",
+      "programs": [
+        {
+          "program_id": "bluesky_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bluesky_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bluesky_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "bluesky_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bluesky_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "GR - CGTN",
+      "programs": [
+        {
+          "program_id": "cgtn_gr_cgtn_hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cgtn_gr_cgtn_hd_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "GR - CNBC",
+      "programs": [
+        {
+          "program_id": "cnbc_gr_asia_squawk_box_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "cnbc_gr_asia_squawk_box_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cnbc_gr_asia_squawk_box_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cnbc_gr_asia_squawk_box_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cnbc_gr_asia_squawk_box_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cnbc_gr_asia_squawk_box_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnbc_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cnbc_gr__2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cnbc_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cnbc_gr__2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cnbc_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cnbc_gr__2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "GR - CNN",
+      "programs": [
+        {
+          "program_id": "cnn_gr_the_brief_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cnn_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cnn_gr_360_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cnn_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnn_gr_cnn_newsnight_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "cnn_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "GR - COSMOTE CINEMA 1",
+      "programs": [
+        {
+          "program_id": "cosmotecinema1_gr_siberia_2026-01-07_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cosmotecinema1_gr_longlegs_2026-01-07_0080",
+          "start": 80,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cosmotecinema1_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cosmotecinema1_gr_b_m_e_2026-01-07_0300",
+          "start": 300,
+          "end": 400,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "GR - COSMOTE CINEMA 2",
+      "programs": [
+        {
+          "program_id": "cosmotecinema2_gr_10_2026-01-07_0000",
+          "start": 0,
+          "end": 140,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotecinema2_gr__2026-01-07_0140",
+          "start": 140,
+          "end": 235,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cosmotecinema2_gr_dirty_angels_2026-01-07_0235",
+          "start": 235,
+          "end": 340,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotecinema2_gr__2026-01-07_0340",
+          "start": 340,
+          "end": 460,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "GR - COSMOTE CINEMA 3",
+      "programs": [
+        {
+          "program_id": "cosmotecinema3_gr__2026-01-07_0020",
+          "start": 20,
+          "end": 110,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cosmotecinema3_gr__2026-01-07_0110",
+          "start": 110,
+          "end": 195,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cosmotecinema3_gr__2026-01-07_0195",
+          "start": 195,
+          "end": 270,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cosmotecinema3_gr__2026-01-07_0270",
+          "start": 270,
+          "end": 355,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "cosmotecinema3_gr__2026-01-07_0355",
+          "start": 355,
+          "end": 440,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "GR - COSMOTE History",
+      "programs": [
+        {
+          "program_id": "cosmotehistory_gr_1912_1922_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotehistory_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotehistory_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 190,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotehistory_gr__2026-01-07_0190",
+          "start": 190,
+          "end": 250,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cosmotehistory_gr__2026-01-07_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cosmotehistory_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cosmotehistory_gr__2026-01-07_0350",
+          "start": 350,
+          "end": 410,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "GR - COSMOTE SERIES",
+      "programs": [
+        {
+          "program_id": "cosmoteseries_gr_anne_rice_s_interview_wi_2026-01-07_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "cosmoteseries_gr_scar_2026-01-07_0035",
+          "start": 35,
+          "end": 95,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cosmoteseries_gr_dexter_2026-01-07_0095",
+          "start": 95,
+          "end": 145,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cosmoteseries_gr_dexter_2026-01-07_0145",
+          "start": 145,
+          "end": 200,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cosmoteseries_gr_faithless_2026-01-07_0200",
+          "start": 200,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmoteseries_gr_gangs_of_london_2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmoteseries_gr_homicide_life_on_the_str_2026-01-07_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cosmoteseries_gr_homicide_life_on_the_str_2026-01-07_0350",
+          "start": 350,
+          "end": 400,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "GR - COSMOTE SERIES MARATHON",
+      "programs": [
+        {
+          "program_id": "cosmoteseriesmarat_cosmote_series_marathon__2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "cosmoteseriesmarat_cosmote_series_marathon__2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "series",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "GR - COSMOTE SPORT 1",
+      "programs": [
+        {
+          "program_id": "cosmotesport1_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cosmotesport1_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotesport1_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cosmotesport1_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "GR - COSMOTE SPORT 2",
+      "programs": [
+        {
+          "program_id": "cosmotesport2_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotesport2_gr__2026-01-07_0075",
+          "start": 75,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotesport2_gr_sports_classics_football_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "cosmotesport2_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "series",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "GR - COSMOTE SPORT 3",
+      "programs": [
+        {
+          "program_id": "cosmotesport3_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cosmotesport3_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotesport3_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "cosmotesport3_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "GR - COSMOTE SPORT 4",
+      "programs": [
+        {
+          "program_id": "cosmotesport4_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cosmotesport4_gr_nba_specials_basketball__2026-01-07_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "cosmotesport4_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cosmotesport4_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "GR - COSMOTE SPORT 5",
+      "programs": [
+        {
+          "program_id": "cosmotesport5_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "cosmotesport5_gr_motorsports_extreme_e_20_2026-01-07_0010",
+          "start": 10,
+          "end": 135,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "cosmotesport5_gr_extreme_e_highlights_202_2026-01-07_0135",
+          "start": 135,
+          "end": 165,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cosmotesport5_gr_erc_2025_2026-01-07_0165",
+          "start": 165,
+          "end": 195,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cosmotesport5_gr_dtm_2026-01-07_0195",
+          "start": 195,
+          "end": 245,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cosmotesport5_gr_2025_extreme_h_2026-01-07_0245",
+          "start": 245,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cosmotesport5_gr_wrc_2025_2026-01-07_0300",
+          "start": 300,
+          "end": 395,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "GR - COSMOTE SPORT 6",
+      "programs": [
+        {
+          "program_id": "cosmotesport6_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cosmotesport6_gr_sailing_to_the_games_202_2026-01-07_0120",
+          "start": 120,
+          "end": 155,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "cosmotesport6_gr__2026-01-07_0155",
+          "start": 155,
+          "end": 230,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cosmotesport6_gr__2026-01-07_0230",
+          "start": 230,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cosmotesport6_gr_atp_2025_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "GR - COSMOTE SPORT 7",
+      "programs": [
+        {
+          "program_id": "cosmotesport7_gr_nba_tv_2024_25_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cosmotesport7_gr_nba_tv_2024_25_2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "GR - COSMOTE SPORT 8",
+      "programs": [
+        {
+          "program_id": "cosmotesport8_gr_cosmotesport8hd_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "cosmotesport8_gr_cosmotesport8hd_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "cosmotesport8_gr_cosmotesport8hd_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "cosmotesport8_gr_cosmotesport8hd_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 90
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "GR - COSMOTE SPORT 9",
+      "programs": [
+        {
+          "program_id": "cosmotesport9_gr_cosmotesport9hd_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "cosmotesport9_gr_cosmotesport9hd_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cosmotesport9_gr_cosmotesport9hd_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "cosmotesport9_gr_cosmotesport9hd_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 93
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "GR - COSMOTE SPORT AEK Super League Pass",
+      "programs": [
+        {
+          "program_id": "cosmotesportaeksup_cosmote_sport_super_leag_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cosmotesportaeksup_cosmote_sport_super_leag_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "cosmotesportaeksup_cosmote_sport_super_leag_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cosmotesportaeksup_cosmote_sport_super_leag_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "GR - COSMOTE SPORT HIGHLIGHTS",
+      "programs": [
+        {
+          "program_id": "cosmotesporthighli_cosmote_sport_highlights_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "cosmotesporthighli_cosmote_sport_highlights_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "GR - COSMOTE SPORT Olympiakos Super League Pass",
+      "programs": [
+        {
+          "program_id": "cosmotesportolympi_cosmote_sport_super_leag_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "cosmotesportolympi_cosmote_sport_super_leag_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cosmotesportolympi_cosmote_sport_super_leag_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cosmotesportolympi_cosmote_sport_super_leag_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "GR - COSMOTE SPORT ΠΑΝΑΘΗΝΑΪΚΟΣ Super League Pass",
+      "programs": [
+        {
+          "program_id": "cosmotesport_i_sup_cosmote_sport_super_leag_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "cosmotesport_i_sup_cosmote_sport_super_leag_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "cosmotesport_i_sup_cosmote_sport_super_leag_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "cosmotesport_i_sup_cosmote_sport_super_leag_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "GR - COSMOTE Sport 4K",
+      "programs": [
+        {
+          "program_id": "cosmotesport4k_gr_cosmotesport4k_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "cosmotesport4k_gr_cosmotesport4k_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "cosmotesport4k_gr_cosmotesport4k_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cosmotesport4k_gr_cosmotesport4k_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 90
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "CY - CVSPORTS Multiview",
+      "programs": [
+        {
+          "program_id": "cvsportsmultiview__multi_view_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cvsportsmultiview__multi_view_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "CY - CVSPORTS UHD",
+      "programs": [
+        {
+          "program_id": "cvsportsuhd_cy__2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "cvsportsuhd_cy__2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "CY - Cablenet Sports 1",
+      "programs": [
+        {
+          "program_id": "cablenetsports1_cy_clutch_the_nba_playoffs__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cablenetsports1_cy_2025_26_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cablenetsports1_cy_marseille_nantes_4_1_26__2026-01-07_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cablenetsports1_cy_3617_fernando_torres_rau_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cablenetsports1_cy_le_mans_saint_etienne_3__2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "CY - Cablenet Sports 2",
+      "programs": [
+        {
+          "program_id": "cablenetsports2_cy_nice_strasbourg_3_1_26_e_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cablenetsports2_cy_brest_auxerre_4_1_26_e_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cablenetsports2_cy_monaco_lyon_3_1_26_e_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "CY - Cablenet Sports 3",
+      "programs": [
+        {
+          "program_id": "cablenetsports3_cy__2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "cablenetsports3_cy__2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "CY - Capital TV",
+      "programs": [
+        {
+          "program_id": "capitaltv_cy__2026-01-07_0020",
+          "start": 20,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "capitaltv_cy__2026-01-07_0120",
+          "start": 120,
+          "end": 230,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "capitaltv_cy__2026-01-07_0230",
+          "start": 230,
+          "end": 315,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "capitaltv_cy_juana_2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "GR - Crime and Investigation",
+      "programs": [
+        {
+          "program_id": "crimeandinvestigat__2026-01-07_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "crimeandinvestigat__2026-01-07_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "crimeandinvestigat__2026-01-07_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "crimeandinvestigat__2026-01-07_0150",
+          "start": 150,
+          "end": 205,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "crimeandinvestigat__2026-01-07_0205",
+          "start": 205,
+          "end": 250,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "crimeandinvestigat__2026-01-07_0250",
+          "start": 250,
+          "end": 305,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "crimeandinvestigat__2026-01-07_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "CY - Cytavision Sports 1",
+      "programs": [
+        {
+          "program_id": "cytavisionsports1__rangers_roma_6_11_25_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cytavisionsports1__villarreal_barcelona_21__2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cytavisionsports1__braga_benfica_28_12_25_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cytavisionsports1__17_12_25_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "CY - Cytavision Sports 2",
+      "programs": [
+        {
+          "program_id": "cytavisionsports2___2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cytavisionsports2___2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "CY - Cytavision Sports 3",
+      "programs": [
+        {
+          "program_id": "cytavisionsports3__real_madrid_real_betis_4_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "cytavisionsports3__inter_bologna_4_1_26_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "cytavisionsports3__fulham_liverpool_4_1_26_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cytavisionsports3__pisa_como_6_1_26_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "series",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "CY - Cytavision Sports 4",
+      "programs": [
+        {
+          "program_id": "cytavisionsports4__liverpool_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "cytavisionsports4__liverpool_tv_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "CY - Cytavision Sports 5",
+      "programs": [
+        {
+          "program_id": "cytavisionsports5__man_utd_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cytavisionsports5__atp_250_brisbane_md_4a_z_2026-01-07_0120",
+          "start": 120,
+          "end": 480,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "CY - Cytavision Sports 6",
+      "programs": [
+        {
+          "program_id": "cytavisionsports6__motorvision_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cytavisionsports6__motorvision_2026-01-07_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "CY - Cytavision Sports 7",
+      "programs": [
+        {
+          "program_id": "cytavisionsports7__horse_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cytavisionsports7__horse_tv_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "CY - Cytavision Sports 8",
+      "programs": [
+        {
+          "program_id": "cytavisionsports8__real_madrid_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cytavisionsports8__real_madrid_tv_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "GR - Deutsche Welle English",
+      "programs": [
+        {
+          "program_id": "deutschewelleengli_dw_english_hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "deutschewelleengli_dw_english_hd_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "GR - Discovery",
+      "programs": [
+        {
+          "program_id": "discoverychannel_g_5_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "discoverychannel_g_2_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoverychannel_g_16_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "discoverychannel_g_2_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "discoverychannel_g_wheeler_dealers_13_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discoverychannel_g_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "GR - Disney Channel",
+      "programs": [
+        {
+          "program_id": "disneychannel_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "GR - Disney Junior",
+      "programs": [
+        {
+          "program_id": "disneyjunior_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "GR - E!",
+      "programs": [
+        {
+          "program_id": "e_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "e_gr_kardashians_10_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "e_gr_kardashians_10_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "e_gr_2_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "e_gr_2_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "e_gr_wags_2_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "GR - ENA Channel",
+      "programs": [
+        {
+          "program_id": "enachannel_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "enachannel_gr__2026-01-07_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "enachannel_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "enachannel_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "GR - ERT 1",
+      "programs": [
+        {
+          "program_id": "ert1_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ert1_gr__2026-01-07_0075",
+          "start": 75,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ert1_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 290,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ert1_gr__2026-01-07_0290",
+          "start": 290,
+          "end": 345,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "GR - ERT 2",
+      "programs": [
+        {
+          "program_id": "ert2_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ert2_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ert2_gr_auto_moto_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ert2_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ert2_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "GR - ERT 3",
+      "programs": [
+        {
+          "program_id": "ert3_gr_10_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ert3_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ert3_gr__2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ert3_gr_balkan_express_2026-01-07_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ert3_gr__2026-01-07_0210",
+          "start": 210,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ert3_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "GR - ERT WORLD",
+      "programs": [
+        {
+          "program_id": "ertworld_gr_4_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ertworld_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ertworld_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "GR - Euronews English",
+      "programs": [
+        {
+          "program_id": "euronewsenglish_gr_euronews_english_hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronewsenglish_gr_euronews_english_hd_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "GR - Euronews Greek",
+      "programs": [
+        {
+          "program_id": "euronewsgreek_gr_the_european_debrief_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronewsgreek_gr__2026-01-07_0030",
+          "start": 30,
+          "end": 45,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "euronewsgreek_gr__2026-01-07_0045",
+          "start": 45,
+          "end": 60,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "euronewsgreek_gr_the_european_debrief_2026-01-07_0060",
+          "start": 60,
+          "end": 480,
+          "genre": "news",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "GR - Euronews Hungarian",
+      "programs": [
+        {
+          "program_id": "euronewshungarian__1_1_marathon_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "euronewshungarian__1_1_marathon_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "CY - Eurosport 1",
+      "programs": [
+        {
+          "program_id": "eurosport1_cy__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "eurosport1_cy__2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "eurosport1_cy__2026-01-07_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "eurosport1_cy_freestyle_skiing_2026-01-07_0210",
+          "start": 210,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "eurosport1_cy__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "GR - Eurosport 1",
+      "programs": [
+        {
+          "program_id": "eurosport1_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "eurosport1_gr__2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "eurosport1_gr__2026-01-07_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "eurosport1_gr_no_information_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "eurosport1_gr_no_information_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "eurosport1_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "CY - Eurosport 2",
+      "programs": [
+        {
+          "program_id": "eurosport2_cy_freestyle_skiing_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "eurosport2_cy__2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "eurosport2_cy__2026-01-07_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "eurosport2_cy__2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "GR - Eurosport 2",
+      "programs": [
+        {
+          "program_id": "eurosport2_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "eurosport2_gr__2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "eurosport2_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport2_gr_no_information_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "eurosport2_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "GR - FOX",
+      "programs": [
+        {
+          "program_id": "fox_gr_white_collar_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "fox_gr_9_1_1_5_2026-01-07_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "fox_gr_bones_3_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "fox_gr_bones_3_2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "fox_gr_white_collar_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "fox_gr_will_trent_3_2026-01-07_0225",
+          "start": 225,
+          "end": 265,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "fox_gr_the_office_3_2026-01-07_0265",
+          "start": 265,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "fox_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "GR - FOX Life",
+      "programs": [
+        {
+          "program_id": "foxlife_gr_grey_s_anatomy_16_2026-01-07_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "foxlife_gr_the_mentalist_3_2026-01-07_0035",
+          "start": 35,
+          "end": 75,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "foxlife_gr_castle_8_2026-01-07_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "foxlife_gr_castle_8_2026-01-07_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "foxlife_gr_chicago_fire_12_2026-01-07_0210",
+          "start": 210,
+          "end": 250,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "foxlife_gr_project_runway_all_stars_2026-01-07_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "foxlife_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "GR - Fashion TV",
+      "programs": [
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "fashiontv_gr__2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "GR - Food Network",
+      "programs": [
+        {
+          "program_id": "foodnetwork_gr_27_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "foodnetwork_gr_27_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "foodnetwork_gr_50_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "foodnetwork_gr_16_2026-01-07_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "foodnetwork_gr_7_2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "foodnetwork_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "GR - France 24 English",
+      "programs": [
+        {
+          "program_id": "france24english_gr_france_24_hd_in_english_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "france24english_gr_france_24_hd_in_english_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "GR - France 24 Français",
+      "programs": [
+        {
+          "program_id": "france24fr_gr_france_24_hd_en_francais_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "france24fr_gr_france_24_hd_en_francais_2026-01-07_0300",
+          "start": 300,
+          "end": 780,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "GR - GINX eSports",
+      "programs": [
+        {
+          "program_id": "ginxesports_gr_and_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ginxesports_gr_icons_2026-01-07_0030",
+          "start": 30,
+          "end": 45,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "ginxesports_gr_icons_2026-01-07_0045",
+          "start": 45,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "ginxesports_gr_and_2026-01-07_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ginxesports_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "ginxesports_gr_the_first_hour_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ginxesports_gr_and_2026-01-07_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ginxesports_gr_let_s_go_viral_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "GR - HISTORY",
+      "programs": [
+        {
+          "program_id": "history_gr_the_curse_of_oak_island_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "history_gr_the_unxplained_with_will_2026-01-07_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "history_gr_pawn_stars_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "history_gr_pawn_stars_2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "history_gr_ancient_aliens_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "history_gr_ancient_aliens_special_p_2026-01-07_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "unknown",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "GR - Hustler",
+      "programs": [
+        {
+          "program_id": "hustler_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hustler_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hustler_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hustler_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hustler_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hustler_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "GR - Insight TV",
+      "programs": [
+        {
+          "program_id": "insighttv_gr_2_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "insighttv_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "insighttv_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "insighttv_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "insighttv_gr__2026-01-07_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "insighttv_gr__2026-01-07_0255",
+          "start": 255,
+          "end": 285,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "insighttv_gr__2026-01-07_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "insighttv_gr_no_information_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "GR - Ionian TV",
+      "programs": [
+        {
+          "program_id": "ioniantv_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ioniantv_gr_business_report_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ioniantv_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ioniantv_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ioniantv_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "ioniantv_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "GR - Kontra Channel",
+      "programs": [
+        {
+          "program_id": "kontrachannel_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "kontrachannel_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "kontrachannel_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "GR - MAD TV",
+      "programs": [
+        {
+          "program_id": "mad_gr_trap_time_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mad_gr_lai_co_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mad_gr_night_out_not_2026-01-07_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mad_gr_chill_mode_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "GR - MAD Viral",
+      "programs": [
+        {
+          "program_id": "madviral_gr_vodcasts_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "madviral_gr_late_night_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "madviral_gr_lol_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "madviral_gr_vlogbusters_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "madviral_gr_world_hits_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "music",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "GR - MEGA",
+      "programs": [
+        {
+          "program_id": "mega_gr__2026-01-07_0010",
+          "start": 10,
+          "end": 70,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mega_gr__2026-01-07_0070",
+          "start": 70,
+          "end": 130,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "mega_gr__2026-01-07_0130",
+          "start": 130,
+          "end": 190,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "mega_gr__2026-01-07_0190",
+          "start": 190,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mega_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 280,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "mega_gr_mega_2026-01-07_0280",
+          "start": 280,
+          "end": 500,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "GR - MEZZO LIVE",
+      "programs": [
+        {
+          "program_id": "mezzolive_gr__2026-01-07_0005",
+          "start": 5,
+          "end": 85,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mezzolive_gr__2026-01-07_0085",
+          "start": 85,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mezzolive_gr_ted_brandsen_2026-01-07_0120",
+          "start": 120,
+          "end": 235,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mezzolive_gr__2026-01-07_0235",
+          "start": 235,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mezzolive_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "GR - Μακεδονία TV",
+      "programs": [
+        {
+          "program_id": "makedoniatv_gr_the_rookie_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "makedoniatv_gr_mayday_2026-01-07_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "makedoniatv_gr_csi_vegas_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "makedoniatv_gr_grey_s_anatomy_2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "makedoniatv_gr_house_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "makedoniatv_gr_csi_new_york_2026-01-07_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "makedoniatv_gr_the_rookie_2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "makedoniatv_gr_garden_rescue_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "CY - Motorvision",
+      "programs": [
+        {
+          "program_id": "motorvision_cy_ferrari_challenge_europe_2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "motorvision_cy_africa_eco_race_2025_2026-01-07_0050",
+          "start": 50,
+          "end": 75,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "motorvision_cy_rally_2024_2026-01-07_0075",
+          "start": 75,
+          "end": 110,
+          "genre": "education",
+          "score": 60
+        },
+        {
+          "program_id": "motorvision_cy_belgian_rally_championsh_2026-01-07_0110",
+          "start": 110,
+          "end": 140,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "motorvision_cy_british_rally_championsh_2026-01-07_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "motorvision_cy_africa_eco_race_2025_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "motorvision_cy_world_rally_raid_champio_2026-01-07_0240",
+          "start": 240,
+          "end": 295,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "motorvision_cy_supercars_s6_ep178_2026-01-07_0295",
+          "start": 295,
+          "end": 325,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "GR - Motorvision",
+      "programs": [
+        {
+          "program_id": "motorvision_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "motorvision_gr_fastzone_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "motorvision_gr_ferrari_challenge_europe_2026-01-07_0060",
+          "start": 60,
+          "end": 110,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "motorvision_gr_rally_2024_africa_eco_2026-01-07_0135",
+          "start": 135,
+          "end": 170,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "motorvision_gr__2026-01-07_0170",
+          "start": 170,
+          "end": 200,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "motorvision_gr_2025_grampian_forest_ral_2026-01-07_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "motorvision_gr_africa_eco_race_9_and_10_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "motorvision_gr_world_rally_raid_champio_2026-01-07_0300",
+          "start": 300,
+          "end": 355,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "motorvision_gr__2026-01-07_0355",
+          "start": 355,
+          "end": 385,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "GR - NR1",
+      "programs": [
+        {
+          "program_id": "nr1_gr_the_number_ones_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "nr1_gr_good_morning_greece_2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "GR - Naftemporiki",
+      "programs": [
+        {
+          "program_id": "naftemporiki_gr_on_the_ropes_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "naftemporiki_gr_momentum_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "naftemporiki_gr_in_business_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "naftemporiki_gr_index_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "GR - Nat Geo Wild",
+      "programs": [
+        {
+          "program_id": "natgeowild_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "natgeowild_gr__2026-01-07_0040",
+          "start": 40,
+          "end": 85,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "natgeowild_gr__2026-01-07_0085",
+          "start": 85,
+          "end": 130,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "natgeowild_gr__2026-01-07_0130",
+          "start": 130,
+          "end": 175,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "natgeowild_gr__2026-01-07_0175",
+          "start": 175,
+          "end": 220,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "natgeowild_gr__2026-01-07_0220",
+          "start": 220,
+          "end": 265,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "natgeowild_gr__2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "natgeowild_gr__2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "GR - National Geographic",
+      "programs": [
+        {
+          "program_id": "nationalgeographic__2026-01-07_0005",
+          "start": 5,
+          "end": 55,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0055",
+          "start": 55,
+          "end": 100,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0100",
+          "start": 100,
+          "end": 145,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0190",
+          "start": 190,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0240",
+          "start": 240,
+          "end": 290,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "nationalgeographic__2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "GR - Nautical Channel",
+      "programs": [
+        {
+          "program_id": "nauticalchannel_gr_kite_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nauticalchannel_gr_kite_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "nauticalchannel_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "nauticalchannel_gr_tiree_wave_classic_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nauticalchannel_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nauticalchannel_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "nauticalchannel_gr_qatar_airways_gka_kite_w_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "nauticalchannel_gr_tahiti_pearl_regatta_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "nauticalchannel_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "nauticalchannel_gr__2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "nauticalchannel_gr_speed_catamarans_gc32_20_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nauticalchannel_gr_jet_raid_2019_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "GR - Nova MAD GREEKZ",
+      "programs": [
+        {
+          "program_id": "novamadgreekz_gr_by_night_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "novamadgreekz_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "novamadgreekz_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "novamadgreekz_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "GR - Novacinema1",
+      "programs": [
+        {
+          "program_id": "novacinema1_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "novacinema1_gr_brothers_2026-01-07_0060",
+          "start": 60,
+          "end": 170,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "novacinema1_gr__2026-01-07_0170",
+          "start": 170,
+          "end": 290,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "novacinema1_gr__2026-01-07_0290",
+          "start": 290,
+          "end": 400,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "GR - Novacinema2",
+      "programs": [
+        {
+          "program_id": "novacinema2_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 110,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "novacinema2_gr__2026-01-07_0110",
+          "start": 110,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "novacinema2_gr_no_information_2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "novacinema2_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "GR - Novacinema3",
+      "programs": [
+        {
+          "program_id": "novacinema3_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "novacinema3_gr_clea_an_indecent_story_p_2026-01-07_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "novacinema3_gr_novacinema3hd_2026-01-07_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "movie",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "GR - Novacinema4",
+      "programs": [
+        {
+          "program_id": "novacinema4_gr_those_who_lived_2026-01-07_0015",
+          "start": 15,
+          "end": 70,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "novacinema4_gr_sambre_2026-01-07_0095",
+          "start": 95,
+          "end": 145,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "novacinema4_gr_novacinema4hd_2026-01-07_0145",
+          "start": 145,
+          "end": 300,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "novacinema4_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "GR - Novalife",
+      "programs": [
+        {
+          "program_id": "novalife_gr_breaking_up_in_rome_2026-01-07_0025",
+          "start": 25,
+          "end": 140,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "novalife_gr_novalif_hd_2026-01-07_0140",
+          "start": 140,
+          "end": 335,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "GR - Novasports 1",
+      "programs": [
+        {
+          "program_id": "novasports1_gr_la_liga_ea_sports_2025_2_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "novasports1_gr_novasports1_2026-01-07_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "novasports1_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "CY - Novasports 2",
+      "programs": [
+        {
+          "program_id": "novasports2_cy_novasports2hd_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "novasports2_cy_novasports2hd_2026-01-07_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "novasports2_cy_novasports2hd_2026-01-07_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "GR - Novasports 2",
+      "programs": [
+        {
+          "program_id": "novasports2_gr_uefa_european_qualifiers_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "novasports2_gr_novasports2_2026-01-07_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "novasports2_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "CY - Novasports 3",
+      "programs": [
+        {
+          "program_id": "novasports3_cy_novasports3_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "novasports3_cy_novasports3_2026-01-07_0300",
+          "start": 300,
+          "end": 630,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "GR - Novasports 3",
+      "programs": [
+        {
+          "program_id": "novasports3_gr_novasports3_11_30_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "novasports3_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "CY - Novasports 4",
+      "programs": [
+        {
+          "program_id": "novasports4_cy_novasports4_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "novasports4_cy_novasports4_2026-01-07_0300",
+          "start": 300,
+          "end": 600,
+          "genre": "sports",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "GR - Novasports 4",
+      "programs": [
+        {
+          "program_id": "novasports4_gr_novasports4_11_00_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "novasports4_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "CY - Novasports 5",
+      "programs": [
+        {
+          "program_id": "novasports5_cy_novasports5_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "novasports5_cy_novasports5_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "GR - Novasports 5",
+      "programs": [
+        {
+          "program_id": "novasports5_gr_novasports5_12_00_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "novasports5_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "CY - Novasports 6",
+      "programs": [
+        {
+          "program_id": "novasports6_cy_novasports6hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "novasports6_cy_novasports6hd_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "GR - Novasports 6",
+      "programs": [
+        {
+          "program_id": "novasports6_gr_atp_250_2025_hellenic_ch_2026-01-07_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "novasports6_gr_novasports6_12_00_2026-01-07_0020",
+          "start": 20,
+          "end": 300,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "novasports6_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "GR - NovasportsNews",
+      "programs": [
+        {
+          "program_id": "novasportsnews_gr_novasports_news_24_hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "novasportsnews_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "GR - Novasports Premier League",
+      "programs": [
+        {
+          "program_id": "novasportspremierl_premier_league_2025_26_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "novasportspremierl_novasports_premier_leagu_2026-01-07_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "novasportspremierl_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "CY - Novasports Prime",
+      "programs": [
+        {
+          "program_id": "novasportsprime_cy_manresa_aris_2026-01-07_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "novasportsprime_cy_novasports_prime_2026-01-07_0105",
+          "start": 105,
+          "end": 300,
+          "genre": "sports",
+          "score": 95
+        },
+        {
+          "program_id": "novasportsprime_cy_novasports_prime_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 94
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "GR - Novasports Prime",
+      "programs": [
+        {
+          "program_id": "novasportsprime_gr_eurocup_2025_26_2026-01-07_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "novasportsprime_gr_novasports_prime_2026-01-07_0105",
+          "start": 105,
+          "end": 300,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "novasportsprime_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "CY - Novasports Start",
+      "programs": [
+        {
+          "program_id": "novasportsstart_cy_panathinaikos_armani_mil_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "novasportsstart_cy_novasports_start_2026-01-07_0090",
+          "start": 90,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "novasportsstart_cy_novasports_start_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "GR - NovasportsStart",
+      "programs": [
+        {
+          "program_id": "novasportsstart_gr_euroleague_2025_26_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "novasportsstart_gr_novasports_start_2026-01-07_0090",
+          "start": 90,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "novasportsstart_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "CY - Novasports Extra 1",
+      "programs": [
+        {
+          "program_id": "novasportsextra1_c_novasportsextra1hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "novasportsextra1_c_novasportsextra1hd_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "GR - Novasports Extra 1",
+      "programs": [
+        {
+          "program_id": "novasportsextra1_g_novasportsextra1hd_17_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "novasportsextra1_g_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "CY - Novasports Extra 2",
+      "programs": [
+        {
+          "program_id": "novasportsextra2_c_novasportsextra2hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "novasportsextra2_c_novasportsextra2hd_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "GR - Novasports Extra 2",
+      "programs": [
+        {
+          "program_id": "novasportsextra2_g_novasportsextra2hd_17_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "novasportsextra2_g_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "CY - Novasports Extra 3",
+      "programs": [
+        {
+          "program_id": "novasportsextra3_c_novasportsextra3hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "novasportsextra3_c_novasportsextra3hd_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "GR - Novasports Extra 3",
+      "programs": [
+        {
+          "program_id": "novasportsextra3_g_novasportsextra3hd_17_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "novasportsextra3_g_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "CY - Novasports Extra 4",
+      "programs": [
+        {
+          "program_id": "novasportsextra4_c_novasportsextra4hd_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "novasportsextra4_c_novasportsextra4hd_2026-01-07_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "GR - Novasports Extra 4",
+      "programs": [
+        {
+          "program_id": "novasportsextra4_g_novasportsextra4hd_17_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "novasportsextra4_g_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "CY - OMEGA",
+      "programs": [
+        {
+          "program_id": "omega_cy_runaway_bride_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "omega_cy_first_dates_e_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "omega_cy_e_2026-01-07_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "omega_cy_e_2026-01-07_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "omega_cy_e_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "omega_cy_cuisinovia_e_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "omega_cy__2026-01-07_0300",
+          "start": 300,
+          "end": 465,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "CY - OMONOIA TV",
+      "programs": [
+        {
+          "program_id": "omonoiatv_cy_2_1_12_04_2017_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "omonoiatv_cy_03_01_2026_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "omonoiatv_cy_13_03_2021_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "omonoiatv_cy_total_green_s2_ep_14_2026-01-07_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "GR - ONE Channel",
+      "programs": [
+        {
+          "program_id": "onechannel_gr__2026-01-07_0015",
+          "start": 15,
+          "end": 105,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "onechannel_gr_santa_stole_our_dog_2026-01-07_0105",
+          "start": 105,
+          "end": 210,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "onechannel_gr_santa_stole_our_dog_2026-01-07_0210",
+          "start": 210,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "onechannel_gr_travel_guide_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 130,
+      "channel_name": "GR - OPEN BEYOND",
+      "programs": [
+        {
+          "program_id": "openbeyond_gr_status_quo_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "openbeyond_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 165,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "openbeyond_gr__2026-01-07_0165",
+          "start": 165,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "openbeyond_gr__2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "openbeyond_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 131,
+      "channel_name": "CY - One Channel Cy",
+      "programs": [
+        {
+          "program_id": "onechannelcy_cy__2026-01-07_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "onechannelcy_cy__2026-01-07_0105",
+          "start": 105,
+          "end": 195,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "onechannelcy_cy__2026-01-07_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "onechannelcy_cy__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "onechannelcy_cy_e_2026-01-07_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 132,
+      "channel_name": "GR - PanikTV",
+      "programs": [
+        {
+          "program_id": "paniktv_gr_party_mood_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "paniktv_gr_late_night_clips_2026-01-07_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "paniktv_gr_panik_morning_2026-01-07_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 133,
+      "channel_name": "CY - Plus TV",
+      "programs": [
+        {
+          "program_id": "plustv_cy__2026-01-07_0020",
+          "start": 20,
+          "end": 65,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "plustv_cy__2026-01-07_0065",
+          "start": 65,
+          "end": 110,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "plustv_cy__2026-01-07_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "plustv_cy__2026-01-07_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "plustv_cy__2026-01-07_0200",
+          "start": 200,
+          "end": 235,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "plustv_cy__2026-01-07_0240",
+          "start": 240,
+          "end": 310,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "plustv_cy_e_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 134,
+      "channel_name": "CY - Premier League",
+      "programs": [
+        {
+          "program_id": "premierleague_cy_the_big_interview_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "premierleague_cy_pl_moments_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "premierleague_cy_pl_stories_ep4_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "premierleague_cy_classic_match_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "premierleague_cy_match_highlights_25_26_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "premierleague_cy_pl_stories_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "premierleague_cy_the_big_interview_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "premierleague_cy_pl_goats_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "premierleague_cy_the_big_interview_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "premierleague_cy_classic_match_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 135,
+      "channel_name": "GR - ΣΚΑΪ",
+      "programs": [
+        {
+          "program_id": "skai_gr_red_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "skai_gr__2026-01-07_0090",
+          "start": 90,
+          "end": 195,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "skai_gr__2026-01-07_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "skai_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "skai_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 520,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 136,
+      "channel_name": "GR - STAR",
+      "programs": [
+        {
+          "program_id": "star_gr_dune_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "star_gr_crazy_stupid_love_2026-01-07_0030",
+          "start": 30,
+          "end": 195,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "star_gr_wolves_at_the_door_2026-01-07_0195",
+          "start": 195,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "star_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 137,
+      "channel_name": "GR - Smile TV",
+      "programs": [
+        {
+          "program_id": "smiletv_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "smiletv_gr__2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "smiletv_gr_pacman_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "smiletv_gr_playmobil_super_4_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "smiletv_gr_kikoriki_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "smiletv_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "smiletv_gr_pretty_cure_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "smiletv_gr_pincode_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "smiletv_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "smiletv_gr_pretty_cure_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "smiletv_gr_no_information_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 138,
+      "channel_name": "GR - Star Κεντρικής Ελλάδας",
+      "programs": [
+        {
+          "program_id": "star_gr_made_in_italy_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "star_gr_24_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "star_gr_man_with_a_plan_2026-01-07_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "star_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "star_gr_24_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "star_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 139,
+      "channel_name": "GR - TCM",
+      "programs": [
+        {
+          "program_id": "tcm_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 70,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tcm_gr__2026-01-07_0070",
+          "start": 70,
+          "end": 165,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tcm_gr__2026-01-07_0165",
+          "start": 165,
+          "end": 295,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "tcm_gr__2026-01-07_0295",
+          "start": 295,
+          "end": 405,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 140,
+      "channel_name": "GR - TLC",
+      "programs": [
+        {
+          "program_id": "tlc_gr_6_2026-01-07_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tlc_gr_3_2026-01-07_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tlc_gr_90_m_9_2026-01-07_0105",
+          "start": 105,
+          "end": 195,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tlc_gr_7_5_2026-01-07_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tlc_gr_2_2026-01-07_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tlc_gr_16_2026-01-07_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tlc_gr_no_information_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 141,
+      "channel_name": "GR - Travel Channel",
+      "programs": [
+        {
+          "program_id": "travelchannel_gr_15_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "travelchannel_gr_15_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "travelchannel_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "travelchannel_gr_2_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "travelchannel_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 142,
+      "channel_name": "GR - Viasat Explore",
+      "programs": [
+        {
+          "program_id": "viasatexplore_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasatexplore_gr__2026-01-07_0055",
+          "start": 55,
+          "end": 105,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viasatexplore_gr__2026-01-07_0105",
+          "start": 105,
+          "end": 155,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasatexplore_gr__2026-01-07_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "viasatexplore_gr__2026-01-07_0200",
+          "start": 200,
+          "end": 245,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "viasatexplore_gr__2026-01-07_0245",
+          "start": 245,
+          "end": 290,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "viasatexplore_gr__2026-01-07_0290",
+          "start": 290,
+          "end": 375,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 143,
+      "channel_name": "GR - Viasat History",
+      "programs": [
+        {
+          "program_id": "viasathistory_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "viasathistory_gr__2026-01-07_0065",
+          "start": 65,
+          "end": 135,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "viasathistory_gr__2026-01-07_0135",
+          "start": 135,
+          "end": 205,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "viasathistory_gr__2026-01-07_0205",
+          "start": 205,
+          "end": 285,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "viasathistory_gr__2026-01-07_0285",
+          "start": 285,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 144,
+      "channel_name": "GR - Viasat Nature",
+      "programs": [
+        {
+          "program_id": "viasatnature_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "viasatnature_gr_2_2026-01-07_0045",
+          "start": 45,
+          "end": 100,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "viasatnature_gr__2026-01-07_0100",
+          "start": 100,
+          "end": 155,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "viasatnature_gr__2026-01-07_0155",
+          "start": 155,
+          "end": 205,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "viasatnature_gr__2026-01-07_0205",
+          "start": 205,
+          "end": 260,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "viasatnature_gr__2026-01-07_0260",
+          "start": 260,
+          "end": 310,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasatnature_gr__2026-01-07_0310",
+          "start": 310,
+          "end": 365,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 145,
+      "channel_name": "GR - Village Cinema",
+      "programs": [
+        {
+          "program_id": "villagecinema_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 190,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "villagecinema_gr__2026-01-07_0190",
+          "start": 190,
+          "end": 430,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 146,
+      "channel_name": "GR - Vivid Red",
+      "programs": [
+        {
+          "program_id": "vividred_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "vividred_gr__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "vividred_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "vividred_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "vividred_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "vividred_gr__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 147,
+      "channel_name": "GR - duck TV",
+      "programs": [
+        {
+          "program_id": "ducktv_gr__2026-01-07_0005",
+          "start": 5,
+          "end": 65,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ducktv_gr__2026-01-07_0065",
+          "start": 65,
+          "end": 130,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ducktv_gr_ducktv_2026-01-07_0130",
+          "start": 130,
+          "end": 190,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ducktv_gr__2026-01-07_0190",
+          "start": 190,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ducktv_gr__2026-01-07_0255",
+          "start": 255,
+          "end": 315,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ducktv_gr_ducktv_2026-01-07_0315",
+          "start": 315,
+          "end": 380,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 148,
+      "channel_name": "GR - Βεργίνα TV",
+      "programs": [
+        {
+          "program_id": "tv_gr__2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tv_gr__2026-01-07_0120",
+          "start": 120,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tv_gr__2026-01-07_0210",
+          "start": 210,
+          "end": 360,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 149,
+      "channel_name": "GR - ΕΡΤ NEWS",
+      "programs": [
+        {
+          "program_id": "news_gr_off_the_record_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "news_gr_force_2026-01-07_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "news_gr__2026-01-07_0125",
+          "start": 125,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "news_gr__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "news_gr__2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 150,
+      "channel_name": "GR - ΚΡΗΤΗ TV",
+      "programs": [
+        {
+          "program_id": "tv_gr__2026-01-07_0010",
+          "start": 10,
+          "end": 70,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tv_gr__2026-01-07_0070",
+          "start": 70,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv_gr__2026-01-07_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv_gr_be_2026-01-07_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tv_gr__2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tv_gr_sabrina_2026-01-07_0300",
+          "start": 300,
+          "end": 340,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 151,
+      "channel_name": "GR - Κρήτη Νέα Τηλεόραση",
+      "programs": [
+        {
+          "program_id": "gr_nea_tv_crete_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "gr_nea_tv_crete_2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    }
+  ]
+}

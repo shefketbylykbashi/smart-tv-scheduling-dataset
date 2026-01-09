@@ -1,0 +1,5734 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 111,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 90,
+      "end": 135,
+      "allowed_channels": [
+        82,
+        13,
+        104,
+        2,
+        93,
+        94,
+        87,
+        32,
+        39,
+        92,
+        91,
+        31,
+        95,
+        79,
+        20,
+        35,
+        72,
+        96,
+        34,
+        97,
+        33,
+        15,
+        0,
+        44,
+        25,
+        103,
+        5,
+        8,
+        16,
+        80,
+        84,
+        106,
+        14,
+        1,
+        98,
+        68,
+        17,
+        67,
+        38,
+        40,
+        26,
+        43,
+        102,
+        105,
+        27,
+        61,
+        21,
+        110,
+        48,
+        3,
+        41,
+        56,
+        49,
+        86,
+        7,
+        89
+      ]
+    },
+    {
+      "start": 210,
+      "end": 240,
+      "allowed_channels": [
+        63,
+        43,
+        13,
+        33,
+        25,
+        83,
+        90,
+        93,
+        1,
+        30,
+        94,
+        45,
+        68,
+        92,
+        0,
+        95,
+        6,
+        12,
+        14,
+        8,
+        50,
+        72,
+        96,
+        19,
+        84,
+        97,
+        106,
+        78,
+        82,
+        100,
+        79,
+        103,
+        34,
+        110,
+        67,
+        37,
+        20,
+        48,
+        60,
+        80,
+        5,
+        104,
+        44,
+        59,
+        87,
+        102,
+        105,
+        47,
+        32,
+        77,
+        74,
+        3,
+        86,
+        40,
+        41,
+        16
+      ]
+    },
+    {
+      "start": 315,
+      "end": 345,
+      "allowed_channels": [
+        2,
+        13,
+        93,
+        15,
+        35,
+        34,
+        33,
+        104,
+        31,
+        103,
+        96,
+        94,
+        12,
+        38,
+        39,
+        0,
+        95,
+        97,
+        81,
+        78,
+        106,
+        14,
+        47,
+        82,
+        84,
+        92,
+        5,
+        72,
+        89,
+        45,
+        91,
+        100,
+        19,
+        40,
+        20,
+        41,
+        32,
+        3,
+        59,
+        62,
+        83,
+        102,
+        23,
+        24,
+        30,
+        48,
+        51,
+        101,
+        105,
+        1,
+        42,
+        52,
+        60,
+        46,
+        21,
+        44
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "news",
+      "bonus": 23
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "news",
+      "bonus": 26
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "news",
+      "bonus": 32
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "news",
+      "bonus": 24
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "news",
+      "bonus": 25
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "news",
+      "bonus": 25
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "news",
+      "bonus": 30
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "sports",
+      "bonus": 48
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "sports",
+      "bonus": 48
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "MT - Al Jazeera Arabic",
+      "programs": [
+        {
+          "program_id": "aljazeeraarabic_mt_news_bulletin_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeeraarabic_mt_behind_the_news_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "aljazeeraarabic_mt_news_summary_2026-01-07_0060",
+          "start": 60,
+          "end": 65,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "aljazeeraarabic_mt_on_the_scale_2026-01-07_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "aljazeeraarabic_mt_news_bulletin_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "aljazeeraarabic_mt_news_bulletin_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "aljazeeraarabic_mt_news_bulletin_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "aljazeeraarabic_mt_news_bulletin_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "aljazeeraarabic_mt_news_bulletin_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "MT - Al Jazeera English",
+      "programs": [
+        {
+          "program_id": "aljazeeraenglish_m_news_live_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeeraenglish_m_inside_story_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "aljazeeraenglish_m_newshour_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "aljazeeraenglish_m_the_el_masri_case_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "aljazeeraenglish_m_news_live_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 86
+        },
+        {
+          "program_id": "aljazeeraenglish_m_talk_to_al_jazeera_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "aljazeeraenglish_m_news_live_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "aljazeeraenglish_m_witness_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "education",
+          "score": 60
+        },
+        {
+          "program_id": "aljazeeraenglish_m_news_live_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeeraenglish_m_upfront_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "MT - Animal Planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_mt_extinct_or_alive_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "animalplanet_mt_louisiana_law_2026-01-07_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_mt_tanked_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "animalplanet_mt_the_vet_life_2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_mt_the_vet_life_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_mt_animal_er_2026-01-07_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "animalplanet_mt_louisiana_law_2026-01-07_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_mt_cats_101_2026-01-07_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "sports",
+          "score": 90
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "MT - BBC Earth",
+      "programs": [
+        {
+          "program_id": "bbcearth_mt_paddy_and_chris_road_tri_2026-01-07_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "education",
+          "score": 64
+        },
+        {
+          "program_id": "bbcearth_mt_great_continental_railwa_2026-01-07_0040",
+          "start": 40,
+          "end": 110,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "bbcearth_mt_life_below_zero_2026-01-07_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbcearth_mt_ben_fogle_new_lives_in_t_2026-01-07_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "bbcearth_mt_the_future_of_nature_2026-01-07_0200",
+          "start": 200,
+          "end": 255,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "bbcearth_mt_paddy_and_chris_road_tri_2026-01-07_0255",
+          "start": 255,
+          "end": 305,
+          "genre": "education",
+          "score": 57
+        },
+        {
+          "program_id": "bbcearth_mt_great_continental_railwa_2026-01-07_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "MT - BBC Entertainment",
+      "programs": [
+        {
+          "program_id": "bbcentertainment_m_the_chelsea_detective_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bbcentertainment_m_friday_night_dinner_2026-01-07_0060",
+          "start": 60,
+          "end": 95,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bbcentertainment_m_death_in_paradise_2026-01-07_0095",
+          "start": 95,
+          "end": 155,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bbcentertainment_m_sanditon_2026-01-07_0155",
+          "start": 155,
+          "end": 210,
+          "genre": "education",
+          "score": 60
+        },
+        {
+          "program_id": "bbcentertainment_m_call_the_midwife_2026-01-07_0210",
+          "start": 210,
+          "end": 265,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bbcentertainment_m_father_brown_2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bbcentertainment_m_lewis_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "MT - BBC News",
+      "programs": [
+        {
+          "program_id": "bbcnews_mt_bbc_world_news_america_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "bbcnews_mt_bbc_world_news_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "bbcnews_mt_newscast_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "bbcnews_mt_bbc_world_news_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "bbcnews_mt_tech_now_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "bbcnews_mt_newsday_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "bbcnews_mt_business_today_2026-01-07_0210",
+          "start": 210,
+          "end": 225,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "bbcnews_mt_bbc_sport_2026-01-07_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "bbcnews_mt_newsday_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "bbcnews_mt_business_today_2026-01-07_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "bbcnews_mt_bbc_sport_2026-01-07_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "bbcnews_mt_newsday_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "bbcnews_mt_business_today_2026-01-07_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "bbcnews_mt_bbc_sport_2026-01-07_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "MT - BVN Europa",
+      "programs": [
+        {
+          "program_id": "bvneuropa_mt_nos_journaal_2026-01-07_0005",
+          "start": 5,
+          "end": 25,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "bvneuropa_mt_rail_away_2026-01-07_0025",
+          "start": 25,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bvneuropa_mt_zembla_2026-01-07_0200",
+          "start": 200,
+          "end": 240,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "bvneuropa_mt_tijd_voor_max_2026-01-07_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "MT - Baby TV",
+      "programs": [
+        {
+          "program_id": "babytv_mt_dreamy_nights_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "babytv_mt_dreamy_nights_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "babytv_mt_dreamy_nights_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "babytv_mt_moon_and_stars_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "babytv_mt_babytv_s_night_time_melo_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytv_mt_sweet_dreams_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "babytv_mt_good_night_hugs_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "babytv_mt_dreamy_nights_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytv_mt_moon_and_stars_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "babytv_mt_soothing_sounds_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytv_mt_from_night_to_day_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "babytv_mt_from_night_to_day_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "MT - Bloomberg",
+      "programs": [
+        {
+          "program_id": "bloomberg_mt_bloomberg_daybreak_asia_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "bloomberg_mt_bloomberg_tech_asia_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "bloomberg_mt_bloomberg_the_china_show_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bloomberg_mt_insight_with_haslinda_am_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "talk",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "MT - Boing",
+      "programs": [
+        {
+          "program_id": "boing_mt_lo_straordinario_mondo_d_2026-01-07_0175",
+          "start": 175,
+          "end": 185,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "boing_mt_lo_straordinario_mondo_d_2026-01-07_0220",
+          "start": 220,
+          "end": 230,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "MT - Boomerang",
+      "programs": [
+        {
+          "program_id": "boomerang_mt_mush_mush_and_the_mushab_2026-01-07_0030",
+          "start": 30,
+          "end": 45,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "boomerang_mt_grizzy_and_the_lemmings_2026-01-07_0194",
+          "start": 194,
+          "end": 201,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "boomerang_mt_grizzy_and_the_lemmings_2026-01-07_0215",
+          "start": 215,
+          "end": 222,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "boomerang_mt_grizzy_and_the_lemmings_2026-01-07_0229",
+          "start": 229,
+          "end": 236,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "boomerang_mt_mush_mush_and_the_mushab_2026-01-07_0250",
+          "start": 250,
+          "end": 262,
+          "genre": "sports",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "MT - CBeeBies",
+      "programs": [
+        {
+          "program_id": "cbeebies_mt_bluey_2026-01-07_0035",
+          "start": 35,
+          "end": 45,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "cbeebies_mt_bluey_2026-01-07_0050",
+          "start": 50,
+          "end": 60,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "cbeebies_mt_hey_duggee_2026-01-07_0060",
+          "start": 60,
+          "end": 65,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "cbeebies_mt_stan_can_2026-01-07_0075",
+          "start": 75,
+          "end": 85,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "cbeebies_mt_jojo_and_gran_gran_2026-01-07_0100",
+          "start": 100,
+          "end": 110,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "cbeebies_mt_bluey_2026-01-07_0230",
+          "start": 230,
+          "end": 240,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "cbeebies_mt_bluey_2026-01-07_0320",
+          "start": 320,
+          "end": 330,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "cbeebies_mt_grace_s_amazing_machines_2026-01-07_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "sports",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "MT - CGTN",
+      "programs": [
+        {
+          "program_id": "cgtn_mt_the_heat_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "cgtn_mt_the_world_today_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "cgtn_mt_global_business_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "cgtn_mt_the_world_today_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "cgtn_mt_china_24_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "cgtn_mt_the_world_today_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "cgtn_mt_world_insight_with_tian__2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "cgtn_mt_sports_scene_2026-01-07_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "cgtn_mt_the_point_with_liu_xin_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "cgtn_mt_global_watch_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "MT - C Music TV",
+      "programs": [
+        {
+          "program_id": "cmusictv_mt_evening_encore_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 81
+        },
+        {
+          "program_id": "cmusictv_mt_moonlight_melodies_2026-01-07_0060",
+          "start": 60,
+          "end": 420,
+          "genre": "movie",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "MT - CNBC",
+      "programs": [
+        {
+          "program_id": "cnbc_mt_squawk_box_asia_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "cnbc_mt_squawk_box_asia_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "cnbc_mt_squawk_box_asia_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "cnbc_mt_squawk_box_asia_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "cnbc_mt_squawk_box_asia_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "cnbc_mt_squawk_box_asia_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "cnbc_mt_the_china_connection_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "talk",
+          "score": 77
+        },
+        {
+          "program_id": "cnbc_mt_the_china_connection_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 77
+        },
+        {
+          "program_id": "cnbc_mt_inside_india_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "cnbc_mt_inside_india_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "cnbc_mt_access_middle_east_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "cnbc_mt_access_middle_east_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "talk",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "MT - CNN International",
+      "programs": [
+        {
+          "program_id": "cnninternational_m_the_brief_with_jim_sciut_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "cnninternational_m_erin_burnett_outfront_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "cnninternational_m_anderson_cooper_360_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "cnninternational_m_the_source_with_kaitlan__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnninternational_m_cnn_newsnight_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "cnninternational_m_laura_coates_live_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "MT - Caccia e Pesca",
+      "programs": [
+        {
+          "program_id": "cacciaepesca_mt_one_shot_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "movie",
+          "score": 84
+        },
+        {
+          "program_id": "cacciaepesca_mt_ritorno_alla_natura_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "cacciaepesca_mt_dama_passion_2026-01-07_0060",
+          "start": 60,
+          "end": 115,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cacciaepesca_mt_live_hunting_emotion_and_2026-01-07_0115",
+          "start": 115,
+          "end": 150,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "cacciaepesca_mt_migratoria_e_410_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cacciaepesca_mt_sua_maesta_il_cervo_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "cacciaepesca_mt_frammenti_di_caccia_alla_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cacciaepesca_mt_amici_per_la_piuma_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cacciaepesca_mt_tordi_a_tutto_tondo_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cacciaepesca_mt_caccia_alla_migratoria_i_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cacciaepesca_mt_a_caccia_con_moser_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "MT - Canale 5",
+      "programs": [
+        {
+          "program_id": "canale5_mt_tg5_2026-01-07_0020",
+          "start": 20,
+          "end": 58,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "canale5_mt_meteo_p_p_2026-01-07_0058",
+          "start": 58,
+          "end": 64,
+          "genre": "weather",
+          "score": 30
+        },
+        {
+          "program_id": "canale5_mt_da_definire_2026-01-07_0064",
+          "start": 64,
+          "end": 184,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "canale5_mt_una_vita_2026-01-07_0209",
+          "start": 209,
+          "end": 308,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "canale5_mt_distretto_di_polizia_2026-01-07_0308",
+          "start": 308,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "MT - Canale Italia",
+      "programs": [
+        {
+          "program_id": "canaleitalia_mt_cantando_e_ballando_stor_2026-01-07_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 53
+        },
+        {
+          "program_id": "canaleitalia_mt_notizie_oggi_2026-01-07_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "MT - Cartoon Network",
+      "programs": [
+        {
+          "program_id": "cartoonnetwork_mt_the_amazing_world_of_gum_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "kids",
+          "score": 55
+        },
+        {
+          "program_id": "cartoonnetwork_mt_the_amazing_world_of_gum_2026-01-07_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cartoonnetwork_mt_the_amazing_world_of_gum_2026-01-07_0150",
+          "start": 150,
+          "end": 220,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cartoonnetwork_mt_the_amazing_world_of_gum_2026-01-07_0220",
+          "start": 220,
+          "end": 320,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "cartoonnetwork_mt_the_amazing_world_of_gum_2026-01-07_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "MT - Cartoonito",
+      "programs": [
+        {
+          "program_id": "cartoonito_mt_fireman_sam_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cartoonito_mt_grizzy_and_the_lemmings_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "cartoonito_mt_masha_and_the_bear_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "cartoonito_mt_fireman_sam_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "cartoonito_mt_grizzy_and_the_lemmings_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cartoonito_mt_lu_and_the_bally_bunch_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "MT - Channel One Russia",
+      "programs": [
+        {
+          "program_id": "channelonerussia_m__2026-01-07_0020",
+          "start": 20,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "channelonerussia_m__2026-01-07_0120",
+          "start": 120,
+          "end": 155,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "channelonerussia_m__2026-01-07_0155",
+          "start": 155,
+          "end": 190,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "channelonerussia_m__2026-01-07_0190",
+          "start": 190,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "channelonerussia_m__2026-01-07_0240",
+          "start": 240,
+          "end": 250,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "channelonerussia_m__2026-01-07_0250",
+          "start": 250,
+          "end": 330,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "channelonerussia_m__2026-01-07_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "MT - Cielo",
+      "programs": [
+        {
+          "program_id": "cielo_mt_infiltrato_speciale_2026-01-07_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "cielo_mt_71_2026-01-07_0065",
+          "start": 65,
+          "end": 175,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cielo_mt_steve_austin_sfida_impla_2026-01-07_0175",
+          "start": 175,
+          "end": 210,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cielo_mt_top_20_countdown_2026-01-07_0210",
+          "start": 210,
+          "end": 260,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "cielo_mt_top_20_countdown_2026-01-07_0260",
+          "start": 260,
+          "end": 310,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "cielo_mt_top_20_countdown_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "MT - Club MTV",
+      "programs": [
+        {
+          "program_id": "clubmtv_mt_this_channel_is_now_clos_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "clubmtv_mt_this_channel_is_now_clos_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "clubmtv_mt_this_channel_is_now_clos_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "clubmtv_mt_this_channel_is_now_clos_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "MT - Crime + Investigation",
+      "programs": [
+        {
+          "program_id": "crime_investigatio_city_confidential_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "crime_investigatio_britain_s_darkest_taboos_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "crime_investigatio_the_real_murders_of_atla_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "education",
+          "score": 57
+        },
+        {
+          "program_id": "crime_investigatio_murder_at_the_motel_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "crime_investigatio_crimes_that_shook_britai_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "documentary",
+          "score": 73
+        },
+        {
+          "program_id": "crime_investigatio_murdertown_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "MT - Daystar Network",
+      "programs": [
+        {
+          "program_id": "daystarnetwork_mt_gary_keesee_fixing_the_m_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "daystarnetwork_mt_larry_and_tiz_huch_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "daystarnetwork_mt_sid_roth_s_it_s_supernat_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "talk",
+          "score": 76
+        },
+        {
+          "program_id": "daystarnetwork_mt_today_with_marilyn_and_s_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "daystarnetwork_mt_voice_of_god_with_joseph_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "daystarnetwork_mt_james_a_mcmenis_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "daystarnetwork_mt_rick_renner_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "daystarnetwork_mt_believers_walk_of_faith__2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "daystarnetwork_mt_psb_prophetic_sound_broa_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "daystarnetwork_mt_dr_david_jeremiah_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "religion",
+          "score": 59
+        },
+        {
+          "program_id": "daystarnetwork_mt_healing_time_with_dr_dou_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "daystarnetwork_mt_paula_today_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "MT - Discovery",
+      "programs": [
+        {
+          "program_id": "discovery_mt_salvage_hunters_classic__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "discovery_mt_misfit_garage_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discovery_mt_gold_rush_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "discovery_mt_the_last_woodsmen_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "discovery_mt_wheeler_dealers_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "discovery_mt_salvage_hunters_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "MT - Discovery Channel",
+      "programs": [
+        {
+          "program_id": "discoverychannel_m_salvage_hunters_classic__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "discoverychannel_m_misfit_garage_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "discoverychannel_m_gold_rush_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "discoverychannel_m_the_last_woodsmen_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoverychannel_m_wheeler_dealers_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "discoverychannel_m_salvage_hunters_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "MT - Disney Channel",
+      "programs": [
+        {
+          "program_id": "disneychannel_mt_big_city_greens_2026-01-07_0025",
+          "start": 25,
+          "end": 50,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "disneychannel_mt_kiff_2026-01-07_0300",
+          "start": 300,
+          "end": 325,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "MT - Disney Junior",
+      "programs": [
+        {
+          "program_id": "disneyjunior_mt_mickey_mouse_funhouse_2026-01-07_0215",
+          "start": 215,
+          "end": 240,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "disneyjunior_mt_sofia_the_first_2026-01-07_0335",
+          "start": 335,
+          "end": 360,
+          "genre": "sports",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "MT - Duck TV",
+      "programs": [
+        {
+          "program_id": "ducktv_mt_seasons_on_ducktv_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 84
+        },
+        {
+          "program_id": "ducktv_mt_ducktv_favorites_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "education",
+          "score": 57
+        },
+        {
+          "program_id": "ducktv_mt_learn_with_ducktv_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "education",
+          "score": 61
+        },
+        {
+          "program_id": "ducktv_mt_let_s_move_2026-01-07_0180",
+          "start": 180,
+          "end": 255,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "ducktv_mt_seasons_on_ducktv_2026-01-07_0255",
+          "start": 255,
+          "end": 315,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "ducktv_mt_learn_with_ducktv_2026-01-07_0315",
+          "start": 315,
+          "end": 380,
+          "genre": "education",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "MT - E! Entertainment",
+      "programs": [
+        {
+          "program_id": "e_entertainment_mt_botched_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "e_entertainment_mt_botched_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "series",
+          "score": 86
+        },
+        {
+          "program_id": "e_entertainment_mt_keeping_up_with_the_kard_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "e_entertainment_mt_keeping_up_with_the_kard_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "e_entertainment_mt_botched_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "e_entertainment_mt_botched_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "MT - EWTN",
+      "programs": [
+        {
+          "program_id": "ewtn_mt_daily_mass_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "ewtn_mt_chaplet_of_st_michael_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ewtn_mt_ewtn_news_nightly_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "ewtn_mt_mother_angelica_live_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "ewtn_mt_where_god_weeps_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "ewtn_mt_saints_vs_scoundrels_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ewtn_mt_heart_of_the_matter_focu_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ewtn_mt_bob_and_penny_lord_prese_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ewtn_mt_the_old_testament_prophe_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "MT - Euronews",
+      "programs": [
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0015",
+          "start": 15,
+          "end": 30,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 86
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0180",
+          "start": 180,
+          "end": 194,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0194",
+          "start": 194,
+          "end": 210,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 84
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronews_mt_the_european_debrief_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "MT - Extreme Sports",
+      "programs": [
+        {
+          "program_id": "extremesports_mt_grid_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "extremesports_mt_north_wrestling_2026-01-07_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "extremesports_mt_boondock_nation_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "extremesports_mt_boondock_nation_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "MT - FOX",
+      "programs": [
+        {
+          "program_id": "fox_mt_white_collar_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "religion",
+          "score": 60
+        },
+        {
+          "program_id": "fox_mt_9_1_1_2026-01-07_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "fox_mt_bones_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "fox_mt_bones_2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "fox_mt_white_collar_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "religion",
+          "score": 51
+        },
+        {
+          "program_id": "fox_mt_will_trent_2026-01-07_0225",
+          "start": 225,
+          "end": 265,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fox_mt_the_office_2026-01-07_0265",
+          "start": 265,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fox_mt_bones_2026-01-07_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "fox_mt_bones_2026-01-07_0350",
+          "start": 350,
+          "end": 395,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "MT - FOX LIFE",
+      "programs": [
+        {
+          "program_id": "foxlife_mt_grey_s_anatomy_2026-01-07_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "foxlife_mt_the_mentalist_2026-01-07_0035",
+          "start": 35,
+          "end": 75,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "foxlife_mt_castle_2026-01-07_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "foxlife_mt_castle_2026-01-07_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "foxlife_mt_chicago_fire_2026-01-07_0210",
+          "start": 210,
+          "end": 250,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "foxlife_mt_project_runway_2026-01-07_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "foxlife_mt_how_i_met_your_mother_2026-01-07_0325",
+          "start": 325,
+          "end": 345,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "foxlife_mt_the_mentalist_2026-01-07_0345",
+          "start": 345,
+          "end": 390,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "MT - FTV",
+      "programs": [
+        {
+          "program_id": "ftv_mt_lingerie_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "ftv_mt_lingerie_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "ftv_mt_swimwear_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ftv_mt_swimwear_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ftv_mt_top_models_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "ftv_mt_top_models_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "ftv_mt_lingerie_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "ftv_mt_lingerie_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "ftv_mt_swimwear_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ftv_mt_swimwear_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ftv_mt_top_photoshoots_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "ftv_mt_top_photoshoots_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "MT - Food Network",
+      "programs": [
+        {
+          "program_id": "foodnetwork_mt_diners_drive_ins_and_div_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "foodnetwork_mt_diners_drive_ins_and_div_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "foodnetwork_mt_chopped_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "foodnetwork_mt_restaurant_impossible_2026-01-07_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "foodnetwork_mt_kids_baking_championship_2026-01-07_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "foodnetwork_mt_chopped_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "MT - France 2",
+      "programs": [
+        {
+          "program_id": "france2_mt_ghostbusters_legacy_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "france2_mt_capitaine_marleau_2026-01-07_0090",
+          "start": 90,
+          "end": 190,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "france2_mt_m_t_o_outre_mer_2026-01-07_0190",
+          "start": 190,
+          "end": 195,
+          "genre": "weather",
+          "score": 32
+        },
+        {
+          "program_id": "france2_mt_a_commence_aujourd_hui_2026-01-07_0195",
+          "start": 195,
+          "end": 250,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "france2_mt_la_route_napol_on_de_l_l_2026-01-07_0250",
+          "start": 250,
+          "end": 290,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "france2_mt_tout_le_monde_veut_prend_2026-01-07_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "education",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "MT - France 24 in English",
+      "programs": [
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "france24inenglish__the_debate_2026-01-07_0010",
+          "start": 10,
+          "end": 53,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "france24inenglish__business_2026-01-07_0075",
+          "start": 75,
+          "end": 80,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "france24inenglish__focus_2026-01-07_0080",
+          "start": 80,
+          "end": 90,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0090",
+          "start": 90,
+          "end": 105,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "france24inenglish__arts24_2026-01-07_0105",
+          "start": 105,
+          "end": 120,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24inenglish__eye_on_africa_2026-01-07_0162",
+          "start": 162,
+          "end": 180,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0180",
+          "start": 180,
+          "end": 190,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "france24inenglish__the_debate_2026-01-07_0190",
+          "start": 190,
+          "end": 233,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "france24inenglish__entre_nous_2026-01-07_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "france24inenglish__eye_on_africa_2026-01-07_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "france24inenglish__news_2026-01-07_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "france24inenglish__arts24_2026-01-07_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "news",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "MT - France 24 in French",
+      "programs": [
+        {
+          "program_id": "france24infrench_m_l_actu_360_le_journal_2026-01-07_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24infrench_m_le_d_bat_2026-01-07_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "france24infrench_m_l_dition_nuit_le_journal_2026-01-07_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "france24infrench_m_le_journal_de_l_afrique_2026-01-07_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24infrench_m_le_journal_de_la_can_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "france24infrench_m_l_dition_nuit_le_journal_2026-01-07_0120",
+          "start": 120,
+          "end": 130,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "france24infrench_m_l_dition_nuit_le_journal_2026-01-07_0150",
+          "start": 150,
+          "end": 160,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "france24infrench_m_l_instant_mobile_2026-01-07_0175",
+          "start": 175,
+          "end": 180,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "france24infrench_m_l_dition_nuit_le_journal_2026-01-07_0180",
+          "start": 180,
+          "end": 191,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "france24infrench_m_le_d_bat_2026-01-07_0191",
+          "start": 191,
+          "end": 235,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "france24infrench_m_l_instant_mobile_2026-01-07_0235",
+          "start": 235,
+          "end": 240,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "france24infrench_m_l_dition_nuit_le_journal_2026-01-07_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24infrench_m_actuelles_2026-01-07_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "france24infrench_m_l_dition_nuit_le_journal_2026-01-07_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24infrench_m_l_dition_nuit_le_journal_2026-01-07_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24infrench_m_aux_avant_postes_2026-01-07_0315",
+          "start": 315,
+          "end": 345,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "france24infrench_m_le_journal_de_l_afrique_2026-01-07_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "news",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "MT - France 3",
+      "programs": [
+        {
+          "program_id": "france3_mt_face_face_2026-01-07_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "france3_mt_journal_m_t_o_climat_2026-01-07_0035",
+          "start": 35,
+          "end": 40,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "france3_mt_paris_en_chansons_2026-01-07_0105",
+          "start": 105,
+          "end": 215,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "france3_mt_samedi_d_en_rire_2026-01-07_0220",
+          "start": 220,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "france3_mt_duels_en_familles_2026-01-07_0285",
+          "start": 285,
+          "end": 320,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "france3_mt_slam_2026-01-07_0320",
+          "start": 320,
+          "end": 361,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "MT - GOD TV",
+      "programs": [
+        {
+          "program_id": "godtv_mt_bless_israel_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "godtv_mt_bless_israel_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "godtv_mt_bless_israel_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "godtv_mt_bless_israel_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "godtv_mt_bishop_jarron_c_o_neal_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "religion",
+          "score": 59
+        },
+        {
+          "program_id": "godtv_mt_bless_israel_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "godtv_mt_a_significant_life_ps_ji_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "godtv_mt_manna_fest_perry_stone_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "godtv_mt_what_s_the_word_with_bry_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "godtv_mt_in_touch_charles_stanley_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "religion",
+          "score": 60
+        },
+        {
+          "program_id": "godtv_mt_pastor_ramiro_pena_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "religion",
+          "score": 65
+        },
+        {
+          "program_id": "godtv_mt_cj_mcbride_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "religion",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "MT - GREAT! Movies Action",
+      "programs": [
+        {
+          "program_id": "great_moviesaction_the_exception_2026-01-07_0010",
+          "start": 10,
+          "end": 66,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "great_moviesaction_this_week_back_then_2026-01-07_0066",
+          "start": 66,
+          "end": 71,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "great_moviesaction_the_exception_2026-01-07_0071",
+          "start": 71,
+          "end": 150,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "great_moviesaction_the_avengers_2026-01-07_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "great_moviesaction_the_new_avengers_2026-01-07_0210",
+          "start": 210,
+          "end": 265,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "great_moviesaction_collision_course_2026-01-07_0265",
+          "start": 265,
+          "end": 350,
+          "genre": "education",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "MT - Ginx TV",
+      "programs": [
+        {
+          "program_id": "ginxtv_mt_shut_up_and_play_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ginxtv_mt_icons_2026-01-07_0030",
+          "start": 30,
+          "end": 45,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "ginxtv_mt_shut_up_and_play_2026-01-07_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ginxtv_mt_origins_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "ginxtv_mt_the_first_hour_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "ginxtv_mt_shut_up_and_play_2026-01-07_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "ginxtv_mt_let_s_go_viral_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "MT - HGTV",
+      "programs": [
+        {
+          "program_id": "hgtv_mt_sin_city_rehab_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hgtv_mt_caribbean_life_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "hgtv_mt_caribbean_life_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hgtv_mt_my_lottery_dream_home_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "hgtv_mt_my_lottery_dream_home_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hgtv_mt_beachfront_bargain_hunt_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "hgtv_mt_house_hunters_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hgtv_mt_house_hunters_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hgtv_mt_flip_or_flop_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hgtv_mt_island_life_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hgtv_mt_island_life_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "MT - HISTORY",
+      "programs": [
+        {
+          "program_id": "history_mt_the_curse_of_oak_island_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "history_mt_the_unxplained_2026-01-07_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "history_mt_pawn_stars_best_of_2026-01-07_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "history_mt_pawn_stars_2026-01-07_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "history_mt_ancient_aliens_2026-01-07_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "history_mt_the_unxplained_2026-01-07_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "history_mt_ancient_aliens_special_p_2026-01-07_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "unknown",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "MT - ID",
+      "programs": [
+        {
+          "program_id": "id_mt_the_killer_closer_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "id_mt_who_hired_the_hitman_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "id_mt_i_almost_got_away_with_i_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "id_mt_til_death_do_us_part_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "id_mt_betrayed_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "id_mt_betrayed_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "MT - ITV Shopping",
+      "programs": [
+        {
+          "program_id": "itvshopping_mt_itv_shopping_channel_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "itvshopping_mt_itv_shopping_channel_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "itvshopping_mt_itv_shopping_channel_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "itvshopping_mt_itv_shopping_channel_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "itvshopping_mt_itv_shopping_channel_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "itvshopping_mt_itv_shopping_channel_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "MT - Iris",
+      "programs": [
+        {
+          "program_id": "iris_mt_l_albero_degli_impiccati_2026-01-07_0000",
+          "start": 0,
+          "end": 94,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "iris_mt_cominci_con_un_bacio_2026-01-07_0094",
+          "start": 94,
+          "end": 202,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "iris_mt_monsieur_hulot_nel_caos__2026-01-07_0202",
+          "start": 202,
+          "end": 294,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "iris_mt_due_per_tre_2026-01-07_0294",
+          "start": 294,
+          "end": 324,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "iris_mt_due_per_tre_2026-01-07_0324",
+          "start": 324,
+          "end": 392,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "MT - Italia 1",
+      "programs": [
+        {
+          "program_id": "italia1_mt_the_mask_da_zero_a_mito_2026-01-07_0000",
+          "start": 0,
+          "end": 32,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "italia1_mt_tgcom24_breaking_news_2026-01-07_0032",
+          "start": 32,
+          "end": 42,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "italia1_mt_the_mask_da_zero_a_mito_2026-01-07_0042",
+          "start": 42,
+          "end": 113,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "italia1_mt_sport_mediaset_la_giorna_2026-01-07_0131",
+          "start": 131,
+          "end": 158,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "italia1_mt_relitti_e_segreti_nel_pr_2026-01-07_0158",
+          "start": 158,
+          "end": 211,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "italia1_mt_relitti_e_segreti_nel_pr_2026-01-07_0211",
+          "start": 211,
+          "end": 263,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "italia1_mt_lost_treasures_of_rome_2026-01-07_0263",
+          "start": 263,
+          "end": 309,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "italia1_mt_hazzard_2026-01-07_0309",
+          "start": 309,
+          "end": 403,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "MT - Italia 2",
+      "programs": [
+        {
+          "program_id": "italia2_mt_tgcom24_breaking_news_2026-01-07_0000",
+          "start": 0,
+          "end": 1,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "italia2_mt_one_piece_gold_2026-01-07_0001",
+          "start": 1,
+          "end": 53,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "italia2_mt_camera_caf_2026-01-07_0270",
+          "start": 270,
+          "end": 294,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "italia2_mt_camera_caf_2026-01-07_0294",
+          "start": 294,
+          "end": 318,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "italia2_mt_camera_caf_2026-01-07_0318",
+          "start": 318,
+          "end": 342,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "MT - JimJam",
+      "programs": [
+        {
+          "program_id": "jimjam_mt_guess_how_much_i_love_yo_2026-01-07_0061",
+          "start": 61,
+          "end": 72,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "jimjam_mt_busytown_mysteries_2026-01-07_0081",
+          "start": 81,
+          "end": 105,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "jimjam_mt_harry_and_his_bucket_ful_2026-01-07_0152",
+          "start": 152,
+          "end": 163,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "jimjam_mt_leo_the_wildlife_ranger_2026-01-07_0326",
+          "start": 326,
+          "end": 333,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "jimjam_mt_simon_2026-01-07_0350",
+          "start": 350,
+          "end": 360,
+          "genre": "sports",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "MT - LBC Europe",
+      "programs": [
+        {
+          "program_id": "lbceurope_mt_ben_kentish_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "lbceurope_mt_richard_spurr_2026-01-07_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "lbceurope_mt_ian_payne_2026-01-07_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "MT - La 5",
+      "programs": [
+        {
+          "program_id": "la5_mt_holiday_harmony_2026-01-07_0000",
+          "start": 0,
+          "end": 34,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "la5_mt_tgcom24_breaking_news_2026-01-07_0034",
+          "start": 34,
+          "end": 42,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "la5_mt_holiday_harmony_2026-01-07_0042",
+          "start": 42,
+          "end": 92,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "la5_mt_la_figlia_di_elisa_ritor_2026-01-07_0092",
+          "start": 92,
+          "end": 179,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "la5_mt_la_freccia_nera_2026-01-07_0179",
+          "start": 179,
+          "end": 299,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "la5_mt_tempesta_d_amore_2026-01-07_0299",
+          "start": 299,
+          "end": 360,
+          "genre": "music",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "MT - Luxe TV",
+      "programs": [
+        {
+          "program_id": "luxetv_mt_luxe_today_2026-01-07_0000",
+          "start": 0,
+          "end": 25,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "luxetv_mt_destination_special_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "luxetv_mt_luxe_today_2026-01-07_0060",
+          "start": 60,
+          "end": 85,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "luxetv_mt_destination_special_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "luxetv_mt_luxe_today_2026-01-07_0120",
+          "start": 120,
+          "end": 145,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "luxetv_mt_destination_special_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "luxetv_mt_luxe_today_2026-01-07_0180",
+          "start": 180,
+          "end": 205,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "luxetv_mt_destination_special_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "luxetv_mt_luxe_today_2026-01-07_0240",
+          "start": 240,
+          "end": 265,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "luxetv_mt_destination_special_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "luxetv_mt_luxe_today_2026-01-07_0300",
+          "start": 300,
+          "end": 325,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "luxetv_mt_destination_special_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "MT - MTV",
+      "programs": [
+        {
+          "program_id": "mtv_mt_ink_master_2026-01-07_0065",
+          "start": 65,
+          "end": 105,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mtv_mt_ink_master_2026-01-07_0105",
+          "start": 105,
+          "end": 155,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mtv_mt_geordie_shore_2026-01-07_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "mtv_mt_ridiculousness_2026-01-07_0270",
+          "start": 270,
+          "end": 290,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "MT - MTV 00s",
+      "programs": [
+        {
+          "program_id": "mtv00s_mt_this_channel_is_now_clos_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mtv00s_mt_this_channel_is_now_clos_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mtv00s_mt_this_channel_is_now_clos_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "MT - MTV 80s",
+      "programs": [
+        {
+          "program_id": "mtv80s_mt_this_channel_is_now_clos_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mtv80s_mt_this_channel_is_now_clos_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtv80s_mt_this_channel_is_now_clos_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mtv80s_mt_this_channel_is_now_clos_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "MT - MTV 90s",
+      "programs": [
+        {
+          "program_id": "mtv90s_mt_this_channel_is_now_clos_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mtv90s_mt_this_channel_is_now_clos_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "mtv90s_mt_this_channel_is_now_clos_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "MT - MTV Live",
+      "programs": [
+        {
+          "program_id": "mtvlive_mt_this_channel_is_now_clos_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mtvlive_mt_this_channel_is_now_clos_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mtvlive_mt_this_channel_is_now_clos_2026-01-07_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mtvlive_mt_this_channel_is_now_clos_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "MT - Mediaset Extra",
+      "programs": [
+        {
+          "program_id": "mediasetextra_mt_chi_vuol_essere_milionar_2026-01-07_0000",
+          "start": 0,
+          "end": 92,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mediasetextra_mt_caduta_libera_2026-01-07_0092",
+          "start": 92,
+          "end": 144,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mediasetextra_mt_tgcom24_breaking_news_2026-01-07_0144",
+          "start": 144,
+          "end": 148,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "mediasetextra_mt_anni_60_2026-01-07_0148",
+          "start": 148,
+          "end": 238,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mediasetextra_mt_non_e_la_rai_2026-01-07_0238",
+          "start": 238,
+          "end": 289,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "mediasetextra_mt_non_e_la_rai_2026-01-07_0289",
+          "start": 289,
+          "end": 364,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "MT - Mediaset Italia",
+      "programs": [
+        {
+          "program_id": "mediasetitalia_mt_quarta_repubblica_2026-01-07_0010",
+          "start": 10,
+          "end": 182,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mediasetitalia_mt_caduta_libera_2026-01-07_0193",
+          "start": 193,
+          "end": 248,
+          "genre": "series",
+          "score": 92
+        },
+        {
+          "program_id": "mediasetitalia_mt_4_di_sera_news_2026-01-07_0248",
+          "start": 248,
+          "end": 304,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "mediasetitalia_mt_tira_e_molla_2026-01-07_0316",
+          "start": 316,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "MT - Melita More",
+      "programs": [
+        {
+          "program_id": "melitamore_mt_promotional_content_2026-01-07_0015",
+          "start": 15,
+          "end": 375,
+          "genre": "weather",
+          "score": 37
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "MT - Mezzo",
+      "programs": [
+        {
+          "program_id": "mezzo_mt_rameau_les_f_tes_d_h_b_w_2026-01-07_0000",
+          "start": 0,
+          "end": 130,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "mezzo_mt_morricone_conducts_morri_2026-01-07_0130",
+          "start": 130,
+          "end": 230,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "mezzo_mt_die_gro_en_musikrivalen_2026-01-07_0295",
+          "start": 295,
+          "end": 340,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "mezzo_mt_wagner_die_walk_re_opern_2026-01-07_0355",
+          "start": 355,
+          "end": 595,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "MT - NET",
+      "programs": [
+        {
+          "program_id": "net_mt_xandiriet_g_al_matul_il__2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "net_mt_xandiriet_g_al_matul_il__2026-01-07_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "MT - Nat Geo Wild",
+      "programs": [
+        {
+          "program_id": "natgeowild_mt_wild_alaska_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "natgeowild_mt_kingdom_of_the_polar_bea_2026-01-07_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "natgeowild_mt_wild_lapland_2026-01-07_0075",
+          "start": 75,
+          "end": 125,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "natgeowild_mt_snow_school_2026-01-07_0125",
+          "start": 125,
+          "end": 170,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "natgeowild_mt_wild_winter_2026-01-07_0170",
+          "start": 170,
+          "end": 220,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "natgeowild_mt_winter_s_hidden_wonders_2026-01-07_0220",
+          "start": 220,
+          "end": 265,
+          "genre": "education",
+          "score": 65
+        },
+        {
+          "program_id": "natgeowild_mt_wild_lapland_2026-01-07_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "natgeowild_mt_snow_school_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "MT - National Geographic",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_wwii_tank_showdown_2026-01-07_0005",
+          "start": 5,
+          "end": 55,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "nationalgeographic_mayday_2026-01-07_0055",
+          "start": 55,
+          "end": 100,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "nationalgeographic_mayday_2026-01-07_0100",
+          "start": 100,
+          "end": 145,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "nationalgeographic_mayday_2026-01-07_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "nationalgeographic_inside_north_korea_s_dyn_2026-01-07_0190",
+          "start": 190,
+          "end": 240,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "nationalgeographic_wwii_tank_showdown_2026-01-07_0240",
+          "start": 240,
+          "end": 290,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "nationalgeographic_ice_road_rescue_2026-01-07_0315",
+          "start": 315,
+          "end": 365,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "MT - Nick Junior Global",
+      "programs": [
+        {
+          "program_id": "nickjuniorglobal_m_dora_2026-01-07_0225",
+          "start": 225,
+          "end": 245,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "nickjuniorglobal_m_blaze_and_the_monster_ma_2026-01-07_0245",
+          "start": 245,
+          "end": 270,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "nickjuniorglobal_m_blaze_and_the_monster_ma_2026-01-07_0270",
+          "start": 270,
+          "end": 295,
+          "genre": "sports",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "MT - Nickelodeon",
+      "programs": [
+        {
+          "program_id": "nickelodeon_mt_best_and_bester_2026-01-07_0035",
+          "start": 35,
+          "end": 55,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "nickelodeon_mt_spongebob_squarepants_2026-01-07_0125",
+          "start": 125,
+          "end": 150,
+          "genre": "sports",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "MT - ONE",
+      "programs": [
+        {
+          "program_id": "one_mt_tra_missjoni_matul_il_le_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "one_mt_tra_missjoni_matul_il_le_2026-01-07_0180",
+          "start": 180,
+          "end": 390,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "MT - Parliament Channel",
+      "programs": [
+        {
+          "program_id": "parliamentchannel__repeat_parliament_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "parliamentchannel__repeat_parliament_tv_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "MT - Promo Channel",
+      "programs": [
+        {
+          "program_id": "promochannel_mt_promo_channel_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "promo",
+          "score": 28
+        },
+        {
+          "program_id": "promochannel_mt_promo_channel_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "promo",
+          "score": 26
+        },
+        {
+          "program_id": "promochannel_mt_promo_channel_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "promo",
+          "score": 30
+        },
+        {
+          "program_id": "promochannel_mt_promo_channel_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "promo",
+          "score": 34
+        },
+        {
+          "program_id": "promochannel_mt_promo_channel_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "promo",
+          "score": 34
+        },
+        {
+          "program_id": "promochannel_mt_promo_channel_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "promo",
+          "score": 33
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "MT - RTL",
+      "programs": [
+        {
+          "program_id": "rtl_mt_rtl_nachtjournal_2026-01-07_0000",
+          "start": 0,
+          "end": 43,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "rtl_mt_rtl_nachtjournal_das_wet_2026-01-07_0043",
+          "start": 43,
+          "end": 45,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "rtl_mt_csi_miami_2026-01-07_0045",
+          "start": 45,
+          "end": 95,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "rtl_mt_csi_miami_2026-01-07_0095",
+          "start": 95,
+          "end": 140,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtl_mt_csi_miami_2026-01-07_0140",
+          "start": 140,
+          "end": 185,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rtl_mt_csi_den_t_tern_auf_der_s_2026-01-07_0185",
+          "start": 185,
+          "end": 230,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtl_mt_csi_den_t_tern_auf_der_s_2026-01-07_0230",
+          "start": 230,
+          "end": 275,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "rtl_mt_csi_den_t_tern_auf_der_s_2026-01-07_0275",
+          "start": 275,
+          "end": 320,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "rtl_mt_csi_den_t_tern_auf_der_s_2026-01-07_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "MT - RTL II",
+      "programs": [
+        {
+          "program_id": "rtlii_mt_hartz_und_herzlich_2026-01-07_0015",
+          "start": 15,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rtlii_mt_hartz_und_herzlich_2026-01-07_0120",
+          "start": 120,
+          "end": 220,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtlii_mt_hartz_und_herzlich_tag_f_2026-01-07_0220",
+          "start": 220,
+          "end": 310,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtlii_mt_der_tr_deltrupp_das_geld_2026-01-07_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "MT - Radio TV",
+      "programs": [
+        {
+          "program_id": "radiotv_mt_i_nottambuli_2026-01-07_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "radiotv_mt_i_nottambuli_2026-01-07_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "MT - Rai Due",
+      "programs": [
+        {
+          "program_id": "raidue_mt_il_sabato_al_90_2026-01-07_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "raidue_mt_bleed_pi_forte_del_desti_2026-01-07_0045",
+          "start": 45,
+          "end": 159,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "raidue_mt_meteo_2_2026-01-07_0159",
+          "start": 159,
+          "end": 160,
+          "genre": "weather",
+          "score": 31
+        },
+        {
+          "program_id": "raidue_mt_twisted_twin_il_lato_osc_2026-01-07_0165",
+          "start": 165,
+          "end": 250,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "raidue_mt_le_leggi_del_cuore_2026-01-07_0250",
+          "start": 250,
+          "end": 285,
+          "genre": "religion",
+          "score": 53
+        },
+        {
+          "program_id": "raidue_mt_le_leggi_del_cuore_2026-01-07_0285",
+          "start": 285,
+          "end": 335,
+          "genre": "religion",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "MT - Rai Italia",
+      "programs": [
+        {
+          "program_id": "raiitalia_mt_affari_tuoi_speciale_lot_2026-01-07_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "raiitalia_mt_concerto_dell_epifania_2026-01-07_0075",
+          "start": 75,
+          "end": 150,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "raiitalia_mt_tg_rai_news_24_2026-01-07_0150",
+          "start": 150,
+          "end": 390,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "MT - Rai News",
+      "programs": [
+        {
+          "program_id": "rainews_mt_news_2026-01-07_0000",
+          "start": 0,
+          "end": 25,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "rainews_mt_meteo_2026-01-07_0025",
+          "start": 25,
+          "end": 30,
+          "genre": "weather",
+          "score": 24
+        },
+        {
+          "program_id": "rainews_mt_tg_notte_2026-01-07_0030",
+          "start": 30,
+          "end": 45,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "rainews_mt_rassegna_stampa_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rainews_mt_spotlive_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "rainews_mt_news_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "rainews_mt_futuro_24_2026-01-07_0165",
+          "start": 165,
+          "end": 180,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "rainews_mt_documentario_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "rainews_mt_tg_notte_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "rainews_mt_spotlive_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 82
+        },
+        {
+          "program_id": "rainews_mt_tg_alba_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "MT - Rai Scuola",
+      "programs": [
+        {
+          "program_id": "raiscuola_mt_di_l_dal_fiume_e_tra_gli_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "raiscuola_mt_progetto_scienza_2026-01-07_0060",
+          "start": 60,
+          "end": 115,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "raiscuola_mt_i_parchi_nelle_dolomiti__2026-01-07_0115",
+          "start": 115,
+          "end": 145,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "raiscuola_mt_storie_della_scienza_2026-01-07_0145",
+          "start": 145,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "raiscuola_mt_un_giorno_per_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "raiscuola_mt_donne_di_scienza_2026-01-07_0270",
+          "start": 270,
+          "end": 305,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "raiscuola_mt_newton_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "MT - Rai Storia",
+      "programs": [
+        {
+          "program_id": "raistoria_mt_storie_della_tv_2026-01-07_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "raistoria_mt_rai_news_notte_2026-01-07_0050",
+          "start": 50,
+          "end": 55,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "raistoria_mt_passato_e_presente_2026-01-07_0075",
+          "start": 75,
+          "end": 110,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "raistoria_mt_italiani_con_paolo_mieli_2026-01-07_0115",
+          "start": 115,
+          "end": 175,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "raistoria_mt_francesco_morosini_il_pe_2026-01-07_0175",
+          "start": 175,
+          "end": 230,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "raistoria_mt_piersanti_mattarella_6_g_2026-01-07_0230",
+          "start": 230,
+          "end": 280,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "raistoria_mt_restore_2026-01-07_0280",
+          "start": 280,
+          "end": 295,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "raistoria_mt_match_domande_incrociate_2026-01-07_0295",
+          "start": 295,
+          "end": 340,
+          "genre": "movie",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "MT - Rai Uno",
+      "programs": [
+        {
+          "program_id": "raiuno_mt_concerto_dell_epifania_2026-01-07_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "raiuno_mt_l_eredit_2026-01-07_0085",
+          "start": 85,
+          "end": 160,
+          "genre": "series",
+          "score": 93
+        },
+        {
+          "program_id": "raiuno_mt_il_commissario_manara_2026-01-07_0160",
+          "start": 160,
+          "end": 205,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "raiuno_mt_il_commissario_manara_2026-01-07_0205",
+          "start": 205,
+          "end": 250,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "raiuno_mt_rainews24_2026-01-07_0250",
+          "start": 250,
+          "end": 360,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "MT - Rete 4",
+      "programs": [
+        {
+          "program_id": "rete4_mt_assassinio_sul_nilo_2026-01-07_0000",
+          "start": 0,
+          "end": 41,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rete4_mt_moschettieri_del_re_la_p_2026-01-07_0041",
+          "start": 41,
+          "end": 88,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rete4_mt_tgcom24_breaking_news_2026-01-07_0088",
+          "start": 88,
+          "end": 101,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "rete4_mt_moschettieri_del_re_la_p_2026-01-07_0101",
+          "start": 101,
+          "end": 154,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rete4_mt_tg4_l_ultima_ora_notte_2026-01-07_0154",
+          "start": 154,
+          "end": 172,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "rete4_mt_la_zia_d_america_va_a_sc_2026-01-07_0172",
+          "start": 172,
+          "end": 262,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "rete4_mt_mia_nonna_poliziotto_2026-01-07_0262",
+          "start": 262,
+          "end": 355,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "rete4_mt_tg4_l_ultima_ora_mattina_2026-01-07_0355",
+          "start": 355,
+          "end": 375,
+          "genre": "news",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "MT - Sky News",
+      "programs": [
+        {
+          "program_id": "skynews_mt_news_and_press_preview_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "skynews_mt_press_preview_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "skynews_mt_sky_news_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "skynews_mt_sky_news_2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "skynews_mt_sky_news_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "skynews_mt_sky_news_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "skynews_mt_sky_news_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "MT - Smash TV",
+      "programs": [
+        {
+          "program_id": "smashtv_mt_kalamita_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "smashtv_mt_tsn_teleshopping_2026-01-07_0090",
+          "start": 90,
+          "end": 240,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "smashtv_mt_express_tvshop_2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "MT - TGCOM 24",
+      "programs": [
+        {
+          "program_id": "tgcom24_mt_sport_mediaset_la_giorna_2026-01-07_0000",
+          "start": 0,
+          "end": 18,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "tgcom24_mt_rullo_notte_2026-01-07_0043",
+          "start": 43,
+          "end": 360,
+          "genre": "news",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "MT - TLC",
+      "programs": [
+        {
+          "program_id": "tlc_mt_save_my_skin_2026-01-07_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tlc_mt_down_home_fab_2026-01-07_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlc_mt_90_day_fianc_happily_eve_2026-01-07_0105",
+          "start": 105,
+          "end": 195,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "tlc_mt_7_little_johnstons_2026-01-07_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tlc_mt_outdaughtered_2026-01-07_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tlc_mt_say_yes_to_the_dress_2026-01-07_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "religion",
+          "score": 55
+        },
+        {
+          "program_id": "tlc_mt_kitchen_boss_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "MT - TRACE Urban",
+      "programs": [
+        {
+          "program_id": "traceurban_mt_sounds_of_trace_2026-01-07_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "MT - TRT World",
+      "programs": [
+        {
+          "program_id": "trtworld_mt_news_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "trtworld_mt_strait_talk_2026-01-07_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "trtworld_mt_news_2026-01-07_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "trtworld_mt_africa_matters_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "trtworld_mt_news_2026-01-07_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "trtworld_mt_roundtable_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "trtworld_mt_news_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "trtworld_mt_just_2_degrees_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtworld_mt_the_newsmakers_2026-01-07_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "talk",
+          "score": 76
+        },
+        {
+          "program_id": "trtworld_mt_beyond_borders_2026-01-07_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "education",
+          "score": 64
+        },
+        {
+          "program_id": "trtworld_mt_news_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "trtworld_mt_sist_earth_cultivating_c_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "kids",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "MT - TSN1",
+      "programs": [
+        {
+          "program_id": "tsn1_mt_fia_world_rally_raid_cha_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "tsn1_mt_efl_championship_2026-01-07_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tsn1_mt_motogp_season_review_2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "tsn1_mt_utmb_kodiak_ultra_marath_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "tsn1_mt_premiership_rugby_2026-01-07_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "MT - TSN2",
+      "programs": [
+        {
+          "program_id": "tsn2_mt_premier_league_the_big_i_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "tsn2_mt_premier_league_moments_2026-01-07_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tsn2_mt_premier_league_stories_2026-01-07_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "tsn2_mt_classic_match_rewind_2026-01-07_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "tsn2_mt_premier_league_highlight_2026-01-07_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "tsn2_mt_premier_league_stories_2026-01-07_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "tsn2_mt_premier_league_the_big_i_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "tsn2_mt_pl_goats_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tsn2_mt_premier_league_the_big_i_2026-01-07_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "tsn2_mt_classic_match_rewind_2026-01-07_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "MT - TSN3",
+      "programs": [
+        {
+          "program_id": "tsn3_mt_channel_closed_uefa_cham_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "tsn3_mt_channel_closed_uefa_cham_2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "MT - TSN4",
+      "programs": [
+        {
+          "program_id": "tsn4_mt_la_liga_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "tsn4_mt_la_liga_2026-01-07_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "tsn4_mt_la_liga_2026-01-07_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "tsn4_mt_la_liga_2026-01-07_0195",
+          "start": 195,
+          "end": 210,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "tsn4_mt_la_liga_2026-01-07_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "tsn4_mt_la_liga_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "MT - TSN5",
+      "programs": [
+        {
+          "program_id": "tsn5_mt_channel_closed_uefa_cham_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "tsn5_mt_channel_closed_uefa_cham_2026-01-07_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "sports",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "MT - TSN6",
+      "programs": [
+        {
+          "program_id": "tsn6_mt_channel_closed_uefa_cham_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "tsn6_mt_channel_closed_uefa_cham_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "MT - TSN7",
+      "programs": [
+        {
+          "program_id": "tsn7_mt_channel_closed_uefa_cham_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "tsn7_mt_channel_closed_uefa_cham_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "MT - TSN8",
+      "programs": [
+        {
+          "program_id": "tsn8_mt_channel_closed_uefa_cham_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "tsn8_mt_channel_closed_uefa_cham_2026-01-07_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "MT - TV 2000",
+      "programs": [
+        {
+          "program_id": "tv2000_mt_l_ora_solare_2026-01-07_0048",
+          "start": 48,
+          "end": 96,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "tv2000_mt_siamo_noi_2026-01-07_0096",
+          "start": 96,
+          "end": 135,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv2000_mt_federico_da_montefeltro_2026-01-07_0135",
+          "start": 135,
+          "end": 244,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv2000_mt_i_santi_2026-01-07_0244",
+          "start": 244,
+          "end": 275,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "tv2000_mt_l_ora_solare_2026-01-07_0329",
+          "start": 329,
+          "end": 378,
+          "genre": "talk",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "MT - TV5 Monde",
+      "programs": [
+        {
+          "program_id": "tv5monde_mt_les_indociles_2026-01-07_0000",
+          "start": 0,
+          "end": 84,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "tv5monde_mt_le_journal_afrique_2026-01-07_0084",
+          "start": 84,
+          "end": 111,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "tv5monde_mt_m_t_o_2026-01-07_0111",
+          "start": 111,
+          "end": 114,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "tv5monde_mt_o_p_j_2026-01-07_0114",
+          "start": 114,
+          "end": 167,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tv5monde_mt_o_p_j_2026-01-07_0167",
+          "start": 167,
+          "end": 218,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tv5monde_mt_le_23h_2026-01-07_0240",
+          "start": 240,
+          "end": 303,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "tv5monde_mt_le_6h_info_2026-01-07_0358",
+          "start": 358,
+          "end": 384,
+          "genre": "news",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "MT - TVE Internacional",
+      "programs": [
+        {
+          "program_id": "tveinternacional_m_late_xou_con_marc_gir_2026-01-07_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tveinternacional_m_noticias_24_h_2026-01-07_0120",
+          "start": 120,
+          "end": 330,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "tveinternacional_m_la_aventura_del_saber_2026-01-07_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "education",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "MT - TVM",
+      "programs": [
+        {
+          "program_id": "tvm_mt_night_transmission_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tvm_mt_night_transmission_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "MT - TVMNEWS+",
+      "programs": [
+        {
+          "program_id": "tvmnews_mt_tvm_euronews_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "tvmnews_mt_tvm_euronews_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "MT - TVMSport+",
+      "programs": [
+        {
+          "program_id": "tvmsport_mt_tvmsport_night_transmiss_2026-01-07_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "tvmsport_mt_tvmsport_night_transmiss_2026-01-07_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "MT - Timeless DIZI",
+      "programs": [
+        {
+          "program_id": "timelessdizi_mt_my_sweet_lie_2026-01-07_0010",
+          "start": 10,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "timelessdizi_mt_the_circle_usa_2026-01-07_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "timelessdizi_mt_queen_of_the_night_2026-01-07_0105",
+          "start": 105,
+          "end": 155,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "timelessdizi_mt_the_innocents_2026-01-07_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "timelessdizi_mt_the_innocents_2026-01-07_0200",
+          "start": 200,
+          "end": 245,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "timelessdizi_mt_my_sweet_lie_2026-01-07_0245",
+          "start": 245,
+          "end": 300,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "timelessdizi_mt_queen_of_the_night_2026-01-07_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "timelessdizi_mt_the_innocents_2026-01-07_0350",
+          "start": 350,
+          "end": 395,
+          "genre": "unknown",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "MT - Top Crime",
+      "programs": [
+        {
+          "program_id": "topcrime_mt_law_and_order_unit_speci_2026-01-07_0000",
+          "start": 0,
+          "end": 59,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "topcrime_mt_c_s_i_miami_2026-01-07_0059",
+          "start": 59,
+          "end": 101,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "topcrime_mt_c_s_i_miami_2026-01-07_0101",
+          "start": 101,
+          "end": 144,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "topcrime_mt_csi_ny_2026-01-07_0144",
+          "start": 144,
+          "end": 184,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "topcrime_mt_csi_ny_2026-01-07_0184",
+          "start": 184,
+          "end": 222,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "topcrime_mt_tgcom24_breaking_news_2026-01-07_0222",
+          "start": 222,
+          "end": 224,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "topcrime_mt_chicago_p_d_2026-01-07_0224",
+          "start": 224,
+          "end": 265,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "topcrime_mt_chicago_p_d_2026-01-07_0265",
+          "start": 265,
+          "end": 306,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "topcrime_mt_distretto_di_polizia_2026-01-07_0306",
+          "start": 306,
+          "end": 394,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "MT - Travel",
+      "programs": [
+        {
+          "program_id": "travel_mt_mysteries_at_the_museum_2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "travel_mt_mysteries_at_the_museum_2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "travel_mt_the_exorcism_of_roland_d_2026-01-07_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "travel_mt_ghost_brothers_2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "travel_mt_kindred_spirits_2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "MT - Weather & Info Channel",
+      "programs": [
+        {
+          "program_id": "weatherandinfochan_weather_and_information__2026-01-07_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 41
+        },
+        {
+          "program_id": "weatherandinfochan_weather_and_information__2026-01-07_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "weather",
+          "score": 47
+        },
+        {
+          "program_id": "weatherandinfochan_weather_and_information__2026-01-07_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "weather",
+          "score": 44
+        },
+        {
+          "program_id": "weatherandinfochan_weather_and_information__2026-01-07_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "weather",
+          "score": 41
+        },
+        {
+          "program_id": "weatherandinfochan_weather_and_information__2026-01-07_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "weather",
+          "score": 42
+        },
+        {
+          "program_id": "weatherandinfochan_weather_and_information__2026-01-07_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "weather",
+          "score": 38
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "MT - Xejk",
+      "programs": [
+        {
+          "program_id": "xejk_mt_religious_content_2026-01-07_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "xejk_mt_classics_2026-01-07_0030",
+          "start": 30,
+          "end": 360,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "MT - f Living",
+      "programs": [
+        {
+          "program_id": "fliving_mt_f_living_show_2026-01-07_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "fliving_mt_night_transmission_2026-01-07_0090",
+          "start": 90,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "fliving_mt_f_living_show_2026-01-07_0180",
+          "start": 180,
+          "end": 480,
+          "genre": "talk",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "MT - iConcerts",
+      "programs": [
+        {
+          "program_id": "iconcerts_mt_the_weeknd_live_in_londo_2026-01-07_0000",
+          "start": 0,
+          "end": 95,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "iconcerts_mt_green_day_live_at_fox_th_2026-01-07_0095",
+          "start": 95,
+          "end": 180,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "iconcerts_mt_paul_mccartney_the_space_2026-01-07_0180",
+          "start": 180,
+          "end": 296,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "iconcerts_mt_rock_legends_2026-01-07_0296",
+          "start": 296,
+          "end": 364,
+          "genre": "talk",
+          "score": 59
+        }
+      ]
+    }
+  ]
+}

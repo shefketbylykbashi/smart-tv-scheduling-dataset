@@ -1,0 +1,3758 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 263,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 0,
+      "end": 60,
+      "allowed_channels": [
+        229,
+        26,
+        53,
+        50,
+        41,
+        110,
+        184,
+        104,
+        141,
+        166,
+        217,
+        40,
+        175,
+        189,
+        224,
+        227,
+        13,
+        90,
+        2,
+        121,
+        198,
+        236,
+        142,
+        72,
+        199,
+        21,
+        101,
+        102,
+        117,
+        169,
+        221,
+        177,
+        210,
+        0,
+        1,
+        23,
+        28,
+        78,
+        130,
+        136,
+        146,
+        181,
+        232,
+        118,
+        180,
+        212,
+        228,
+        252,
+        48,
+        105,
+        112,
+        231,
+        12,
+        46,
+        77,
+        80,
+        86,
+        45,
+        62,
+        145,
+        251,
+        3,
+        144,
+        174,
+        4,
+        85,
+        170,
+        206,
+        9,
+        11,
+        15,
+        42,
+        66,
+        83,
+        88,
+        113,
+        115,
+        116,
+        153,
+        163,
+        196,
+        203,
+        219,
+        239,
+        247,
+        8,
+        16,
+        18,
+        33,
+        97,
+        98,
+        125,
+        138,
+        157,
+        185,
+        201,
+        214,
+        222,
+        233,
+        243,
+        260,
+        17,
+        19,
+        29,
+        32,
+        39,
+        51,
+        52,
+        57,
+        60,
+        64,
+        76,
+        81,
+        154,
+        173,
+        176,
+        195,
+        197,
+        235,
+        242,
+        27,
+        34,
+        56,
+        89,
+        135,
+        167,
+        178,
+        249,
+        5,
+        10,
+        73,
+        79,
+        95,
+        131,
+        132,
+        134,
+        151,
+        186,
+        187,
+        207,
+        240,
+        250,
+        261,
+        6
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "movie",
+      "bonus": 27
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "movie",
+      "bonus": 27
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "São Paulo/SP Record News",
+      "programs": [
+        {
+          "program_id": "417184_balan_o_geral_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "Adult Swim HD",
+      "programs": [
+        {
+          "program_id": "417185_robot_chicken_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "São Paulo/SP  ESPN 3 HD",
+      "programs": [
+        {
+          "program_id": "417186_sportscenter_americano_a_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "Jovem Pan News",
+      "programs": [
+        {
+          "program_id": "417187_jornal_jovem_pan_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "São Paulo/SP  History 2 HD",
+      "programs": [
+        {
+          "program_id": "417188_maldi_es_da_hist_ria_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "HBO",
+      "programs": [
+        {
+          "program_id": "417383_after_depois_da_promessa_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "FRANCE 24 HD",
+      "programs": [
+        {
+          "program_id": "417386_esto_es_francia_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "Sabor & Arte",
+      "programs": [
+        {
+          "program_id": "417387_jantar_o_qu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "ESPN 6",
+      "programs": [
+        {
+          "program_id": "417391_vt_espanyol_x_barcelona_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "Sony Movies Brazil",
+      "programs": [
+        {
+          "program_id": "417588_ladr_es_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "Rede Brasil HD",
+      "programs": [
+        {
+          "program_id": "417589_viagem_ao_fundo_do_mar_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "ESPN 2",
+      "programs": [
+        {
+          "program_id": "418722_vt_sassuolo_x_juventus_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "HBO+",
+      "programs": [
+        {
+          "program_id": "418723_festa_da_salsicha_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "ESPN 5",
+      "programs": [
+        {
+          "program_id": "418724_show_da_rodada_da_premie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "ESPN",
+      "programs": [
+        {
+          "program_id": "418725_vt_west_ham_x_nottingham_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "São Paulo/SP  Cinemax HD ³",
+      "programs": [
+        {
+          "program_id": "425959_gente_grande_2_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "São Paulo/SP  Nick Jr HD ³",
+      "programs": [
+        {
+          "program_id": "425960_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "São Paulo/SP  Mega TV",
+      "programs": [
+        {
+          "program_id": "425961_fogo_e_poder_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "São Paulo/SP  Gloobinho HD",
+      "programs": [
+        {
+          "program_id": "425962_s_o_s_fada_manu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "São Paulo/SP  Warner Channel",
+      "programs": [
+        {
+          "program_id": "425963_entrando_numa_fria_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "São Paulo/SP  Woohoo",
+      "programs": [
+        {
+          "program_id": "425964_saindo_na_trip_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "São Paulo/SP  TV Escola",
+      "programs": [
+        {
+          "program_id": "425965_doc_universidade_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "São Paulo/SP  Record",
+      "programs": [
+        {
+          "program_id": "425966_estranho_amor_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "São Paulo/SP  Canal 2",
+      "programs": [
+        {
+          "program_id": "425967_programa_o_canal_2_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "São Paulo/SP  Space HD ³",
+      "programs": [
+        {
+          "program_id": "425968_hard_knocks_temporada_de_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "São Paulo/SP  Comedy Central HD",
+      "programs": [
+        {
+          "program_id": "425969_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "São Paulo/SP  Premiere 2",
+      "programs": [
+        {
+          "program_id": "425970_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 97
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "São Paulo/SP  Nickelodeon",
+      "programs": [
+        {
+          "program_id": "425971_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "São Paulo/SP  TV Justiça",
+      "programs": [
+        {
+          "program_id": "425972_jornal_da_justi_a_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "Belo Horizonte/MG  Hbo Mundi",
+      "programs": [
+        {
+          "program_id": "425973_de_volta_ao_mar_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "São Paulo/SP  Curta!",
+      "programs": [
+        {
+          "program_id": "425974_estados_da_arte_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "São Paulo/SP  STAR CHANNEL HD",
+      "programs": [
+        {
+          "program_id": "425975_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "São Paulo/SP  TV Senado",
+      "programs": [
+        {
+          "program_id": "425976_senadoc_22_em_xxi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "São Paulo/SP  Band News HD",
+      "programs": [
+        {
+          "program_id": "425977_capital_e_mercado_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "São Paulo/SP  ESPN 4 HD",
+      "programs": [
+        {
+          "program_id": "425978_vt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "São Paulo/SP  Multishow",
+      "programs": [
+        {
+          "program_id": "425979_t_de_gra_a_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "São Paulo/SP  National Geographic HD ³",
+      "programs": [
+        {
+          "program_id": "425980_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "São Paulo/SP  Telecine Pipoca",
+      "programs": [
+        {
+          "program_id": "425981_tropa_de_elite_2_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "São Paulo/SP  GNT HD ³",
+      "programs": [
+        {
+          "program_id": "425982_avisa_l_que_eu_vou_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "Belo Horizonte/MG  TV Pai Eterno",
+      "programs": [
+        {
+          "program_id": "425983_joias_vip_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "São Paulo/SP  Premiere 7",
+      "programs": [
+        {
+          "program_id": "425984_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "São Paulo/SP  Premiere 5",
+      "programs": [
+        {
+          "program_id": "425985_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "São Paulo/SP  MTV",
+      "programs": [
+        {
+          "program_id": "425986_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "São Paulo/SP  Telecine Touch",
+      "programs": [
+        {
+          "program_id": "425987_doze_homens_e_outro_segr_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "São Paulo/SP  Sextreme",
+      "programs": [
+        {
+          "program_id": "425988_universit_rias_adoram_pa_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "São Paulo/SP  Animal Planet",
+      "programs": [
+        {
+          "program_id": "425989_tubar_es_pr_hist_ricos_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "São Paulo/SP  TV Korea",
+      "programs": [
+        {
+          "program_id": "425990_hist_ria_real_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "São Paulo/SP  TV Câmara",
+      "programs": [
+        {
+          "program_id": "425991_palavra_aberta_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "São Paulo/SP  Terra Viva",
+      "programs": [
+        {
+          "program_id": "425992_fam_lia_nakamura_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "São Paulo/SP  TNT SÉRIES HD",
+      "programs": [
+        {
+          "program_id": "425993_the_mentalist_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "Belo Horizonte/MG  Premiere 7",
+      "programs": [
+        {
+          "program_id": "425994_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 96
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "São Paulo/SP  HBO Signature",
+      "programs": [
+        {
+          "program_id": "425995_behind_the_candelabra_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "São Paulo/SP  Modo viagem",
+      "programs": [
+        {
+          "program_id": "425996_vin_colas_ao_redor_do_mu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "São Paulo/SP  Premiere 3",
+      "programs": [
+        {
+          "program_id": "425997_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 97
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "São Paulo/SP  Cartoonito HD",
+      "programs": [
+        {
+          "program_id": "425998_lucas_a_aranha_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "São Paulo/SP  Telecine Action HD ³",
+      "programs": [
+        {
+          "program_id": "425999_efeito_colateral_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "São Paulo/SP  MTV HD ³",
+      "programs": [
+        {
+          "program_id": "426000_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "São Paulo/SP  Band",
+      "programs": [
+        {
+          "program_id": "426001_masterchef_celebridades_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "São Paulo/SP  Paramount Network",
+      "programs": [
+        {
+          "program_id": "426002_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "São Paulo/SP  E!",
+      "programs": [
+        {
+          "program_id": "426003_million_dollar_listing_l_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "São Paulo/SP  SBT",
+      "programs": [
+        {
+          "program_id": "426004_sbt_rep_rter_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "São Paulo/SP  SporTV 3",
+      "programs": [
+        {
+          "program_id": "426005_lendas_ayrton_senna_2_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "São Paulo/SP  Modo viagem HD",
+      "programs": [
+        {
+          "program_id": "426006_vin_colas_ao_redor_do_mu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "São Paulo/SP  Woohoo HD",
+      "programs": [
+        {
+          "program_id": "426007_saindo_na_trip_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "São Paulo/SP  Multishow HD ³",
+      "programs": [
+        {
+          "program_id": "426008_t_de_gra_a_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "São Paulo/SP  Space",
+      "programs": [
+        {
+          "program_id": "426009_hard_knocks_temporada_de_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "São Paulo/SP  Discovery Turbo",
+      "programs": [
+        {
+          "program_id": "426010_os_reis_da_sucata_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "São Paulo/SP  BIS HD ³",
+      "programs": [
+        {
+          "program_id": "426011_arquivo_musical_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "São Paulo/SP  SporTV 2 HD ³",
+      "programs": [
+        {
+          "program_id": "426012_vt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "São Paulo/SP  Tnt novelas",
+      "programs": [
+        {
+          "program_id": "426013_iludida_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "São Paulo/SP  Espn 4",
+      "programs": [
+        {
+          "program_id": "426014_vt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "São Paulo/SP  HBO Xtreme",
+      "programs": [
+        {
+          "program_id": "426015_o_protetor_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "São Paulo/SP  Venus",
+      "programs": [
+        {
+          "program_id": "426016_nerds_tarados_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "São Paulo/SP  Warner Channel HD",
+      "programs": [
+        {
+          "program_id": "426017_entrando_numa_fria_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "São Paulo/SP  Rede Gospel",
+      "programs": [
+        {
+          "program_id": "426018_renascer_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "São Paulo/SP  Universal TV",
+      "programs": [
+        {
+          "program_id": "426019_law_and_order_svu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "kids",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "São Paulo/SP  HGTV HD",
+      "programs": [
+        {
+          "program_id": "426020_piscinas_incr_veis_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "São Paulo/SP  Discovery HD ³",
+      "programs": [
+        {
+          "program_id": "426021_largados_e_pelados_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "São Paulo/SP  Rede Vida HD",
+      "programs": [
+        {
+          "program_id": "426022_jctv_edi_o_da_noite_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "São Paulo/SP  Canal Comunitário",
+      "programs": [
+        {
+          "program_id": "426023_velocidade_sem_limites_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "São Paulo/SP  Eurochannel HD",
+      "programs": [
+        {
+          "program_id": "426024_expia_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "São Paulo/SP  HBO Xtreme HD",
+      "programs": [
+        {
+          "program_id": "426025_o_protetor_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "São Paulo/SP  Gazeta HD",
+      "programs": [
+        {
+          "program_id": "426026_igreja_universal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "São Paulo/SP   TV Aparecida (espelho)",
+      "programs": [
+        {
+          "program_id": "426027_medalh_o_com_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "São Paulo/SP  Premiere Clubes",
+      "programs": [
+        {
+          "program_id": "426028_vt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "São Paulo/SP  Globo",
+      "programs": [
+        {
+          "program_id": "426029_jornal_da_globo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "São Paulo/SP  TV Rá Tim Bum HD ³",
+      "programs": [
+        {
+          "program_id": "426030_era_uma_vez_no_quintal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "São Paulo/SP  TV5 Monde",
+      "programs": [
+        {
+          "program_id": "426031_caroline_vigneaux_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "São Paulo/SP  FX HD ³",
+      "programs": [
+        {
+          "program_id": "426032_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "São Paulo/SP  TLC HD ³",
+      "programs": [
+        {
+          "program_id": "426033_bem_vindo_fam_lia_plath_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "São Paulo/SP  Rede 21",
+      "programs": [
+        {
+          "program_id": "426034_igreja_universal_do_rein_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "São Paulo/SP  TCM",
+      "programs": [
+        {
+          "program_id": "426036_sementes_da_viol_ncia_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "São Paulo/SP  BIS",
+      "programs": [
+        {
+          "program_id": "426037_arquivo_musical_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "São Paulo/SP  Band HD",
+      "programs": [
+        {
+          "program_id": "426038_masterchef_celebridades_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "São Paulo/SP  Boa Vontade TV",
+      "programs": [
+        {
+          "program_id": "426039_mensagem_da_ave_maria_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "promo",
+          "score": 28
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "São Paulo/SP  AMC HD",
+      "programs": [
+        {
+          "program_id": "426040_turn_washingtons_spies_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "São Paulo/SP  Combate HD",
+      "programs": [
+        {
+          "program_id": "426041_mma_jungle_fight_139_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "São Paulo/SP  Cartoon Network HD",
+      "programs": [
+        {
+          "program_id": "426042_os_jovens_tit_s_em_a_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "São Paulo/SP  Off",
+      "programs": [
+        {
+          "program_id": "426043_bono_o_c_o_surfista_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "São Paulo/SP  AXN",
+      "programs": [
+        {
+          "program_id": "426044_9_1_1_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "São Paulo/SP  Nickelodeon HD",
+      "programs": [
+        {
+          "program_id": "426045_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "São Paulo/SP  DogTV HD",
+      "programs": [
+        {
+          "program_id": "426046_programa_o_dog_tv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "São Paulo/SP  Canal Legislativo",
+      "programs": [
+        {
+          "program_id": "426047_programa_o_canal_legisla_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "São Paulo/SP  TV Brasil",
+      "programs": [
+        {
+          "program_id": "426048_sem_censura_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "Belo Horizonte/MG  Premiere 6",
+      "programs": [
+        {
+          "program_id": "426049_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 94
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "São Paulo/SP  Arte 1",
+      "programs": [
+        {
+          "program_id": "426050_arte_1_documenta_hitler__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "São Paulo/SP  HBO HD ³",
+      "programs": [
+        {
+          "program_id": "426051_furiosa_uma_saga_mad_max_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "São Paulo/SP  Futura",
+      "programs": [
+        {
+          "program_id": "426052_quantos_dias_quantas_noi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "São Paulo/SP  FISH TV",
+      "programs": [
+        {
+          "program_id": "426053_alta_performance_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "São Paulo/SP  Disney Channel",
+      "programs": [
+        {
+          "program_id": "426054_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "São Paulo/SP  PREMIERE HD 3 ³",
+      "programs": [
+        {
+          "program_id": "426055_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "São Paulo/SP  Canal Rural",
+      "programs": [
+        {
+          "program_id": "426056_champion_sa_de_animal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "São Paulo/SP  TV Climatempo",
+      "programs": [
+        {
+          "program_id": "426057_terra_brasil_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "São Paulo/SP  DW-TV",
+      "programs": [
+        {
+          "program_id": "426058_zonadocu_comercio_con_cr_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "São Paulo/SP  Cinemax",
+      "programs": [
+        {
+          "program_id": "426059_gente_grande_2_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "São Paulo/SP  CONMEBOL TV 4 HD",
+      "programs": [
+        {
+          "program_id": "426060_conmebol_libertadores_e__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "São Paulo/SP  National Geographic",
+      "programs": [
+        {
+          "program_id": "426061_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "São Paulo/SP  SporTV",
+      "programs": [
+        {
+          "program_id": "426062_sess_o_sportv_alta_fidel_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "São Paulo/SP  Gloob HD ³",
+      "programs": [
+        {
+          "program_id": "426063_sa_dem_todos_o_rei_julie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "São Paulo/SP  Canal Brasil",
+      "programs": [
+        {
+          "program_id": "426064_lavoura_arcaica_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "São Paulo/SP  Telecine Pipoca HD ³",
+      "programs": [
+        {
+          "program_id": "426065_tropa_de_elite_2_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "São Paulo/SP  Discovery Science",
+      "programs": [
+        {
+          "program_id": "426066_armas_usa_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "São Paulo/SP  Rede Gospel HD",
+      "programs": [
+        {
+          "program_id": "426067_renascer_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "São Paulo/SP  Cultura HD",
+      "programs": [
+        {
+          "program_id": "426068_o_novo_sempre_vem_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "São Paulo/SP  Band Sports",
+      "programs": [
+        {
+          "program_id": "426069_f_rmula_1_gp_de_abu_dhab_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "São Paulo/SP  HBO 2",
+      "programs": [
+        {
+          "program_id": "426070_until_dawn_noite_de_terr_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "São Paulo/SP  Record HD",
+      "programs": [
+        {
+          "program_id": "426071_estranho_amor_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "São Paulo/SP  Combate",
+      "programs": [
+        {
+          "program_id": "426072_mma_jungle_fight_139_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "São Paulo/SP  Mosaico Multijogos",
+      "programs": [
+        {
+          "program_id": "426073_mosaico_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "São Paulo/SP  Food Network",
+      "programs": [
+        {
+          "program_id": "426074_grandes_chefs_torneio_do_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 130,
+      "channel_name": "São Paulo/SP  Play TV",
+      "programs": [
+        {
+          "program_id": "426075_canal_substitu_do_por_tv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 131,
+      "channel_name": "São Paulo/SP  HBO MUNDI HD",
+      "programs": [
+        {
+          "program_id": "426076_de_volta_ao_mar_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 132,
+      "channel_name": "São Paulo/SP  Band News",
+      "programs": [
+        {
+          "program_id": "426077_capital_e_mercado_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 133,
+      "channel_name": "São Paulo/SP  Mega TV HD",
+      "programs": [
+        {
+          "program_id": "426078_fogo_e_poder_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 134,
+      "channel_name": "São Paulo/SP  Syfy HD",
+      "programs": [
+        {
+          "program_id": "426079_blue_bloods_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 135,
+      "channel_name": "São Paulo/SP  ID HD ³",
+      "programs": [
+        {
+          "program_id": "426080_crime_em_tempo_real_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 136,
+      "channel_name": "São Paulo/SP  HBO Family HD ³",
+      "programs": [
+        {
+          "program_id": "426081_jack_o_ca_ador_de_gigant_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 137,
+      "channel_name": "São Paulo/SP  SporTV 2",
+      "programs": [
+        {
+          "program_id": "426082_vt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 138,
+      "channel_name": "São Paulo/SP  Comedy Central",
+      "programs": [
+        {
+          "program_id": "426083_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 139,
+      "channel_name": "São Paulo/SP  TNT",
+      "programs": [
+        {
+          "program_id": "426084_todo_mundo_odeia_o_chris_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 140,
+      "channel_name": "São Paulo/SP  The History Channel",
+      "programs": [
+        {
+          "program_id": "426085_ca_adores_de_rel_quias_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 141,
+      "channel_name": "São Paulo/SP  TVE International",
+      "programs": [
+        {
+          "program_id": "426086_cine_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 142,
+      "channel_name": "São Paulo/SP  Telecine Fun",
+      "programs": [
+        {
+          "program_id": "426087_angry_birds_2_o_filme_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 143,
+      "channel_name": "São Paulo/SP   Universal TV HD",
+      "programs": [
+        {
+          "program_id": "426088_law_and_order_svu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "kids",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 144,
+      "channel_name": "São Paulo/SP  TV Pai Eterno",
+      "programs": [
+        {
+          "program_id": "426089_joias_vip_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 145,
+      "channel_name": "São Paulo/SP  HBO Family",
+      "programs": [
+        {
+          "program_id": "426090_jack_o_ca_ador_de_gigant_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 146,
+      "channel_name": "São Paulo/SP  SporTV HD ³",
+      "programs": [
+        {
+          "program_id": "426091_sess_o_sportv_alta_fidel_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 147,
+      "channel_name": "São Paulo/SP  Syfy",
+      "programs": [
+        {
+          "program_id": "426092_blue_bloods_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 148,
+      "channel_name": "Campinas/SP  Film&Arts",
+      "programs": [
+        {
+          "program_id": "426093_wallander_a_vingan_a_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 149,
+      "channel_name": "São Paulo/SP  Cartoon Network",
+      "programs": [
+        {
+          "program_id": "426094_os_jovens_tit_s_em_a_o_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 150,
+      "channel_name": "São Paulo/SP  Megapix HD ³",
+      "programs": [
+        {
+          "program_id": "426095_anaconda_2_a_ca_ada_pela_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 151,
+      "channel_name": "São Paulo/SP  Canal de Vendas NET",
+      "programs": [
+        {
+          "program_id": "426096_adquira_produtos_claro_c_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 152,
+      "channel_name": "São Paulo/SP  Nick Jr.",
+      "programs": [
+        {
+          "program_id": "426097_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 153,
+      "channel_name": "São Paulo/SP  Rede TV HD",
+      "programs": [
+        {
+          "program_id": "426098_opera_o_de_risco_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 154,
+      "channel_name": "São Paulo/SP  Cinecanal",
+      "programs": [
+        {
+          "program_id": "426099_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 155,
+      "channel_name": "São Paulo/SP  Playboy TV",
+      "programs": [
+        {
+          "program_id": "426100_playmate_guide_to_the_un_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 156,
+      "channel_name": "São Paulo/SP   TV Brasil 2",
+      "programs": [
+        {
+          "program_id": "426101_atos_do_executivo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 157,
+      "channel_name": "São Paulo/SP  Playboy HD",
+      "programs": [
+        {
+          "program_id": "426102_playmate_guide_to_the_un_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 158,
+      "channel_name": "São Paulo/SP  GNT",
+      "programs": [
+        {
+          "program_id": "426103_avisa_l_que_eu_vou_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 159,
+      "channel_name": "São Paulo/SP  Premiere Clubes HD",
+      "programs": [
+        {
+          "program_id": "426104_vt_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 160,
+      "channel_name": "São Paulo/SP  Discovery Kids",
+      "programs": [
+        {
+          "program_id": "426105_mini_beat_power_rockers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 161,
+      "channel_name": "São Paulo/SP  Discovery Theater HD ³",
+      "programs": [
+        {
+          "program_id": "426106_no_rastro_do_p_grande_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 162,
+      "channel_name": "São Paulo/SP  Paramount Network HD",
+      "programs": [
+        {
+          "program_id": "426107_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 163,
+      "channel_name": "São Paulo/SP  CNN Brasil",
+      "programs": [
+        {
+          "program_id": "426108_no_lucro_cnn_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 164,
+      "channel_name": "São Paulo/SP  ZooMoo",
+      "programs": [
+        {
+          "program_id": "426109_brincando_com_caetano_e__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 165,
+      "channel_name": "São Paulo/SP  Tnt novelas HD",
+      "programs": [
+        {
+          "program_id": "426110_iludida_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 166,
+      "channel_name": "Campinas/SP  Canal do Boi",
+      "programs": [
+        {
+          "program_id": "426111_cine_canal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 167,
+      "channel_name": "São Paulo/SP  Film&Arts HD",
+      "programs": [
+        {
+          "program_id": "426112_wallander_a_vingan_a_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 168,
+      "channel_name": "São Paulo/SP  HBO HD 2 ³",
+      "programs": [
+        {
+          "program_id": "426113_until_dawn_noite_de_terr_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 169,
+      "channel_name": "São Paulo/SP  Rede Vida",
+      "programs": [
+        {
+          "program_id": "426114_jctv_edi_o_da_noite_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 170,
+      "channel_name": "São Paulo/SP  CGTN",
+      "programs": [
+        {
+          "program_id": "426115_world_insight_with_tian__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 171,
+      "channel_name": "São Paulo/SP  Gazeta",
+      "programs": [
+        {
+          "program_id": "426116_igreja_universal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 172,
+      "channel_name": "São Paulo/SP  Telecine Cult",
+      "programs": [
+        {
+          "program_id": "426117_a_semente_do_fruto_sagra_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "promo",
+          "score": 26
+        }
+      ]
+    },
+    {
+      "channel_id": 173,
+      "channel_name": "São Paulo/SP  Sony",
+      "programs": [
+        {
+          "program_id": "426118_rambo_iii_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 174,
+      "channel_name": "São Paulo/SP  Animal Planet HD",
+      "programs": [
+        {
+          "program_id": "426119_tubar_es_pr_hist_ricos_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 175,
+      "channel_name": "São Paulo/SP  Premiere HD 2",
+      "programs": [
+        {
+          "program_id": "426120_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 176,
+      "channel_name": "São Paulo/SP  Viva",
+      "programs": [
+        {
+          "program_id": "426121_salve_jorge_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 177,
+      "channel_name": "São Paulo/SP  CNN International",
+      "programs": [
+        {
+          "program_id": "426122_cnn_newsnight_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 178,
+      "channel_name": "São Paulo/SP  Telecine Premium",
+      "programs": [
+        {
+          "program_id": "426123_jogador_n_1_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 179,
+      "channel_name": "São Paulo/SP  Disney Channel HD ³",
+      "programs": [
+        {
+          "program_id": "426124_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 180,
+      "channel_name": "São Paulo/SP  BBC World News",
+      "programs": [
+        {
+          "program_id": "426125_bbc_sport_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 181,
+      "channel_name": "São Paulo/SP  Record News",
+      "programs": [
+        {
+          "program_id": "426126_jornal_da_record_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 182,
+      "channel_name": "São Paulo/SP  ZooMoo HD",
+      "programs": [
+        {
+          "program_id": "426127_brincando_com_caetano_e__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 183,
+      "channel_name": "São Paulo/SP  SporTV 3 HD ³",
+      "programs": [
+        {
+          "program_id": "426128_lendas_ayrton_senna_2_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 184,
+      "channel_name": "São Paulo/SP  PREMIERE HD 5 ³",
+      "programs": [
+        {
+          "program_id": "426129_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 95
+        }
+      ]
+    },
+    {
+      "channel_id": 185,
+      "channel_name": "São Paulo/SP  TV Rá Tim Bum",
+      "programs": [
+        {
+          "program_id": "426130_era_uma_vez_no_quintal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 186,
+      "channel_name": "São Paulo/SP  Telecine Action",
+      "programs": [
+        {
+          "program_id": "426131_efeito_colateral_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 187,
+      "channel_name": "São Paulo/SP  AMC",
+      "programs": [
+        {
+          "program_id": "426132_turn_washingtons_spies_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 188,
+      "channel_name": "São Paulo/SP  Discovery Turbo HD ³",
+      "programs": [
+        {
+          "program_id": "426133_os_reis_da_sucata_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 189,
+      "channel_name": "São Paulo/SP  Lifetime",
+      "programs": [
+        {
+          "program_id": "426134_n_o_grite_sou_eu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 190,
+      "channel_name": "São Paulo/SP  RAI International",
+      "programs": [
+        {
+          "program_id": "426135_il_meglio_di_indietro_tu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 191,
+      "channel_name": "São Paulo/SP  Music Box Brazil",
+      "programs": [
+        {
+          "program_id": "426136_jukebox_videoclipes_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 192,
+      "channel_name": "São Paulo/SP  TLC",
+      "programs": [
+        {
+          "program_id": "426137_bem_vindo_fam_lia_plath_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 193,
+      "channel_name": "São Paulo/SP  Band Sports HD ³",
+      "programs": [
+        {
+          "program_id": "426138_f_rmula_1_gp_de_abu_dhab_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 194,
+      "channel_name": "São Paulo/SP  Baby Tv",
+      "programs": [
+        {
+          "program_id": "426139_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 195,
+      "channel_name": "São Paulo/SP  AXN HD ³",
+      "programs": [
+        {
+          "program_id": "426140_9_1_1_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 196,
+      "channel_name": "São Paulo/SP  Prime Box Brazil HD ³",
+      "programs": [
+        {
+          "program_id": "426141_prime_doc_natureza_morta_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 197,
+      "channel_name": "São Paulo/SP  Fashion TV HD",
+      "programs": [
+        {
+          "program_id": "426142_moda_and_conceito_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 198,
+      "channel_name": "Belo Horizonte/MG  Polishop",
+      "programs": [
+        {
+          "program_id": "426143_programa_o_polishop_tv_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 199,
+      "channel_name": "São Paulo/SP  Canal do Boi",
+      "programs": [
+        {
+          "program_id": "426144_cine_canal_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 200,
+      "channel_name": "São Paulo/SP  E! HD",
+      "programs": [
+        {
+          "program_id": "426145_million_dollar_listing_l_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 201,
+      "channel_name": "São Paulo/SP  HBO POP HD",
+      "programs": [
+        {
+          "program_id": "426146_assim_que_acaba_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 202,
+      "channel_name": "São Paulo/SP  Megapix",
+      "programs": [
+        {
+          "program_id": "426147_anaconda_2_a_ca_ada_pela_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 203,
+      "channel_name": "São Paulo/SP  TNT HD ³",
+      "programs": [
+        {
+          "program_id": "426148_todo_mundo_odeia_o_chris_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 204,
+      "channel_name": "São Paulo/SP  History Hd",
+      "programs": [
+        {
+          "program_id": "426149_ca_adores_de_rel_quias_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 205,
+      "channel_name": "São Paulo/SP  Canal Universitário",
+      "programs": [
+        {
+          "program_id": "426150_iela_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 206,
+      "channel_name": "São Paulo/SP  Prime Box Brazil",
+      "programs": [
+        {
+          "program_id": "426151_prime_doc_natureza_morta_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 207,
+      "channel_name": "São Paulo/SP  Studio Universal HD",
+      "programs": [
+        {
+          "program_id": "426152_tr_s_bab_s_para_o_natal__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 208,
+      "channel_name": "Belo Horizonte/MG   TV Aparecida (espelho)",
+      "programs": [
+        {
+          "program_id": "426153_medalh_o_com_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 209,
+      "channel_name": "São Paulo/SP  Sony HD ³",
+      "programs": [
+        {
+          "program_id": "426154_rambo_iii_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 210,
+      "channel_name": "São Paulo/SP  Arte 1 HD",
+      "programs": [
+        {
+          "program_id": "426155_arte_1_documenta_hitler__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 211,
+      "channel_name": "São Paulo/SP  CNN Brasil HD",
+      "programs": [
+        {
+          "program_id": "426156_no_lucro_cnn_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 212,
+      "channel_name": "São Paulo/SP  Discovery Channel",
+      "programs": [
+        {
+          "program_id": "426157_largados_e_pelados_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 213,
+      "channel_name": "São Paulo/SP  Sexy Hot",
+      "programs": [
+        {
+          "program_id": "426158_viagens_do_prazer_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 214,
+      "channel_name": "São Paulo/SP  Telecine Touch HD ³",
+      "programs": [
+        {
+          "program_id": "426159_doze_homens_e_outro_segr_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 215,
+      "channel_name": "São Paulo/SP  Studio Universal",
+      "programs": [
+        {
+          "program_id": "426160_tr_s_bab_s_para_o_natal__2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 216,
+      "channel_name": "São Paulo/SP  Canal Brasil HD ³",
+      "programs": [
+        {
+          "program_id": "426161_lavoura_arcaica_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 217,
+      "channel_name": "São Paulo/SP  Lifetime HD",
+      "programs": [
+        {
+          "program_id": "426162_n_o_grite_sou_eu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 218,
+      "channel_name": "São Paulo/SP  Off HD ³",
+      "programs": [
+        {
+          "program_id": "426163_bono_o_c_o_surfista_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 219,
+      "channel_name": "São Paulo/SP  Discovery world HD ³",
+      "programs": [
+        {
+          "program_id": "426164_buying_hawaii_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 220,
+      "channel_name": "São Paulo/SP  FISH TV HD",
+      "programs": [
+        {
+          "program_id": "426167_alta_performance_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 221,
+      "channel_name": "São Paulo/SP  GloboNews",
+      "programs": [
+        {
+          "program_id": "426168_jornal_das_dez_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 222,
+      "channel_name": "São Paulo/SP  Gloobinho",
+      "programs": [
+        {
+          "program_id": "426169_s_o_s_fada_manu_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 223,
+      "channel_name": "São Paulo/SP  Hbo Pop",
+      "programs": [
+        {
+          "program_id": "426170_assim_que_acaba_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 224,
+      "channel_name": "São Paulo/SP  Premiere 6",
+      "programs": [
+        {
+          "program_id": "426171_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 225,
+      "channel_name": "São Paulo/SP  Telecine Cult HD ³",
+      "programs": [
+        {
+          "program_id": "426172_a_semente_do_fruto_sagra_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "promo",
+          "score": 35
+        }
+      ]
+    },
+    {
+      "channel_id": 226,
+      "channel_name": "São Paulo/SP  HBO Signature HD ³",
+      "programs": [
+        {
+          "program_id": "426173_behind_the_candelabra_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 227,
+      "channel_name": "São Paulo/SP  Premiere 4",
+      "programs": [
+        {
+          "program_id": "426174_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 228,
+      "channel_name": "São Paulo/SP  RIT TV",
+      "programs": [
+        {
+          "program_id": "426175_vejam_s_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 229,
+      "channel_name": "São Paulo/SP  PREMIERE HD 4 ³",
+      "programs": [
+        {
+          "program_id": "426176_com_o_premiere_d_jogo_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 98
+        }
+      ]
+    },
+    {
+      "channel_id": 230,
+      "channel_name": "São Paulo/SP  Music Box Brazil HD ³",
+      "programs": [
+        {
+          "program_id": "426177_jukebox_videoclipes_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 231,
+      "channel_name": "São Paulo/SP  SBT HD",
+      "programs": [
+        {
+          "program_id": "426178_especial_baile_da_latine_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 232,
+      "channel_name": "São Paulo/SP  Discovery Science HD ³",
+      "programs": [
+        {
+          "program_id": "426179_armas_usa_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 233,
+      "channel_name": "São Paulo/SP  Travel Box Brasil HD",
+      "programs": [
+        {
+          "program_id": "426180_bella_viagem_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 234,
+      "channel_name": "São Paulo/SP  Telecine Premium HD ³",
+      "programs": [
+        {
+          "program_id": "426181_jogador_n_1_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 235,
+      "channel_name": "São Paulo/SP  Gloob",
+      "programs": [
+        {
+          "program_id": "426182_sa_dem_todos_o_rei_julie_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 236,
+      "channel_name": "São Paulo/SP  Telecine Fun HD ³",
+      "programs": [
+        {
+          "program_id": "426183_angry_birds_2_o_filme_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 237,
+      "channel_name": "São Paulo/SP  Futura HD",
+      "programs": [
+        {
+          "program_id": "426184_quantos_dias_quantas_noi_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 238,
+      "channel_name": "São Paulo/SP  TV Brasil HD",
+      "programs": [
+        {
+          "program_id": "426185_sem_censura_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 239,
+      "channel_name": "São Paulo/SP  Globo HD",
+      "programs": [
+        {
+          "program_id": "426186_retrospectiva_2025_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 240,
+      "channel_name": "São Paulo/SP  Cultura",
+      "programs": [
+        {
+          "program_id": "426187_o_novo_sempre_vem_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 241,
+      "channel_name": "São Paulo/SP  Curta! HD",
+      "programs": [
+        {
+          "program_id": "426188_estados_da_arte_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 242,
+      "channel_name": "São Paulo/SP  ID",
+      "programs": [
+        {
+          "program_id": "426189_crime_em_tempo_real_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 243,
+      "channel_name": "São Paulo/SP  MTV Live HD",
+      "programs": [
+        {
+          "program_id": "426190_canal_descontinuado_de_t_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 244,
+      "channel_name": "São Paulo/SP  NHK World Premium",
+      "programs": [
+        {
+          "program_id": "426191_world_weather_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "weather",
+          "score": 46
+        }
+      ]
+    },
+    {
+      "channel_id": 245,
+      "channel_name": "São Paulo/SP  LIKE HD",
+      "programs": [
+        {
+          "program_id": "426193_todas_as_novidades_da_su_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 246,
+      "channel_name": "São Paulo/SP  cartoonito",
+      "programs": [
+        {
+          "program_id": "426194_lucas_a_aranha_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 247,
+      "channel_name": "São Paulo/SP  SIC International",
+      "programs": [
+        {
+          "program_id": "426195_a_heran_a_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 248,
+      "channel_name": "São Paulo/SP  Agro Mais HD",
+      "programs": [
+        {
+          "program_id": "426196_energia_agro_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 249,
+      "channel_name": "São Paulo/SP  Viva HD",
+      "programs": [
+        {
+          "program_id": "426197_salve_jorge_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 250,
+      "channel_name": "São Paulo/SP  Rede TV",
+      "programs": [
+        {
+          "program_id": "426198_opera_o_de_risco_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 251,
+      "channel_name": "São Paulo/SP  GloboNews HD ³",
+      "programs": [
+        {
+          "program_id": "426199_jornal_das_dez_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 252,
+      "channel_name": "São Paulo/SP  Bloomberg TV",
+      "programs": [
+        {
+          "program_id": "426200_bloomberg_the_china_show_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 253,
+      "channel_name": "São Paulo/SP  HGTV",
+      "programs": [
+        {
+          "program_id": "426201_piscinas_incr_veis_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 254,
+      "channel_name": "São Paulo/SP  Discovery Kids HD ³",
+      "programs": [
+        {
+          "program_id": "426202_mini_beat_power_rockers_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 255,
+      "channel_name": "São Paulo/SP  FX",
+      "programs": [
+        {
+          "program_id": "426203_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 256,
+      "channel_name": "Belo Horizonte/MG  Shoptime",
+      "programs": [
+        {
+          "program_id": "426205_assim_f_cil_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 257,
+      "channel_name": "São Paulo/SP  FOOD NETWORK HD",
+      "programs": [
+        {
+          "program_id": "426206_grandes_chefs_torneio_do_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 258,
+      "channel_name": "São Paulo/SP  Star Channel",
+      "programs": [
+        {
+          "program_id": "426207_comunicado_importante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 259,
+      "channel_name": "São Paulo/SP  Discovery Home and Health",
+      "programs": [
+        {
+          "program_id": "435408_opera_o_transplante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 260,
+      "channel_name": "São Paulo/SP  A and E",
+      "programs": [
+        {
+          "program_id": "435409_jonelle_matthews_a_garot_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 261,
+      "channel_name": "São Paulo/SP  A and E HD",
+      "programs": [
+        {
+          "program_id": "435410_jonelle_matthews_a_garot_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 262,
+      "channel_name": "Discovery Home and Health HD",
+      "programs": [
+        {
+          "program_id": "435551_opera_o_transplante_2026-01-08_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    }
+  ]
+}

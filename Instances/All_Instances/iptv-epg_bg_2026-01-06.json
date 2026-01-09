@@ -1,0 +1,1613 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 31,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 15,
+      "end": 60,
+      "allowed_channels": [
+        0,
+        9,
+        28,
+        1,
+        27,
+        7,
+        2,
+        30,
+        25,
+        29,
+        20,
+        15,
+        11,
+        17,
+        16
+      ]
+    },
+    {
+      "start": 90,
+      "end": 135,
+      "allowed_channels": [
+        18,
+        30,
+        27,
+        2,
+        9,
+        15,
+        25,
+        1,
+        20,
+        23,
+        24,
+        4,
+        21,
+        8,
+        16,
+        17,
+        22
+      ]
+    },
+    {
+      "start": 330,
+      "end": 360,
+      "allowed_channels": [
+        3,
+        25,
+        18,
+        27,
+        28,
+        30,
+        21,
+        9,
+        7,
+        6,
+        15,
+        22,
+        23,
+        26,
+        12,
+        4
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "series",
+      "bonus": 44
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "series",
+      "bonus": 46
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "series",
+      "bonus": 45
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "series",
+      "bonus": 45
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "series",
+      "bonus": 46
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "series",
+      "bonus": 44
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "series",
+      "bonus": 45
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "series",
+      "bonus": 58
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "BG - 7/8 TV",
+      "programs": [
+        {
+          "program_id": "7_8tv_bg_live_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "7_8tv_bg__2026-01-06_0050",
+          "start": 50,
+          "end": 105,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "7_8tv_bg__2026-01-06_0105",
+          "start": 105,
+          "end": 160,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "7_8tv_bg__2026-01-06_0160",
+          "start": 160,
+          "end": 365,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "BG - Al Jazeera",
+      "programs": [
+        {
+          "program_id": "aljazeera_bg_news_live_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 80
+        },
+        {
+          "program_id": "aljazeera_bg_newshour_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeera_bg_the_el_masri_case_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "aljazeera_bg_news_live_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "aljazeera_bg_the_listening_post_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "aljazeera_bg_news_live_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "aljazeera_bg_all_hail_the_planet_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "aljazeera_bg_news_live_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeera_bg_the_stream_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "BG - BBC News",
+      "programs": [
+        {
+          "program_id": "bbcnews_bg_bbc_world_news_america_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "bbcnews_bg_bbc_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "bbcnews_bg_newscast_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "bbcnews_bg_bbc_news_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "bbcnews_bg_talking_business_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "bbcnews_bg_newsday_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "bbcnews_bg_bbc_sport_2026-01-06_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "bbcnews_bg_newsday_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "bbcnews_bg_bbc_sport_2026-01-06_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "bbcnews_bg_newsday_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bbcnews_bg_bbc_sport_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "sports",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "BG - CNN",
+      "programs": [
+        {
+          "program_id": "cnn_bg_the_brief_with_jim_sciut_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "cnn_bg_erin_burnett_outfront_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cnn_bg_anderson_cooper_360_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "education",
+          "score": 66
+        },
+        {
+          "program_id": "cnn_bg_the_source_with_kaitlan__2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnn_bg_laura_coates_live_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "BG - CineStar TV",
+      "programs": [
+        {
+          "program_id": "cinestartv_bg_2_2026-01-06_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cinestartv_bg__2026-01-06_0080",
+          "start": 80,
+          "end": 405,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "BG - CineStar TV Action&Thriller",
+      "programs": [
+        {
+          "program_id": "cinestartvactionan_x_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cinestartvactionan__2026-01-06_0050",
+          "start": 50,
+          "end": 435,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "BG - DW TV",
+      "programs": [
+        {
+          "program_id": "dwtv_bg_dw_news_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "dwtv_bg_close_up_the_current_aff_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "dwtv_bg_dw_news_2026-01-06_0060",
+          "start": 60,
+          "end": 62,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "dwtv_bg_eco_africa_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "dwtv_bg_dw_news_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "dwtv_bg_blood_sweat_and_sugar_pa_2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "dwtv_bg_dw_news_2026-01-06_0180",
+          "start": 180,
+          "end": 182,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "dwtv_bg_rev_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dwtv_bg_dw_news_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "dwtv_bg_close_up_the_current_aff_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "dwtv_bg_dw_news_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "BG - Diema",
+      "programs": [
+        {
+          "program_id": "diema_bg_3_1_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "diema_bg_4_10_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "diema_bg__2026-01-06_0090",
+          "start": 90,
+          "end": 215,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "diema_bg_12_8_2026-01-06_0240",
+          "start": 240,
+          "end": 345,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "diema_bg_11_2026-01-06_0345",
+          "start": 345,
+          "end": 405,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "BG - Diema Family",
+      "programs": [
+        {
+          "program_id": "diemafamily_bg__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "diemafamily_bg__2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "diemafamily_bg__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "diemafamily_bg__2026-01-06_0240",
+          "start": 240,
+          "end": 345,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "diemafamily_bg__2026-01-06_0345",
+          "start": 345,
+          "end": 405,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "BG - Dizi (Timeless Drama Channel)",
+      "programs": [
+        {
+          "program_id": "dizi_bg_1_20_2026-01-06_0015",
+          "start": 15,
+          "end": 70,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "dizi_bg_1_15_2026-01-06_0070",
+          "start": 70,
+          "end": 125,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "dizi_bg_1_77_2026-01-06_0125",
+          "start": 125,
+          "end": 180,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "dizi_bg_1_39_2026-01-06_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "dizi_bg_1_90_2026-01-06_0230",
+          "start": 230,
+          "end": 300,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "dizi_bg_1_76_2026-01-06_0300",
+          "start": 300,
+          "end": 355,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "dizi_bg_1_77_2026-01-06_0355",
+          "start": 355,
+          "end": 410,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "BG - Duck TV",
+      "programs": [
+        {
+          "program_id": "ducktv_bg__2026-01-06_0178",
+          "start": 178,
+          "end": 182,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "ducktv_bg_e_e_e_e_2026-01-06_0344",
+          "start": 344,
+          "end": 347,
+          "genre": "sports",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "BG - Eurocom",
+      "programs": [
+        {
+          "program_id": "eurocom_bg__2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "eurocom_bg_eurotv_shop_2026-01-06_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurocom_bg__2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "eurocom_bg__2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "eurocom_bg__2026-01-06_0270",
+          "start": 270,
+          "end": 540,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "BG - Euronews",
+      "programs": [
+        {
+          "program_id": "euronews_bg_the_european_debrief_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "euronews_bg_the_european_debrief_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "euronews_bg_the_european_debrief_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "euronews_bg_news_2026-01-06_0226",
+          "start": 226,
+          "end": 240,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "euronews_bg_the_european_debrief_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "euronews_bg_the_european_debrief_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "BG - Eurosport 4K",
+      "programs": [
+        {
+          "program_id": "eurosport4k_bg__2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport4k_bg__2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport4k_bg__2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "eurosport4k_bg_10_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport4k_bg_10_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "BG - Fightklub",
+      "programs": [
+        {
+          "program_id": "fightklub_bg_one_friday_fights_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "fightklub_bg_one_friday_fights_2026-01-06_0300",
+          "start": 300,
+          "end": 525,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "BG - France 24",
+      "programs": [
+        {
+          "program_id": "france24_bg_l_actu_360_le_journal_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "france24_bg_le_d_bat_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "france24_bg_l_dition_nuit_le_journal_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "france24_bg_le_journal_de_l_afrique_2026-01-06_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "france24_bg_le_journal_de_la_can_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "france24_bg_l_dition_nuit_le_journal_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "france24_bg_l_dition_nuit_le_journal_2026-01-06_0150",
+          "start": 150,
+          "end": 165,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24_bg_l_dition_nuit_le_journal_2026-01-06_0180",
+          "start": 180,
+          "end": 191,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "france24_bg_le_d_bat_2026-01-06_0191",
+          "start": 191,
+          "end": 235,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "france24_bg_l_dition_nuit_le_journal_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "france24_bg_l_dition_nuit_le_journal_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24_bg_l_dition_nuit_le_journal_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24_bg_l_dition_nuit_le_journal_2026-01-06_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "france24_bg_le_journal_de_l_afrique_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "news",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "BG - Kanal 3 (Канал 3)",
+      "programs": [
+        {
+          "program_id": "kanal3_bg__2026-01-06_0000",
+          "start": 0,
+          "end": 390,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "BG - Kanal 4 (Канал 4)",
+      "programs": [
+        {
+          "program_id": "kanal4_bg__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kanal4_bg__2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "kanal4_bg__2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "kanal4_bg__2026-01-06_0300",
+          "start": 300,
+          "end": 450,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "BG - MTV Europe",
+      "programs": [
+        {
+          "program_id": "mtveurope_bg_ink_master_turf_war_13_5_2026-01-06_0060",
+          "start": 60,
+          "end": 100,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "mtveurope_bg_ink_master_turf_war_13_6_2026-01-06_0100",
+          "start": 100,
+          "end": 145,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "mtveurope_bg_geordie_shore_19_1_2026-01-06_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "mtveurope_bg_ridiculousness_38_29_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "series",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "BG - NOVA Sport",
+      "programs": [
+        {
+          "program_id": "novasport_bg__2026-01-06_0000",
+          "start": 0,
+          "end": 510,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "BG - NOVA TV",
+      "programs": [
+        {
+          "program_id": "novatv_bg_1_4_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "novatv_bg_21_18_14_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "novatv_bg__2026-01-06_0120",
+          "start": 120,
+          "end": 190,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "novatv_bg__2026-01-06_0190",
+          "start": 190,
+          "end": 298,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "novatv_bg__2026-01-06_0298",
+          "start": 298,
+          "end": 508,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "BG - Nicktoons",
+      "programs": [
+        {
+          "program_id": "nicktoons_bg_1_10_2026-01-06_0091",
+          "start": 91,
+          "end": 126,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "nicktoons_bg_1_14_2026-01-06_0321",
+          "start": 321,
+          "end": 374,
+          "genre": "series",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "BG - Nostalgia TV",
+      "programs": [
+        {
+          "program_id": "nostalgiatv_bg__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nostalgiatv_bg__2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nostalgiatv_bg__2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "nostalgiatv_bg__2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "BG - Nova News",
+      "programs": [
+        {
+          "program_id": "novanews_bg_nova_news_2026-01-06_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "novanews_bg__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "novanews_bg_nova_news_2026-01-06_0060",
+          "start": 60,
+          "end": 85,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "novanews_bg__2026-01-06_0085",
+          "start": 85,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "novanews_bg_nova_news_2026-01-06_0120",
+          "start": 120,
+          "end": 140,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "novanews_bg__2026-01-06_0140",
+          "start": 140,
+          "end": 170,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "novanews_bg__2026-01-06_0170",
+          "start": 170,
+          "end": 200,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "novanews_bg__2026-01-06_0200",
+          "start": 200,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "novanews_bg__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "novanews_bg__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "novanews_bg__2026-01-06_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "BG - PickboxTV",
+      "programs": [
+        {
+          "program_id": "pickboxtv_bg_million_dollar_baby_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "pickboxtv_bg_a_merry_single_christmas_2026-01-06_0085",
+          "start": 85,
+          "end": 170,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "BG - RTL",
+      "programs": [
+        {
+          "program_id": "rtl_bg_rtl_nachtjournal_18_2_2026-01-06_0000",
+          "start": 0,
+          "end": 33,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "rtl_bg_rtl_nachtjournal_das_wet_2026-01-06_0033",
+          "start": 33,
+          "end": 35,
+          "genre": "news",
+          "score": 56
+        },
+        {
+          "program_id": "rtl_bg_alltagsk_mpfer_so_tickt__2026-01-06_0035",
+          "start": 35,
+          "end": 75,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "rtl_bg_seitenwechsel_die_welt_m_2026-01-06_0075",
+          "start": 75,
+          "end": 105,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "rtl_bg_csi_miami_7_23_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "rtl_bg_csi_miami_7_24_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "rtl_bg_csi_vegas_14_10_2026-01-06_0225",
+          "start": 225,
+          "end": 275,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "rtl_bg_csi_vegas_14_11_2026-01-06_0275",
+          "start": 275,
+          "end": 360,
+          "genre": "series",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "BG - SKAT TV",
+      "programs": [
+        {
+          "program_id": "skattv_bg__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "skattv_bg__2026-01-06_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "skattv_bg__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "skattv_bg__2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "skattv_bg__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "skattv_bg__2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "skattv_bg__2026-01-06_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "BG - Skyshowtime 1",
+      "programs": [
+        {
+          "program_id": "skyshowtime1_bg_1923_2_7_2026-01-06_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "skyshowtime1_bg_1_4_2026-01-06_0105",
+          "start": 105,
+          "end": 135,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "skyshowtime1_bg_1_5_2026-01-06_0135",
+          "start": 135,
+          "end": 165,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "skyshowtime1_bg_1_6_2026-01-06_0165",
+          "start": 165,
+          "end": 195,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "skyshowtime1_bg_8_12_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "skyshowtime1_bg_1_10_2026-01-06_0240",
+          "start": 240,
+          "end": 320,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "skyshowtime1_bg_1_4_2026-01-06_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "series",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "BG - Skyshowtime 2",
+      "programs": [
+        {
+          "program_id": "skyshowtime2_bg_3_5_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "skyshowtime2_bg_3_6_2026-01-06_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "skyshowtime2_bg__2026-01-06_0075",
+          "start": 75,
+          "end": 305,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "skyshowtime2_bg_1_2_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "BG - Super Toons",
+      "programs": [
+        {
+          "program_id": "supertoons_bg_1_2_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "supertoons_bg_2_19_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "supertoons_bg_4_1_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "supertoons_bg_4_2_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "supertoons_bg_2_20_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "supertoons_bg_2_21_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "supertoons_bg_8_15_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "supertoons_bg_8_16_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "series",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "BG - The History Channel 2",
+      "programs": [
+        {
+          "program_id": "thehistorychannel2_ufo_files_3_10_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "thehistorychannel2_monsterquest_3_6_2026-01-06_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "thehistorychannel2_the_universe_2_7_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "thehistorychannel2_ancient_aliens_9_5_2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "thehistorychannel2_ancient_discoveries_6_12_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "thehistorychannel2_ancient_top_10_1_5_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "thehistorychannel2_rome_rise_and_fall_of_an_2026-01-06_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "series",
+          "score": 75
+        }
+      ]
+    }
+  ]
+}

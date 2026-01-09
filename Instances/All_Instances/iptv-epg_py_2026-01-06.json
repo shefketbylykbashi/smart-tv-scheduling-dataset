@@ -1,0 +1,3070 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 70,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 30,
+      "end": 90,
+      "allowed_channels": [
+        2,
+        61,
+        63,
+        68,
+        60,
+        38,
+        66,
+        21,
+        53,
+        58,
+        20,
+        6,
+        8,
+        26,
+        22,
+        33,
+        4,
+        50,
+        25,
+        59,
+        39,
+        41,
+        1,
+        52,
+        23,
+        69,
+        29,
+        27,
+        48,
+        54,
+        64,
+        55,
+        46,
+        65,
+        56,
+        47,
+        24
+      ]
+    },
+    {
+      "start": 120,
+      "end": 180,
+      "allowed_channels": [
+        6,
+        15,
+        45,
+        26,
+        25,
+        63,
+        66,
+        33,
+        22,
+        19,
+        1,
+        41,
+        53,
+        68,
+        38,
+        21,
+        39,
+        61,
+        59,
+        58,
+        7,
+        11,
+        60,
+        23,
+        46,
+        20,
+        52,
+        43,
+        54,
+        8,
+        37,
+        3,
+        50,
+        14,
+        27,
+        55
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "news",
+      "bonus": 25
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "news",
+      "bonus": 31
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 25
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 32
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "series",
+      "bonus": 24
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "series",
+      "bonus": 23
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "sports",
+      "bonus": 25
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "sports",
+      "bonus": 33
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "sports",
+      "bonus": 34
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "sports",
+      "bonus": 37
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "sports",
+      "bonus": 44
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "sports",
+      "bonus": 65
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "PY - A&E",
+      "programs": [
+        {
+          "program_id": "a_and_e_py_clientes_en_furia_2026-01-06_0040",
+          "start": 40,
+          "end": 65,
+          "genre": "sports",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "PY - ABC TV",
+      "programs": [
+        {
+          "program_id": "abctv_py_mesa_con_enrique_vargas__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "abctv_py_peligro_de_gol_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "abctv_py_peligro_de_gol_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "abctv_py_crimen_y_castigo_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "abctv_py_mesa_con_enrique_vargas__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "abctv_py_madrugada_abc_2026-01-06_0245",
+          "start": 245,
+          "end": 540,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "PY - AMÉRICA TELEVISION",
+      "programs": [
+        {
+          "program_id": "americatelevision__los_milagros_de_la_rosa_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "americatelevision__esto_es_guerra_2026-01-06_0090",
+          "start": 90,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "americatelevision__luz_de_luna_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "americatelevision__am_rica_noticias_edici_n_2026-01-06_0300",
+          "start": 300,
+          "end": 317,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "americatelevision__am_rica_deportes_2026-01-06_0317",
+          "start": 317,
+          "end": 324,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "americatelevision__am_rica_noticias_edici_n_2026-01-06_0324",
+          "start": 324,
+          "end": 327,
+          "genre": "news",
+          "score": 56
+        },
+        {
+          "program_id": "americatelevision__desvelados_2026-01-06_0345",
+          "start": 345,
+          "end": 390,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "PY - AXN",
+      "programs": [
+        {
+          "program_id": "axn_py_hawaii_five_o_2026-01-06_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "axn_py_9_1_1_2026-01-06_0020",
+          "start": 20,
+          "end": 70,
+          "genre": "documentary",
+          "score": 67
+        },
+        {
+          "program_id": "axn_py_9_1_1_2026-01-06_0070",
+          "start": 70,
+          "end": 125,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "axn_py_9_1_1_2026-01-06_0125",
+          "start": 125,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "axn_py_9_1_1_2026-01-06_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "axn_py_ncis_origins_2026-01-06_0230",
+          "start": 230,
+          "end": 280,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "axn_py_ncis_origins_2026-01-06_0280",
+          "start": 280,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "axn_py_ncis_origins_2026-01-06_0330",
+          "start": 330,
+          "end": 380,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "PY - America 24",
+      "programs": [
+        {
+          "program_id": "america24_py_h_20_informaci_n_clave_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "america24_py_wifi_24_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "america24_py_basta_baby_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "america24_py_24_noticias_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "america24_py_luis_novaresio_entrevist_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "america24_py_el_valor_de_tus_joyas_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "PY - Animal Planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_py_mascotas_revoltosas_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "animalplanet_py_mascotas_revoltosas_2026-01-06_0050",
+          "start": 50,
+          "end": 100,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "animalplanet_py_veterinarios_de_texas_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "animalplanet_py_veterinarios_de_texas_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "animalplanet_py_veterinarios_de_texas_2026-01-06_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_py_veterinarios_de_texas_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "animalplanet_py_mascotas_revoltosas_2026-01-06_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "animalplanet_py_mascotas_revoltosas_2026-01-06_0350",
+          "start": 350,
+          "end": 400,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "PY - Az Corazón",
+      "programs": [
+        {
+          "program_id": "azcorazon_py_t_o_alberto_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "azcorazon_py_qui_reme_tonto_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "azcorazon_py_lucho_en_familia_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "azcorazon_py_mientras_haya_vida_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "azcorazon_py_todo_por_amor_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "azcorazon_py_mujeres_rompiendo_el_sil_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "series",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "PY - C9N",
+      "programs": [
+        {
+          "program_id": "c9n_py_diario_del_inmigrante_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "c9n_py_di_logo_franco_2026-01-06_0050",
+          "start": 50,
+          "end": 150,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "c9n_py_24_horas_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "c9n_py_fin_de_transmisi_n_2026-01-06_0240",
+          "start": 240,
+          "end": 540,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "PY - CNN en Español",
+      "programs": [
+        {
+          "program_id": "cnnenespanol_py_perspectivas_de_m_xico_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "cnnenespanol_py_directo_usa_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "cnnenespanol_py_panorama_mundial_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "cnnenespanol_py_conclusiones_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cnnenespanol_py_aristegui_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "cnnenespanol_py_deportes_cnn_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cnnenespanol_py_perspectivas_de_m_xico_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "PY - Caracol Internacional",
+      "programs": [
+        {
+          "program_id": "caracolinternacion_caracol_internacional_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "PY - Cartoon Network",
+      "programs": [
+        {
+          "program_id": "cartoonnetwork_py_megamente_manda_2026-01-06_0000",
+          "start": 0,
+          "end": 23,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "cartoonnetwork_py_hora_de_aventura_2026-01-06_0262",
+          "start": 262,
+          "end": 276,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "cartoonnetwork_py_un_show_m_s_2026-01-06_0339",
+          "start": 339,
+          "end": 350,
+          "genre": "news",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "PY - Cinecanal",
+      "programs": [
+        {
+          "program_id": "cinecanal_py_peque_a_otra_vez_2026-01-06_0000",
+          "start": 0,
+          "end": 119,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cinecanal_py_ladrona_de_libros_2026-01-06_0119",
+          "start": 119,
+          "end": 280,
+          "genre": "documentary",
+          "score": 73
+        },
+        {
+          "program_id": "cinecanal_py_dulce_coraz_n_2026-01-06_0280",
+          "start": 280,
+          "end": 379,
+          "genre": "education",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "PY - Cinelatino",
+      "programs": [
+        {
+          "program_id": "cinelatino_py_morir_so_ando_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cinelatino_py_alguien_ha_visto_a_lupit_2026-01-06_0050",
+          "start": 50,
+          "end": 140,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cinelatino_py_la_prima_2026-01-06_0140",
+          "start": 140,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cinelatino_py_un_d_a_sin_mexicanos_2026-01-06_0240",
+          "start": 240,
+          "end": 340,
+          "genre": "documentary",
+          "score": 73
+        },
+        {
+          "program_id": "cinelatino_py_las_camelias_2026-01-06_0340",
+          "start": 340,
+          "end": 440,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "PY - Comedy Central",
+      "programs": [
+        {
+          "program_id": "comedycentral_py_un_hombre_un_plan_2026-01-06_0045",
+          "start": 45,
+          "end": 65,
+          "genre": "weather",
+          "score": 32
+        },
+        {
+          "program_id": "comedycentral_py_becker_2026-01-06_0065",
+          "start": 65,
+          "end": 95,
+          "genre": "education",
+          "score": 62
+        },
+        {
+          "program_id": "comedycentral_py_south_park_2026-01-06_0265",
+          "start": 265,
+          "end": 290,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "comedycentral_py_idiotas_por_accidente_2026-01-06_0335",
+          "start": 335,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "PY - DHE",
+      "programs": [
+        {
+          "program_id": "dhe_py_la_cruda_verdad_2026-01-06_0015",
+          "start": 15,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "dhe_py_observada_2026-01-06_0120",
+          "start": 120,
+          "end": 205,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dhe_py_allanamiento_de_morada_2026-01-06_0205",
+          "start": 205,
+          "end": 295,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "dhe_py_el_despertar_de_zodiac_2026-01-06_0295",
+          "start": 295,
+          "end": 400,
+          "genre": "movie",
+          "score": 90
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "PY - Discovery Channel",
+      "programs": [
+        {
+          "program_id": "discoverychannel_p_supervivencia_al_desnudo_2026-01-06_0000",
+          "start": 0,
+          "end": 24,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "discoverychannel_p_supervivencia_al_desnudo_2026-01-06_0024",
+          "start": 24,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "discoverychannel_p_supervivencia_al_desnudo_2026-01-06_0120",
+          "start": 120,
+          "end": 216,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "discoverychannel_p_supervivencia_al_desnudo_2026-01-06_0216",
+          "start": 216,
+          "end": 312,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "discoverychannel_p_c_mara_policial_2026-01-06_0312",
+          "start": 312,
+          "end": 360,
+          "genre": "religion",
+          "score": 50
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "PY - Discovery Kids",
+      "programs": [
+        {
+          "program_id": "discoverykids_py_lego_dreamzzz_2026-01-06_0024",
+          "start": 24,
+          "end": 46,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "discoverykids_py_100_lobo_la_leyenda_del__2026-01-06_0104",
+          "start": 104,
+          "end": 129,
+          "genre": "weather",
+          "score": 30
+        },
+        {
+          "program_id": "discoverykids_py_defensores_petronix_2026-01-06_0193",
+          "start": 193,
+          "end": 205,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "discoverykids_py_los_beachbuds_2026-01-06_0301",
+          "start": 301,
+          "end": 313,
+          "genre": "weather",
+          "score": 32
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "PY - Discovery Turbo",
+      "programs": [
+        {
+          "program_id": "discoveryturbo_py_american_chopper_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "discoveryturbo_py_texas_metal_2026-01-06_0030",
+          "start": 30,
+          "end": 80,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "discoveryturbo_py_alto_octanaje_en_las_veg_2026-01-06_0080",
+          "start": 80,
+          "end": 130,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "discoveryturbo_py_alto_octanaje_en_las_veg_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "discoveryturbo_py_diesel_dave_2026-01-06_0180",
+          "start": 180,
+          "end": 230,
+          "genre": "religion",
+          "score": 55
+        },
+        {
+          "program_id": "discoveryturbo_py_diesel_dave_2026-01-06_0230",
+          "start": 230,
+          "end": 280,
+          "genre": "religion",
+          "score": 58
+        },
+        {
+          "program_id": "discoveryturbo_py_diesel_dave_2026-01-06_0280",
+          "start": 280,
+          "end": 330,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "discoveryturbo_py_diesel_dave_2026-01-06_0330",
+          "start": 330,
+          "end": 380,
+          "genre": "education",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "PY - Discovery World",
+      "programs": [
+        {
+          "program_id": "discoveryworld_py_rincones_secretos_para_n_2026-01-06_0120",
+          "start": 120,
+          "end": 168,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "discoveryworld_py_1000_lugares_que_ver_ant_2026-01-06_0192",
+          "start": 192,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "discoveryworld_py_casas_rodantes_incre_ble_2026-01-06_0240",
+          "start": 240,
+          "end": 288,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "discoveryworld_py_regreso_al_mundo_de_la_i_2026-01-06_0288",
+          "start": 288,
+          "end": 336,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "PY - Disney Channel",
+      "programs": [
+        {
+          "program_id": "disneychannel_py_champeta_el_ritmo_de_la__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "education",
+          "score": 59
+        },
+        {
+          "program_id": "disneychannel_py_jessie_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "kids",
+          "score": 63
+        },
+        {
+          "program_id": "disneychannel_py_jessie_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "disneychannel_py_jessie_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "disneychannel_py_jessie_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "disneychannel_py_lucha_despierta_tu_natur_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "disneychannel_py_la_casa_de_raven_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "disneychannel_py_liv_y_maddie_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "disneychannel_py_moon_girl_y_devil_el_din_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "disneychannel_py_moon_girl_y_devil_el_din_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "PY - ESPN",
+      "programs": [
+        {
+          "program_id": "espn_py_d_a_3_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "espn_py_manchester_city_vs_chels_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "espn_py_aston_villa_vs_nottingha_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "PY - ESPN 2",
+      "programs": [
+        {
+          "program_id": "espn2_py_sportscenter_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "espn2_py_espn_f90_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "espn2_py_espn_f_show_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "espn2_py_sportscenter_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "espn2_py_sportscenter_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "PY - ESPN 3",
+      "programs": [
+        {
+          "program_id": "espn3_py_manchester_city_vs_chels_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "espn3_py_inter_vs_bologna_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "espn3_py_real_madrid_vs_betis_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "espn3_py_d_a_3_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "news",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "PY - El Trece",
+      "programs": [
+        {
+          "program_id": "eltrece_py_telenoche_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "eltrece_py_buenas_noches_familia_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "eltrece_py_otro_d_a_perdido_2026-01-06_0150",
+          "start": 150,
+          "end": 255,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "eltrece_py_en_s_ntesis_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eltrece_py_fin_de_transmisi_n_2026-01-06_0315",
+          "start": 315,
+          "end": 630,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "PY - Enlace",
+      "programs": [
+        {
+          "program_id": "enlace_py_otoniel_font_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "enlace_py_esperanza_hoy_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "enlace_py_aqu_entre_nos_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "enlace_py_l_puede_hacerlo_de_nuevo_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "enlace_py_casa_de_dios_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "enlace_py_show_de_la_fe_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "enlace_py_casa_de_dios_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "enlace_py_todo_es_posible_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "weather",
+          "score": 47
+        },
+        {
+          "program_id": "enlace_py_creactivos_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "enlace_py_la_voz_de_victoria_del_c_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "enlace_py_sexo_divino_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "PY - FOX Sports",
+      "programs": [
+        {
+          "program_id": "foxsports_py_leeds_utd_vs_manchester__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "foxsports_py_d_a_3_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "foxsports_py_real_madrid_vs_betis_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "foxsports_py_manchester_city_vs_chels_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "foxsports_py_efl_championship_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "PY - FOX Sports 3",
+      "programs": [
+        {
+          "program_id": "foxsports3_py_fox_sports_3_2026-01-06_0000",
+          "start": 0,
+          "end": 150,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "foxsports3_py_fox_sports_3_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "foxsports3_py_dana_white_s_contender_s_2026-01-06_0240",
+          "start": 240,
+          "end": 390,
+          "genre": "series",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "PY - FX",
+      "programs": [
+        {
+          "program_id": "fx_py_el_quinto_poder_2026-01-06_0000",
+          "start": 0,
+          "end": 119,
+          "genre": "documentary",
+          "score": 69
+        },
+        {
+          "program_id": "fx_py_un_loco_fin_de_semana_2026-01-06_0119",
+          "start": 119,
+          "end": 239,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "fx_py_se_les_subieron_los_humo_2026-01-06_0239",
+          "start": 239,
+          "end": 351,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "fx_py_la_noche_m_gica_2026-01-06_0351",
+          "start": 351,
+          "end": 444,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "PY - Gol TV",
+      "programs": [
+        {
+          "program_id": "goltv_py_gol_tv_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "PY - Golden",
+      "programs": [
+        {
+          "program_id": "golden_py_mi_villano_favorito_2_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "golden_py_mi_villano_favorito_3_2026-01-06_0085",
+          "start": 85,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "golden_py_la_vida_secreta_de_tus_m_2026-01-06_0180",
+          "start": 180,
+          "end": 272,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "golden_py_c_mo_entrenar_a_tu_drag__2026-01-06_0272",
+          "start": 272,
+          "end": 379,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "PY - HBO",
+      "programs": [
+        {
+          "program_id": "hbo_py_batman_el_caballero_de_l_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hbo_py_el_protector_2026-01-06_0120",
+          "start": 120,
+          "end": 230,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hbo_py_el_especialista_2026-01-06_0230",
+          "start": 230,
+          "end": 361,
+          "genre": "movie",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "PY - HBO Mundi",
+      "programs": [
+        {
+          "program_id": "hbomundi_py_casi_el_para_so_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hbomundi_py_expiaci_n_deseo_y_pecado_2026-01-06_0055",
+          "start": 55,
+          "end": 186,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "hbomundi_py_el_brutalista_2026-01-06_0186",
+          "start": 186,
+          "end": 396,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "PY - HBO Plus Este",
+      "programs": [
+        {
+          "program_id": "hbopluseste_py_cazafantasmas_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hbopluseste_py_s_lo_que_hicieron_el_ver_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hbopluseste_py_mujer_maravilla_1984_2026-01-06_0240",
+          "start": 240,
+          "end": 394,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "PY - HBO Pop",
+      "programs": [
+        {
+          "program_id": "hbopop_py_harry_potter_y_las_reliq_2026-01-06_0000",
+          "start": 0,
+          "end": 134,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "hbopop_py_una_pel_cula_de_minecraf_2026-01-06_0134",
+          "start": 134,
+          "end": 239,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "hbopop_py_pasante_de_moda_2026-01-06_0239",
+          "start": 239,
+          "end": 364,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "PY - HBO Signature",
+      "programs": [
+        {
+          "program_id": "hbosignature_py_the_pitt_2026-01-06_0000",
+          "start": 0,
+          "end": 56,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hbosignature_py_the_pitt_2026-01-06_0056",
+          "start": 56,
+          "end": 108,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hbosignature_py_the_pitt_2026-01-06_0108",
+          "start": 108,
+          "end": 161,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "hbosignature_py_the_pitt_2026-01-06_0161",
+          "start": 161,
+          "end": 213,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "hbosignature_py_un_coraz_n_normal_2026-01-06_0213",
+          "start": 213,
+          "end": 352,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "hbosignature_py_cuidado_con_slenderman_2026-01-06_0352",
+          "start": 352,
+          "end": 471,
+          "genre": "documentary",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "PY - HEi Network",
+      "programs": [
+        {
+          "program_id": "heinetwork_py_m_sica_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "heinetwork_py_m_sica_2026-01-06_0240",
+          "start": 240,
+          "end": 600,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "PY - HTV",
+      "programs": [
+        {
+          "program_id": "htv_py_htv_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "music",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "PY - History",
+      "programs": [
+        {
+          "program_id": "history_py_incre_ble_con_dan_aykroy_2026-01-06_0010",
+          "start": 10,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "history_py_incre_ble_con_dan_aykroy_2026-01-06_0060",
+          "start": 60,
+          "end": 110,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "history_py_grandes_misterios_de_la__2026-01-06_0110",
+          "start": 110,
+          "end": 220,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "history_py_grandes_misterios_de_la__2026-01-06_0220",
+          "start": 220,
+          "end": 270,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "history_py_grandes_escapes_con_morg_2026-01-06_0342",
+          "start": 342,
+          "end": 389,
+          "genre": "documentary",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "PY - Las Estrellas",
+      "programs": [
+        {
+          "program_id": "lasestrellas_py_una_familia_con_suerte_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "lasestrellas_py_mi_verdad_oculta_2026-01-06_0040",
+          "start": 40,
+          "end": 90,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "lasestrellas_py_la_rosa_de_guadalupe_2026-01-06_0090",
+          "start": 90,
+          "end": 140,
+          "genre": "documentary",
+          "score": 74
+        },
+        {
+          "program_id": "lasestrellas_py_pap_s_por_siempre_2026-01-06_0140",
+          "start": 140,
+          "end": 190,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "lasestrellas_py_amanecer_2026-01-06_0190",
+          "start": 190,
+          "end": 240,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "lasestrellas_py_nosotros_los_guapos_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "lasestrellas_py_nosotros_los_guapos_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "lasestrellas_py_vecinos_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "lasestrellas_py_en_punto_con_enrique_ace_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "PY - MTV",
+      "programs": [
+        {
+          "program_id": "mtv_py_catfish_2026-01-06_0010",
+          "start": 10,
+          "end": 50,
+          "genre": "movie",
+          "score": 92
+        },
+        {
+          "program_id": "mtv_py_caught_in_the_act_double_2026-01-06_0050",
+          "start": 50,
+          "end": 95,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mtv_py_catfish_colombia_2026-01-06_0095",
+          "start": 95,
+          "end": 140,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mtv_py_ink_master_2026-01-06_0140",
+          "start": 140,
+          "end": 185,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "mtv_py_acapulco_shore_2026-01-06_0185",
+          "start": 185,
+          "end": 230,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtv_py_la_venganza_de_los_ex_vi_2026-01-06_0230",
+          "start": 230,
+          "end": 280,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "mtv_py_la_venganza_de_los_ex_vi_2026-01-06_0280",
+          "start": 280,
+          "end": 330,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "mtv_py_ridiculousness_2026-01-06_0355",
+          "start": 355,
+          "end": 375,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "PY - Multipremier",
+      "programs": [
+        {
+          "program_id": "multipremier_py_la_portera_2026-01-06_0010",
+          "start": 10,
+          "end": 125,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "multipremier_py_el_camino_a_la_libertad_2026-01-06_0125",
+          "start": 125,
+          "end": 240,
+          "genre": "kids",
+          "score": 59
+        },
+        {
+          "program_id": "multipremier_py_a_su_lado_2026-01-06_0240",
+          "start": 240,
+          "end": 390,
+          "genre": "religion",
+          "score": 51
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "PY - National Geographic",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_alerta_aeropuerto_2026-01-06_0000",
+          "start": 0,
+          "end": 59,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "nationalgeographic_contrabandistas_con_mari_2026-01-06_0059",
+          "start": 59,
+          "end": 121,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "nationalgeographic_contrabandistas_con_mari_2026-01-06_0121",
+          "start": 121,
+          "end": 181,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "nationalgeographic_traficantes_2026-01-06_0181",
+          "start": 181,
+          "end": 243,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "nationalgeographic_gordon_ramsay_sabores_ex_2026-01-06_0243",
+          "start": 243,
+          "end": 305,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nationalgeographic_salvajemente_famosos_2026-01-06_0305",
+          "start": 305,
+          "end": 366,
+          "genre": "unknown",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "PY - Paraguay TV",
+      "programs": [
+        {
+          "program_id": "paraguaytv_py_remate_cls_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "paraguaytv_py_paraguay_noticias_edici__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "paraguaytv_py_duplex_nacional_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "PY - Paravisión",
+      "programs": [
+        {
+          "program_id": "paravision_py_amar_y_vivir_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "paravision_py_paravisi_n_noticias_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "paravision_py_los_borgias_2026-01-06_0180",
+          "start": 180,
+          "end": 600,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "PY - Playboy",
+      "programs": [
+        {
+          "program_id": "playboy_py_dream_dates_2026-01-06_0048",
+          "start": 48,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "playboy_py_twisted_ball_games_2026-01-06_0168",
+          "start": 168,
+          "end": 287,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "playboy_py_the_warm_up_2026-01-06_0287",
+          "start": 287,
+          "end": 337,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "playboy_py_dream_dates_2026-01-06_0337",
+          "start": 337,
+          "end": 407,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "PY - RPC",
+      "programs": [
+        {
+          "program_id": "rpc_py_el_noticiero_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "rpc_py_100_paraguayos_dicen_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rpc_py_tercer_tiempo_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "rpc_py_el_repasador_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "rpc_py_el_noticiero_2026-01-06_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "rpc_py_tercer_tiempo_2026-01-06_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "weather",
+          "score": 43
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "PY - Russia Today",
+      "programs": [
+        {
+          "program_id": "russiatoday_py_noticias_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "russiatoday_py_zoom_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "russiatoday_py_noticias_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "russiatoday_py_a_confirmar_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "russiatoday_py_noticias_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "russiatoday_py_conversando_con_correa_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "russiatoday_py_noticias_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "russiatoday_py_a_confirmar_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "russiatoday_py_noticias_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "russiatoday_py_zoom_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "russiatoday_py_a_confirmar_2026-01-06_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "PY - SNT",
+      "programs": [
+        {
+          "program_id": "snt_py_24_horas_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "snt_py_almas_heridas_2026-01-06_0050",
+          "start": 50,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "snt_py_los_hombres_de_paco_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "documentary",
+          "score": 69
+        },
+        {
+          "program_id": "snt_py_tierra_de_lobos_2026-01-06_0300",
+          "start": 300,
+          "end": 405,
+          "genre": "documentary",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "PY - Sony",
+      "programs": [
+        {
+          "program_id": "sony_py_gladiador_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "sony_py_casados_con_hijos_2026-01-06_0060",
+          "start": 60,
+          "end": 100,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "sony_py_casados_con_hijos_2026-01-06_0100",
+          "start": 100,
+          "end": 135,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "sony_py_casados_con_hijos_2026-01-06_0135",
+          "start": 135,
+          "end": 169,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "sony_py_la_balada_del_pistolero_2026-01-06_0169",
+          "start": 169,
+          "end": 290,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "sony_py_la_ni_era_2026-01-06_0290",
+          "start": 290,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "sony_py_la_ni_era_2026-01-06_0330",
+          "start": 330,
+          "end": 410,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "PY - Space",
+      "programs": [
+        {
+          "program_id": "space_py_los_federales_2026-01-06_0000",
+          "start": 0,
+          "end": 1,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "space_py_romeo_debe_morir_2026-01-06_0001",
+          "start": 1,
+          "end": 126,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "space_py_de_la_cuna_a_la_tumba_2026-01-06_0126",
+          "start": 126,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "space_py_sed_de_venganza_2026-01-06_0240",
+          "start": 240,
+          "end": 344,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "space_py_destino_final_2026-01-06_0344",
+          "start": 344,
+          "end": 446,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "PY - Star Channel",
+      "programs": [
+        {
+          "program_id": "starchannel_py_los_calienta_bancas_2_ro_2026-01-06_0000",
+          "start": 0,
+          "end": 54,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "starchannel_py_los_simpson_2026-01-06_0054",
+          "start": 54,
+          "end": 86,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "starchannel_py_los_simpson_2026-01-06_0086",
+          "start": 86,
+          "end": 120,
+          "genre": "weather",
+          "score": 41
+        },
+        {
+          "program_id": "starchannel_py_dime_m_s_mentiras_2026-01-06_0120",
+          "start": 120,
+          "end": 178,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "starchannel_py_el_depredador_2026-01-06_0178",
+          "start": 178,
+          "end": 313,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "starchannel_py_mustang_la_rehabilitaci__2026-01-06_0313",
+          "start": 313,
+          "end": 419,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "PY - Studio Universal",
+      "programs": [
+        {
+          "program_id": "studiouniversal_py_los_novios_de_las_navida_2026-01-06_0025",
+          "start": 25,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "studiouniversal_py_una_novia_para_mi_pap_2026-01-06_0120",
+          "start": 120,
+          "end": 220,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "studiouniversal_py_sorpresa_de_navidad_veci_2026-01-06_0220",
+          "start": 220,
+          "end": 320,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "studiouniversal_py_el_dueto_navide_o_2026-01-06_0320",
+          "start": 320,
+          "end": 420,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "PY - Sur TV",
+      "programs": [
+        {
+          "program_id": "surtv_py_sobrevivientes_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "surtv_py_ncis_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "surtv_py_jag_justicia_militar_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "surtv_py_en_la_piel_de_alicia_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "surtv_py_fin_de_transmisi_n_2026-01-06_0240",
+          "start": 240,
+          "end": 600,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "PY - TLNovelas",
+      "programs": [
+        {
+          "program_id": "tlnovelas_py_por_ella_soy_eva_2026-01-06_0025",
+          "start": 25,
+          "end": 420,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "PY - TNT",
+      "programs": [
+        {
+          "program_id": "tnt_py_masterchef_celebrity_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "tnt_py_masterchef_celebrity_2026-01-06_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "tnt_py_derecho_de_familia_2026-01-06_0120",
+          "start": 120,
+          "end": 222,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "tnt_py_it_cap_tulo_2_2026-01-06_0222",
+          "start": 222,
+          "end": 397,
+          "genre": "sports",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "PY - TNT Series",
+      "programs": [
+        {
+          "program_id": "tntseries_py_csi_2026-01-06_0000",
+          "start": 0,
+          "end": 42,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tntseries_py_csi_2026-01-06_0042",
+          "start": 42,
+          "end": 90,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "tntseries_py_csi_2026-01-06_0090",
+          "start": 90,
+          "end": 138,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tntseries_py_csi_2026-01-06_0138",
+          "start": 138,
+          "end": 187,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tntseries_py_el_mentalista_2026-01-06_0187",
+          "start": 187,
+          "end": 232,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tntseries_py_el_mentalista_2026-01-06_0232",
+          "start": 232,
+          "end": 278,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "tntseries_py_csi_2026-01-06_0278",
+          "start": 278,
+          "end": 325,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "tntseries_py_csi_2026-01-06_0325",
+          "start": 325,
+          "end": 370,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "PY - TVS",
+      "programs": [
+        {
+          "program_id": "tvs_py_marca_registrada_2026-01-06_0000",
+          "start": 0,
+          "end": 31,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tvs_py_abiertamente_2026-01-06_0031",
+          "start": 31,
+          "end": 151,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "tvs_py_cierre_de_transmisi_n_2026-01-06_0151",
+          "start": 151,
+          "end": 540,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "PY - TeleAmiga",
+      "programs": [
+        {
+          "program_id": "teleamiga_py_santa_misa_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "teleamiga_py_cibern_tidos_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "teleamiga_py_franciscaniando_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "teleamiga_py_parques_naturales_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "teleamiga_py_cibern_tidos_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "teleamiga_py_santa_misa_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "teleamiga_py_aprenda_y_venda_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "teleamiga_py_viviendo_la_vida_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "PY - Telecafé",
+      "programs": [
+        {
+          "program_id": "telecafe_py_conexi_n_vital_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "telecafe_py_telecaf_noticias_2026-01-06_0060",
+          "start": 60,
+          "end": 115,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "telecafe_py_magaz_n_cafetero_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "telecafe_py_a_confirmar_2026-01-06_0150",
+          "start": 150,
+          "end": 300,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "telecafe_py_otra_parte_de_la_histori_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "telecafe_py_telecaf_noticias_2026-01-06_0330",
+          "start": 330,
+          "end": 390,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "PY - Telefe Internacional",
+      "programs": [
+        {
+          "program_id": "telefeinternaciona_telefe_noticias_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "telefeinternaciona_check_in_2026-01-06_0090",
+          "start": 90,
+          "end": 100,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "telefeinternaciona_la_leona_2026-01-06_0100",
+          "start": 100,
+          "end": 165,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "telefeinternaciona_montecristo_2026-01-06_0165",
+          "start": 165,
+          "end": 225,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "telefeinternaciona_check_in_2026-01-06_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "telefeinternaciona_staff_segundo_tiempo_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "telefeinternaciona_vinos_y_placeres_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "telefeinternaciona_plano_x_plano_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "movie",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "PY - Telefuturo",
+      "programs": [
+        {
+          "program_id": "telefuturo_py_telediario_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "telefuturo_py_el_chico_de_oro_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "telefuturo_py_cobra_kai_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "telefuturo_py_fin_de_transmisi_n_2026-01-06_0240",
+          "start": 240,
+          "end": 560,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "PY - Tigo Sports",
+      "programs": [
+        {
+          "program_id": "tigosports_py_tigo_sports_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "tigosports_py_tigo_sports_noticias_2da_2026-01-06_0120",
+          "start": 120,
+          "end": 210,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "tigosports_py_sportivisimo_2026-01-06_0210",
+          "start": 210,
+          "end": 330,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "tigosports_py_su_majestad_el_f_tbol_2026-01-06_0330",
+          "start": 330,
+          "end": 450,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "PY - Tooncast",
+      "programs": [
+        {
+          "program_id": "tooncast_py_sheep_en_la_gran_ciudad_2026-01-06_0125",
+          "start": 125,
+          "end": 127,
+          "genre": "weather",
+          "score": 36
+        },
+        {
+          "program_id": "tooncast_py_escuadr_n_del_tiempo_2026-01-06_0156",
+          "start": 156,
+          "end": 167,
+          "genre": "weather",
+          "score": 32
+        },
+        {
+          "program_id": "tooncast_py_escuadr_n_del_tiempo_2026-01-06_0167",
+          "start": 167,
+          "end": 178,
+          "genre": "weather",
+          "score": 27
+        },
+        {
+          "program_id": "tooncast_py_escuadr_n_del_tiempo_2026-01-06_0178",
+          "start": 178,
+          "end": 192,
+          "genre": "weather",
+          "score": 35
+        },
+        {
+          "program_id": "tooncast_py_los_peque_os_looney_tune_2026-01-06_0269",
+          "start": 269,
+          "end": 282,
+          "genre": "sports",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "PY - TyC Sports",
+      "programs": [
+        {
+          "program_id": "tycsports_py_deportes_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "tycsports_py_deportes_2026-01-06_0240",
+          "start": 240,
+          "end": 960,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "PY - Unicanal",
+      "programs": [
+        {
+          "program_id": "unicanal_py_noticiero_central_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "unicanal_py_m_s_f_tbol_2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "unicanal_py_estamos_ready_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "unicanal_py_unitech_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "unicanal_py_en_s_ntesis_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "unicanal_py_infomerciales_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "unicanal_py_noticiero_central_2026-01-06_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "PY - Universal Channel",
+      "programs": [
+        {
+          "program_id": "universalchannel_p_la_ley_y_el_orden_uve_2026-01-06_0010",
+          "start": 10,
+          "end": 60,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "universalchannel_p_chicago_med_2026-01-06_0060",
+          "start": 60,
+          "end": 110,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "universalchannel_p_chicago_fire_2026-01-06_0110",
+          "start": 110,
+          "end": 160,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "universalchannel_p_polic_as_de_chicago_2026-01-06_0160",
+          "start": 160,
+          "end": 210,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "universalchannel_p_polic_as_de_chicago_2026-01-06_0210",
+          "start": 210,
+          "end": 260,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "universalchannel_p_chicago_fire_2026-01-06_0260",
+          "start": 260,
+          "end": 310,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "universalchannel_p_chicago_fire_2026-01-06_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "PY - Univision",
+      "programs": [
+        {
+          "program_id": "univision_py_noticiero_univisi_n_edic_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "univision_py_noticiero_univisi_n_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "univision_py_pap_s_por_siempre_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "univision_py_dom_nica_montero_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "univision_py_monteverde_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "univision_py_noticiero_univisi_n_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "univision_py_noticiero_univisi_n_edic_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "PY - Venus",
+      "programs": [
+        {
+          "program_id": "venus_py_venus_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "venus_py_venus_2026-01-06_0060",
+          "start": 60,
+          "end": 780,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "PY - Warner Channel",
+      "programs": [
+        {
+          "program_id": "warnerchannel_py_batman_el_caballero_de_l_2026-01-06_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "warnerchannel_py_el_robo_m_s_grande_de_la_2026-01-06_0115",
+          "start": 115,
+          "end": 217,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "warnerchannel_py_300_2026-01-06_0240",
+          "start": 240,
+          "end": 362,
+          "genre": "documentary",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "PY - latele",
+      "programs": [
+        {
+          "program_id": "latele_py_avenida_brasil_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "latele_py_telenoche_noticias_2026-01-06_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "latele_py_la_jefa_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "latele_py_fin_de_transmisi_n_2026-01-06_0240",
+          "start": 240,
+          "end": 600,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7575 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 187,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 0,
+      "end": 120,
+      "allowed_channels": [
+        157,
+        152,
+        154,
+        27,
+        80,
+        155,
+        156,
+        29,
+        153,
+        71,
+        76,
+        51,
+        77,
+        90,
+        109,
+        58,
+        31,
+        85,
+        162,
+        42,
+        182,
+        163,
+        103,
+        78,
+        47,
+        24,
+        175,
+        123,
+        147,
+        38,
+        57,
+        69,
+        97,
+        113,
+        114,
+        14,
+        40,
+        106,
+        44,
+        43,
+        89,
+        146,
+        20,
+        110,
+        115,
+        50,
+        15,
+        177,
+        164,
+        2,
+        74,
+        64,
+        67,
+        166,
+        59,
+        159,
+        25,
+        21,
+        186,
+        128,
+        73,
+        174,
+        108,
+        39,
+        54,
+        8,
+        102,
+        130,
+        84,
+        75,
+        137,
+        12,
+        19,
+        53,
+        55,
+        101,
+        7,
+        62,
+        112,
+        3,
+        118,
+        22,
+        150,
+        181,
+        16,
+        63,
+        172,
+        111,
+        4,
+        9,
+        134,
+        36,
+        126,
+        185,
+        68,
+        129,
+        168,
+        170
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 30
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 29
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 29
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 27
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "sports",
+      "bonus": 28
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "sports",
+      "bonus": 31
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "sports",
+      "bonus": 28
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "music",
+      "bonus": 32
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "music",
+      "bonus": 35
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "music",
+      "bonus": 47
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "music",
+      "bonus": 50
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "music",
+      "bonus": 65
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "HR - 24Kitchen",
+      "programs": [
+        {
+          "program_id": "24kitchen_hr_dobar_tek_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "24kitchen_hr_najbolje_iz_doline_baros_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "24kitchen_hr_jason_atherton_jela_iz_d_2026-01-06_0060",
+          "start": 60,
+          "end": 115,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "24kitchen_hr_eva_longoria_u_potrazi_z_2026-01-06_0115",
+          "start": 115,
+          "end": 160,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "24kitchen_hr_jamie_kuha_u_italiji_2026-01-06_0210",
+          "start": 210,
+          "end": 260,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "24kitchen_hr_donal_skehan_doma_a_kuhi_2026-01-06_0310",
+          "start": 310,
+          "end": 335,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "24kitchen_hr_donal_skehan_doma_a_kuhi_2026-01-06_0335",
+          "start": 335,
+          "end": 360,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "HR - 3SAT",
+      "programs": [
+        {
+          "program_id": "3sat_hr_leben_an_der_nordsee_2026-01-06_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "3sat_hr_leben_an_der_nordsee_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "3sat_hr_leben_an_der_nordsee_2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "3sat_hr_leben_an_der_nordsee_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "3sat_hr_leben_an_der_nordsee_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "3sat_hr_leben_an_der_nordsee_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "3sat_hr_maritimes_erbe_2026-01-06_0315",
+          "start": 315,
+          "end": 365,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "HR - AMC",
+      "programs": [
+        {
+          "program_id": "amc_hr_vukodlak_2026-01-06_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "amc_hr_ptice_2026-01-06_0065",
+          "start": 65,
+          "end": 185,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "amc_hr_smrtonosni_izlet_2026-01-06_0185",
+          "start": 185,
+          "end": 265,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "amc_hr_fireball_2026-01-06_0265",
+          "start": 265,
+          "end": 360,
+          "genre": "news",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "HR - Animal Planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_hr_izumrli_ili_ivi_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "animalplanet_hr_zakon_louisiane_2026-01-06_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "animalplanet_hr_kraljevi_akvarija_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "animalplanet_hr_veterinarski_ivot_2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_hr_veterinarski_ivot_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "animalplanet_hr_udovi_ta_s_aljaske_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_hr_zakon_louisiane_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_hr_ma_ke_te_aj_za_po_etnike_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "HR - Arenasport 1",
+      "programs": [
+        {
+          "program_id": "arenasport1_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "arenasport1_hr_najava_programa_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "arenasport1_hr_najava_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "arenasport1_hr_najava_programa_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "HR - Arenasport 10",
+      "programs": [
+        {
+          "program_id": "arenasport10_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "arenasport10_hr_najava_programa_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "arenasport10_hr_najava_programa_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "HR - Arenasport 2",
+      "programs": [
+        {
+          "program_id": "arenasport2_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "arenasport2_hr_najava_programa_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "arenasport2_hr_najava_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "arenasport2_hr_najava_programa_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "HR - Arenasport 3",
+      "programs": [
+        {
+          "program_id": "arenasport3_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "arenasport3_hr_najava_programa_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "arenasport3_hr_najava_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "arenasport3_hr_najava_programa_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "HR - Arenasport 4",
+      "programs": [
+        {
+          "program_id": "arenasport4_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "arenasport4_hr_najava_programa_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "arenasport4_hr_najava_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "arenasport4_hr_najava_programa_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "HR - Arenasport 5",
+      "programs": [
+        {
+          "program_id": "arenasport5_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "arenasport5_hr_najava_programa_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "arenasport5_hr_najava_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "arenasport5_hr_najava_programa_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "HR - Arenasport 6",
+      "programs": [
+        {
+          "program_id": "arenasport6_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "arenasport6_hr_najava_programa_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "arenasport6_hr_najava_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "arenasport6_hr_najava_programa_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "HR - Arenasport 7",
+      "programs": [
+        {
+          "program_id": "arenasport7_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "arenasport7_hr_najava_programa_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "arenasport7_hr_najava_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "arenasport7_hr_najava_programa_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "HR - Arenasport 8",
+      "programs": [
+        {
+          "program_id": "arenasport8_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "arenasport8_hr_najava_programa_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "arenasport8_hr_najava_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "arenasport8_hr_najava_programa_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "HR - Arenasport 9",
+      "programs": [
+        {
+          "program_id": "arenasport9_hr_najava_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "arenasport9_hr_najava_programa_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "arenasport9_hr_najava_programa_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "HR - BBC Earth",
+      "programs": [
+        {
+          "program_id": "bbcearth_hr_skandinavija_sa_simonom__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbcearth_hr_slavna_putovanja_europsk_2026-01-06_0030",
+          "start": 30,
+          "end": 100,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "bbcearth_hr_ivot_ispod_nule_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bbcearth_hr_ovjek_i_divljina_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bbcearth_hr_unutar_tvornice_2026-01-06_0195",
+          "start": 195,
+          "end": 250,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bbcearth_hr_najopasnije_vremenske_pr_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bbcearth_hr_skandinavija_sa_simonom__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "HR - BHT 1",
+      "programs": [
+        {
+          "program_id": "bht1_hr_bht_1_u_ivo_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "bht1_hr_kraj_programa_2026-01-06_0120",
+          "start": 120,
+          "end": 415,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "HR - Baby TV",
+      "programs": [
+        {
+          "program_id": "babytv_hr_dreamy_nights_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "babytv_hr_moon_and_stars_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "babytv_hr_babytv_s_night_time_melo_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "babytv_hr_sweet_dreams_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "babytv_hr_good_night_hugs_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytv_hr_dreamy_nights_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "babytv_hr_moon_and_stars_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "babytv_hr_soothing_sounds_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "babytv_hr_from_night_to_day_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "babytv_hr_from_night_to_day_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "babytv_hr_rise_and_shine_with_baby_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "babytv_hr_rise_and_shine_with_baby_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "HR - Balkan TV",
+      "programs": [
+        {
+          "program_id": "balkantv_hr_duhovnici_episkop_jovan__2026-01-06_0010",
+          "start": 10,
+          "end": 55,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "balkantv_hr_balkanski_dnevnik_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "balkantv_hr_iza_horizonta_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "balkantv_hr_neobicne_zene_2026-01-06_0120",
+          "start": 120,
+          "end": 170,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "balkantv_hr_balkanska_patrola_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "balkantv_hr_balkanski_dnevnik_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "balkantv_hr_meridijanima_2026-01-06_0270",
+          "start": 270,
+          "end": 325,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "balkantv_hr_putevima_2026-01-06_0325",
+          "start": 325,
+          "end": 356,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "HR - Balkanika",
+      "programs": [
+        {
+          "program_id": "balkanika_hr_where_is_the_party_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "balkanika_hr_flirt_2026-01-06_0180",
+          "start": 180,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "HR - Bloomberg Adria",
+      "programs": [
+        {
+          "program_id": "bloombergadria_hr_ai_irl_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "HR - CGTN",
+      "programs": [
+        {
+          "program_id": "cgtn_hr_the_heat_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "cgtn_hr_the_world_today_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "cgtn_hr_global_business_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "cgtn_hr_the_world_today_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "cgtn_hr_china_24_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "cgtn_hr_the_world_today_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "cgtn_hr_world_insight_with_tian__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "cgtn_hr_sports_scene_2026-01-06_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cgtn_hr_the_hub_with_wang_guan_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "education",
+          "score": 62
+        },
+        {
+          "program_id": "cgtn_hr_global_watch_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "HR - CGTN Documentary",
+      "programs": [
+        {
+          "program_id": "cgtndocumentary_hr_journeys_and_discoveries_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cgtndocumentary_hr_history_in_the_frame_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "cgtndocumentary_hr_best_eats_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cgtndocumentary_hr_youthful_china_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cgtndocumentary_hr_pixel_collage_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cgtndocumentary_hr_today_s_top_pick_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "cgtndocumentary_hr_humanities_and_geography_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cgtndocumentary_hr_living_china_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cgtndocumentary_hr_special_edition_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "HR - CNN Europe",
+      "programs": [
+        {
+          "program_id": "cnneurope_hr_the_brief_with_jim_sciut_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cnneurope_hr_erin_burnett_outfront_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cnneurope_hr_anderson_cooper_360_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "education",
+          "score": 58
+        },
+        {
+          "program_id": "cnneurope_hr_the_source_with_kaitlan__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "cnneurope_hr_cnn_newsnight_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "cnneurope_hr_laura_coates_live_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "HR - CineStar TV 1",
+      "programs": [
+        {
+          "program_id": "cinestartv1_hr_autocesta_spasa_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "cinestartv1_hr_iscjelitelj_2026-01-06_0075",
+          "start": 75,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cinestartv1_hr_drakula_bu_enje_zla_2026-01-06_0225",
+          "start": 225,
+          "end": 349,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cinestartv1_hr_kola_program_2026-01-06_0349",
+          "start": 349,
+          "end": 380,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "HR - CineStar TV Action & Thriller",
+      "programs": [
+        {
+          "program_id": "cinestartvactionan_rambo_4_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cinestartvactionan_boss_level_2026-01-06_0075",
+          "start": 75,
+          "end": 190,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "cinestartvactionan_hardcore_henry_2026-01-06_0190",
+          "start": 190,
+          "end": 295,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cinestartvactionan_kola_program_2026-01-06_0295",
+          "start": 295,
+          "end": 475,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "HR - Cinemax",
+      "programs": [
+        {
+          "program_id": "cinemax_hr_tanka_crvena_linija_2026-01-06_0000",
+          "start": 0,
+          "end": 25,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "cinemax_hr_dvije_zlatne_ene_2026-01-06_0025",
+          "start": 25,
+          "end": 125,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cinemax_hr_seks_2026-01-06_0125",
+          "start": 125,
+          "end": 245,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cinemax_hr_kyuka_prije_kraja_ljeta_2026-01-06_0245",
+          "start": 245,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "HR - Cinemax 2",
+      "programs": [
+        {
+          "program_id": "cinemax2_hr_zauvijek_djevojke_2026-01-06_0010",
+          "start": 10,
+          "end": 130,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cinemax2_hr_crna_no_2026-01-06_0130",
+          "start": 130,
+          "end": 250,
+          "genre": "movie",
+          "score": 84
+        },
+        {
+          "program_id": "cinemax2_hr_u_itelj_koji_je_obe_ao_m_2026-01-06_0250",
+          "start": 250,
+          "end": 360,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "HR - Cinestar TV 2",
+      "programs": [
+        {
+          "program_id": "cinestartv2_hr_ukleta_vo_nja_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "cinestartv2_hr_elektri_ni_ivot_louisa_w_2026-01-06_0045",
+          "start": 45,
+          "end": 150,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "cinestartv2_hr_hrva_2026-01-06_0150",
+          "start": 150,
+          "end": 259,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cinestartv2_hr_kola_program_2026-01-06_0259",
+          "start": 259,
+          "end": 465,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "HR - Cinestar TV Comedy & Family",
+      "programs": [
+        {
+          "program_id": "cinestartvcomedyan_ni_ta_nije_vje_no_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cinestartvcomedyan_100_metara_2026-01-06_0090",
+          "start": 90,
+          "end": 202,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "cinestartvcomedyan_kola_program_2026-01-06_0202",
+          "start": 202,
+          "end": 540,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "HR - Cinestar TV Fantasy",
+      "programs": [
+        {
+          "program_id": "cinestartvfantasy__hotel_artemis_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "cinestartvfantasy__smrtonosni_porok_2026-01-06_0015",
+          "start": 15,
+          "end": 110,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "cinestartvfantasy__smrtni_neprijatelj_2026-01-06_0110",
+          "start": 110,
+          "end": 199,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cinestartvfantasy__kola_program_2026-01-06_0199",
+          "start": 199,
+          "end": 455,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "HR - Cinestar TV Premiere 1",
+      "programs": [
+        {
+          "program_id": "cinestartvpremiere_pohod_osvetnika_2026-01-06_0020",
+          "start": 20,
+          "end": 120,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "cinestartvpremiere_la_la_land_2026-01-06_0120",
+          "start": 120,
+          "end": 253,
+          "genre": "movie",
+          "score": 79
+        },
+        {
+          "program_id": "cinestartvpremiere_kola_program_2026-01-06_0253",
+          "start": 253,
+          "end": 470,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "HR - Cinestar TV Premiere 2",
+      "programs": [
+        {
+          "program_id": "cinestartvpremiere_divno_vjen_anje_2026-01-06_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "cinestartvpremiere_millerova_djevojka_2026-01-06_0115",
+          "start": 115,
+          "end": 215,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cinestartvpremiere_kola_program_2026-01-06_0215",
+          "start": 215,
+          "end": 375,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "HR - Crime & Investigation",
+      "programs": [
+        {
+          "program_id": "crimeandinvestigat_lovac_na_ubojstva_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "crimeandinvestigat_nesavr_eno_ubojstvo_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "crimeandinvestigat_plja_ka_plja_ka_engleske_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "crimeandinvestigat_zelenooki_ubojice_2026-01-06_0150",
+          "start": 150,
+          "end": 205,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "crimeandinvestigat_sat_vremena_za_ubojstvo_2026-01-06_0205",
+          "start": 205,
+          "end": 250,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "crimeandinvestigat_posljednji_izlazak_2026-01-06_0250",
+          "start": 250,
+          "end": 305,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "crimeandinvestigat_netko_ne_to_skriva_2026-01-06_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "HR - DMC",
+      "programs": [
+        {
+          "program_id": "dmc_hr_no_ni_program_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dmc_hr_dobro_jutro_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "HR - DM SAT",
+      "programs": [
+        {
+          "program_id": "dmsat_hr_muzi_ki_program_sms_chat_2026-01-06_0015",
+          "start": 15,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "dmsat_hr_estradne_vesti_2026-01-06_0120",
+          "start": 120,
+          "end": 125,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "dmsat_hr_muzi_ki_program_sms_chat_2026-01-06_0125",
+          "start": 125,
+          "end": 420,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "HR - Da Vinci",
+      "programs": [
+        {
+          "program_id": "davinci_hr_mladi_veterinari_2026-01-06_0060",
+          "start": 60,
+          "end": 84,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "davinci_hr_videoigraonica_u_gara_i__2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "davinci_hr_spa_avanje_ku_nih_ljubim_2026-01-06_0210",
+          "start": 210,
+          "end": 231,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "davinci_hr_spa_avanje_ku_nih_ljubim_2026-01-06_0231",
+          "start": 231,
+          "end": 255,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "davinci_hr_ivotinjska_ambasada_2026-01-06_0276",
+          "start": 276,
+          "end": 300,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "davinci_hr_operacija_boli_2026-01-06_0327",
+          "start": 327,
+          "end": 360,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "HR - Das Erste",
+      "programs": [
+        {
+          "program_id": "daserste_hr_charlotte_link_die_entsc_2026-01-06_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "daserste_hr_tatort_das_j_ngste_gei_l_2026-01-06_0070",
+          "start": 70,
+          "end": 163,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "daserste_hr_charlotte_link_die_entsc_2026-01-06_0165",
+          "start": 165,
+          "end": 255,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "daserste_hr_die_braut_ihr_mann_2026-01-06_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "daserste_hr_zdf_morgenmagazin_2026-01-06_0330",
+          "start": 330,
+          "end": 540,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "HR - Disney Channel",
+      "programs": [
+        {
+          "program_id": "disneychannel_hr_phineas_i_ferb_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "HR - Doku TV",
+      "programs": [
+        {
+          "program_id": "dokutv_hr_velika_europska_putovanj_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "dokutv_hr_bijeg_na_selo_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "dokutv_hr_maria_callas_osobno_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "dokutv_hr_brodovi_i_ljudi_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "dokutv_hr_naj_udnija_mjesta_isto_n_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "HR - Doma TV",
+      "programs": [
+        {
+          "program_id": "domatv_hr_ncis_los_angeles_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "domatv_hr_zaboravljeni_slu_aj_2026-01-06_0050",
+          "start": 50,
+          "end": 90,
+          "genre": "weather",
+          "score": 38
+        },
+        {
+          "program_id": "domatv_hr_zaboravljeni_slu_aj_2026-01-06_0090",
+          "start": 90,
+          "end": 130,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "domatv_hr_zaboravljeni_slu_aj_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "domatv_hr_detektiv_kalle_2026-01-06_0180",
+          "start": 180,
+          "end": 220,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "domatv_hr_pod_sretnom_zvijezdom_2026-01-06_0220",
+          "start": 220,
+          "end": 260,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "domatv_hr_larin_izbor_2026-01-06_0260",
+          "start": 260,
+          "end": 300,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "domatv_hr_larin_izbor_2026-01-06_0300",
+          "start": 300,
+          "end": 340,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "domatv_hr_kraj_programa_2026-01-06_0340",
+          "start": 340,
+          "end": 400,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "HR - E! Entertainment",
+      "programs": [
+        {
+          "program_id": "eentertainment_hr_traljav_posao_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "eentertainment_hr_keeping_up_with_the_kard_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "eentertainment_hr_keeping_up_with_the_kard_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "eentertainment_hr_traljav_posao_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "eentertainment_hr_traljav_posao_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "eentertainment_hr_wags_la_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "HR - Epic Drama",
+      "programs": [
+        {
+          "program_id": "epicdrama_hr_detektiv_murdoch_2026-01-06_0020",
+          "start": 20,
+          "end": 75,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "epicdrama_hr_ubojstvo_u_malenom_gradu_2026-01-06_0075",
+          "start": 75,
+          "end": 135,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "epicdrama_hr_klub_istra_iteljica_uboj_2026-01-06_0135",
+          "start": 135,
+          "end": 195,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "epicdrama_hr_gospodin_spade_2026-01-06_0195",
+          "start": 195,
+          "end": 275,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "epicdrama_hr_gospo_ica_scarlet_i_vojv_2026-01-06_0275",
+          "start": 275,
+          "end": 365,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "HR - Euronews",
+      "programs": [
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0000",
+          "start": 0,
+          "end": 16,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0016",
+          "start": 16,
+          "end": 30,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0030",
+          "start": 30,
+          "end": 76,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0076",
+          "start": 76,
+          "end": 90,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0120",
+          "start": 120,
+          "end": 136,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0136",
+          "start": 136,
+          "end": 150,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0180",
+          "start": 180,
+          "end": 195,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0195",
+          "start": 195,
+          "end": 210,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0210",
+          "start": 210,
+          "end": 226,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "euronews_hr_news_2026-01-06_0226",
+          "start": 226,
+          "end": 240,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0240",
+          "start": 240,
+          "end": 256,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0256",
+          "start": 256,
+          "end": 270,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 83
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0300",
+          "start": 300,
+          "end": 316,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0316",
+          "start": 316,
+          "end": 330,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "euronews_hr_the_european_debrief_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "HR - ExtraTV",
+      "programs": [
+        {
+          "program_id": "extratv_hr_spotovi_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "extratv_hr_spotovi_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "extratv_hr_spotovi_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "HR - Extreme Sports",
+      "programs": [
+        {
+          "program_id": "extremesports_hr_grid_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "extremesports_hr_north_wrestling_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "extremesports_hr_boondock_nation_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "extremesports_hr_boondock_nation_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "extremesports_hr_strongman_champions_leag_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "HR - FTV",
+      "programs": [
+        {
+          "program_id": "ftv_hr_vrtuljak_ivota_2026-01-06_0015",
+          "start": 15,
+          "end": 110,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ftv_hr_kraj_programa_2026-01-06_0110",
+          "start": 110,
+          "end": 375,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "HR - Fashion TV",
+      "programs": [
+        {
+          "program_id": "fashiontv_hr_lingerie_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "fashiontv_hr_lingerie_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_hr_swimwear_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "fashiontv_hr_swimwear_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_hr_top_models_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "fashiontv_hr_top_models_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "fashiontv_hr_lingerie_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "fashiontv_hr_lingerie_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "fashiontv_hr_swimwear_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "fashiontv_hr_swimwear_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "fashiontv_hr_top_photoshoots_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "fashiontv_hr_top_photoshoots_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "HR - Fast&Fun",
+      "programs": [
+        {
+          "program_id": "fastandfun_hr_world_of_freesports_2021_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "fastandfun_hr_racemax_motorsports_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "fastandfun_hr_boat_show_4k_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "fastandfun_hr_boat_show_4k_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "fastandfun_hr_fia_pure_motorsport_2021_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "fastandfun_hr_fia_pure_motorsport_2021_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "fastandfun_hr_sports_max_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "fastandfun_hr_jet_ski_world_series_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "series",
+          "score": 90
+        },
+        {
+          "program_id": "fastandfun_hr_better_than_four_2016_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "fastandfun_hr_better_than_four_2016_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "series",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "HR - FilmBox Extra",
+      "programs": [
+        {
+          "program_id": "filmboxextra_hr_fist_2_fist_2026-01-06_0005",
+          "start": 5,
+          "end": 95,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "filmboxextra_hr_fist_2_fist_2_weapon_of__2026-01-06_0095",
+          "start": 95,
+          "end": 405,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "HR - France 24 engleski",
+      "programs": [
+        {
+          "program_id": "france24engleski_h_news_584_2026-01-06_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "france24engleski_h_the_debate_1_2026-01-06_0010",
+          "start": 10,
+          "end": 53,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "france24engleski_h_news_585_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "france24engleski_h_bulletin_149_2026-01-06_0090",
+          "start": 90,
+          "end": 105,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "france24engleski_h_news_586_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "france24engleski_h_news_587_2026-01-06_0180",
+          "start": 180,
+          "end": 190,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "france24engleski_h_the_debate_1_2026-01-06_0190",
+          "start": 190,
+          "end": 233,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "france24engleski_h_news_588_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24engleski_h_bulletin_151_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "france24engleski_h_news_589_2026-01-06_0300",
+          "start": 300,
+          "end": 314,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "france24engleski_h_bulletin_152_2026-01-06_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "news",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "HR - France 24 francuski",
+      "programs": [
+        {
+          "program_id": "france24francuski__l_actu_360_le_journal_4_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "france24francuski__le_debat_1_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "france24francuski__l_edition_nuit_le_journa_2026-01-06_0060",
+          "start": 60,
+          "end": 74,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "france24francuski__le_journal_de_l_afrique__2026-01-06_0074",
+          "start": 74,
+          "end": 90,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "france24francuski__le_journal_de_la_can_26_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "france24francuski__l_edition_nuit_le_journa_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "france24francuski__l_edition_nuit_bulletin__2026-01-06_0150",
+          "start": 150,
+          "end": 165,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "france24francuski__l_edition_nuit_le_journa_2026-01-06_0180",
+          "start": 180,
+          "end": 191,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "france24francuski__le_debat_1_2026-01-06_0191",
+          "start": 191,
+          "end": 235,
+          "genre": "talk",
+          "score": 60
+        },
+        {
+          "program_id": "france24francuski__l_edition_nuit_le_journa_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "france24francuski__l_edition_nuit_bulletin__2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "france24francuski__l_edition_nuit_le_journa_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "france24francuski__l_edition_nuit_bulletin__2026-01-06_0330",
+          "start": 330,
+          "end": 344,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "france24francuski__le_journal_de_l_afrique__2026-01-06_0344",
+          "start": 344,
+          "end": 360,
+          "genre": "news",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "HR - GP1",
+      "programs": [
+        {
+          "program_id": "gp1_hr_sportski_mix_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "HR - GameHub",
+      "programs": [
+        {
+          "program_id": "gamehub_hr_gamehub_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "gamehub_hr_escape_game_show_2026-01-06_0045",
+          "start": 45,
+          "end": 50,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "gamehub_hr_veco_kazna_2026-01-06_0050",
+          "start": 50,
+          "end": 60,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "gamehub_hr_skokie_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "gamehub_hr_tehix_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "gamehub_hr_tehix_2026-01-06_0195",
+          "start": 195,
+          "end": 215,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "gamehub_hr_escape_game_show_2026-01-06_0235",
+          "start": 235,
+          "end": 240,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "gamehub_hr_skokie_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "HR - HBO",
+      "programs": [
+        {
+          "program_id": "hbo_hr_svr_etak_2026-01-06_0000",
+          "start": 0,
+          "end": 137,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hbo_hr_crni_novac_2026-01-06_0137",
+          "start": 137,
+          "end": 256,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hbo_hr_odvuci_me_u_pakao_2026-01-06_0256",
+          "start": 256,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "HR - HBO 2",
+      "programs": [
+        {
+          "program_id": "hbo2_hr_30_dana_no_i_2026-01-06_0000",
+          "start": 0,
+          "end": 79,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "hbo2_hr_mala_starlingova_2026-01-06_0079",
+          "start": 79,
+          "end": 192,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hbo2_hr_don_q_film_2026-01-06_0192",
+          "start": 192,
+          "end": 295,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "hbo2_hr_john_early_sad_vi_e_nego_2026-01-06_0295",
+          "start": 295,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "HR - HBO 3",
+      "programs": [
+        {
+          "program_id": "hbo3_hr_kneecap_hip_hop_revoluci_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hbo3_hr_udovice_2026-01-06_0055",
+          "start": 55,
+          "end": 182,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hbo3_hr_neka_druga_ena_2026-01-06_0182",
+          "start": 182,
+          "end": 265,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "hbo3_hr_susjedi_iz_pakla_2026-01-06_0265",
+          "start": 265,
+          "end": 361,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "HR - HRT-HTVInt",
+      "programs": [
+        {
+          "program_id": "hrt_htvint_hr_prljavo_kazali_te_u_aren_2026-01-06_0000",
+          "start": 0,
+          "end": 47,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hrt_htvint_hr_gara_a_auguste_miki_solu_2026-01-06_0090",
+          "start": 90,
+          "end": 121,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "hrt_htvint_hr_vijesti_na_panjolskom_je_2026-01-06_0121",
+          "start": 121,
+          "end": 129,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "hrt_htvint_hr_dr_beck_upala_sr_anog_mi_2026-01-06_0129",
+          "start": 129,
+          "end": 164,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hrt_htvint_hr_dnevnik_2_2026-01-06_0164",
+          "start": 164,
+          "end": 216,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hrt_htvint_hr_tre_a_dob_2026-01-06_0216",
+          "start": 216,
+          "end": 247,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hrt_htvint_hr_vijesti_na_engleskom_jez_2026-01-06_0247",
+          "start": 247,
+          "end": 255,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "hrt_htvint_hr_kod_nas_doma_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hrt_htvint_hr_otvoreno_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "hrt_htvint_hr_lijepom_na_om_matulji_1__2026-01-06_0330",
+          "start": 330,
+          "end": 389,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "HR - HRT 1",
+      "programs": [
+        {
+          "program_id": "hrt1_hr_etiri_godi_nja_doba_u_ca_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hrt1_hr_potjera_2026-01-06_0045",
+          "start": 45,
+          "end": 95,
+          "genre": "news",
+          "score": 88
+        },
+        {
+          "program_id": "hrt1_hr_la_promesa_2026-01-06_0095",
+          "start": 95,
+          "end": 155,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hrt1_hr_zauvijek_zajedno_2026-01-06_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "hrt1_hr_cacau_2026-01-06_0200",
+          "start": 200,
+          "end": 245,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hrt1_hr_kod_nas_doma_2026-01-06_0245",
+          "start": 245,
+          "end": 290,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hrt1_hr_vijesti_iz_kulture_2026-01-06_0290",
+          "start": 290,
+          "end": 300,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "hrt1_hr_tre_a_dob_2026-01-06_0300",
+          "start": 300,
+          "end": 326,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "hrt1_hr_dr_beck_upala_sr_anog_mi_2026-01-06_0326",
+          "start": 326,
+          "end": 361,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "HR - HRT 2",
+      "programs": [
+        {
+          "program_id": "hrt2_hr_rebecka_martinsson_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "hrt2_hr_umorstva_u_midsomeru_2026-01-06_0045",
+          "start": 45,
+          "end": 145,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "hrt2_hr_minus_i_plus_2026-01-06_0145",
+          "start": 145,
+          "end": 175,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hrt2_hr_art_2026-01-06_0175",
+          "start": 175,
+          "end": 205,
+          "genre": "movie",
+          "score": 91
+        },
+        {
+          "program_id": "hrt2_hr_no_ni_glazbeni_program_s_2026-01-06_0205",
+          "start": 205,
+          "end": 293,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "hrt2_hr_la_promesa_2026-01-06_0293",
+          "start": 293,
+          "end": 350,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "hrt2_hr_zeleni_turizam_2026-01-06_0350",
+          "start": 350,
+          "end": 401,
+          "genre": "music",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "HR - HRT 3",
+      "programs": [
+        {
+          "program_id": "hrt3_hr_dannyjeva_lete_a_stolica_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hrt3_hr_gospodin_smith_ide_u_was_2026-01-06_0085",
+          "start": 85,
+          "end": 210,
+          "genre": "documentary",
+          "score": 63
+        },
+        {
+          "program_id": "hrt3_hr_gara_a_bonebomb_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hrt3_hr_sve_ani_godi_nji_koncert_2026-01-06_0240",
+          "start": 240,
+          "end": 291,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "hrt3_hr_jos_cura_i_dubrova_ki_si_2026-01-06_0291",
+          "start": 291,
+          "end": 342,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "hrt3_hr_profesije_osobno_platno_2026-01-06_0342",
+          "start": 342,
+          "end": 395,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "HR - HRT 4",
+      "programs": [
+        {
+          "program_id": "hrt4_hr_vijesti_flash_2026-01-06_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "hrt4_hr_vijesti_iz_kulture_2026-01-06_0010",
+          "start": 10,
+          "end": 17,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "hrt4_hr_dnevnik_2_2026-01-06_0065",
+          "start": 65,
+          "end": 118,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "hrt4_hr_poslovne_vijesti_2026-01-06_0175",
+          "start": 175,
+          "end": 180,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "hrt4_hr_vijesti_flash_2026-01-06_0180",
+          "start": 180,
+          "end": 190,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "hrt4_hr_vijesti_na_engleskom_jez_2026-01-06_0190",
+          "start": 190,
+          "end": 198,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "hrt4_hr_vijesti_na_panjolskom_je_2026-01-06_0200",
+          "start": 200,
+          "end": 208,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "hrt4_hr_pregled_dana_2026-01-06_0238",
+          "start": 238,
+          "end": 283,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "hrt4_hr_vijesti_flash_2026-01-06_0283",
+          "start": 283,
+          "end": 293,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "hrt4_hr_vijesti_iz_kulture_2026-01-06_0293",
+          "start": 293,
+          "end": 300,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "hrt4_hr_dnevnik_2_2026-01-06_0300",
+          "start": 300,
+          "end": 353,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "HR - Hayat",
+      "programs": [
+        {
+          "program_id": "hayat_hr_vijesti_u_7_2026-01-06_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "hayat_hr_vijesti_u_7_2026-01-06_0040",
+          "start": 40,
+          "end": 60,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "hayat_hr_7_plus_2026-01-06_0060",
+          "start": 60,
+          "end": 100,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "hayat_hr_387_playlista_2026-01-06_0110",
+          "start": 110,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "HR - History",
+      "programs": [
+        {
+          "program_id": "history_hr_prokletstvo_oak_islanda_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "history_hr_neobja_njeno_s_williamom_2026-01-06_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "history_hr_zvijezde_zalagaonice_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "history_hr_zvijezde_zalagaonice_2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "history_hr_skladi_ni_ratovi_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "history_hr_zvijezde_zalagaonice_put_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "history_hr_u_pozadini_ran_a_skinwal_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "history_hr_zvijezde_zalagaonice_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "HR - History 2",
+      "programs": [
+        {
+          "program_id": "history2_hr_spisi_o_nlo_ima_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "history2_hr_potraga_za_udovi_tima_2026-01-06_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "history2_hr_svemir_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "history2_hr_drevni_izvanzemaljci_2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "history2_hr_drevna_otkri_a_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "history2_hr_drevnih_top_10_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "history2_hr_rim_uspon_i_pad_carstva_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "history2_hr_gradovi_podzemlja_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "HR - Hit TV",
+      "programs": [
+        {
+          "program_id": "hittv_hr_spotovi_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "hittv_hr_spotovi_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hittv_hr_spotovi_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "HR - ICTbusiness TV",
+      "programs": [
+        {
+          "program_id": "ictbusinesstv_hr_ictbusiness_tv_ifa_2025__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "HR - IDJ TV",
+      "programs": [
+        {
+          "program_id": "idjtv_hr_idjhits_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "idjtv_hr_idjbalkan_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "idjtv_hr_idjclub_2026-01-06_0185",
+          "start": 185,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "idjtv_hr_idjhits_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "music",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "HR - Jugoton",
+      "programs": [
+        {
+          "program_id": "jugoton_hr_spotovi_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "jugoton_hr_spotovi_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jugoton_hr_spotovi_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "HR - Kanal Ri",
+      "programs": [
+        {
+          "program_id": "kanalri_hr_zapisano_u_zvijezdama_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "kanalri_hr_glazbeni_kanal_2026-01-06_0145",
+          "start": 145,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "HR - Kino TV",
+      "programs": [
+        {
+          "program_id": "kinotv_hr_snajperistica_2026-01-06_0000",
+          "start": 0,
+          "end": 125,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "kinotv_hr_yuli_pri_a_o_carlosu_aco_2026-01-06_0125",
+          "start": 125,
+          "end": 240,
+          "genre": "movie",
+          "score": 81
+        },
+        {
+          "program_id": "kinotv_hr_izopa_eni_2026-01-06_0240",
+          "start": 240,
+          "end": 361,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "HR - Klape i Tambure",
+      "programs": [
+        {
+          "program_id": "klapeitambure_hr_klape_i_tambure_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "klapeitambure_hr_klape_i_tambure_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "HR - Klasik TV",
+      "programs": [
+        {
+          "program_id": "klasiktv_hr_rad_na_odre_eno_vreme_2026-01-06_0000",
+          "start": 0,
+          "end": 61,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "klasiktv_hr_remake_2026-01-06_0061",
+          "start": 61,
+          "end": 172,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "klasiktv_hr_ena_u_zelenom_2026-01-06_0172",
+          "start": 172,
+          "end": 242,
+          "genre": "weather",
+          "score": 46
+        },
+        {
+          "program_id": "klasiktv_hr_otac_2026-01-06_0242",
+          "start": 242,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "HR - Laudato TV",
+      "programs": [
+        {
+          "program_id": "laudatotv_hr_vijesti_iz_vatikana_2026-01-06_0004",
+          "start": 4,
+          "end": 12,
+          "genre": "news",
+          "score": 58
+        },
+        {
+          "program_id": "laudatotv_hr_susret_u_rije_i_2026-01-06_0032",
+          "start": 32,
+          "end": 77,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "laudatotv_hr_majka_cabrini_2026-01-06_0077",
+          "start": 77,
+          "end": 176,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "laudatotv_hr_koncert_bo_i_na_pri_a_2026-01-06_0176",
+          "start": 176,
+          "end": 244,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "laudatotv_hr_iz_srca_majke_angelice_2026-01-06_0244",
+          "start": 244,
+          "end": 274,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "laudatotv_hr_totus_tuus_2026-01-06_0274",
+          "start": 274,
+          "end": 334,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "laudatotv_hr_izdvojeno_2026-01-06_0334",
+          "start": 334,
+          "end": 385,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "HR - Libertas TV",
+      "programs": [
+        {
+          "program_id": "libertastv_hr_glazbena_panorama_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "libertastv_hr_www_libertas_tv_www_libe_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "libertastv_hr_www_libertas_tv_www_libe_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "libertastv_hr_glazbena_panorama_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "HR - Luxe TV",
+      "programs": [
+        {
+          "program_id": "luxetv_hr_luxe_today_2026-01-06_0000",
+          "start": 0,
+          "end": 25,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "luxetv_hr_luxe_this_month_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "luxetv_hr_luxe_today_2026-01-06_0060",
+          "start": 60,
+          "end": 85,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "luxetv_hr_luxe_this_month_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "luxetv_hr_luxe_today_2026-01-06_0120",
+          "start": 120,
+          "end": 145,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "luxetv_hr_luxe_this_month_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "luxetv_hr_luxe_today_2026-01-06_0180",
+          "start": 180,
+          "end": 205,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "luxetv_hr_luxe_this_month_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "luxetv_hr_luxe_today_2026-01-06_0240",
+          "start": 240,
+          "end": 265,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "luxetv_hr_luxe_this_month_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "luxetv_hr_luxe_today_2026-01-06_0300",
+          "start": 300,
+          "end": 325,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "luxetv_hr_luxe_this_month_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "HR - M1 Film",
+      "programs": [
+        {
+          "program_id": "m1film_hr_genijalka_2026-01-06_0000",
+          "start": 0,
+          "end": 70,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "m1film_hr_zoe_2026-01-06_0070",
+          "start": 70,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "m1film_hr_vrag_je_u_detaljima_2026-01-06_0180",
+          "start": 180,
+          "end": 315,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "m1film_hr_postolar_2026-01-06_0315",
+          "start": 315,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "HR - M1 Gold",
+      "programs": [
+        {
+          "program_id": "m1gold_hr_mladost_2026-01-06_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "m1gold_hr_i_t_film_2026-01-06_0010",
+          "start": 10,
+          "end": 110,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "m1gold_hr_dalida_2026-01-06_0110",
+          "start": 110,
+          "end": 310,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "m1gold_hr_umska_pustolovina_2026-01-06_0310",
+          "start": 310,
+          "end": 420,
+          "genre": "movie",
+          "score": 92
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "HR - MAXSport 1",
+      "programs": [
+        {
+          "program_id": "maxsport1_hr_maxsport_info_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "maxsport1_hr_maxsport_info_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "maxsport1_hr_maxsport_info_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "HR - MAXSport 2",
+      "programs": [
+        {
+          "program_id": "maxsport2_hr_maxsport_info_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "maxsport2_hr_maxsport_info_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "maxsport2_hr_maxsport_info_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "maxsport2_hr_maxsport_info_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "HR - Maria Vision Međugorje",
+      "programs": [
+        {
+          "program_id": "mariavisionmedugor_maria_vision_me_ugorje_p_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mariavisionmedugor_maria_vision_me_ugorje_p_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "HR - Mediaset Italia",
+      "programs": [
+        {
+          "program_id": "mediasetitalia_hr_nema_informacije_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "mediasetitalia_hr_nema_informacije_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "mediasetitalia_hr_nema_informacije_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "HR - Mini TV",
+      "programs": [
+        {
+          "program_id": "minitv_hr_pingvini_s_madagaskara_2026-01-06_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "minitv_hr_pingvini_s_madagaskara_2026-01-06_0020",
+          "start": 20,
+          "end": 40,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "minitv_hr_inovator_rusty_2026-01-06_0085",
+          "start": 85,
+          "end": 110,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "minitv_hr_inovator_rusty_2026-01-06_0110",
+          "start": 110,
+          "end": 130,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "minitv_hr_pocoyo_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "minitv_hr_kraj_programa_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "HR - N1",
+      "programs": [
+        {
+          "program_id": "n1_hr_sport_klub_info_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "n1_hr_pregled_dana_2026-01-06_0060",
+          "start": 60,
+          "end": 110,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "n1_hr_dnevnik_sa_2026-01-06_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "n1_hr_dw_tomorrow_today_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "n1_hr_dw_euromaxx_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "n1_hr_movie_top_ten_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "movie",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "HR - Nat Geo Wild",
+      "programs": [
+        {
+          "program_id": "natgeowild_hr_povratak_bijele_psine_2026-01-06_0005",
+          "start": 5,
+          "end": 55,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "natgeowild_hr_afri_ki_lovci_2026-01-06_0055",
+          "start": 55,
+          "end": 95,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "natgeowild_hr_afri_ki_lovci_2026-01-06_0095",
+          "start": 95,
+          "end": 140,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "natgeowild_hr_afri_ki_lovci_2026-01-06_0140",
+          "start": 140,
+          "end": 185,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "natgeowild_hr_najve_i_morski_pas_bik_n_2026-01-06_0185",
+          "start": 185,
+          "end": 225,
+          "genre": "movie",
+          "score": 84
+        },
+        {
+          "program_id": "natgeowild_hr_afri_ki_lovci_2026-01-06_0295",
+          "start": 295,
+          "end": 340,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "HR - National Geographic",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_slavlja_iz_zraka_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "nationalgeographic_nacisti_ke_megagra_evine_2026-01-06_0045",
+          "start": 45,
+          "end": 95,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_velika_postignu_a_2026-01-06_0095",
+          "start": 95,
+          "end": 140,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "nationalgeographic_tabu_2026-01-06_0160",
+          "start": 160,
+          "end": 205,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_mariana_van_zeller_2026-01-06_0205",
+          "start": 205,
+          "end": 250,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nationalgeographic_obrana_europe_2026-01-06_0250",
+          "start": 250,
+          "end": 295,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "nationalgeographic_slavlja_iz_zraka_2026-01-06_0295",
+          "start": 295,
+          "end": 340,
+          "genre": "documentary",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "HR - Nautical Channel",
+      "programs": [
+        {
+          "program_id": "nauticalchannel_hr_surf_ski_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "nauticalchannel_hr_surf_ski_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "series",
+          "score": 75
+        },
+        {
+          "program_id": "nauticalchannel_hr_san_borond_n_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "movie",
+          "score": 81
+        },
+        {
+          "program_id": "nauticalchannel_hr_the_boat_show_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "series",
+          "score": 88
+        },
+        {
+          "program_id": "nauticalchannel_hr_qatar_airways_gka_kite_w_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "nauticalchannel_hr_tahiti_pearl_regatta_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "nauticalchannel_hr_speed_catamarans_gc32_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "nauticalchannel_hr_jet_ski_world_series_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "nauticalchannel_hr_sailing_to_the_games_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "nauticalchannel_hr_sail_ho_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "series",
+          "score": 78
+        },
+        {
+          "program_id": "nauticalchannel_hr_ofqui_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "nauticalchannel_hr_moana_waiwai_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "movie",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "HR - NickToons",
+      "programs": [
+        {
+          "program_id": "nicktoons_hr_bibin_arobni_svijet_2026-01-06_0223",
+          "start": 223,
+          "end": 253,
+          "genre": "movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "HR - Nickelodeon",
+      "programs": [
+        {
+          "program_id": "nickelodeon_hr_divlji_opor_wylde_pakovi_2026-01-06_0280",
+          "start": 280,
+          "end": 300,
+          "genre": "sports",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "HR - Nickelodeon hrvatski",
+      "programs": [
+        {
+          "program_id": "nickelodeonhrvatsk_spu_vabob_skockani_2026-01-06_0125",
+          "start": 125,
+          "end": 150,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "nickelodeonhrvatsk_divlji_opor_wylde_pakovi_2026-01-06_0280",
+          "start": 280,
+          "end": 300,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "HR - NonStop",
+      "programs": [
+        {
+          "program_id": "nonstop_hr_najbolja_regionalna_glaz_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "nonstop_hr_najbolja_regionalna_glaz_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "HR - Nova TV",
+      "programs": [
+        {
+          "program_id": "novatv_hr_top_gun_maverick_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "movie",
+          "score": 82
+        },
+        {
+          "program_id": "novatv_hr_starci_2_2026-01-06_0085",
+          "start": 85,
+          "end": 185,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "novatv_hr_dobri_doktor_2026-01-06_0185",
+          "start": 185,
+          "end": 230,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "novatv_hr_astro_savjetnik_2026-01-06_0230",
+          "start": 230,
+          "end": 290,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "novatv_hr_in_magazin_2026-01-06_0290",
+          "start": 290,
+          "end": 325,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "novatv_hr_dnevnik_nove_tv_2026-01-06_0340",
+          "start": 340,
+          "end": 415,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "HR - Osječka TV",
+      "programs": [
+        {
+          "program_id": "osjeckatv_hr_kraj_programa_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "HR - PLAVA Vinkovačka",
+      "programs": [
+        {
+          "program_id": "plavavinkovacka_hr_zapisano_u_zvijezdama_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "plavavinkovacka_hr_kraj_programa_2026-01-06_0070",
+          "start": 70,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "plavavinkovacka_hr_kraj_programa_2026-01-06_0130",
+          "start": 130,
+          "end": 250,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "plavavinkovacka_hr_plava_vinkova_ka_2026-01-06_0250",
+          "start": 250,
+          "end": 310,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "plavavinkovacka_hr_plava_vinkova_ka_2026-01-06_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "HR - Pickbox TV",
+      "programs": [
+        {
+          "program_id": "pickboxtv_hr_poirot_2026-01-06_0028",
+          "start": 28,
+          "end": 83,
+          "genre": "movie",
+          "score": 82
+        },
+        {
+          "program_id": "pickboxtv_hr_inspektor_morse_2026-01-06_0083",
+          "start": 83,
+          "end": 188,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "pickboxtv_hr_rtve_ljubavi_2026-01-06_0188",
+          "start": 188,
+          "end": 230,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "pickboxtv_hr_gledajte_na_pickbox_now_2026-01-06_0230",
+          "start": 230,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "HR - Pink",
+      "programs": [
+        {
+          "program_id": "pink_hr_elita_2026-01-06_0000",
+          "start": 0,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "pink_hr_novo_jutro_2026-01-06_0330",
+          "start": 330,
+          "end": 660,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "HR - Pink Extra",
+      "programs": [
+        {
+          "program_id": "pinkextra_hr_oliver_mandi_odlazim_2026-01-06_0062",
+          "start": 62,
+          "end": 68,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "pinkextra_hr_oliver_dragojevi_dao_bi__2026-01-06_0068",
+          "start": 68,
+          "end": 72,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "pinkextra_hr_oliver_mandi_samo_malo_p_2026-01-06_0180",
+          "start": 180,
+          "end": 185,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "pinkextra_hr_oliver_mandi_osloni_se_n_2026-01-06_0303",
+          "start": 303,
+          "end": 308,
+          "genre": "sports",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "HR - Pink Fashion",
+      "programs": [
+        {
+          "program_id": "pinkfashion_hr_lisca_revija_2026-01-06_0165",
+          "start": 165,
+          "end": 203,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "pinkfashion_hr_enske_pri_e_2026-01-06_0224",
+          "start": 224,
+          "end": 262,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "pinkfashion_hr_suzana_peri_revija_2026-01-06_0301",
+          "start": 301,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "HR - Pink Film",
+      "programs": [
+        {
+          "program_id": "pinkfilm_hr_osmrtnica_za_eskobara_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "pinkfilm_hr_afterparti_2026-01-06_0040",
+          "start": 40,
+          "end": 148,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "pinkfilm_hr_direktan_prenos_2026-01-06_0148",
+          "start": 148,
+          "end": 233,
+          "genre": "documentary",
+          "score": 82
+        },
+        {
+          "program_id": "pinkfilm_hr_sveti_georgije_ubiva_a_d_2026-01-06_0233",
+          "start": 233,
+          "end": 360,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "HR - Pink Koncert",
+      "programs": [
+        {
+          "program_id": "pinkkoncert_hr_pink_koncert_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "pinkkoncert_hr_pink_koncert_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "pinkkoncert_hr_pink_koncert_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "HR - Pink Music",
+      "programs": [
+        {
+          "program_id": "pinkmusic_hr_spotovi_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "pinkmusic_hr_spotovi_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "pinkmusic_hr_spotovi_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "HR - Pink Music 2",
+      "programs": [
+        {
+          "program_id": "pinkmusic2_hr_spotovi_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "pinkmusic2_hr_spotovi_2026-01-06_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "HR - Pink Plus",
+      "programs": [
+        {
+          "program_id": "pinkplus_hr_elita_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "pinkplus_hr_novo_jutro_2026-01-06_0330",
+          "start": 330,
+          "end": 540,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "HR - Pink World",
+      "programs": [
+        {
+          "program_id": "pinkworld_hr_world_otvoreni_studio_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "pinkworld_hr_otvoreni_studio_plus_2026-01-06_0030",
+          "start": 30,
+          "end": 150,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "pinkworld_hr_otvoreni_studio_world_2026-01-06_0150",
+          "start": 150,
+          "end": 270,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "pinkworld_hr_world_otvoreni_studio_2026-01-06_0270",
+          "start": 270,
+          "end": 390,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "HR - ProSieben",
+      "programs": [
+        {
+          "program_id": "prosieben_hr_bilo_jednom_u_hollywoodu_2026-01-06_0000",
+          "start": 0,
+          "end": 140,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "prosieben_hr_prosieben_newstime_2026-01-06_0140",
+          "start": 140,
+          "end": 145,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "prosieben_hr_the_revenant_2026-01-06_0145",
+          "start": 145,
+          "end": 290,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "prosieben_hr_galileo_2026-01-06_0290",
+          "start": 290,
+          "end": 410,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "HR - RAI 1",
+      "programs": [
+        {
+          "program_id": "rai1_hr_notti_magiche_i_campioni_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "rai1_hr_l_eredit_puntata_del_202_2026-01-06_0065",
+          "start": 65,
+          "end": 140,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rai1_hr_il_commissario_manara_2026-01-06_0140",
+          "start": 140,
+          "end": 190,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rai1_hr_il_commissario_manara_2026-01-06_0190",
+          "start": 190,
+          "end": 245,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rai1_hr_rainews24_2026-01-06_0245",
+          "start": 245,
+          "end": 360,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "HR - RAI 2",
+      "programs": [
+        {
+          "program_id": "rai2_hr_il_processo_al_90_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rai2_hr_raid_una_poliziotta_fuor_2026-01-06_0060",
+          "start": 60,
+          "end": 166,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rai2_hr_meteo_2_2026-01-06_0166",
+          "start": 166,
+          "end": 170,
+          "genre": "weather",
+          "score": 27
+        },
+        {
+          "program_id": "rai2_hr_desideri_mortali_2026-01-06_0170",
+          "start": 170,
+          "end": 255,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rai2_hr_le_leggi_del_cuore_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rai2_hr_le_leggi_del_cuore_2026-01-06_0300",
+          "start": 300,
+          "end": 340,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "HR - RAI 3",
+      "programs": [
+        {
+          "program_id": "rai3_hr_tg3_linea_notte_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "rai3_hr_meteo_3_2026-01-06_0060",
+          "start": 60,
+          "end": 70,
+          "genre": "weather",
+          "score": 35
+        },
+        {
+          "program_id": "rai3_hr_o_anche_no_2026-01-06_0070",
+          "start": 70,
+          "end": 110,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rai3_hr_sorgente_di_vita_puntata_2026-01-06_0110",
+          "start": 110,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rai3_hr_rainews24_2026-01-06_0150",
+          "start": 150,
+          "end": 360,
+          "genre": "news",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "HR - RAI Scuola",
+      "programs": [
+        {
+          "program_id": "raiscuola_hr_memex_cambiamenti_p_06_c_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "HR - RTL",
+      "programs": [
+        {
+          "program_id": "rtl_hr_dvostruka_opasnost_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtl_hr_to_je_voyo_2026-01-06_0050",
+          "start": 50,
+          "end": 60,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "rtl_hr_kosti_2026-01-06_0060",
+          "start": 60,
+          "end": 110,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rtl_hr_kosti_2026-01-06_0110",
+          "start": 110,
+          "end": 150,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtl_hr_kosti_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rtl_hr_kosti_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "rtl_hr_rtl_danas_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "rtl_hr_kraj_programa_2026-01-06_0270",
+          "start": 270,
+          "end": 320,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rtl_hr_rtl_danas_2026-01-06_0320",
+          "start": 320,
+          "end": 410,
+          "genre": "news",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "HR - RTL 2",
+      "programs": [
+        {
+          "program_id": "rtl2_hr_prijatelji_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "rtl2_hr_mu_ke_2026-01-06_0015",
+          "start": 15,
+          "end": 45,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "rtl2_hr_mu_ke_2026-01-06_0045",
+          "start": 45,
+          "end": 75,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "rtl2_hr_poirot_2026-01-06_0075",
+          "start": 75,
+          "end": 125,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "rtl2_hr_poirot_2026-01-06_0125",
+          "start": 125,
+          "end": 175,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "rtl2_hr_to_je_voyo_2026-01-06_0175",
+          "start": 175,
+          "end": 180,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "rtl2_hr_bijeg_u_dvorac_2026-01-06_0180",
+          "start": 180,
+          "end": 295,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "rtl2_hr_bijeg_u_dvorac_2026-01-06_0320",
+          "start": 320,
+          "end": 370,
+          "genre": "series",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "HR - RTL Adria",
+      "programs": [
+        {
+          "program_id": "rtladria_hr_budva_na_pjeni_od_mora_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "rtladria_hr_u_klin_u_2026-01-06_0040",
+          "start": 40,
+          "end": 100,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtladria_hr_na_a_mala_klinika_2026-01-06_0100",
+          "start": 100,
+          "end": 160,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "rtladria_hr_tajne_2026-01-06_0160",
+          "start": 160,
+          "end": 210,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rtladria_hr_kraj_programa_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "HR - RTL Crime",
+      "programs": [
+        {
+          "program_id": "rtlcrime_hr_dr_house_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtlcrime_hr_hitna_chicago_2026-01-06_0050",
+          "start": 50,
+          "end": 90,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "rtlcrime_hr_hitna_chicago_2026-01-06_0090",
+          "start": 90,
+          "end": 140,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "rtlcrime_hr_poirot_2026-01-06_0140",
+          "start": 140,
+          "end": 225,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "rtlcrime_hr_kraj_programa_2026-01-06_0225",
+          "start": 225,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "HR - RTL Kockica",
+      "programs": [
+        {
+          "program_id": "rtlkockica_hr_novi_ivot_pod_suncem_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "rtlkockica_hr_trumpfovi_2026-01-06_0040",
+          "start": 40,
+          "end": 50,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "rtlkockica_hr_hotel_bubble_2026-01-06_0060",
+          "start": 60,
+          "end": 70,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "rtlkockica_hr_milo_2026-01-06_0070",
+          "start": 70,
+          "end": 85,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "rtlkockica_hr_sportske_igre_mladih_2026-01-06_0085",
+          "start": 85,
+          "end": 100,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "rtlkockica_hr_sportske_igre_mladih_2026-01-06_0100",
+          "start": 100,
+          "end": 115,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "rtlkockica_hr_sportske_igre_mladih_2026-01-06_0115",
+          "start": 115,
+          "end": 270,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "rtlkockica_hr_kraj_programa_2026-01-06_0270",
+          "start": 270,
+          "end": 310,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rtlkockica_hr_sportske_igre_mladih_2026-01-06_0310",
+          "start": 310,
+          "end": 325,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "rtlkockica_hr_sportske_igre_mladih_2026-01-06_0325",
+          "start": 325,
+          "end": 340,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "rtlkockica_hr_sportske_igre_mladih_2026-01-06_0340",
+          "start": 340,
+          "end": 355,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "rtlkockica_hr_etno_sat_2026-01-06_0355",
+          "start": 355,
+          "end": 365,
+          "genre": "sports",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "HR - RTL Living",
+      "programs": [
+        {
+          "program_id": "rtlliving_hr_american_idol_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "rtlliving_hr_love_island_usa_2026-01-06_0055",
+          "start": 55,
+          "end": 120,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "rtlliving_hr_rtl_direkt_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "rtlliving_hr_love_island_usa_2026-01-06_0195",
+          "start": 195,
+          "end": 285,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "rtlliving_hr_kraj_programa_2026-01-06_0285",
+          "start": 285,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "HR - RTL Passion",
+      "programs": [
+        {
+          "program_id": "rtlpassion_hr_gospodar_neba_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "rtlpassion_hr_obiteljske_tajne_2026-01-06_0040",
+          "start": 40,
+          "end": 85,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtlpassion_hr_obiteljske_tajne_2026-01-06_0085",
+          "start": 85,
+          "end": 130,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "rtlpassion_hr_plima_i_oseka_2026-01-06_0130",
+          "start": 130,
+          "end": 185,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtlpassion_hr_plima_i_oseka_2026-01-06_0185",
+          "start": 185,
+          "end": 250,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtlpassion_hr_kraj_programa_2026-01-06_0250",
+          "start": 250,
+          "end": 325,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtlpassion_hr_tri_sestre_2026-01-06_0325",
+          "start": 325,
+          "end": 375,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "HR - RTL njemački",
+      "programs": [
+        {
+          "program_id": "rtlnjemacki_hr_rtl_nachtjournal_2026-01-06_0000",
+          "start": 0,
+          "end": 33,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "rtlnjemacki_hr_rtl_nachtjournal_das_wet_2026-01-06_0033",
+          "start": 33,
+          "end": 35,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "rtlnjemacki_hr_alltagsk_mpfer_so_tickt__2026-01-06_0035",
+          "start": 35,
+          "end": 75,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtlnjemacki_hr_seitenwechsel_die_welt_m_2026-01-06_0075",
+          "start": 75,
+          "end": 105,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtlnjemacki_hr_csi_miami_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "movie",
+          "score": 84
+        },
+        {
+          "program_id": "rtlnjemacki_hr_csi_miami_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "rtlnjemacki_hr_csi_vegas_2026-01-06_0225",
+          "start": 225,
+          "end": 275,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "rtlnjemacki_hr_csi_vegas_2026-01-06_0275",
+          "start": 275,
+          "end": 320,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "rtlnjemacki_hr_csi_vegas_2026-01-06_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "HR - RTS 1",
+      "programs": [
+        {
+          "program_id": "rts1_hr_mali_princ_2026-01-06_0000",
+          "start": 0,
+          "end": 64,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rts1_hr_jedan_dan_2026-01-06_0092",
+          "start": 92,
+          "end": 130,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rts1_hr_dnevnik_2_2026-01-06_0130",
+          "start": 130,
+          "end": 166,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rts1_hr_oko_2026-01-06_0194",
+          "start": 194,
+          "end": 231,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rts1_hr_na_ve_eri_kod_2026-01-06_0241",
+          "start": 241,
+          "end": 302,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rts1_hr_radio_mileva_2026-01-06_0302",
+          "start": 302,
+          "end": 343,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rts1_hr_jutarnji_program_2026-01-06_0355",
+          "start": 355,
+          "end": 480,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "HR - RTS 2",
+      "programs": [
+        {
+          "program_id": "rts2_hr_jeloustoun_5_2026-01-06_0000",
+          "start": 0,
+          "end": 31,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rts2_hr_big_bend_rts_i_prijatelj_2026-01-06_0031",
+          "start": 31,
+          "end": 91,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rts2_hr_gorka_osveta_2026-01-06_0091",
+          "start": 91,
+          "end": 142,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rts2_hr_lajmet_2026-01-06_0142",
+          "start": 142,
+          "end": 148,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "rts2_hr_zdrava_pri_a_2026-01-06_0148",
+          "start": 148,
+          "end": 220,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rts2_hr_institut_sanu_etnografsk_2026-01-06_0220",
+          "start": 220,
+          "end": 250,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "rts2_hr_metamorfoze_nikola_rako__2026-01-06_0250",
+          "start": 250,
+          "end": 281,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rts2_hr_brioni_ostrvo_crvenog_ca_2026-01-06_0281",
+          "start": 281,
+          "end": 333,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rts2_hr_big_bend_rts_i_prijatelj_2026-01-06_0333",
+          "start": 333,
+          "end": 386,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "HR - RTS 3",
+      "programs": [
+        {
+          "program_id": "rts3_hr_narodno_pozori_te_u_dese_2026-01-06_0006",
+          "start": 6,
+          "end": 45,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rts3_hr_ja_2026-01-06_0045",
+          "start": 45,
+          "end": 75,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rts3_hr_specijal_tvr_ave_na_duna_2026-01-06_0075",
+          "start": 75,
+          "end": 140,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "rts3_hr_art_trileri_emil_i_pante_2026-01-06_0140",
+          "start": 140,
+          "end": 190,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rts3_hr_radio_mileva_129_7s_2026-01-06_0190",
+          "start": 190,
+          "end": 235,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rts3_hr_tv_lica_nostalgi_no_muzi_2026-01-06_0235",
+          "start": 235,
+          "end": 280,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rts3_hr_nezaustavljivo_naked_2026-01-06_0280",
+          "start": 280,
+          "end": 335,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "rts3_hr_socijalizam_ili_kapitali_2026-01-06_0335",
+          "start": 335,
+          "end": 390,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "HR - RTS Svet",
+      "programs": [
+        {
+          "program_id": "rtssvet_hr_mira_adanja_polak_eksklu_2026-01-06_0000",
+          "start": 0,
+          "end": 31,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtssvet_hr_tv_teatar_d_andrljivi_mu_2026-01-06_0086",
+          "start": 86,
+          "end": 165,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rtssvet_hr_dnevnik_2026-01-06_0165",
+          "start": 165,
+          "end": 199,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtssvet_hr_radio_mileva_2026-01-06_0302",
+          "start": 302,
+          "end": 344,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtssvet_hr_verski_kalendar_2026-01-06_0344",
+          "start": 344,
+          "end": 464,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "HR - RTV HB",
+      "programs": [
+        {
+          "program_id": "rtvhb_hr_dnevnik_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtvhb_hr_info_kanal_2026-01-06_0060",
+          "start": 60,
+          "end": 360,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "HR - Radio Antena",
+      "programs": [
+        {
+          "program_id": "radioantena_hr_radio_antena_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radioantena_hr_radio_antena_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "radioantena_hr_radio_antena_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "HR - Radio Capodistria",
+      "programs": [
+        {
+          "program_id": "radiocapodistria_h_radio_capodistria_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "radiocapodistria_h_radio_capodistria_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "radiocapodistria_h_radio_capodistria_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "HR - Radio Dalmacija",
+      "programs": [
+        {
+          "program_id": "radiodalmacija_hr_radio_dalmacija_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "radiodalmacija_hr_radio_dalmacija_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "radiodalmacija_hr_radio_dalmacija_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "HR - Radio Deejay HR",
+      "programs": [
+        {
+          "program_id": "radiodeejayhr_hr_radio_deejay_hr_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "radiodeejayhr_hr_radio_deejay_hr_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radiodeejayhr_hr_radio_deejay_hr_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "HR - Radio Enter Zagreb",
+      "programs": [
+        {
+          "program_id": "radioenterzagreb_h_radio_enter_zagreb_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "radioenterzagreb_h_radio_enter_zagreb_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "radioenterzagreb_h_radio_enter_zagreb_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "HR - Radio ExtraFM",
+      "programs": [
+        {
+          "program_id": "radioextrafm_hr_radio_extra_fm_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "radioextrafm_hr_radio_extra_fm_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "radioextrafm_hr_radio_extra_fm_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "HR - Radio HR1",
+      "programs": [
+        {
+          "program_id": "radiohr1_hr_radio_hr1_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radiohr1_hr_radio_hr1_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radiohr1_hr_radio_hr1_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "HR - Radio HR2",
+      "programs": [
+        {
+          "program_id": "radiohr2_hr_radio_hr2_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "radiohr2_hr_radio_hr2_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "radiohr2_hr_radio_hr2_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "HR - Radio HR3",
+      "programs": [
+        {
+          "program_id": "radiohr3_hr_radio_hr3_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "radiohr3_hr_radio_hr3_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radiohr3_hr_radio_hr3_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 130,
+      "channel_name": "HR - Radio Happy FM",
+      "programs": [
+        {
+          "program_id": "radiohappyfm_hr_radio_happy_fm_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "radiohappyfm_hr_radio_happy_fm_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "radiohappyfm_hr_radio_happy_fm_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 131,
+      "channel_name": "HR - Radio Katolicki",
+      "programs": [
+        {
+          "program_id": "radiokatolicki_hr_radio_katolicki_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "radiokatolicki_hr_radio_katolicki_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "radiokatolicki_hr_radio_katolicki_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 132,
+      "channel_name": "HR - Radio Marija",
+      "programs": [
+        {
+          "program_id": "radiomarija_hr_radio_marija_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "radiomarija_hr_radio_marija_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "radiomarija_hr_radio_marija_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 133,
+      "channel_name": "HR - Radio Osijek",
+      "programs": [
+        {
+          "program_id": "radioosijek_hr_radio_osijek_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "radioosijek_hr_radio_osijek_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "radioosijek_hr_radio_osijek_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 134,
+      "channel_name": "HR - Radio Otvoreni",
+      "programs": [
+        {
+          "program_id": "radiootvoreni_hr_radio_otvoreni_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "radiootvoreni_hr_radio_otvoreni_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "radiootvoreni_hr_radio_otvoreni_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 135,
+      "channel_name": "HR - Radio Pula",
+      "programs": [
+        {
+          "program_id": "radiopula_hr_radio_pula_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "radiopula_hr_radio_pula_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "radiopula_hr_radio_pula_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 136,
+      "channel_name": "HR - Radio Rijeka",
+      "programs": [
+        {
+          "program_id": "radiorijeka_hr_radio_rijeka_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "radiorijeka_hr_radio_rijeka_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "radiorijeka_hr_radio_rijeka_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 137,
+      "channel_name": "HR - Radio Rovinj FM",
+      "programs": [
+        {
+          "program_id": "radiorovinjfm_hr_radio_rovinj_fm_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "radiorovinjfm_hr_radio_rovinj_fm_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "radiorovinjfm_hr_radio_rovinj_fm_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 138,
+      "channel_name": "HR - Radio Slavonija",
+      "programs": [
+        {
+          "program_id": "radioslavonija_hr_radio_slavonija_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "radioslavonija_hr_radio_slavonija_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radioslavonija_hr_radio_slavonija_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 139,
+      "channel_name": "HR - Radio Sljeme",
+      "programs": [
+        {
+          "program_id": "radiosljeme_hr_radio_sljeme_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radiosljeme_hr_radio_sljeme_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "radiosljeme_hr_radio_sljeme_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 140,
+      "channel_name": "HR - Radio Split",
+      "programs": [
+        {
+          "program_id": "radiosplit_hr_radio_split_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "radiosplit_hr_radio_split_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radiosplit_hr_radio_split_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 141,
+      "channel_name": "HR - Radio Top",
+      "programs": [
+        {
+          "program_id": "radiotop_hr_radio_top_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "radiotop_hr_radio_top_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "music",
+          "score": 58
+        },
+        {
+          "program_id": "radiotop_hr_radio_top_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 142,
+      "channel_name": "HR - Radio Trogir",
+      "programs": [
+        {
+          "program_id": "radiotrogir_hr_radio_trogir_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "radiotrogir_hr_radio_trogir_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radiotrogir_hr_radio_trogir_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 143,
+      "channel_name": "HR - Radio Zadar",
+      "programs": [
+        {
+          "program_id": "radiozadar_hr_radio_zadar_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "radiozadar_hr_radio_zadar_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "radiozadar_hr_radio_zadar_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 144,
+      "channel_name": "HR - Radio bravo!",
+      "programs": [
+        {
+          "program_id": "radiobravo_hr_radio_bravo_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "radiobravo_hr_radio_bravo_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "radiobravo_hr_radio_bravo_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 145,
+      "channel_name": "HR - Radio yammatFM",
+      "programs": [
+        {
+          "program_id": "radioyammatfm_hr_radio_yammatfm_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "radioyammatfm_hr_radio_yammatfm_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "radioyammatfm_hr_radio_yammatfm_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 146,
+      "channel_name": "HR - SBTV",
+      "programs": [
+        {
+          "program_id": "sbtv_hr_zapisano_u_zvijezdama_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sbtv_hr_kraj_programa_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 147,
+      "channel_name": "HR - STAR",
+      "programs": [
+        {
+          "program_id": "star_hr_castle_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "star_hr_castle_2026-01-06_0045",
+          "start": 45,
+          "end": 95,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "star_hr_simpsoni_2026-01-06_0105",
+          "start": 105,
+          "end": 145,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "star_hr_csi_miami_2026-01-06_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "star_hr_csi_miami_2026-01-06_0190",
+          "start": 190,
+          "end": 235,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "star_hr_fbi_international_2026-01-06_0235",
+          "start": 235,
+          "end": 285,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "star_hr_izgubljeni_2026-01-06_0285",
+          "start": 285,
+          "end": 335,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "star_hr_moderna_obitelj_2026-01-06_0335",
+          "start": 335,
+          "end": 385,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 148,
+      "channel_name": "HR - STAR Crime",
+      "programs": [
+        {
+          "program_id": "starcrime_hr_kraljice_misterija_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "starcrime_hr_kraljice_misterija_2026-01-06_0035",
+          "start": 35,
+          "end": 85,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "starcrime_hr_ubojice_me_u_nama_2026-01-06_0085",
+          "start": 85,
+          "end": 110,
+          "genre": "weather",
+          "score": 37
+        },
+        {
+          "program_id": "starcrime_hr_ncis_los_angeles_2026-01-06_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "starcrime_hr_ncis_los_angeles_2026-01-06_0155",
+          "start": 155,
+          "end": 205,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "starcrime_hr_bull_2026-01-06_0205",
+          "start": 205,
+          "end": 245,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "starcrime_hr_bull_2026-01-06_0245",
+          "start": 245,
+          "end": 315,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "starcrime_hr_bull_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 149,
+      "channel_name": "HR - STAR Life",
+      "programs": [
+        {
+          "program_id": "starlife_hr_ika_ka_hitna_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "starlife_hr_911_teksas_2026-01-06_0050",
+          "start": 50,
+          "end": 95,
+          "genre": "music",
+          "score": 59
+        },
+        {
+          "program_id": "starlife_hr_911_teksas_2026-01-06_0095",
+          "start": 95,
+          "end": 150,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "starlife_hr_otok_fantazija_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "starlife_hr_dr_house_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "starlife_hr_dr_house_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "starlife_hr_grace_i_frankie_2026-01-06_0285",
+          "start": 285,
+          "end": 315,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "starlife_hr_otok_fantazija_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 150,
+      "channel_name": "HR - STAR Movies",
+      "programs": [
+        {
+          "program_id": "starmovies_hr_repo_men_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "starmovies_hr_elizabeta_zlatno_doba_2026-01-06_0030",
+          "start": 30,
+          "end": 165,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "starmovies_hr_europski_igolo_2026-01-06_0165",
+          "start": 165,
+          "end": 250,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "starmovies_hr_nasljednici_2026-01-06_0250",
+          "start": 250,
+          "end": 360,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 151,
+      "channel_name": "HR - Slavonska TV",
+      "programs": [
+        {
+          "program_id": "slavonskatv_hr_kraj_programa_2026-01-06_0010",
+          "start": 10,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 152,
+      "channel_name": "HR - Sport Klub 10",
+      "programs": [
+        {
+          "program_id": "sportklub10_hr_sport_klub_10_promo_5_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "sportklub10_hr_sport_klub_10_promo_1_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "sportklub10_hr_sport_klub_10_promo_2_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "sportklub10_hr_sport_klub_10_promo_3_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "sportklub10_hr_sport_klub_10_promo_5_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "sportklub10_hr_sport_klub_10_promo_1_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 90
+        }
+      ]
+    },
+    {
+      "channel_id": 153,
+      "channel_name": "HR - Sport Klub 11",
+      "programs": [
+        {
+          "program_id": "sportklub11_hr_sport_klub_11_promo_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "sportklub11_hr_sport_klub_11_promo_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "sportklub11_hr_sport_klub_11_promo_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "sportklub11_hr_sport_klub_11_promo_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "sportklub11_hr_sport_klub_11_promo_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "sportklub11_hr_sport_klub_11_promo_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 154,
+      "channel_name": "HR - Sport Klub 12",
+      "programs": [
+        {
+          "program_id": "sportklub12_hr_sport_klub_12_promo_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 90
+        },
+        {
+          "program_id": "sportklub12_hr_sport_klub_12_promo_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "sportklub12_hr_sport_klub_12_promo_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "sportklub12_hr_sport_klub_12_promo_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "sportklub12_hr_sport_klub_12_promo_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "sportklub12_hr_sport_klub_12_promo_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 93
+        }
+      ]
+    },
+    {
+      "channel_id": 155,
+      "channel_name": "HR - Sport Klub 7",
+      "programs": [
+        {
+          "program_id": "sportklub7_hr_sport_klub_7_promo_5_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "sportklub7_hr_sport_klub_7_promo_1_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 88
+        },
+        {
+          "program_id": "sportklub7_hr_sport_klub_7_promo_2_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "sportklub7_hr_sport_klub_7_promo_3_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "sportklub7_hr_sport_klub_7_promo_5_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "sportklub7_hr_sport_klub_7_promo_1_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 156,
+      "channel_name": "HR - Sport Klub 8",
+      "programs": [
+        {
+          "program_id": "sportklub8_hr_sport_klub_8_promo_5_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "sportklub8_hr_sport_klub_8_promo_1_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "sportklub8_hr_sport_klub_8_promo_2_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "sportklub8_hr_sport_klub_8_promo_3_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "sportklub8_hr_sport_klub_8_promo_5_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 92
+        },
+        {
+          "program_id": "sportklub8_hr_sport_klub_8_promo_1_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 157,
+      "channel_name": "HR - Sport Klub 9",
+      "programs": [
+        {
+          "program_id": "sportklub9_hr_sport_klub_9_promo_5_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "sportklub9_hr_sport_klub_9_promo_1_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 91
+        },
+        {
+          "program_id": "sportklub9_hr_sport_klub_9_promo_2_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "sportklub9_hr_sport_klub_9_promo_3_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "sportklub9_hr_sport_klub_9_promo_5_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "sportklub9_hr_sport_klub_9_promo_1_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 158,
+      "channel_name": "HR - Sport Klub Golf",
+      "programs": [
+        {
+          "program_id": "sportklubgolf_hr_golf_the_open_championsh_2026-01-06_0000",
+          "start": 0,
+          "end": 600,
+          "genre": "education",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 159,
+      "channel_name": "HR - Sportska televizija",
+      "programs": [
+        {
+          "program_id": "sportskatelevizija_boks_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sportskatelevizija_odbojka_2026-01-06_0055",
+          "start": 55,
+          "end": 175,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "sportskatelevizija_nogomet_1_nl_juniori_haj_2026-01-06_0175",
+          "start": 175,
+          "end": 280,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sportskatelevizija_pikado_sp_london_2026-01-06_0280",
+          "start": 280,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 160,
+      "channel_name": "HR - Stingray Classica",
+      "programs": [
+        {
+          "program_id": "stingrayclassica_h_bellini_i_capuleti_e_i_m_2026-01-06_0000",
+          "start": 0,
+          "end": 138,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "stingrayclassica_h_beethoven_symphony_no_9_2026-01-06_0138",
+          "start": 138,
+          "end": 207,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "stingrayclassica_h_beethoven_piano_concerto_2026-01-06_0235",
+          "start": 235,
+          "end": 285,
+          "genre": "music",
+          "score": 68
+        },
+        {
+          "program_id": "stingrayclassica_h_ivc_2019_final_schubert_2026-01-06_0285",
+          "start": 285,
+          "end": 315,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "stingrayclassica_h_schubert_four_impromptus_2026-01-06_0315",
+          "start": 315,
+          "end": 353,
+          "genre": "education",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 161,
+      "channel_name": "HR - Stingray Djazz",
+      "programs": [
+        {
+          "program_id": "stingraydjazz_hr_thelonious_monk_quartet__2026-01-06_0000",
+          "start": 0,
+          "end": 43,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 162,
+      "channel_name": "HR - Super RTL",
+      "programs": [
+        {
+          "program_id": "superrtl_hr_kosti_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "movie",
+          "score": 95
+        },
+        {
+          "program_id": "superrtl_hr_teleshoppingsendung_2026-01-06_0050",
+          "start": 50,
+          "end": 170,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 163,
+      "channel_name": "HR - TRT World",
+      "programs": [
+        {
+          "program_id": "trtworld_hr_news_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "trtworld_hr_inside_america_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 68
+        },
+        {
+          "program_id": "trtworld_hr_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "trtworld_hr_strait_talk_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 89
+        },
+        {
+          "program_id": "trtworld_hr_news_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "trtworld_hr_roundtable_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trtworld_hr_news_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "trtworld_hr_across_the_balkans_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "trtworld_hr_storyteller_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtworld_hr_news_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "trtworld_hr_nexus_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 164,
+      "channel_name": "HR - TV 1000",
+      "programs": [
+        {
+          "program_id": "tv1000_hr_showgirls_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "tv1000_hr_zla_smrt_2026-01-06_0030",
+          "start": 30,
+          "end": 135,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tv1000_hr_zlo_esta_u_iteljica_2026-01-06_0135",
+          "start": 135,
+          "end": 270,
+          "genre": "documentary",
+          "score": 73
+        },
+        {
+          "program_id": "tv1000_hr_pobuna_u_koko_injcu_2026-01-06_0270",
+          "start": 270,
+          "end": 355,
+          "genre": "documentary",
+          "score": 77
+        },
+        {
+          "program_id": "tv1000_hr_spider_man_povratak_ku_i_2026-01-06_0355",
+          "start": 355,
+          "end": 505,
+          "genre": "movie",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 165,
+      "channel_name": "HR - TVCG MNE",
+      "programs": [
+        {
+          "program_id": "tvcgmne_hr_nau_no_obrazovni_program_2026-01-06_0010",
+          "start": 10,
+          "end": 40,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tvcgmne_hr_pozori_na_predstava_ni_t_2026-01-06_0040",
+          "start": 40,
+          "end": 85,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tvcgmne_hr_dnevnik_2_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvcgmne_hr_pontonovo_srce_2026-01-06_0120",
+          "start": 120,
+          "end": 155,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tvcgmne_hr_sat_tv_pisma_crnogorskih_2026-01-06_0180",
+          "start": 180,
+          "end": 215,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tvcgmne_hr_edin_krni_best_of_2026-01-06_0215",
+          "start": 215,
+          "end": 245,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tvcgmne_hr_sportski_dnevnik_2026-01-06_0280",
+          "start": 280,
+          "end": 290,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "tvcgmne_hr_nezavisna_produkcija_2026-01-06_0290",
+          "start": 290,
+          "end": 410,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 166,
+      "channel_name": "HR - TV DALMACIJA",
+      "programs": [
+        {
+          "program_id": "tvdalmacija_hr_zapisano_u_zvijezdama_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tvdalmacija_hr_kraj_programa_2026-01-06_0120",
+          "start": 120,
+          "end": 405,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 167,
+      "channel_name": "HR - TVE Internacional",
+      "programs": [
+        {
+          "program_id": "tveinternacional_h_la_noche_de_ena_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tveinternacional_h_noticias_24_h_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "news",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 168,
+      "channel_name": "HR - TV Jadran",
+      "programs": [
+        {
+          "program_id": "tvjadran_hr_zapisano_u_zvijezdama_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tvjadran_hr_no_ni_program_2026-01-06_0135",
+          "start": 135,
+          "end": 410,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 169,
+      "channel_name": "HR - TV Koper - Capodistria",
+      "programs": [
+        {
+          "program_id": "tvkoper_capodistri_portel_2026-01-06_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "tvkoper_capodistri_infocanale_2026-01-06_0035",
+          "start": 35,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 170,
+      "channel_name": "HR - TV Nakupi",
+      "programs": [
+        {
+          "program_id": "tvnakupi_hr_no_na_tv_prodaja_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvnakupi_hr_tv_nakupi_program_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tvnakupi_hr_tv_nakupi_program_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tvnakupi_hr_tv_nakupi_program_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 171,
+      "channel_name": "HR - TV Nova",
+      "programs": [
+        {
+          "program_id": "tvnova_hr_vrata_sudbine_2026-01-06_0000",
+          "start": 0,
+          "end": 70,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvnova_hr_kraj_programa_2026-01-06_0070",
+          "start": 70,
+          "end": 240,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 172,
+      "channel_name": "HR - TV SLO 1",
+      "programs": [
+        {
+          "program_id": "tvslo1_hr_helene_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tvslo1_hr_dnevnik_slovencev_v_ital_2026-01-06_0055",
+          "start": 55,
+          "end": 365,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 173,
+      "channel_name": "HR - TV SLO 2",
+      "programs": [
+        {
+          "program_id": "tvslo2_hr_videono_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 174,
+      "channel_name": "HR - TV Sabor",
+      "programs": [
+        {
+          "program_id": "tvsabor_hr_tv_sabor_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tvsabor_hr_tv_sabor_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tvsabor_hr_tv_sabor_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 175,
+      "channel_name": "HR - TV Zapad",
+      "programs": [
+        {
+          "program_id": "tvzapad_hr_nema_informacije_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "tvzapad_hr_nema_informacije_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "tvzapad_hr_nema_informacije_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 176,
+      "channel_name": "HR - Toon Kids",
+      "programs": [
+        {
+          "program_id": "toonkids_hr_bibin_arobni_svijet_2026-01-06_0223",
+          "start": 223,
+          "end": 253,
+          "genre": "movie",
+          "score": 91
+        }
+      ]
+    },
+    {
+      "channel_id": 177,
+      "channel_name": "HR - VOX",
+      "programs": [
+        {
+          "program_id": "vox_hr_vox_nachrichten_2026-01-06_0015",
+          "start": 15,
+          "end": 35,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "vox_hr_medical_detectives_gehei_2026-01-06_0035",
+          "start": 35,
+          "end": 90,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "vox_hr_medical_detectives_gehei_2026-01-06_0090",
+          "start": 90,
+          "end": 140,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "vox_hr_medical_detectives_gehei_2026-01-06_0140",
+          "start": 140,
+          "end": 190,
+          "genre": "series",
+          "score": 82
+        },
+        {
+          "program_id": "vox_hr_medical_detectives_gehei_2026-01-06_0190",
+          "start": 190,
+          "end": 240,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "vox_hr_medical_detectives_gehei_2026-01-06_0240",
+          "start": 240,
+          "end": 290,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "vox_hr_medical_detectives_gehei_2026-01-06_0290",
+          "start": 290,
+          "end": 330,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "vox_hr_csi_miami_2026-01-06_0330",
+          "start": 330,
+          "end": 365,
+          "genre": "movie",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 178,
+      "channel_name": "HR - VTV",
+      "programs": [
+        {
+          "program_id": "vtv_hr_zapisano_u_zvijezdama_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "vtv_hr_kraj_programa_2026-01-06_0120",
+          "start": 120,
+          "end": 480,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 179,
+      "channel_name": "HR - Viasat Explore",
+      "programs": [
+        {
+          "program_id": "viasatexplore_hr_umarski_titani_2026-01-06_0020",
+          "start": 20,
+          "end": 75,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viasatexplore_hr_istra_itelji_nesre_a_2026-01-06_0075",
+          "start": 75,
+          "end": 140,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "viasatexplore_hr_australski_lovci_na_zlat_2026-01-06_0140",
+          "start": 140,
+          "end": 195,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "viasatexplore_hr_australski_lovci_na_zlat_2026-01-06_0195",
+          "start": 195,
+          "end": 255,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "viasatexplore_hr_prokletstvo_mrtvaca_izgu_2026-01-06_0255",
+          "start": 255,
+          "end": 310,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "viasatexplore_hr_prokletstvo_mrtvaca_izgu_2026-01-06_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 180,
+      "channel_name": "HR - Viasat History",
+      "programs": [
+        {
+          "program_id": "viasathistory_hr_bombarder_strah_i_trepet_2026-01-06_0015",
+          "start": 15,
+          "end": 80,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "viasathistory_hr_ii_svjetski_rat_cijena_c_2026-01-06_0080",
+          "start": 80,
+          "end": 150,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasathistory_hr_uspon_i_pad_prekretnice__2026-01-06_0150",
+          "start": 150,
+          "end": 215,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "viasathistory_hr_drugi_svjetski_rat_bitke_2026-01-06_0215",
+          "start": 215,
+          "end": 285,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "viasathistory_hr_zabranjena_povijest_2026-01-06_0285",
+          "start": 285,
+          "end": 370,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 181,
+      "channel_name": "HR - Viasat Nature",
+      "programs": [
+        {
+          "program_id": "viasatnature_hr_rije_na_udovi_ta_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "viasatnature_hr_doba_divova_2026-01-06_0040",
+          "start": 40,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "viasatnature_hr_ekstremna_namibija_2026-01-06_0090",
+          "start": 90,
+          "end": 145,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "viasatnature_hr_ivot_na_vru_ini_afrika_2026-01-06_0145",
+          "start": 145,
+          "end": 195,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "viasatnature_hr_rije_na_udovi_ta_2026-01-06_0195",
+          "start": 195,
+          "end": 245,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "viasatnature_hr_rije_na_udovi_ta_2026-01-06_0245",
+          "start": 245,
+          "end": 295,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasatnature_hr_doktori_za_egzoti_ne_lju_2026-01-06_0295",
+          "start": 295,
+          "end": 370,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 182,
+      "channel_name": "HR - ZDF",
+      "programs": [
+        {
+          "program_id": "zdf_hr_dune_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "zdf_hr_heute_journal_update_2026-01-06_0035",
+          "start": 35,
+          "end": 50,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "zdf_hr_za_djecu_2026-01-06_0050",
+          "start": 50,
+          "end": 145,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "zdf_hr_gorski_lije_nik_2026-01-06_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "zdf_hr_gorski_lije_nik_2026-01-06_0190",
+          "start": 190,
+          "end": 235,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "zdf_hr_gorski_lije_nik_2026-01-06_0235",
+          "start": 235,
+          "end": 280,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "zdf_hr_hallo_deutschland_2026-01-06_0280",
+          "start": 280,
+          "end": 330,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "zdf_hr_zdf_morgenmagazin_2026-01-06_0330",
+          "start": 330,
+          "end": 540,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 183,
+      "channel_name": "HR - Zdrava TV",
+      "programs": [
+        {
+          "program_id": "zdravatv_hr_poziv_krista_bo_jeg_rije_2026-01-06_0044",
+          "start": 44,
+          "end": 77,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "zdravatv_hr_svemirsko_jedinstvo_koje_2026-01-06_0077",
+          "start": 77,
+          "end": 109,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "zdravatv_hr_prakr_anski_bo_i_24_12_2_2026-01-06_0137",
+          "start": 137,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "zdravatv_hr_govor_na_gori_005_2026-01-06_0343",
+          "start": 343,
+          "end": 375,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 184,
+      "channel_name": "HR - bravo! TV",
+      "programs": [
+        {
+          "program_id": "bravotv_hr_bravo_tv_program_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bravotv_hr_bravo_tv_program_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 185,
+      "channel_name": "HR - mojRADIO",
+      "programs": [
+        {
+          "program_id": "mojradio_hr_mojradio_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mojradio_hr_mojradio_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mojradio_hr_mojradio_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 186,
+      "channel_name": "TV - myZen.tv",
+      "programs": [
+        {
+          "program_id": "myzen_tv_hr_massages_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "myzen_tv_hr_yoga_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "myzen_tv_hr_yoga_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "myzen_tv_hr_audio_advice_2026-01-06_0090",
+          "start": 90,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "myzen_tv_hr_my_zen_relaxation_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "myzen_tv_hr_beautiful_landscapes_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "myzen_tv_hr_spiritual_sports_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    }
+  ]
+}

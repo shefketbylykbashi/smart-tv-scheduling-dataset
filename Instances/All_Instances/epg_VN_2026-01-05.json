@@ -1,0 +1,2133 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 129,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 0,
+      "end": 120,
+      "allowed_channels": [
+        83,
+        7,
+        118,
+        76,
+        31,
+        1,
+        15,
+        41,
+        4,
+        107,
+        43,
+        40,
+        105,
+        56,
+        22,
+        51,
+        0,
+        3,
+        45,
+        63,
+        9,
+        14,
+        81,
+        96,
+        16,
+        124,
+        70,
+        120,
+        34,
+        52,
+        59,
+        79,
+        87,
+        121,
+        125,
+        35,
+        2,
+        32,
+        55,
+        53,
+        25,
+        61,
+        82,
+        106,
+        111,
+        123,
+        38,
+        21,
+        48,
+        66,
+        103,
+        115,
+        116,
+        5,
+        29,
+        28,
+        68,
+        91,
+        90,
+        104,
+        20,
+        65,
+        89,
+        98,
+        69
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 32
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "sports",
+      "bonus": 38
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "TLC HD",
+      "programs": [
+        {
+          "program_id": "411361_90_day_the_single_life_s_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "SCTV16",
+      "programs": [
+        {
+          "program_id": "411363_t_p_ch_s_cine_14_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "SCTV2",
+      "programs": [
+        {
+          "program_id": "411364_a_ch_u_nh_t_i_phi_t_t_p__2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "Hà Nam",
+      "programs": [
+        {
+          "program_id": "411367_phim_truy_n_ng_i_v_ho_n__2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "VTV9 HD",
+      "programs": [
+        {
+          "program_id": "411369_truy_n_h_nh_tr_c_ti_p_v__2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "On Sports+ HD",
+      "programs": [
+        {
+          "program_id": "411371_t_p_ch_atp_tour_this_wee_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "411371_v_league_world_s_09_25_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "Outdoor HD",
+      "programs": [
+        {
+          "program_id": "411373_yukon_for_sale_s_n_nh_yu_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "411373_yukon_for_sale_s_n_nh_yu_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "SPOTV (HD)",
+      "programs": [
+        {
+          "program_id": "411374_tennis_2025_mgm_macau_te_2026-01-05_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "sports",
+          "score": 78
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "Hưng Yên TV HD",
+      "programs": [
+        {
+          "program_id": "411376_b_n_tin_qu_c_t_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "HTVC Plus HD",
+      "programs": [
+        {
+          "program_id": "411381_phim_truy_n_vi_t_nam_k_n_2026-01-05_0000",
+          "start": 0,
+          "end": 37,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "411381_gi_i_tr_v_t_i_n_tham_qua_2026-01-05_0037",
+          "start": 37,
+          "end": 70,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "VTV1 HD",
+      "programs": [
+        {
+          "program_id": "411383_phim_t_i_li_u_n_c_ngo_i_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "Đồng Nai 1 HD",
+      "programs": [
+        {
+          "program_id": "411385_pl_c_u_chuy_n_v_n_h_a_2026-01-05_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "Bình Phước",
+      "programs": [
+        {
+          "program_id": "411386_pl_c_u_chuy_n_v_n_h_a_2026-01-05_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "Đà Nẵng 2",
+      "programs": [
+        {
+          "program_id": "411388_phim_truy_n_ng_i_th_a_k__2026-01-05_0010",
+          "start": 10,
+          "end": 55,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "DakLak TV",
+      "programs": [
+        {
+          "program_id": "411390_phim_truy_n_tl_qu_c_xinh_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "HTVC Ca Nhạc (HD)",
+      "programs": [
+        {
+          "program_id": "411392_gi_i_tr_t_p_3_kh_i_u_m_i_2026-01-05_0011",
+          "start": 11,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "411392_nh_c_n_c_ngo_i_nh_ng_b_i_2026-01-05_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "SCTV19",
+      "programs": [
+        {
+          "program_id": "411393_phim_truy_n_ti_u_th_v_o__2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "411393_khoa_gi_o_100_s_i_t_p_43_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "Tiền Giang HD",
+      "programs": [
+        {
+          "program_id": "411394_c_i_l_ng_l_u_i_t_nh_i_2026-01-05_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "Bắc Giang TV",
+      "programs": [
+        {
+          "program_id": "411397_chi_c_h_p_m_nh_c_nh_p_i__2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "VTV5 HD",
+      "programs": [
+        {
+          "program_id": "411398_cho_ng_y_ho_n_h_o_ngh_s__2026-01-05_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "VTV Cần Thơ",
+      "programs": [
+        {
+          "program_id": "411399_phim_truy_n_m_r_m_t_p_15_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "411399_t_p_ch_kinh_t_cu_i_tu_n_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "AXN HD",
+      "programs": [
+        {
+          "program_id": "411400_bullet_train_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "VTV8 HD",
+      "programs": [
+        {
+          "program_id": "411401_gi_i_m_s_c_kh_e_suy_gi_m_2026-01-05_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "411401_th_i_s_2026-01-05_0040",
+          "start": 40,
+          "end": 70,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "CNN HD",
+      "programs": [
+        {
+          "program_id": "411403_connect_the_world_et_wor_2026-01-05_0000",
+          "start": 0,
+          "end": 10,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "411403_connect_the_world_2026-01-05_0010",
+          "start": 10,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "VTV4 HD",
+      "programs": [
+        {
+          "program_id": "411406_talk_vietnam_ng_i_gi_nh__2026-01-05_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "talk",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "ON Style TV HD",
+      "programs": [
+        {
+          "program_id": "411408_d_m_ngh_d_m_l_m_s_01_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "411408_s_c_m_u_m_nh_c_s_10_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "ON Vie Giải trí",
+      "programs": [
+        {
+          "program_id": "411410_t_i_ti_u_tuy_t_m_a_6_t_p_2026-01-05_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "ON Vie Dramas",
+      "programs": [
+        {
+          "program_id": "411412_phim_truy_n_t_i_t_i_sinh_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "Animal Plannet HD",
+      "programs": [
+        {
+          "program_id": "411417_wild_mexico_m_hico_hoang_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "SCTV17 - Ssport",
+      "programs": [
+        {
+          "program_id": "411418_laliga_2025_26_r17_valen_2026-01-05_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "ON Life (HD)",
+      "programs": [
+        {
+          "program_id": "411419_kh_e_p_h_n_s_27_2026-01-05_0015",
+          "start": 15,
+          "end": 45,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "ON Sports News",
+      "programs": [
+        {
+          "program_id": "411420_h_ng_nh_t_ph_p_ligue_1_2_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 85
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "ON Phim Việt HD",
+      "programs": [
+        {
+          "program_id": "411422_i_m_t_c_a_tr_i_tim_t_p_1_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "Kiên Giang (HD)",
+      "programs": [
+        {
+          "program_id": "411423_phim_i_n_a_nh_nh_ng_ng_i_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "KonTum TV",
+      "programs": [
+        {
+          "program_id": "411424_kh_m_ph_th_gi_i_c_nh_s_c_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "Cần Thơ TV",
+      "programs": [
+        {
+          "program_id": "411425_phim_truy_n_tl_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "411425_phim_t_i_li_u_2026-01-05_0040",
+          "start": 40,
+          "end": 70,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "Bình Dương 1 HD",
+      "programs": [
+        {
+          "program_id": "411426_ng_n_m_i_chu_ng_v_ng_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "Huế TV1",
+      "programs": [
+        {
+          "program_id": "411427_th_i_s_trong_ng_y_2026-01-05_0005",
+          "start": 5,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "Asian Food Network (HD)",
+      "programs": [
+        {
+          "program_id": "411428_luke_nguyen_s_india_s1_l_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "411428_luke_nguyen_s_india_s1_l_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "BTV9 - An Viên TV",
+      "programs": [
+        {
+          "program_id": "411429_huy_n_b_ph_ng_ng_mo_m_ng_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "SPOTV2 (HD)",
+      "programs": [
+        {
+          "program_id": "411431_motorsports_2025_motogp__2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "411431_table_tennis_wtt_finals__2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "DW-HD",
+      "programs": [
+        {
+          "program_id": "411434_sports_life_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "Thái Nguyên TV1 HD",
+      "programs": [
+        {
+          "program_id": "411436_phim_truy_n_b_danh_t_p_3_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "ON Football (HD)",
+      "programs": [
+        {
+          "program_id": "411437_v_qg_italia_serie_a_25_2_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "series",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "Bạc Liêu TV",
+      "programs": [
+        {
+          "program_id": "411438_th_i_s_ctv_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "Tây Ninh HD",
+      "programs": [
+        {
+          "program_id": "411442_phim_ng_n_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "Quảng Ninh1 (QTV1) HD",
+      "programs": [
+        {
+          "program_id": "411443_phim_truy_n_m_t_ch_ng_ba_2026-01-05_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "Lạng Sơn TV HD",
+      "programs": [
+        {
+          "program_id": "411447_ca_nh_c_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "Ninh Bình TV",
+      "programs": [
+        {
+          "program_id": "411449_phim_truy_n_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "411449_ca_nh_c_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "ANTV",
+      "programs": [
+        {
+          "program_id": "411451_nh_t_k_an_ninh_2026-01-05_0005",
+          "start": 5,
+          "end": 40,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "FTV(HD)",
+      "programs": [
+        {
+          "program_id": "411452_designers_c_c_nh_thi_t_k_2026-01-05_0010",
+          "start": 10,
+          "end": 40,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "411452_designers_c_c_nh_thi_t_k_2026-01-05_0040",
+          "start": 40,
+          "end": 70,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "ON Sports (HD)",
+      "programs": [
+        {
+          "program_id": "411453_atp_tour_250_brisbane_in_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "411453_ligue_1_preview_show_s_0_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "Nghệ An (HD)",
+      "programs": [
+        {
+          "program_id": "411457_th_i_s_ngh_an_d_b_o_th_i_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "VTV5 Tây Nam Bộ (HD)",
+      "programs": [
+        {
+          "program_id": "411458_ph_n_l_y_u_th_ng_b_n_c_q_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "411458_phim_truy_n_oan_gia_phon_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "ON MUSIC HD",
+      "programs": [
+        {
+          "program_id": "411459_c_u_chuy_n_m_nh_c_s_5_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "SCTV11",
+      "programs": [
+        {
+          "program_id": "411460_phim_truy_n_n_i_ng_n_gi__2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "Vĩnh Long 4 HD",
+      "programs": [
+        {
+          "program_id": "411462_c_i_l_ng_i_bi_n_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "411462_phim_vi_t_nam_ng_c_b_ch__2026-01-05_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "CartoonNetwork HD",
+      "programs": [
+        {
+          "program_id": "411463_adventure_time_2026-01-05_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "Bắc Ninh HD",
+      "programs": [
+        {
+          "program_id": "411465_chi_c_h_p_m_nh_c_nh_p_i__2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "SCTV4",
+      "programs": [
+        {
+          "program_id": "411467_chuy_n_gi_kho_co_ma_lo_t_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "Vĩnh Long 2 HD",
+      "programs": [
+        {
+          "program_id": "411469_th_gi_i_c_t_ch_hi_n_v_l__2026-01-05_0015",
+          "start": 15,
+          "end": 45,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "Thái Bình TV",
+      "programs": [
+        {
+          "program_id": "411470_d_b_o_th_i_ti_t_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "HTV Phụ Nữ (HD)",
+      "programs": [
+        {
+          "program_id": "411471_gi_i_tr_th_ng_gia_song_u_2026-01-05_0000",
+          "start": 0,
+          "end": 53,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "SCTV13",
+      "programs": [
+        {
+          "program_id": "411472_s_m_nh_tr_i_tim_t_p_9_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "DaVinci HD",
+      "programs": [
+        {
+          "program_id": "411473_b_c_s_th_y_t_p_s_l_i_l_n_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "HTVC Gia Đình (HD)",
+      "programs": [
+        {
+          "program_id": "411477_phim_truy_n_vi_t_nam_v_i_2026-01-05_0000",
+          "start": 0,
+          "end": 54,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "Hà Nội 2 HD",
+      "programs": [
+        {
+          "program_id": "411481_b_n_tin_ti_ng_trung_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "HTV Thuần Việt HD",
+      "programs": [
+        {
+          "program_id": "411483_gi_i_tr_song_t_i_th_ch_u_2026-01-05_0005",
+          "start": 5,
+          "end": 54,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "Nam Định TV",
+      "programs": [
+        {
+          "program_id": "411485_phim_truy_n_ng_i_v_ho_n__2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "ON Trending HD",
+      "programs": [
+        {
+          "program_id": "411487_k_c_mi_n_t_y_s_35_36_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "411487_3t_th_ch_th_th_s_14_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "ON MOVIES (HD)",
+      "programs": [
+        {
+          "program_id": "411488_phim_truy_n_nh_c_hai_b_n_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "HTV Thể thao",
+      "programs": [
+        {
+          "program_id": "411489_t_ng_thu_t_gi_i_golf_htv_2026-01-05_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "Vĩnh Long 3 HD",
+      "programs": [
+        {
+          "program_id": "411490_phim_vi_t_nam_ng_m_ng_i__2026-01-05_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "ABC Australia",
+      "programs": [
+        {
+          "program_id": "411491_world_series_cricket_epi_2026-01-05_0025",
+          "start": 25,
+          "end": 60,
+          "genre": "series",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "ON Vfamily HD",
+      "programs": [
+        {
+          "program_id": "411492_ch_ng_t_i_l_ph_n_c_ng_ng_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "VTV2 HD",
+      "programs": [
+        {
+          "program_id": "411493_360_th_thao_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "VTV3 HD",
+      "programs": [
+        {
+          "program_id": "411494_cine_7_phim_m_u_c_u_h_nh_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "movie",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "Bình Thuận",
+      "programs": [
+        {
+          "program_id": "411497_th_i_s_l_m_ng_2026-01-05_0025",
+          "start": 25,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "HTV1 HD",
+      "programs": [
+        {
+          "program_id": "411498_ng_n_m_i_chu_ng_v_ng_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "An Giang",
+      "programs": [
+        {
+          "program_id": "411499_phim_i_n_a_nh_nh_ng_ng_i_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "Tuyên Quang TV",
+      "programs": [
+        {
+          "program_id": "411500_kh_m_ph_th_gi_i_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "DakNong TV",
+      "programs": [
+        {
+          "program_id": "411501_phim_truy_n_trung_qu_c_t_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "Bắc Kạn TV",
+      "programs": [
+        {
+          "program_id": "411503_phim_truy_n_b_danh_t_p_3_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "Hà Tĩnh TV HD",
+      "programs": [
+        {
+          "program_id": "411504_nh_n_di_n_l_a_o_s_1_c_th_2026-01-05_0020",
+          "start": 20,
+          "end": 75,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "411504_phim_truy_n_m_t_i_l_i_gi_2026-01-05_0075",
+          "start": 75,
+          "end": 115,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "THP+",
+      "programs": [
+        {
+          "program_id": "411505_h_i_ph_ng_nh_ng_g_c_nh_n_2026-01-05_0015",
+          "start": 15,
+          "end": 45,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "Đồng Tháp",
+      "programs": [
+        {
+          "program_id": "411508_s_n_kh_u_c_i_l_ng_2026-01-05_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "HTV Key (HD)",
+      "programs": [
+        {
+          "program_id": "411509_b_n_tin_60s_t_i_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "SCTV6",
+      "programs": [
+        {
+          "program_id": "411511_phim_trung_qu_c_u_i_theo_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "HTV9 HD",
+      "programs": [
+        {
+          "program_id": "411512_b_o_hi_m_x_h_i_b_o_hi_m__2026-01-05_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "Hà Nội 1  HD",
+      "programs": [
+        {
+          "program_id": "411513_b_n_tin_ti_ng_trung_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "HTV2 HD",
+      "programs": [
+        {
+          "program_id": "411514_gi_i_tr_t_ng_h_p_vn_7_n__2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "411514_gi_i_tr_t_ng_h_p_vn_ki_n_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "ON Golf",
+      "programs": [
+        {
+          "program_id": "411516_pga_tour_tour_championsh_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "HTV7 HD",
+      "programs": [
+        {
+          "program_id": "411517_box_th_gi_n_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "411517_studio_h9_h_n_cu_i_tu_n_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "Bến Tre TV",
+      "programs": [
+        {
+          "program_id": "411518_th_gi_i_c_t_ch_hi_n_v_l__2026-01-05_0015",
+          "start": 15,
+          "end": 45,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "Vĩnh Long 1 HD",
+      "programs": [
+        {
+          "program_id": "411519_phim_truy_n_philippines__2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "411519_phim_truy_n_trung_qu_c_t_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "HTVC Phim HD",
+      "programs": [
+        {
+          "program_id": "411520_o_t_ng_l_n_lao_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "Trà Vinh TV",
+      "programs": [
+        {
+          "program_id": "411524_phim_vi_t_nam_ti_ng_s_t__2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "CINEMAWORLD HD",
+      "programs": [
+        {
+          "program_id": "411526_from_the_vine_t_c_i_ngu__2026-01-05_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "Box Hits (HD)",
+      "programs": [
+        {
+          "program_id": "411527_gran_turismo_gran_turism_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "VTV7 HD",
+      "programs": [
+        {
+          "program_id": "411528_jumping_with_toeic_s_57_2026-01-05_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "VTV5 Tây Nguyên (HD)",
+      "programs": [
+        {
+          "program_id": "411529_phim_truy_n_thi_n_kim_h__2026-01-05_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "SCTV 22 - SSportT1",
+      "programs": [
+        {
+          "program_id": "411912_b_n_tin_th_thao_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "Thanh Hóa TV HD",
+      "programs": [
+        {
+          "program_id": "412869_phim_truy_n_n_c_ngo_i_xi_2026-01-05_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "SCTV - Phim Tổng hợp",
+      "programs": [
+        {
+          "program_id": "413271_phim_truy_n_ng_i_th_m_l__2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "SCTV20",
+      "programs": [
+        {
+          "program_id": "414713_musique_de_salon_m_h_nh_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "414713_musique_de_salon_ho_ng_d_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "SCTV15 - SSportT2",
+      "programs": [
+        {
+          "program_id": "423688_thtt_laliga_2025_26_r18__2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "SCTV7",
+      "programs": [
+        {
+          "program_id": "428458_giai_i_u_v_ng_s_27_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "ON O2TV HD",
+      "programs": [
+        {
+          "program_id": "429253_chuy_n_kh_n_i_tr_nh_thai_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "429253_phim_truy_n_ng_t_i_ch_n__2026-01-05_0030",
+          "start": 30,
+          "end": 75,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "Quảng Ngãi TV (HD)",
+      "programs": [
+        {
+          "program_id": "455144_phim_trung_qu_c_ti_n_ki__2026-01-05_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "Quảng Bình",
+      "programs": [
+        {
+          "program_id": "456148_ph_ng_s_chuy_n_v_c_y_l_a_2026-01-05_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "Lào Cai TV",
+      "programs": [
+        {
+          "program_id": "459490_phim_truy_n_2026-01-05_0020",
+          "start": 20,
+          "end": 70,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "Music Box (HD)",
+      "programs": [
+        {
+          "program_id": "464454_mb_hits_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "Hà Giang TV",
+      "programs": [
+        {
+          "program_id": "464457_kh_m_ph_th_gi_i_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "Discovery(HD)",
+      "programs": [
+        {
+          "program_id": "471639_deadliest_catch_s21_2026-01-05_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "Lai Châu TV",
+      "programs": [
+        {
+          "program_id": "473953_ca_nh_c_2026-01-05_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "Hậu Giang TV",
+      "programs": [
+        {
+          "program_id": "476180_k_s_2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "476180_chuy_n_t_nh_t_i_k_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "SCTV12",
+      "programs": [
+        {
+          "program_id": "477130_nh_ng_c_ng_vi_n_qu_c_gia_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "SCTV14",
+      "programs": [
+        {
+          "program_id": "477131_g_o_n_p_g_o_t_t_p_109_2026-01-05_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "Vũng Tàu HD",
+      "programs": [
+        {
+          "program_id": "481215_t_ng_thu_t_b_ng_sea_game_2026-01-05_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "Lâm Đồng TV",
+      "programs": [
+        {
+          "program_id": "481217_l_i_y_u_th_ng_la_ng_a_ng_2026-01-05_0040",
+          "start": 40,
+          "end": 70,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "SCTV9",
+      "programs": [
+        {
+          "program_id": "482619_ch_i_v_i_ma_t_p_17_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "PhuYenTV",
+      "programs": [
+        {
+          "program_id": "484250_phim_truy_n_tl_qu_c_xinh_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "Quảng Nam",
+      "programs": [
+        {
+          "program_id": "484860_phim_truy_n_ng_i_th_a_k__2026-01-05_0010",
+          "start": 10,
+          "end": 55,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "Sơn La TV",
+      "programs": [
+        {
+          "program_id": "486007_d_n_ca_d_n_v_n_i_lan_to__2026-01-05_0010",
+          "start": 10,
+          "end": 40,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "486007_th_i_s_2026-01-05_0040",
+          "start": 40,
+          "end": 70,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "SCTV18",
+      "programs": [
+        {
+          "program_id": "488236_phim_trung_qu_c_m_t_m_b__2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "488236_phim_sitcom_ly_h_n_tu_i__2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "series",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "Arirang",
+      "programs": [
+        {
+          "program_id": "488371_decoded_the_ai_conversat_2026-01-05_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "SCTV3",
+      "programs": [
+        {
+          "program_id": "489720_d_y_h_c_ph_ng_ngh_thu_t__2026-01-05_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "489720_gi_i_tr_kh_ng_gian_t_nh__2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "Quảng Trị HD",
+      "programs": [
+        {
+          "program_id": "489881_ph_ng_s_chuy_n_v_c_y_l_a_2026-01-05_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "ON Kids (HD)",
+      "programs": [
+        {
+          "program_id": "490964_t_m_l_h_c_ng_t_p_31_2026-01-05_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    }
+  ]
+}

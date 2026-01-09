@@ -1,0 +1,6459 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 194,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 0,
+      "end": 60,
+      "allowed_channels": [
+        53,
+        77,
+        98,
+        13,
+        184,
+        47,
+        158,
+        160,
+        50,
+        67,
+        189,
+        1,
+        57,
+        70,
+        81,
+        140,
+        190,
+        191,
+        180,
+        74,
+        92,
+        8,
+        14,
+        51,
+        59,
+        72,
+        118,
+        123,
+        124,
+        168,
+        173,
+        181,
+        131,
+        167,
+        25,
+        9,
+        26,
+        83,
+        97,
+        106,
+        172,
+        24,
+        137,
+        4,
+        192,
+        104,
+        175,
+        48,
+        171,
+        43,
+        79,
+        107,
+        56,
+        22,
+        75,
+        119,
+        5,
+        62,
+        68,
+        91,
+        126,
+        127,
+        129,
+        132,
+        166,
+        103,
+        108,
+        141,
+        186,
+        146,
+        84,
+        15,
+        170,
+        145,
+        174,
+        30,
+        35,
+        11,
+        130,
+        17,
+        88,
+        128,
+        176,
+        142,
+        45,
+        90,
+        193,
+        149,
+        89,
+        40,
+        55,
+        31,
+        21,
+        111
+      ]
+    },
+    {
+      "start": 1170,
+      "end": 1230,
+      "allowed_channels": [
+        177,
+        185,
+        167,
+        175,
+        183,
+        164,
+        188,
+        169,
+        180,
+        171,
+        166,
+        165,
+        181
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "unknown",
+      "bonus": 61
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "unknown",
+      "bonus": 61
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "河北卫视",
+      "programs": [
+        {
+          "program_id": "13886__2026-01-06_0001",
+          "start": 1,
+          "end": 31,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "湖北卫视",
+      "programs": [
+        {
+          "program_id": "13889__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "13889__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "吉林卫视",
+      "programs": [
+        {
+          "program_id": "13892__2026-01-06_0012",
+          "start": 12,
+          "end": 45,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "内蒙古卫视",
+      "programs": [
+        {
+          "program_id": "13893__2026-01-06_0002",
+          "start": 2,
+          "end": 35,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "山西卫视",
+      "programs": [
+        {
+          "program_id": "13895__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "陕西卫视",
+      "programs": [
+        {
+          "program_id": "13896__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "云南卫视",
+      "programs": [
+        {
+          "program_id": "13899__2026-01-06_0028",
+          "start": 28,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "梨园",
+      "programs": [
+        {
+          "program_id": "13974__2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "noepg",
+      "programs": [
+        {
+          "program_id": "14205__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "14205__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "14205__2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "14205__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "14205__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "14205__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "14205__2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "14205__2026-01-06_0420",
+          "start": 420,
+          "end": 480,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "14205__2026-01-06_0480",
+          "start": 480,
+          "end": 540,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "14205__2026-01-06_0540",
+          "start": 540,
+          "end": 600,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "14205__2026-01-06_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "14205__2026-01-06_0660",
+          "start": 660,
+          "end": 720,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "14205__2026-01-06_0720",
+          "start": 720,
+          "end": 780,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "14205__2026-01-06_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "14205__2026-01-06_0840",
+          "start": 840,
+          "end": 900,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "14205__2026-01-06_0900",
+          "start": 900,
+          "end": 960,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "14205__2026-01-06_0960",
+          "start": 960,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "14205__2026-01-06_1020",
+          "start": 1020,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "14205__2026-01-06_1080",
+          "start": 1080,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "14205__2026-01-06_1140",
+          "start": 1140,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "14205__2026-01-06_1200",
+          "start": 1200,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "14205__2026-01-06_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "14205__2026-01-06_1320",
+          "start": 1320,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "CCTV1",
+      "programs": [
+        {
+          "program_id": "378819_1_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "CCTV2",
+      "programs": [
+        {
+          "program_id": "378820__2026-01-06_0019",
+          "start": 19,
+          "end": 52,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "CCTV3",
+      "programs": [
+        {
+          "program_id": "378821_2025_216_17_38_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "CCTV4",
+      "programs": [
+        {
+          "program_id": "378822_43_50_2026-01-06_0003",
+          "start": 3,
+          "end": 49,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "CCTV5",
+      "programs": [
+        {
+          "program_id": "378823_2025_2026_9_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "CCTV5+",
+      "programs": [
+        {
+          "program_id": "378824_25_26_10_4k_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "CCTV6",
+      "programs": [
+        {
+          "program_id": "378825__2026-01-06_0002",
+          "start": 2,
+          "end": 52,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "CCTV7",
+      "programs": [
+        {
+          "program_id": "378826_14_24_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "CCTV8",
+      "programs": [
+        {
+          "program_id": "378827_17_39_2026-01-06_0006",
+          "start": 6,
+          "end": 52,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "CCTV9",
+      "programs": [
+        {
+          "program_id": "378828_2026_5_2026-01-06_0027",
+          "start": 27,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "CCTV10",
+      "programs": [
+        {
+          "program_id": "378829_2025_42_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "CCTV11",
+      "programs": [
+        {
+          "program_id": "378830_5_38_2026-01-06_0028",
+          "start": 28,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "CCTV12",
+      "programs": [
+        {
+          "program_id": "378831_2025_11_36_2026-01-06_0003",
+          "start": 3,
+          "end": 51,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "CCTV13",
+      "programs": [
+        {
+          "program_id": "378832_24_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "CCTV14",
+      "programs": [
+        {
+          "program_id": "378833_14_36_2026-01-06_0028",
+          "start": 28,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "CDTV3",
+      "programs": [
+        {
+          "program_id": "378836__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "378836__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "CDTV4",
+      "programs": [
+        {
+          "program_id": "378837__2026-01-06_0005",
+          "start": 5,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "CGTN",
+      "programs": [
+        {
+          "program_id": "378838__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "378838__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "CDTV6",
+      "programs": [
+        {
+          "program_id": "378839__2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "CCTV4EUO",
+      "programs": [
+        {
+          "program_id": "378840_24_40_2026-01-06_0000",
+          "start": 0,
+          "end": 32,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "CCTV4AME",
+      "programs": [
+        {
+          "program_id": "378841_2026_5_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "湖南卫视",
+      "programs": [
+        {
+          "program_id": "378844__2026-01-06_0005",
+          "start": 5,
+          "end": 53,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "浙江卫视",
+      "programs": [
+        {
+          "program_id": "378845__2026-01-06_0012",
+          "start": 12,
+          "end": 54,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "江苏卫视",
+      "programs": [
+        {
+          "program_id": "378846__2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "北京卫视",
+      "programs": [
+        {
+          "program_id": "378847__2026-01-06_0000",
+          "start": 0,
+          "end": 34,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "东方卫视",
+      "programs": [
+        {
+          "program_id": "378848_1_2026-01-06_0007",
+          "start": 7,
+          "end": 49,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "安徽卫视",
+      "programs": [
+        {
+          "program_id": "378849__2026-01-06_0011",
+          "start": 11,
+          "end": 59,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "深圳卫视",
+      "programs": [
+        {
+          "program_id": "378851__2026-01-06_0010",
+          "start": 10,
+          "end": 42,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "旅游卫视",
+      "programs": [
+        {
+          "program_id": "378854__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "山东卫视",
+      "programs": [
+        {
+          "program_id": "378855__2026-01-06_0021",
+          "start": 21,
+          "end": 54,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "天津卫视",
+      "programs": [
+        {
+          "program_id": "378856_4_2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "重庆卫视",
+      "programs": [
+        {
+          "program_id": "378857__2026-01-06_0017",
+          "start": 17,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "东南卫视",
+      "programs": [
+        {
+          "program_id": "378858__2026-01-06_0026",
+          "start": 26,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "甘肃卫视",
+      "programs": [
+        {
+          "program_id": "378859_30_2026-01-06_0000",
+          "start": 0,
+          "end": 34,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "广西卫视",
+      "programs": [
+        {
+          "program_id": "378860_46_24_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "378860_46_25_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "贵州卫视",
+      "programs": [
+        {
+          "program_id": "378861__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "黑龙江卫视",
+      "programs": [
+        {
+          "program_id": "378862__2026-01-06_0010",
+          "start": 10,
+          "end": 55,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "河南卫视",
+      "programs": [
+        {
+          "program_id": "378863__2026-01-06_0022",
+          "start": 22,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "SCTV4",
+      "programs": [
+        {
+          "program_id": "378864_10_2026-01-06_0000",
+          "start": 0,
+          "end": 59,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "江西卫视",
+      "programs": [
+        {
+          "program_id": "378865__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "378865__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "四川卫视",
+      "programs": [
+        {
+          "program_id": "378866_13_2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "新疆卫视",
+      "programs": [
+        {
+          "program_id": "378867__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "378867__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "青海卫视",
+      "programs": [
+        {
+          "program_id": "378868__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "兵团卫视",
+      "programs": [
+        {
+          "program_id": "378869__2026-01-06_0022",
+          "start": 22,
+          "end": 55,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "卡酷动画",
+      "programs": [
+        {
+          "program_id": "378873__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "康巴卫视",
+      "programs": [
+        {
+          "program_id": "378876__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "西藏卫视",
+      "programs": [
+        {
+          "program_id": "378877_18_2026-01-06_0018",
+          "start": 18,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "中国教育1台",
+      "programs": [
+        {
+          "program_id": "378879__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "378879_32_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "中国教育2台",
+      "programs": [
+        {
+          "program_id": "378880__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "378880__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "CDTV1",
+      "programs": [
+        {
+          "program_id": "378888__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "求索记录",
+      "programs": [
+        {
+          "program_id": "378890__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "CCTV4K",
+      "programs": [
+        {
+          "program_id": "378895_4k_2024_90_2026-01-06_0014",
+          "start": 14,
+          "end": 54,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "SCTV2",
+      "programs": [
+        {
+          "program_id": "378914__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "SCTV3",
+      "programs": [
+        {
+          "program_id": "378918__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "378918_2_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "SCTV5",
+      "programs": [
+        {
+          "program_id": "378920_23_2026-01-06_0000",
+          "start": 0,
+          "end": 44,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "SCTV7",
+      "programs": [
+        {
+          "program_id": "378922__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "峨嵋电影",
+      "programs": [
+        {
+          "program_id": "378924_5_2026-01-06_0008",
+          "start": 8,
+          "end": 43,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "天元围棋",
+      "programs": [
+        {
+          "program_id": "378926__2026-01-06_0015",
+          "start": 15,
+          "end": 45,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "发现之旅",
+      "programs": [
+        {
+          "program_id": "378931__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "378931__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "文物宝库",
+      "programs": [
+        {
+          "program_id": "378932__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "老故事",
+      "programs": [
+        {
+          "program_id": "378933__2026-01-06_0005",
+          "start": 5,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "快乐垂钓",
+      "programs": [
+        {
+          "program_id": "378934__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "先锋乒羽",
+      "programs": [
+        {
+          "program_id": "378936__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "车迷频道",
+      "programs": [
+        {
+          "program_id": "378937__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "四海钓鱼",
+      "programs": [
+        {
+          "program_id": "378939__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "环球旅游",
+      "programs": [
+        {
+          "program_id": "378940__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "378940__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "财富天下",
+      "programs": [
+        {
+          "program_id": "378946__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "378946__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "SCTV8",
+      "programs": [
+        {
+          "program_id": "378948_31_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "CDTV2",
+      "programs": [
+        {
+          "program_id": "378958__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "CHC高清电影",
+      "programs": [
+        {
+          "program_id": "378960__2026-01-06_0000",
+          "start": 0,
+          "end": 31,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "CHC动作电影",
+      "programs": [
+        {
+          "program_id": "378961__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "378961__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "CHC家庭电影",
+      "programs": [
+        {
+          "program_id": "378964__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "CCTV16",
+      "programs": [
+        {
+          "program_id": "379031__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "山东齐鲁",
+      "programs": [
+        {
+          "program_id": "379037__2026-01-06_0021",
+          "start": 21,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "山东体育",
+      "programs": [
+        {
+          "program_id": "379038__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "山东农科",
+      "programs": [
+        {
+          "program_id": "379039__2026-01-06_0000",
+          "start": 0,
+          "end": 48,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "山东少儿",
+      "programs": [
+        {
+          "program_id": "379041__2026-01-06_0005",
+          "start": 5,
+          "end": 37,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "山东综艺",
+      "programs": [
+        {
+          "program_id": "379043__2026-01-06_0009",
+          "start": 9,
+          "end": 42,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "山东生活",
+      "programs": [
+        {
+          "program_id": "379044__2026-01-06_0000",
+          "start": 0,
+          "end": 36,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "北京纪实",
+      "programs": [
+        {
+          "program_id": "401475__2026-01-06_0009",
+          "start": 9,
+          "end": 54,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "BTV文艺",
+      "programs": [
+        {
+          "program_id": "417050__2026-01-06_0000",
+          "start": 0,
+          "end": 43,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "BTV科教",
+      "programs": [
+        {
+          "program_id": "417051__2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "BTV影视",
+      "programs": [
+        {
+          "program_id": "417052__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "BTV财经",
+      "programs": [
+        {
+          "program_id": "417053__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "417053__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "BTV生活",
+      "programs": [
+        {
+          "program_id": "417055__2026-01-06_0008",
+          "start": 8,
+          "end": 38,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "BTV新闻",
+      "programs": [
+        {
+          "program_id": "417056__2026-01-06_0020",
+          "start": 20,
+          "end": 50,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "BTV体育",
+      "programs": [
+        {
+          "program_id": "417531__2026-01-06_0025",
+          "start": 25,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "三沙卫视",
+      "programs": [
+        {
+          "program_id": "418445__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "武术世界",
+      "programs": [
+        {
+          "program_id": "418503__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "延边卫视",
+      "programs": [
+        {
+          "program_id": "419906__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "黄河卫视",
+      "programs": [
+        {
+          "program_id": "419907__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "厦门卫视",
+      "programs": [
+        {
+          "program_id": "419908__2026-01-06_0025",
+          "start": 25,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "中国教育3台",
+      "programs": [
+        {
+          "program_id": "419909__2026-01-06_0000",
+          "start": 0,
+          "end": 33,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "外汇理财",
+      "programs": [
+        {
+          "program_id": "419911__2026-01-06_0010",
+          "start": 10,
+          "end": 40,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "湖北影视频道",
+      "programs": [
+        {
+          "program_id": "419921__2026-01-06_0000",
+          "start": 0,
+          "end": 59,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "湖北教育频道",
+      "programs": [
+        {
+          "program_id": "419922__2026-01-06_0000",
+          "start": 0,
+          "end": 59,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "湖北生活频道",
+      "programs": [
+        {
+          "program_id": "419923__2026-01-06_0010",
+          "start": 10,
+          "end": 43,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "湖北公共·新闻",
+      "programs": [
+        {
+          "program_id": "419924__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "湖北经济频道",
+      "programs": [
+        {
+          "program_id": "419925__2026-01-06_0002",
+          "start": 2,
+          "end": 59,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "武汉电视剧频道",
+      "programs": [
+        {
+          "program_id": "419928__2026-01-06_0007",
+          "start": 7,
+          "end": 56,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "武汉科技生活频道",
+      "programs": [
+        {
+          "program_id": "419929__2026-01-06_0028",
+          "start": 28,
+          "end": 59,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "武汉经济频道",
+      "programs": [
+        {
+          "program_id": "419930__2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "武汉文体频道",
+      "programs": [
+        {
+          "program_id": "419931__2026-01-06_0017",
+          "start": 17,
+          "end": 59,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "武汉外语频道",
+      "programs": [
+        {
+          "program_id": "419932__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "辽宁都市",
+      "programs": [
+        {
+          "program_id": "419938__2026-01-06_0014",
+          "start": 14,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "辽宁影视剧",
+      "programs": [
+        {
+          "program_id": "419939__2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "辽宁青少",
+      "programs": [
+        {
+          "program_id": "419940__2026-01-06_0000",
+          "start": 0,
+          "end": 34,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "辽宁生活",
+      "programs": [
+        {
+          "program_id": "419941__2026-01-06_0000",
+          "start": 0,
+          "end": 32,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "辽宁公共",
+      "programs": [
+        {
+          "program_id": "419942__2026-01-06_0020",
+          "start": 20,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "辽宁北方",
+      "programs": [
+        {
+          "program_id": "419943__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "辽宁体育",
+      "programs": [
+        {
+          "program_id": "419944__2026-01-06_0000",
+          "start": 0,
+          "end": 53,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "辽宁经济",
+      "programs": [
+        {
+          "program_id": "419945__2026-01-06_0015",
+          "start": 15,
+          "end": 55,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "沈阳新闻",
+      "programs": [
+        {
+          "program_id": "419946__2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "环球奇观",
+      "programs": [
+        {
+          "program_id": "419966__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "幼儿教育",
+      "programs": [
+        {
+          "program_id": "419969__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "京视剧场",
+      "programs": [
+        {
+          "program_id": "419971__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "精品剧场",
+      "programs": [
+        {
+          "program_id": "419979_17_2026-01-06_0008",
+          "start": 8,
+          "end": 53,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "少儿动漫",
+      "programs": [
+        {
+          "program_id": "419980__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "欧美影院",
+      "programs": [
+        {
+          "program_id": "419981__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "茶频道",
+      "programs": [
+        {
+          "program_id": "421043__2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "3D电视试验频道",
+      "programs": [
+        {
+          "program_id": "448034__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 130,
+      "channel_name": "风云足球",
+      "programs": [
+        {
+          "program_id": "448038__2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 131,
+      "channel_name": "现代女性",
+      "programs": [
+        {
+          "program_id": "448043__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "448043__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 132,
+      "channel_name": "弈坛春秋",
+      "programs": [
+        {
+          "program_id": "448047__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 133,
+      "channel_name": "央广健康",
+      "programs": [
+        {
+          "program_id": "448048__2026-01-06_0001",
+          "start": 1,
+          "end": 32,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 134,
+      "channel_name": "时代家居",
+      "programs": [
+        {
+          "program_id": "448049__2026-01-06_0002",
+          "start": 2,
+          "end": 32,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 135,
+      "channel_name": "时代出行",
+      "programs": [
+        {
+          "program_id": "448050__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 136,
+      "channel_name": "时代风尚",
+      "programs": [
+        {
+          "program_id": "448051__2026-01-06_0000",
+          "start": 0,
+          "end": 41,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 137,
+      "channel_name": "百姓健康",
+      "programs": [
+        {
+          "program_id": "448052__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "448052__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 138,
+      "channel_name": "宁夏卫视",
+      "programs": [
+        {
+          "program_id": "449214__2026-01-06_0029",
+          "start": 29,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 139,
+      "channel_name": "IPTV5+",
+      "programs": [
+        {
+          "program_id": "449216__2026-01-06_0021",
+          "start": 21,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 140,
+      "channel_name": "IPTV6+",
+      "programs": [
+        {
+          "program_id": "449217__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 141,
+      "channel_name": "求索科学",
+      "programs": [
+        {
+          "program_id": "449218__2026-01-06_0010",
+          "start": 10,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 142,
+      "channel_name": "求索动物",
+      "programs": [
+        {
+          "program_id": "449219__2026-01-06_0010",
+          "start": 10,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 143,
+      "channel_name": "IPTV热播剧场",
+      "programs": [
+        {
+          "program_id": "449221__2026-01-06_0023",
+          "start": 23,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 144,
+      "channel_name": "IPTV少儿动画",
+      "programs": [
+        {
+          "program_id": "449222__2026-01-06_0023",
+          "start": 23,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 145,
+      "channel_name": "IPTV魅力时尚",
+      "programs": [
+        {
+          "program_id": "449223__2026-01-06_0000",
+          "start": 0,
+          "end": 53,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 146,
+      "channel_name": "湖北综合频道",
+      "programs": [
+        {
+          "program_id": "449224__2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 147,
+      "channel_name": "湖北垄上频道",
+      "programs": [
+        {
+          "program_id": "449225__2026-01-06_0024",
+          "start": 24,
+          "end": 59,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 148,
+      "channel_name": "武汉少儿频道",
+      "programs": [
+        {
+          "program_id": "449226__2026-01-06_0009",
+          "start": 9,
+          "end": 49,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 149,
+      "channel_name": "武汉教育电视台",
+      "programs": [
+        {
+          "program_id": "449227__2026-01-06_0009",
+          "start": 9,
+          "end": 59,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 150,
+      "channel_name": "环宇电影",
+      "programs": [
+        {
+          "program_id": "449229__2026-01-06_0000",
+          "start": 0,
+          "end": 36,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 151,
+      "channel_name": "风云音乐",
+      "programs": [
+        {
+          "program_id": "449230_100_2026-01-06_0000",
+          "start": 0,
+          "end": 34,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 152,
+      "channel_name": "第一剧场",
+      "programs": [
+        {
+          "program_id": "449231__2026-01-06_0000",
+          "start": 0,
+          "end": 34,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 153,
+      "channel_name": "风云剧场",
+      "programs": [
+        {
+          "program_id": "449232__2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 154,
+      "channel_name": "怀旧剧场",
+      "programs": [
+        {
+          "program_id": "449234__2026-01-06_0026",
+          "start": 26,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 155,
+      "channel_name": "女性时尚",
+      "programs": [
+        {
+          "program_id": "449235__2026-01-06_0022",
+          "start": 22,
+          "end": 53,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 156,
+      "channel_name": "高尔夫网球",
+      "programs": [
+        {
+          "program_id": "449238_2025_2026-01-06_0000",
+          "start": 0,
+          "end": 33,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 157,
+      "channel_name": "央视精品",
+      "programs": [
+        {
+          "program_id": "449239_2023_50_2026-01-06_0027",
+          "start": 27,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 158,
+      "channel_name": "留学世界",
+      "programs": [
+        {
+          "program_id": "449242__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 159,
+      "channel_name": "摄影频道",
+      "programs": [
+        {
+          "program_id": "449243__2026-01-06_0010",
+          "start": 10,
+          "end": 50,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 160,
+      "channel_name": "央视台球",
+      "programs": [
+        {
+          "program_id": "449246_2023_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 161,
+      "channel_name": "国学",
+      "programs": [
+        {
+          "program_id": "449247__2026-01-06_0014",
+          "start": 14,
+          "end": 44,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 162,
+      "channel_name": "新动漫",
+      "programs": [
+        {
+          "program_id": "456475__2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 163,
+      "channel_name": "CCTV4K",
+      "programs": [
+        {
+          "program_id": "457573_4k_2024_90_2026-01-06_0014",
+          "start": 14,
+          "end": 54,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "457573_4k_2018_1_1_3_2026-01-06_0059",
+          "start": 59,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "457573_4k_2025_27_2026-01-06_0470",
+          "start": 470,
+          "end": 500,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "457573_8_4k_2026-01-06_0510",
+          "start": 510,
+          "end": 560,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "457573_4k_14_39_2026-01-06_0599",
+          "start": 599,
+          "end": 645,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "457573_4k_15_39_2026-01-06_0646",
+          "start": 646,
+          "end": 692,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "457573_4k_2024_90_2026-01-06_0692",
+          "start": 692,
+          "end": 732,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "457573_2_4k_2026-01-06_0732",
+          "start": 732,
+          "end": 782,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "457573_4k_2025_27_2026-01-06_0782",
+          "start": 782,
+          "end": 812,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "457573_8_4k_2026-01-06_0822",
+          "start": 822,
+          "end": 872,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "457573_4k_22_33_2026-01-06_0900",
+          "start": 900,
+          "end": 946,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "457573_4k_23_33_2026-01-06_0947",
+          "start": 947,
+          "end": 993,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "457573_4k_2024_90_2026-01-06_0996",
+          "start": 996,
+          "end": 1036,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "457573_2_4k_2026-01-06_1090",
+          "start": 1090,
+          "end": 1139,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "457573_4k_2025_28_2026-01-06_1140",
+          "start": 1140,
+          "end": 1170,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "457573_9_4k_2026-01-06_1180",
+          "start": 1180,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "457573_4k_16_39_2026-01-06_1262",
+          "start": 1262,
+          "end": 1308,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "457573_4k_17_39_2026-01-06_1309",
+          "start": 1309,
+          "end": 1355,
+          "genre": "unknown",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 164,
+      "channel_name": "CETV4",
+      "programs": [
+        {
+          "program_id": "458263__2026-01-06_0040",
+          "start": 40,
+          "end": 70,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "458263__2026-01-06_0070",
+          "start": 70,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "458263__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "458263__2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "458263__2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "458263__2026-01-06_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "458263__2026-01-06_0255",
+          "start": 255,
+          "end": 285,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "458263__2026-01-06_0285",
+          "start": 285,
+          "end": 340,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "458263__2026-01-06_0340",
+          "start": 340,
+          "end": 370,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "458263__2026-01-06_0370",
+          "start": 370,
+          "end": 420,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "458263__2026-01-06_0440",
+          "start": 440,
+          "end": 480,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "458263__2026-01-06_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "458263__2026-01-06_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "458263__2026-01-06_0540",
+          "start": 540,
+          "end": 570,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "458263__2026-01-06_0570",
+          "start": 570,
+          "end": 615,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "458263__2026-01-06_0630",
+          "start": 630,
+          "end": 660,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "458263__2026-01-06_0660",
+          "start": 660,
+          "end": 720,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "458263__2026-01-06_0720",
+          "start": 720,
+          "end": 780,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "458263__2026-01-06_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "458263__2026-01-06_0840",
+          "start": 840,
+          "end": 885,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "458263__2026-01-06_0900",
+          "start": 900,
+          "end": 960,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "458263__2026-01-06_0960",
+          "start": 960,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "458263__2026-01-06_1020",
+          "start": 1020,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "458263__2026-01-06_1080",
+          "start": 1080,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "458263__2026-01-06_1140",
+          "start": 1140,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "458263_e_2026-01-06_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "458263__2026-01-06_1230",
+          "start": 1230,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "458263__2026-01-06_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 165,
+      "channel_name": "CETV3",
+      "programs": [
+        {
+          "program_id": "458264__2026-01-06_0002",
+          "start": 2,
+          "end": 35,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "458264__2026-01-06_0064",
+          "start": 64,
+          "end": 110,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "458264__2026-01-06_0110",
+          "start": 110,
+          "end": 140,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "458264__2026-01-06_0140",
+          "start": 140,
+          "end": 205,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "458264__2026-01-06_0205",
+          "start": 205,
+          "end": 255,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "458264__2026-01-06_0255",
+          "start": 255,
+          "end": 285,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "458264__2026-01-06_0305",
+          "start": 305,
+          "end": 375,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "458264__2026-01-06_0375",
+          "start": 375,
+          "end": 430,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "458264__2026-01-06_0430",
+          "start": 430,
+          "end": 515,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "458264__2026-01-06_0515",
+          "start": 515,
+          "end": 546,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "458264__2026-01-06_0546",
+          "start": 546,
+          "end": 607,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "458264__2026-01-06_0607",
+          "start": 607,
+          "end": 658,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "458264__2026-01-06_0658",
+          "start": 658,
+          "end": 719,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "458264__2026-01-06_0719",
+          "start": 719,
+          "end": 840,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "458264__2026-01-06_0840",
+          "start": 840,
+          "end": 872,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "458264__2026-01-06_0900",
+          "start": 900,
+          "end": 950,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "458264__2026-01-06_0950",
+          "start": 950,
+          "end": 1000,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "458264__2026-01-06_1000",
+          "start": 1000,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "458264__2026-01-06_1050",
+          "start": 1050,
+          "end": 1100,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "458264__2026-01-06_1100",
+          "start": 1100,
+          "end": 1150,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "458264__2026-01-06_1150",
+          "start": 1150,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "458264__2026-01-06_1200",
+          "start": 1200,
+          "end": 1250,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "458264__2026-01-06_1250",
+          "start": 1250,
+          "end": 1283,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "458264__2026-01-06_1305",
+          "start": 1305,
+          "end": 1355,
+          "genre": "unknown",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 166,
+      "channel_name": "CETV2",
+      "programs": [
+        {
+          "program_id": "458265__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "458265__2026-01-06_0060",
+          "start": 60,
+          "end": 155,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "458265__2026-01-06_0155",
+          "start": 155,
+          "end": 222,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "458265__2026-01-06_0270",
+          "start": 270,
+          "end": 340,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "458265__2026-01-06_0340",
+          "start": 340,
+          "end": 390,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "458265__2026-01-06_0390",
+          "start": 390,
+          "end": 423,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "458265__2026-01-06_0423",
+          "start": 423,
+          "end": 455,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "458265__2026-01-06_0475",
+          "start": 475,
+          "end": 510,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "458265__2026-01-06_0510",
+          "start": 510,
+          "end": 570,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "458265__2026-01-06_0570",
+          "start": 570,
+          "end": 600,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "458265__2026-01-06_0600",
+          "start": 600,
+          "end": 780,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "458265__2026-01-06_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "458265__2026-01-06_0880",
+          "start": 880,
+          "end": 990,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "458265__2026-01-06_0990",
+          "start": 990,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "458265__2026-01-06_1020",
+          "start": 1020,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "458265__2026-01-06_1080",
+          "start": 1080,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "458265__2026-01-06_1140",
+          "start": 1140,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "458265__2026-01-06_1200",
+          "start": 1200,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "458265__2026-01-06_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "458265__2026-01-06_1320",
+          "start": 1320,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 167,
+      "channel_name": "CETV1",
+      "programs": [
+        {
+          "program_id": "458266__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "458266__2026-01-06_0030",
+          "start": 30,
+          "end": 80,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "458266__2026-01-06_0080",
+          "start": 80,
+          "end": 145,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "458266__2026-01-06_0145",
+          "start": 145,
+          "end": 215,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "458266__2026-01-06_0215",
+          "start": 215,
+          "end": 310,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "458266__2026-01-06_0310",
+          "start": 310,
+          "end": 345,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "458266__2026-01-06_0370",
+          "start": 370,
+          "end": 428,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "458266__2026-01-06_0428",
+          "start": 428,
+          "end": 480,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "458266__2026-01-06_0485",
+          "start": 485,
+          "end": 534,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "458266__2026-01-06_0534",
+          "start": 534,
+          "end": 585,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "458266__2026-01-06_0585",
+          "start": 585,
+          "end": 635,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "458266__2026-01-06_0635",
+          "start": 635,
+          "end": 685,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "458266__2026-01-06_0685",
+          "start": 685,
+          "end": 735,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "458266__2026-01-06_0735",
+          "start": 735,
+          "end": 785,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "458266__2026-01-06_0785",
+          "start": 785,
+          "end": 817,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "458266__2026-01-06_0817",
+          "start": 817,
+          "end": 870,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "458266__2026-01-06_0870",
+          "start": 870,
+          "end": 920,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "458266__2026-01-06_0920",
+          "start": 920,
+          "end": 970,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "458266__2026-01-06_0981",
+          "start": 981,
+          "end": 1033,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "458266__2026-01-06_1033",
+          "start": 1033,
+          "end": 1085,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "458266__2026-01-06_1095",
+          "start": 1095,
+          "end": 1145,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "458266__2026-01-06_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "458266__2026-01-06_1200",
+          "start": 1200,
+          "end": 1245,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "458266_e_2026-01-06_1260",
+          "start": 1260,
+          "end": 1305,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "458266__2026-01-06_1305",
+          "start": 1305,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "458266__2026-01-06_1350",
+          "start": 1350,
+          "end": 1402,
+          "genre": "unknown",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 168,
+      "channel_name": "CCTV-1 综合",
+      "programs": [
+        {
+          "program_id": "464587_1_2026-01-06_0000",
+          "start": 0,
+          "end": 71,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464587_2025_9_2026-01-06_0071",
+          "start": 71,
+          "end": 104,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464587_2026_5_2026-01-06_0104",
+          "start": 104,
+          "end": 146,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464587_2026_5_2026-01-06_0146",
+          "start": 146,
+          "end": 176,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464587__2026-01-06_0176",
+          "start": 176,
+          "end": 208,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464587_1_2026-01-06_0230",
+          "start": 230,
+          "end": 320,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464587_2026_5_2026-01-06_0322",
+          "start": 322,
+          "end": 353,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464587__2026-01-06_0353",
+          "start": 353,
+          "end": 387,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464587_5_2026-01-06_0387",
+          "start": 387,
+          "end": 420,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464587__2026-01-06_0420",
+          "start": 420,
+          "end": 577,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464587_2026_6_2026-01-06_0577",
+          "start": 577,
+          "end": 622,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464587_31_32_2026-01-06_0622",
+          "start": 622,
+          "end": 674,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464587_32_32_2026-01-06_0674",
+          "start": 674,
+          "end": 724,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464587_1_34_2026-01-06_0724",
+          "start": 724,
+          "end": 774,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464587_30_2026-01-06_0780",
+          "start": 780,
+          "end": 813,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464587_2026_6_2026-01-06_0813",
+          "start": 813,
+          "end": 847,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464587_16_38_2026-01-06_0847",
+          "start": 847,
+          "end": 895,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464587_17_38_2026-01-06_0895",
+          "start": 895,
+          "end": 946,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464587_18_38_2026-01-06_0946",
+          "start": 946,
+          "end": 992,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464587_19_38_2026-01-06_0992",
+          "start": 992,
+          "end": 1039,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464587_20_38_2026-01-06_1039",
+          "start": 1039,
+          "end": 1093,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464587_2026_5_2026-01-06_1093",
+          "start": 1093,
+          "end": 1126,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464587_2026_6_2026-01-06_1126",
+          "start": 1126,
+          "end": 1160,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "464587_2025_10_2026-01-06_1160",
+          "start": 1160,
+          "end": 1191,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "464587__2026-01-06_1200",
+          "start": 1200,
+          "end": 1239,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "464587_24_31_2026-01-06_1314",
+          "start": 1314,
+          "end": 1375,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464587__2026-01-06_1380",
+          "start": 1380,
+          "end": 1415,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 169,
+      "channel_name": "CCTV-2 财经",
+      "programs": [
+        {
+          "program_id": "464588__2026-01-06_0019",
+          "start": 19,
+          "end": 52,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464588_2026_1_2026-01-06_0052",
+          "start": 52,
+          "end": 96,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464588_2026_1_2026-01-06_0096",
+          "start": 96,
+          "end": 156,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464588_2022_1_2026-01-06_0164",
+          "start": 164,
+          "end": 214,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464588_2026_1_2026-01-06_0214",
+          "start": 214,
+          "end": 273,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464588_2026_1_2026-01-06_0330",
+          "start": 330,
+          "end": 391,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464588__2026-01-06_0419",
+          "start": 419,
+          "end": 480,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464588__2026-01-06_0480",
+          "start": 480,
+          "end": 600,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464588__2026-01-06_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464588__2026-01-06_0660",
+          "start": 660,
+          "end": 690,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464588__2026-01-06_0690",
+          "start": 690,
+          "end": 720,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464588__2026-01-06_0720",
+          "start": 720,
+          "end": 750,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464588__2026-01-06_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464588_1_2026-01-06_0840",
+          "start": 840,
+          "end": 871,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464588__2026-01-06_0900",
+          "start": 900,
+          "end": 930,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464588__2026-01-06_0930",
+          "start": 930,
+          "end": 960,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464588__2026-01-06_0960",
+          "start": 960,
+          "end": 990,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464588_2026_1_5_2026-01-06_0990",
+          "start": 990,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464588__2026-01-06_1020",
+          "start": 1020,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464588__2026-01-06_1080",
+          "start": 1080,
+          "end": 1112,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464588_2026_4_2026-01-06_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464588_2026_1_6_2026-01-06_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464588__2026-01-06_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "464588__2026-01-06_1260",
+          "start": 1260,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464588__2026-01-06_1290",
+          "start": 1290,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464588_2_2026-01-06_1376",
+          "start": 1376,
+          "end": 1411,
+          "genre": "unknown",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 170,
+      "channel_name": "CCTV-3 综艺",
+      "programs": [
+        {
+          "program_id": "464589_2025_216_17_38_2026-01-06_0010",
+          "start": 10,
+          "end": 56,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464589_2025_217_18_38_2026-01-06_0056",
+          "start": 56,
+          "end": 102,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464589_2025_218_19_38_2026-01-06_0102",
+          "start": 102,
+          "end": 148,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464589_2025_89_2026-01-06_0148",
+          "start": 148,
+          "end": 237,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464589_2025_16_2026-01-06_0237",
+          "start": 237,
+          "end": 287,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464589_5_2026-01-06_0287",
+          "start": 287,
+          "end": 367,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464589_2025_16_16_2026-01-06_0396",
+          "start": 396,
+          "end": 456,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464589_2025_47_40_2026-01-06_0477",
+          "start": 477,
+          "end": 560,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464589_2026_106_2026-01-06_0560",
+          "start": 560,
+          "end": 634,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464589_3_2026-01-06_0634",
+          "start": 634,
+          "end": 745,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464589_2026_1_2026-01-06_0745",
+          "start": 745,
+          "end": 840,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464589_8_2026-01-06_0870",
+          "start": 870,
+          "end": 1031,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464589_5_2026-01-06_1036",
+          "start": 1036,
+          "end": 1073,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "464589_2025_1122_2026-01-06_1073",
+          "start": 1073,
+          "end": 1136,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464589_2025_40_2026-01-06_1136",
+          "start": 1136,
+          "end": 1222,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464589_7_2026-01-06_1230",
+          "start": 1230,
+          "end": 1307,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464589_2026_3_2026-01-06_1307",
+          "start": 1307,
+          "end": 1395,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 171,
+      "channel_name": "CCTV-4 (亚洲)",
+      "programs": [
+        {
+          "program_id": "464590_43_50_2026-01-06_0003",
+          "start": 3,
+          "end": 49,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464590_44_50_2026-01-06_0049",
+          "start": 49,
+          "end": 95,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464590_45_50_2026-01-06_0095",
+          "start": 95,
+          "end": 141,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464590_2026_3_2026-01-06_0141",
+          "start": 141,
+          "end": 172,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464590__2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464590_2026_2_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464590_2026_8_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464590__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464590__2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464590_2026_2_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464590_2026_2_2026-01-06_0390",
+          "start": 390,
+          "end": 420,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464590_2026_5_2026-01-06_0420",
+          "start": 420,
+          "end": 450,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464590__2026-01-06_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464590__2026-01-06_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464590__2026-01-06_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464590__2026-01-06_0540",
+          "start": 540,
+          "end": 600,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464590__2026-01-06_0600",
+          "start": 600,
+          "end": 630,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464590_2026_1_2026-01-06_0630",
+          "start": 630,
+          "end": 688,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464590_2025_2_2026-01-06_0715",
+          "start": 715,
+          "end": 750,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464590_2026_5_2026-01-06_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464590__2026-01-06_0780",
+          "start": 780,
+          "end": 845,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464590_26_33_2026-01-06_0845",
+          "start": 845,
+          "end": 892,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464590_27_33_2026-01-06_0892",
+          "start": 892,
+          "end": 938,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464590_28_33_2026-01-06_0938",
+          "start": 938,
+          "end": 986,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464590_29_33_2026-01-06_0986",
+          "start": 986,
+          "end": 1033,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464590_30_33_2026-01-06_1033",
+          "start": 1033,
+          "end": 1081,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464590_2026_9_2026-01-06_1095",
+          "start": 1095,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464590_7_2026-01-06_1156",
+          "start": 1156,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464590__2026-01-06_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464590__2026-01-06_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464590_2026_3_2026-01-06_1260",
+          "start": 1260,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464590_2026_6_2026-01-06_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464590__2026-01-06_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "464590__2026-01-06_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464590_2026_3_2026-01-06_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 172,
+      "channel_name": "CCTV-5 体育",
+      "programs": [
+        {
+          "program_id": "464591_2025_2026_9_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 173,
+      "channel_name": "CCTV-5+ 体育赛事",
+      "programs": [
+        {
+          "program_id": "464592_25_26_10_4k_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 174,
+      "channel_name": "CCTV-6 电影",
+      "programs": [
+        {
+          "program_id": "464593__2026-01-06_0002",
+          "start": 2,
+          "end": 52,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464593__2026-01-06_0066",
+          "start": 66,
+          "end": 176,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464593__2026-01-06_0176",
+          "start": 176,
+          "end": 265,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464593__2026-01-06_0265",
+          "start": 265,
+          "end": 532,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464593__2026-01-06_0532",
+          "start": 532,
+          "end": 625,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464593__2026-01-06_0625",
+          "start": 625,
+          "end": 722,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464593__2026-01-06_0722",
+          "start": 722,
+          "end": 811,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464593__2026-01-06_0817",
+          "start": 817,
+          "end": 951,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464593__2026-01-06_0951",
+          "start": 951,
+          "end": 1073,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464593__2026-01-06_1073",
+          "start": 1073,
+          "end": 1177,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464593__2026-01-06_1188",
+          "start": 1188,
+          "end": 1284,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464593__2026-01-06_1284",
+          "start": 1284,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 175,
+      "channel_name": "CCTV-7 国防军事",
+      "programs": [
+        {
+          "program_id": "464594_14_24_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464594_2026_3_2026-01-06_0035",
+          "start": 35,
+          "end": 69,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464594_2026_3_2026-01-06_0069",
+          "start": 69,
+          "end": 423,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464594_2026_3_2026-01-06_0423",
+          "start": 423,
+          "end": 453,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464594_2026_1_2026-01-06_0538",
+          "start": 538,
+          "end": 568,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464594_2026_1_2026-01-06_0568",
+          "start": 568,
+          "end": 603,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464594_2026_5_2026-01-06_0603",
+          "start": 603,
+          "end": 635,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464594_2026_3_2026-01-06_0635",
+          "start": 635,
+          "end": 665,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464594__2026-01-06_0780",
+          "start": 780,
+          "end": 816,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464594_2026_5_2026-01-06_0816",
+          "start": 816,
+          "end": 850,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464594_27_39_2026-01-06_0934",
+          "start": 934,
+          "end": 984,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464594_28_39_2026-01-06_0984",
+          "start": 984,
+          "end": 1033,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464594_29_39_2026-01-06_1033",
+          "start": 1033,
+          "end": 1084,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464594_2026_2_2026-01-06_1168",
+          "start": 1168,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "464594__2026-01-06_1200",
+          "start": 1200,
+          "end": 1233,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "464594__2026-01-06_1233",
+          "start": 1233,
+          "end": 1263,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "464594_2026_6_2026-01-06_1269",
+          "start": 1269,
+          "end": 1303,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "464594_2026_4_2026-01-06_1303",
+          "start": 1303,
+          "end": 1337,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "464594_2026_1_2026-01-06_1337",
+          "start": 1337,
+          "end": 1373,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464594_15_24_2026-01-06_1373",
+          "start": 1373,
+          "end": 1423,
+          "genre": "unknown",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 176,
+      "channel_name": "CCTV-8 电视剧",
+      "programs": [
+        {
+          "program_id": "464595_17_39_2026-01-06_0006",
+          "start": 6,
+          "end": 52,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464595_18_39_2026-01-06_0059",
+          "start": 59,
+          "end": 105,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464595_19_39_2026-01-06_0110",
+          "start": 110,
+          "end": 156,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464595_20_39_2026-01-06_0156",
+          "start": 156,
+          "end": 202,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464595_21_39_2026-01-06_0202",
+          "start": 202,
+          "end": 248,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464595_22_39_2026-01-06_0248",
+          "start": 248,
+          "end": 294,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464595_23_39_2026-01-06_0294",
+          "start": 294,
+          "end": 340,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464595_20_48_2026-01-06_0350",
+          "start": 350,
+          "end": 396,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464595_21_48_2026-01-06_0396",
+          "start": 396,
+          "end": 442,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464595_22_48_2026-01-06_0442",
+          "start": 442,
+          "end": 491,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464595_23_48_2026-01-06_0491",
+          "start": 491,
+          "end": 537,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464595_7_32_2026-01-06_0545",
+          "start": 545,
+          "end": 598,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464595_8_32_2026-01-06_0598",
+          "start": 598,
+          "end": 647,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464595_9_32_2026-01-06_0657",
+          "start": 657,
+          "end": 713,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464595_10_32_2026-01-06_0713",
+          "start": 713,
+          "end": 767,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464595_11_32_2026-01-06_0767",
+          "start": 767,
+          "end": 813,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464595_31_39_2026-01-06_0827",
+          "start": 827,
+          "end": 882,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464595_32_39_2026-01-06_0882",
+          "start": 882,
+          "end": 936,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464595_33_39_2026-01-06_0936",
+          "start": 936,
+          "end": 992,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464595_17_36_2026-01-06_0992",
+          "start": 992,
+          "end": 1045,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464595_19_38_2026-01-06_1050",
+          "start": 1050,
+          "end": 1111,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464595_20_38_2026-01-06_1111",
+          "start": 1111,
+          "end": 1164,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464595_21_38_2026-01-06_1171",
+          "start": 1171,
+          "end": 1221,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464595_24_35_2026-01-06_1230",
+          "start": 1230,
+          "end": 1283,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464595_25_35_2026-01-06_1288",
+          "start": 1288,
+          "end": 1340,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464595_26_35_2026-01-06_1345",
+          "start": 1345,
+          "end": 1396,
+          "genre": "unknown",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 177,
+      "channel_name": "CCTV-9 纪录",
+      "programs": [
+        {
+          "program_id": "464596_2026_5_2026-01-06_0027",
+          "start": 27,
+          "end": 91,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0091",
+          "start": 91,
+          "end": 147,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0147",
+          "start": 147,
+          "end": 203,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0203",
+          "start": 203,
+          "end": 233,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464596_2025_5_2026-01-06_0233",
+          "start": 233,
+          "end": 294,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0311",
+          "start": 311,
+          "end": 346,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464596_2026_4_2026-01-06_0346",
+          "start": 346,
+          "end": 406,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0406",
+          "start": 406,
+          "end": 467,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0467",
+          "start": 467,
+          "end": 523,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0539",
+          "start": 539,
+          "end": 571,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464596_2025_5_2026-01-06_0571",
+          "start": 571,
+          "end": 627,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0627",
+          "start": 627,
+          "end": 686,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0686",
+          "start": 686,
+          "end": 745,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0745",
+          "start": 745,
+          "end": 807,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464596_2025_5_2026-01-06_0807",
+          "start": 807,
+          "end": 871,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0871",
+          "start": 871,
+          "end": 930,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_0930",
+          "start": 930,
+          "end": 990,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464596_2026_4_2026-01-06_0990",
+          "start": 990,
+          "end": 1049,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464596_2026_5_2026-01-06_1049",
+          "start": 1049,
+          "end": 1108,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464596_2026_6_2026-01-06_1108",
+          "start": 1108,
+          "end": 1167,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464596_2026_6_2026-01-06_1167",
+          "start": 1167,
+          "end": 1227,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "464596_2026_6_2026-01-06_1227",
+          "start": 1227,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "464596_2025_6_2026-01-06_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "464596_2026_6_2026-01-06_1320",
+          "start": 1320,
+          "end": 1384,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 178,
+      "channel_name": "CCTV-10 科教",
+      "programs": [
+        {
+          "program_id": "464597_2025_42_2026-01-06_0015",
+          "start": 15,
+          "end": 65,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464597_2026_1_2026-01-06_0065",
+          "start": 65,
+          "end": 125,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_0125",
+          "start": 125,
+          "end": 155,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_0155",
+          "start": 155,
+          "end": 195,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_0195",
+          "start": 195,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_0450",
+          "start": 450,
+          "end": 493,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_0540",
+          "start": 540,
+          "end": 588,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464597_1_2026-01-06_0588",
+          "start": 588,
+          "end": 645,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_0645",
+          "start": 645,
+          "end": 682,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_0682",
+          "start": 682,
+          "end": 742,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_0742",
+          "start": 742,
+          "end": 780,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464597_2026_6_2026-01-06_0780",
+          "start": 780,
+          "end": 829,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464597_45_2026-01-06_0829",
+          "start": 829,
+          "end": 895,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464597_46_2026-01-06_0900",
+          "start": 900,
+          "end": 966,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464597_2_2026-01-06_0987",
+          "start": 987,
+          "end": 1043,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464597_2026_5_2026-01-06_1047",
+          "start": 1047,
+          "end": 1107,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464597_2026_6_2026-01-06_1107",
+          "start": 1107,
+          "end": 1145,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464597_2026_6_2026-01-06_1145",
+          "start": 1145,
+          "end": 1194,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464597_2026_6_2026-01-06_1194",
+          "start": 1194,
+          "end": 1232,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464597_2026_6_2026-01-06_1232",
+          "start": 1232,
+          "end": 1292,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "464597_2026_6_2026-01-06_1292",
+          "start": 1292,
+          "end": 1340,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464597_2_2026-01-06_1368",
+          "start": 1368,
+          "end": 1425,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 179,
+      "channel_name": "CCTV-11 戏曲",
+      "programs": [
+        {
+          "program_id": "464598_5_38_2026-01-06_0028",
+          "start": 28,
+          "end": 79,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464598_2026_3_2026-01-06_0079",
+          "start": 79,
+          "end": 426,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "464598_cctv_2024_171_2026-01-06_0426",
+          "start": 426,
+          "end": 498,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464598_2025_52_2026-01-06_0498",
+          "start": 498,
+          "end": 573,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464598_2026_3_2026-01-06_0573",
+          "start": 573,
+          "end": 605,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464598__2026-01-06_0620",
+          "start": 620,
+          "end": 729,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464598_17_37_2026-01-06_0745",
+          "start": 745,
+          "end": 795,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464598_18_37_2026-01-06_0795",
+          "start": 795,
+          "end": 846,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464598_2025_51_2026-01-06_0846",
+          "start": 846,
+          "end": 925,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464598_2024_21_2026-01-06_0925",
+          "start": 925,
+          "end": 1093,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464598_7_45_2026-01-06_1093",
+          "start": 1093,
+          "end": 1143,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464598_8_45_2026-01-06_1143",
+          "start": 1143,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464598_2026_4_2026-01-06_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464598_7_2026-01-06_1230",
+          "start": 1230,
+          "end": 1305,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464598_2025_26_2026-01-06_1305",
+          "start": 1305,
+          "end": 1382,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464598_6_38_2026-01-06_1382",
+          "start": 1382,
+          "end": 1432,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 180,
+      "channel_name": "CCTV-12 社会与法",
+      "programs": [
+        {
+          "program_id": "464599_2025_11_36_2026-01-06_0003",
+          "start": 3,
+          "end": 51,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464599_2025_12_36_2026-01-06_0051",
+          "start": 51,
+          "end": 99,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464599_2025_13_36_2026-01-06_0099",
+          "start": 99,
+          "end": 145,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464599_2026_5_2026-01-06_0145",
+          "start": 145,
+          "end": 423,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464599_2025_299_2026-01-06_0423",
+          "start": 423,
+          "end": 456,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464599_2026_3_2026-01-06_0456",
+          "start": 456,
+          "end": 498,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464599_2026_3_2026-01-06_0498",
+          "start": 498,
+          "end": 532,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464599_2024_8_2026-01-06_0532",
+          "start": 532,
+          "end": 575,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464599_2026_6_2026-01-06_0575",
+          "start": 575,
+          "end": 610,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464599_2025_324_2026-01-06_0610",
+          "start": 610,
+          "end": 664,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464599_2025_325_2026-01-06_0664",
+          "start": 664,
+          "end": 718,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464599_2026_5_2026-01-06_0718",
+          "start": 718,
+          "end": 750,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464599_12_2026_3_2026-01-06_0750",
+          "start": 750,
+          "end": 780,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464599_2025_228_2026-01-06_0805",
+          "start": 805,
+          "end": 849,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464599_2025_14_36_2026-01-06_0849",
+          "start": 849,
+          "end": 898,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464599_2025_15_36_2026-01-06_0898",
+          "start": 898,
+          "end": 947,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464599_2025_16_36_2026-01-06_0947",
+          "start": 947,
+          "end": 997,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464599_2026_6_2026-01-06_0997",
+          "start": 997,
+          "end": 1033,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464599_2026_3_2026-01-06_1033",
+          "start": 1033,
+          "end": 1067,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464599_2025_68_2026-01-06_1067",
+          "start": 1067,
+          "end": 1109,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464599_2026_5_2026-01-06_1109",
+          "start": 1109,
+          "end": 1160,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464599_12_2026_4_2026-01-06_1160",
+          "start": 1160,
+          "end": 1190,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "464599_2026_6_2026-01-06_1190",
+          "start": 1190,
+          "end": 1223,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "464599_2026_4_2026-01-06_1223",
+          "start": 1223,
+          "end": 1267,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "464599_2026_4_2026-01-06_1267",
+          "start": 1267,
+          "end": 1301,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464599_2026_6_2026-01-06_1301",
+          "start": 1301,
+          "end": 1354,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464599_34_2026-01-06_1354",
+          "start": 1354,
+          "end": 1387,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 181,
+      "channel_name": "CCTV-13 新闻",
+      "programs": [
+        {
+          "program_id": "464600_24_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464600__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464600__2026-01-06_0180",
+          "start": 180,
+          "end": 213,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464600__2026-01-06_0240",
+          "start": 240,
+          "end": 284,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464600__2026-01-06_0300",
+          "start": 300,
+          "end": 333,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464600__2026-01-06_0420",
+          "start": 420,
+          "end": 600,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464600__2026-01-06_0600",
+          "start": 600,
+          "end": 660,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464600__2026-01-06_0660",
+          "start": 660,
+          "end": 720,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464600__2026-01-06_0720",
+          "start": 720,
+          "end": 780,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464600_30_2026-01-06_0780",
+          "start": 780,
+          "end": 813,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464600__2026-01-06_0840",
+          "start": 840,
+          "end": 900,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464600__2026-01-06_0900",
+          "start": 900,
+          "end": 960,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464600__2026-01-06_0960",
+          "start": 960,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464600__2026-01-06_1020",
+          "start": 1020,
+          "end": 1080,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464600__2026-01-06_1080",
+          "start": 1080,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464600__2026-01-06_1140",
+          "start": 1140,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464600__2026-01-06_1200",
+          "start": 1200,
+          "end": 1240,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464600__2026-01-06_1260",
+          "start": 1260,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464600__2026-01-06_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464600_1_1_2026-01-06_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "464600__2026-01-06_1380",
+          "start": 1380,
+          "end": 1410,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 182,
+      "channel_name": "CCTV-14 少儿",
+      "programs": [
+        {
+          "program_id": "464601_14_36_2026-01-06_0028",
+          "start": 28,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464601_2026_4_2026-01-06_0420",
+          "start": 420,
+          "end": 455,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464601_2026_6_2026-01-06_0455",
+          "start": 455,
+          "end": 495,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464601_2026_1_2026-01-06_0495",
+          "start": 495,
+          "end": 540,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464601_2026_4_2026-01-06_0555",
+          "start": 555,
+          "end": 585,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464601_2026_2_2026-01-06_0585",
+          "start": 585,
+          "end": 780,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464601_2026_6_2026-01-06_0780",
+          "start": 780,
+          "end": 930,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464601_2026_4_2026-01-06_0930",
+          "start": 930,
+          "end": 965,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464601_2026_5_2026-01-06_0965",
+          "start": 965,
+          "end": 1095,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464601_2026_2_2026-01-06_1095",
+          "start": 1095,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "464601_2026_4_2026-01-06_1140",
+          "start": 1140,
+          "end": 1175,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "464601_2026_3_2026-01-06_1175",
+          "start": 1175,
+          "end": 1370,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464601_15_36_2026-01-06_1370",
+          "start": 1370,
+          "end": 1418,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 183,
+      "channel_name": "CCTV-15 音乐",
+      "programs": [
+        {
+          "program_id": "464602_cctv_2026_1_1_2026-01-06_0031",
+          "start": 31,
+          "end": 90,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464602_2026_6_2026-01-06_0090",
+          "start": 90,
+          "end": 128,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464602_2025_297_2026-01-06_0128",
+          "start": 128,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464602_2026_5_2026-01-06_0420",
+          "start": 420,
+          "end": 489,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464602_1_2026-01-06_0489",
+          "start": 489,
+          "end": 526,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464602_2025_5_2026-01-06_0526",
+          "start": 526,
+          "end": 586,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464602_2026_7_2026-01-06_0586",
+          "start": 586,
+          "end": 623,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464602_2025_127_8_2026-01-06_0637",
+          "start": 637,
+          "end": 713,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464602_2025_402_2026-01-06_0713",
+          "start": 713,
+          "end": 788,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464602__2026-01-06_0788",
+          "start": 788,
+          "end": 867,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464602_2026_24_2026-01-06_0867",
+          "start": 867,
+          "end": 1013,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464602_2_2026-01-06_1019",
+          "start": 1019,
+          "end": 1079,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464602_2025_128_9_2026-01-06_1079",
+          "start": 1079,
+          "end": 1154,
+          "genre": "unknown",
+          "score": 79
+        },
+        {
+          "program_id": "464602_2026_6_2026-01-06_1154",
+          "start": 1154,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "464602__2026-01-06_1230",
+          "start": 1230,
+          "end": 1357,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464602_3_2026-01-06_1357",
+          "start": 1357,
+          "end": 1437,
+          "genre": "unknown",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 184,
+      "channel_name": "CCTV-16奥林匹克",
+      "programs": [
+        {
+          "program_id": "464603__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 185,
+      "channel_name": "CCTV-17农业农村",
+      "programs": [
+        {
+          "program_id": "464604_2026_4_2026-01-06_0087",
+          "start": 87,
+          "end": 416,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464604__2026-01-06_0540",
+          "start": 540,
+          "end": 570,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464604_2026_5_2026-01-06_0570",
+          "start": 570,
+          "end": 602,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464604_18_19_2026-01-06_0630",
+          "start": 630,
+          "end": 679,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464604_38_39_2026-01-06_0679",
+          "start": 679,
+          "end": 728,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464604_39_39_2026-01-06_0728",
+          "start": 728,
+          "end": 780,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464604__2026-01-06_0780",
+          "start": 780,
+          "end": 811,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464604_32_40_2026-01-06_0875",
+          "start": 875,
+          "end": 927,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464604_33_40_2026-01-06_0927",
+          "start": 927,
+          "end": 977,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464604_34_40_2026-01-06_0977",
+          "start": 977,
+          "end": 1029,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464604_35_40_2026-01-06_1029",
+          "start": 1029,
+          "end": 1081,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "464604_5_2026-01-06_1081",
+          "start": 1081,
+          "end": 1113,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "464604__2026-01-06_1140",
+          "start": 1140,
+          "end": 1179,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "464604_1_50_2026-01-06_1179",
+          "start": 1179,
+          "end": 1234,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464604_2_50_2026-01-06_1234",
+          "start": 1234,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 81
+        },
+        {
+          "program_id": "464604_19_19_2026-01-06_1346",
+          "start": 1346,
+          "end": 1393,
+          "genre": "unknown",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 186,
+      "channel_name": "CCTV-8K",
+      "programs": [
+        {
+          "program_id": "464605_8k_8k_2026-01-06_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "464605_1_8k_2026-01-06_0542",
+          "start": 542,
+          "end": 572,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464605_1_8k_2026-01-06_0781",
+          "start": 781,
+          "end": 811,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464605_1_8k_2026-01-06_1021",
+          "start": 1021,
+          "end": 1051,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464605_2_8k_2026-01-06_1381",
+          "start": 1381,
+          "end": 1411,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 187,
+      "channel_name": "CCTV-4 (欧洲)",
+      "programs": [
+        {
+          "program_id": "464606_24_40_2026-01-06_0000",
+          "start": 0,
+          "end": 32,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "464606_2026_5_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464606_2026_5_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464606_2026_2_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464606_2026_2_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464606_2026_5_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464606__2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464606_2026_3_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464606__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464606__2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464606_2026_8_2026-01-06_0360",
+          "start": 360,
+          "end": 405,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464606_2026_4_2026-01-06_0415",
+          "start": 415,
+          "end": 450,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464606_2026_2_2026-01-06_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "464606_2026_2_2026-01-06_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464606_2026_5_2026-01-06_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 69
+        },
+        {
+          "program_id": "464606__2026-01-06_0540",
+          "start": 540,
+          "end": 600,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464606_2026_8_2026-01-06_0615",
+          "start": 615,
+          "end": 660,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464606_15_42_2026-01-06_0688",
+          "start": 688,
+          "end": 734,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464606_16_42_2026-01-06_0734",
+          "start": 734,
+          "end": 780,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464606__2026-01-06_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "464606_23_40_2026-01-06_0868",
+          "start": 868,
+          "end": 914,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464606_24_40_2026-01-06_0914",
+          "start": 914,
+          "end": 960,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464606_2026_1_2026-01-06_0960",
+          "start": 960,
+          "end": 1020,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464606__2026-01-06_1020",
+          "start": 1020,
+          "end": 1050,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464606_17_42_2026-01-06_1050",
+          "start": 1050,
+          "end": 1093,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464606_18_42_2026-01-06_1093",
+          "start": 1093,
+          "end": 1140,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464606_2026_5_2026-01-06_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464606__2026-01-06_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 74
+        },
+        {
+          "program_id": "464606__2026-01-06_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464606_2026_8_2026-01-06_1260",
+          "start": 1260,
+          "end": 1305,
+          "genre": "unknown",
+          "score": 70
+        },
+        {
+          "program_id": "464606__2026-01-06_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 83
+        },
+        {
+          "program_id": "464606__2026-01-06_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464606_25_40_2026-01-06_1380",
+          "start": 1380,
+          "end": 1426,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 188,
+      "channel_name": "CCTV-4 (美洲)",
+      "programs": [
+        {
+          "program_id": "464607_2026_5_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464607_2026_1_2026-01-06_0057",
+          "start": 57,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464607_2026_3_2026-01-06_0135",
+          "start": 135,
+          "end": 165,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "464607_2026_3_2026-01-06_0165",
+          "start": 165,
+          "end": 200,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464607_23_39_2026-01-06_0208",
+          "start": 208,
+          "end": 254,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "464607_24_39_2026-01-06_0254",
+          "start": 254,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "464607__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464607__2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "464607_2026_3_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464607__2026-01-06_0390",
+          "start": 390,
+          "end": 420,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464607_2026_5_2026-01-06_0420",
+          "start": 420,
+          "end": 450,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464607_2026_2_2026-01-06_0450",
+          "start": 450,
+          "end": 480,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "464607__2026-01-06_0480",
+          "start": 480,
+          "end": 510,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464607__2026-01-06_0510",
+          "start": 510,
+          "end": 540,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464607__2026-01-06_0540",
+          "start": 540,
+          "end": 600,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464607_32_40_2026-01-06_0600",
+          "start": 600,
+          "end": 646,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464607_33_40_2026-01-06_0646",
+          "start": 646,
+          "end": 692,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "464607_2026_2_2026-01-06_0692",
+          "start": 692,
+          "end": 722,
+          "genre": "unknown",
+          "score": 72
+        },
+        {
+          "program_id": "464607_2026_8_2026-01-06_0722",
+          "start": 722,
+          "end": 767,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464607__2026-01-06_0780",
+          "start": 780,
+          "end": 840,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "464607_2026_5_2026-01-06_0840",
+          "start": 840,
+          "end": 871,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464607_23_39_2026-01-06_0899",
+          "start": 899,
+          "end": 945,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "464607_24_39_2026-01-06_0945",
+          "start": 945,
+          "end": 991,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464607_2026_8_2026-01-06_0991",
+          "start": 991,
+          "end": 1040,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "464607_32_40_2026-01-06_1040",
+          "start": 1040,
+          "end": 1086,
+          "genre": "unknown",
+          "score": 82
+        },
+        {
+          "program_id": "464607_33_40_2026-01-06_1086",
+          "start": 1086,
+          "end": 1132,
+          "genre": "unknown",
+          "score": 80
+        },
+        {
+          "program_id": "464607_2026_2_2026-01-06_1170",
+          "start": 1170,
+          "end": 1200,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464607__2026-01-06_1200",
+          "start": 1200,
+          "end": 1230,
+          "genre": "unknown",
+          "score": 84
+        },
+        {
+          "program_id": "464607__2026-01-06_1230",
+          "start": 1230,
+          "end": 1260,
+          "genre": "unknown",
+          "score": 76
+        },
+        {
+          "program_id": "464607_2026_3_2026-01-06_1260",
+          "start": 1260,
+          "end": 1290,
+          "genre": "unknown",
+          "score": 77
+        },
+        {
+          "program_id": "464607_2026_2_2026-01-06_1290",
+          "start": 1290,
+          "end": 1320,
+          "genre": "unknown",
+          "score": 75
+        },
+        {
+          "program_id": "464607__2026-01-06_1320",
+          "start": 1320,
+          "end": 1350,
+          "genre": "unknown",
+          "score": 71
+        },
+        {
+          "program_id": "464607__2026-01-06_1350",
+          "start": 1350,
+          "end": 1380,
+          "genre": "unknown",
+          "score": 73
+        },
+        {
+          "program_id": "464607_2026_1_2026-01-06_1380",
+          "start": 1380,
+          "end": 1438,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 189,
+      "channel_name": "厦门卫视",
+      "programs": [
+        {
+          "program_id": "464624_32_33_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 190,
+      "channel_name": "延边卫视",
+      "programs": [
+        {
+          "program_id": "464640__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 191,
+      "channel_name": "BRTV卡酷少儿",
+      "programs": [
+        {
+          "program_id": "464644__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 192,
+      "channel_name": "山东教育台",
+      "programs": [
+        {
+          "program_id": "464645__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 193,
+      "channel_name": "GTV游戏竞技",
+      "programs": [
+        {
+          "program_id": "490620__2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    }
+  ]
+}

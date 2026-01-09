@@ -1,0 +1,5267 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 102,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 15,
+      "end": 90,
+      "allowed_channels": [
+        77,
+        84,
+        62,
+        17,
+        86,
+        60,
+        14,
+        61,
+        95,
+        28,
+        70,
+        97,
+        11,
+        56,
+        65,
+        3,
+        19,
+        73,
+        29,
+        59,
+        64,
+        10,
+        79,
+        87,
+        81,
+        98,
+        4,
+        6,
+        20,
+        8,
+        52,
+        75,
+        2,
+        50,
+        101,
+        7,
+        85,
+        25,
+        37,
+        44,
+        90,
+        67,
+        5,
+        92,
+        57,
+        68,
+        88,
+        1,
+        94,
+        38,
+        93,
+        91,
+        18
+      ]
+    },
+    {
+      "start": 120,
+      "end": 165,
+      "allowed_channels": [
+        68,
+        60,
+        52,
+        51,
+        6,
+        47,
+        85,
+        48,
+        14,
+        89,
+        26,
+        97,
+        62,
+        11,
+        61,
+        64,
+        81,
+        101,
+        33,
+        56,
+        78,
+        28,
+        4,
+        17,
+        19,
+        3,
+        10,
+        98,
+        63,
+        1,
+        41,
+        73,
+        65,
+        71,
+        79,
+        46,
+        32,
+        94,
+        91,
+        20,
+        80,
+        9,
+        37,
+        92,
+        13,
+        96,
+        18,
+        38,
+        77,
+        100,
+        29
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "sports",
+      "bonus": 33
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "news",
+      "bonus": 32
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "sports",
+      "bonus": 33
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "news",
+      "bonus": 31
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "sports",
+      "bonus": 32
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "news",
+      "bonus": 35
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "news",
+      "bonus": 38
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "news",
+      "bonus": 44
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "news",
+      "bonus": 42
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "sports",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "unknown",
+      "bonus": 57
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "TR - 360",
+      "programs": [
+        {
+          "program_id": "360_tr_ben_bilirim_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "360_tr_unutama_beni_2026-01-06_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "360_tr_sonbahar_r_zgarlar_2026-01-06_0135",
+          "start": 135,
+          "end": 225,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "360_tr_ataman_ile_devr_i_alem_2026-01-06_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "360_tr_g_ky_z_nden_2026-01-06_0255",
+          "start": 255,
+          "end": 285,
+          "genre": "documentary",
+          "score": 73
+        },
+        {
+          "program_id": "360_tr_d_man_2026-01-06_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "movie",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "TR - A2",
+      "programs": [
+        {
+          "program_id": "a2_tr_hercai_2026-01-06_0020",
+          "start": 20,
+          "end": 180,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "a2_tr_can_m_ailem_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "a2_tr_kertenkele_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "TR - A Haber",
+      "programs": [
+        {
+          "program_id": "ahaber_tr_a_haber_gece_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "ahaber_tr_melih_alt_nok_ile_sebep__2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ahaber_tr_ajans_yeni_g_n_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "ahaber_tr_sabah_ajans_2026-01-06_0240",
+          "start": 240,
+          "end": 295,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "ahaber_tr_hava_durumu_2026-01-06_0295",
+          "start": 295,
+          "end": 300,
+          "genre": "weather",
+          "score": 32
+        },
+        {
+          "program_id": "ahaber_tr_sabah_ajans_2026-01-06_0300",
+          "start": 300,
+          "end": 355,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "ahaber_tr_hava_durumu_2026-01-06_0355",
+          "start": 355,
+          "end": 360,
+          "genre": "weather",
+          "score": 29
+        },
+        {
+          "program_id": "ahaber_tr_sabah_ajans_2026-01-06_0360",
+          "start": 360,
+          "end": 415,
+          "genre": "news",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "TR - AL JAZEERA ENGLISH",
+      "programs": [
+        {
+          "program_id": "aljazeeraenglish_t_news_bulletin_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "aljazeeraenglish_t_behind_the_news_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "aljazeeraenglish_t_news_summary_2026-01-06_0060",
+          "start": 60,
+          "end": 65,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "aljazeeraenglish_t_opposite_direction_2026-01-06_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "talk",
+          "score": 78
+        },
+        {
+          "program_id": "aljazeeraenglish_t_news_bulletin_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "aljazeeraenglish_t_news_bulletin_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeeraenglish_t_news_bulletin_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "aljazeeraenglish_t_news_bulletin_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "aljazeeraenglish_t_news_bulletin_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "aljazeeraenglish_t_news_bulletin_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "news",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "TR - A News",
+      "programs": [
+        {
+          "program_id": "anews_tr_daybreak_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "anews_tr_daybreak_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "anews_tr_daybreak_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "anews_tr_daybreak_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "anews_tr_newshour_2026-01-06_0240",
+          "start": 240,
+          "end": 265,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "anews_tr_newshour_2026-01-06_0270",
+          "start": 270,
+          "end": 290,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "anews_tr_sport_2026-01-06_0290",
+          "start": 290,
+          "end": 295,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "anews_tr_weather_2026-01-06_0295",
+          "start": 295,
+          "end": 300,
+          "genre": "weather",
+          "score": 30
+        },
+        {
+          "program_id": "anews_tr_newshour_2026-01-06_0300",
+          "start": 300,
+          "end": 325,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "anews_tr_newshour_2026-01-06_0330",
+          "start": 330,
+          "end": 350,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "anews_tr_sport_2026-01-06_0350",
+          "start": 350,
+          "end": 355,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "anews_tr_weather_2026-01-06_0355",
+          "start": 355,
+          "end": 360,
+          "genre": "weather",
+          "score": 24
+        },
+        {
+          "program_id": "anews_tr_t_rkiye_s_diplomacy_2026-01-06_0360",
+          "start": 360,
+          "end": 410,
+          "genre": "sports",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "TR - A Para",
+      "programs": [
+        {
+          "program_id": "apara_tr_kapal_ar_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "apara_tr_biz_bize_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "apara_tr_bize_sorun_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "apara_tr_gayrimenkul_raporu_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "apara_tr_kobi_platformu_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "apara_tr_seans_ncesi_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "apara_tr_seans_ncesi_2026-01-06_0360",
+          "start": 360,
+          "end": 415,
+          "genre": "unknown",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "TR - A Spor",
+      "programs": [
+        {
+          "program_id": "aspor_tr_tak_m_oyunu_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "aspor_tr_avrupa_dan_futbol_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "aspor_tr_spor_g_ndemi_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "aspor_tr_avrupa_da_t_rk_tak_mlar_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "aspor_tr_sabah_sporu_2026-01-06_0360",
+          "start": 360,
+          "end": 540,
+          "genre": "sports",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "TR - ATV",
+      "programs": [
+        {
+          "program_id": "atv_tr_sinema_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "atv_tr_karde_lerim_2026-01-06_0090",
+          "start": 90,
+          "end": 240,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "atv_tr_aldatmak_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "atv_tr_kahvalt_haberleri_2026-01-06_0360",
+          "start": 360,
+          "end": 480,
+          "genre": "news",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "TR - BBC EARTH",
+      "programs": [
+        {
+          "program_id": "bbcearth_tr_simon_reeve_le_i_skandin_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "bbcearth_tr_k_ta_avrupa_s_n_n_demiry_2026-01-06_0030",
+          "start": 30,
+          "end": 100,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "bbcearth_tr_s_f_r_n_alt_nda_ya_am_ka_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bbcearth_tr_ben_fogle_ile_vah_ilerin_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbcearth_tr_fabrikan_n_i_inden_2026-01-06_0195",
+          "start": 195,
+          "end": 250,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bbcearth_tr_d_nyan_n_en_l_mc_l_havas_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "bbcearth_tr_simon_reeve_le_i_skandin_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "series",
+          "score": 83
+        },
+        {
+          "program_id": "bbcearth_tr_romesh_ranganathan_n_tal_2026-01-06_0360",
+          "start": 360,
+          "end": 430,
+          "genre": "religion",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "TR - BBC First",
+      "programs": [
+        {
+          "program_id": "bbcfirst_tr_mavi_i_klar_2026-01-06_0005",
+          "start": 5,
+          "end": 70,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bbcfirst_tr_peder_brown_2026-01-06_0070",
+          "start": 70,
+          "end": 115,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbcfirst_tr_cennette_l_m_2026-01-06_0115",
+          "start": 115,
+          "end": 170,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "bbcfirst_tr_rahibe_boniface_gizemler_2026-01-06_0170",
+          "start": 170,
+          "end": 215,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbcfirst_tr_ebeyi_aray_n_2026-01-06_0265",
+          "start": 265,
+          "end": 320,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbcfirst_tr_shakespeare_hathaway_zel_2026-01-06_0320",
+          "start": 320,
+          "end": 365,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "TR - BBC World News",
+      "programs": [
+        {
+          "program_id": "bbcworldnews_tr_bbc_world_news_america_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "bbcworldnews_tr_bbc_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "bbcworldnews_tr_newscast_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "bbcworldnews_tr_bbc_news_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "bbcworldnews_tr_talking_business_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "bbcworldnews_tr_newsday_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "bbcworldnews_tr_business_today_2026-01-06_0210",
+          "start": 210,
+          "end": 225,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "bbcworldnews_tr_bbc_sport_2026-01-06_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "bbcworldnews_tr_newsday_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bbcworldnews_tr_business_today_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "bbcworldnews_tr_bbc_sport_2026-01-06_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "news",
+          "score": 67
+        },
+        {
+          "program_id": "bbcworldnews_tr_newsday_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "bbcworldnews_tr_business_today_2026-01-06_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "bbcworldnews_tr_bbc_sport_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "bbcworldnews_tr_bbc_news_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "TR - BEYAZ TV",
+      "programs": [
+        {
+          "program_id": "beyaztv_tr_beyaz_ana_haber_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "beyaztv_tr_beyaz_ana_haber_2026-01-06_0240",
+          "start": 240,
+          "end": 380,
+          "genre": "news",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "TR - BLOOMBERG",
+      "programs": [
+        {
+          "program_id": "bloomberg_tr_bloomberg_the_asia_trade_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bloomberg_tr_bloomberg_the_china_show_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "talk",
+          "score": 59
+        },
+        {
+          "program_id": "bloomberg_tr_insight_with_haslinda_am_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bloomberg_tr_bloomberg_horizons_middl_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "TR - Baby TV",
+      "programs": [
+        {
+          "program_id": "babytv_tr_r_ya_dolu_geceler_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "babytv_tr_ay_ve_y_ld_zlar_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "babytv_tr_babytv_nin_gece_melodile_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "babytv_tr_tatl_r_yalar_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytv_tr_i_yi_geceler_sar_lmalar_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "babytv_tr_r_ya_dolu_geceler_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "babytv_tr_ay_ve_y_ld_zlar_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "babytv_tr_yat_t_r_c_sesler_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "babytv_tr_geceden_g_nd_ze_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytv_tr_geceden_g_nd_ze_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "babytv_tr_babytv_arkada_lar_yla_ka_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "babytv_tr_babytv_arkada_lar_yla_ka_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "babytv_tr_g_nayd_n_esnemesi_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "sports",
+          "score": 97
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "TR - Bengütürk TV",
+      "programs": [
+        {
+          "program_id": "beng_t_rktv_tr_spor_b_lteni_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "beng_t_rktv_tr_sevde_namalan_ile_bu_sab_2026-01-06_0360",
+          "start": 360,
+          "end": 480,
+          "genre": "unknown",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "TR - Bloomberg HT",
+      "programs": [
+        {
+          "program_id": "bloomberght_tr_spor_kul_b_2026-01-06_0060",
+          "start": 60,
+          "end": 125,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "bloomberght_tr_ht_kul_p_2026-01-06_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "bloomberght_tr_asl_afak_la_i_in_asl_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bloomberght_tr_i_lk_s_z_2026-01-06_0300",
+          "start": 300,
+          "end": 375,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "TR - CBeebies",
+      "programs": [
+        {
+          "program_id": "cbeebies_tr_andy_nin_d_nya_maceralar_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "sports",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "TR - CNN INTERNATIONAL",
+      "programs": [
+        {
+          "program_id": "cnninternational_t_the_lead_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "cnninternational_t_erin_burnett_outfront_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "cnninternational_t_anderson_cooper_360_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "cnninternational_t_the_source_with_kaitlan__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cnninternational_t_cnn_newsnight_with_abby__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "cnninternational_t_laura_coates_live_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "cnninternational_t_the_story_is_with_elex_m_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "news",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "TR - CNN TÜRK",
+      "programs": [
+        {
+          "program_id": "cnnt_rk_tr_tarafs_z_b_lge_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cnnt_rk_tr_gece_haberleri_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "cnnt_rk_tr_a_dan_z_ye_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cnnt_rk_tr_a_dan_z_ye_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "cnnt_rk_tr_a_dan_z_ye_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "TR - Cartoon Network",
+      "programs": [
+        {
+          "program_id": "cartoonnetwork_tr_ben_10_m_cadele_zaman_2026-01-06_0015",
+          "start": 15,
+          "end": 40,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "cartoonnetwork_tr_ben_10_m_cadele_zaman_2026-01-06_0040",
+          "start": 40,
+          "end": 65,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0065",
+          "start": 65,
+          "end": 75,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0090",
+          "start": 90,
+          "end": 100,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0100",
+          "start": 100,
+          "end": 125,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0125",
+          "start": 125,
+          "end": 140,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0140",
+          "start": 140,
+          "end": 150,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0150",
+          "start": 150,
+          "end": 165,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0165",
+          "start": 165,
+          "end": 175,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0175",
+          "start": 175,
+          "end": 190,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0190",
+          "start": 190,
+          "end": 200,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0200",
+          "start": 200,
+          "end": 215,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0215",
+          "start": 215,
+          "end": 230,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0230",
+          "start": 230,
+          "end": 240,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0240",
+          "start": 240,
+          "end": 250,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0250",
+          "start": 250,
+          "end": 265,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0265",
+          "start": 265,
+          "end": 280,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cartoonnetwork_tr_kral_akir_2026-01-06_0280",
+          "start": 280,
+          "end": 300,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonnetwork_tr_ma_a_ile_koca_ay_2026-01-06_0330",
+          "start": 330,
+          "end": 335,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "cartoonnetwork_tr_ma_a_ile_koca_ay_2026-01-06_0335",
+          "start": 335,
+          "end": 345,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "cartoonnetwork_tr_ma_a_ile_koca_ay_2026-01-06_0345",
+          "start": 345,
+          "end": 350,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "cartoonnetwork_tr_ma_a_ile_koca_ay_2026-01-06_0350",
+          "start": 350,
+          "end": 360,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "cartoonnetwork_tr_ma_a_ile_koca_ay_2026-01-06_0360",
+          "start": 360,
+          "end": 365,
+          "genre": "sports",
+          "score": 72
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "TR - Cartoonito",
+      "programs": [
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0015",
+          "start": 15,
+          "end": 25,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0025",
+          "start": 25,
+          "end": 40,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0040",
+          "start": 40,
+          "end": 50,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0050",
+          "start": 50,
+          "end": 65,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0065",
+          "start": 65,
+          "end": 75,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0075",
+          "start": 75,
+          "end": 85,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0085",
+          "start": 85,
+          "end": 100,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0100",
+          "start": 100,
+          "end": 110,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0110",
+          "start": 110,
+          "end": 125,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0125",
+          "start": 125,
+          "end": 135,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0150",
+          "start": 150,
+          "end": 160,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0160",
+          "start": 160,
+          "end": 170,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "cartoonito_tr_kral_akir_2026-01-06_0170",
+          "start": 170,
+          "end": 185,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "cartoonito_tr_mr_bean_2026-01-06_0240",
+          "start": 240,
+          "end": 250,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonito_tr_mr_bean_2026-01-06_0250",
+          "start": 250,
+          "end": 260,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "cartoonito_tr_mr_bean_2026-01-06_0260",
+          "start": 260,
+          "end": 270,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonito_tr_mr_bean_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "cartoonito_tr_mr_bean_2026-01-06_0285",
+          "start": 285,
+          "end": 295,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "cartoonito_tr_sakin_ol_scooby_doo_2026-01-06_0295",
+          "start": 295,
+          "end": 315,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "TR - DMAX",
+      "programs": [
+        {
+          "program_id": "dmax_tr_k_rsalda_ya_amak_zor_2026-01-06_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dmax_tr_ifte_kurtulu_2026-01-06_0065",
+          "start": 65,
+          "end": 110,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "dmax_tr_ifte_kurtulu_2026-01-06_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "dmax_tr_k_rsal_n_ustalar_2026-01-06_0290",
+          "start": 290,
+          "end": 340,
+          "genre": "education",
+          "score": 58
+        },
+        {
+          "program_id": "dmax_tr_k_rsal_n_ustalar_2026-01-06_0340",
+          "start": 340,
+          "end": 390,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "TR - Da Vinci",
+      "programs": [
+        {
+          "program_id": "davinci_tr_futuris_evre_dostu_plast_2026-01-06_0051",
+          "start": 51,
+          "end": 57,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "davinci_tr_futuris_ak_ll_hayvan_ift_2026-01-06_0144",
+          "start": 144,
+          "end": 150,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "davinci_tr_futuris_g_lme_gaz_bir_ba_2026-01-06_0261",
+          "start": 261,
+          "end": 264,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "davinci_tr_futuris_ak_ll_moda_2026-01-06_0264",
+          "start": 264,
+          "end": 270,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "davinci_tr_futuris_ayna_2026-01-06_0291",
+          "start": 291,
+          "end": 294,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "davinci_tr_futuris_beden_kuvvetlend_2026-01-06_0321",
+          "start": 321,
+          "end": 324,
+          "genre": "sports",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "TR - Discovery Channel",
+      "programs": [
+        {
+          "program_id": "discoverychannel_t_denizde_can_derdinde_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "discoverychannel_t_tamirat_tadilat_2026-01-06_0035",
+          "start": 35,
+          "end": 80,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "discoverychannel_t_hurda_avc_lar_2026-01-06_0080",
+          "start": 80,
+          "end": 125,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "discoverychannel_t_hurda_avc_lar_tamirat_2026-01-06_0125",
+          "start": 125,
+          "end": 170,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "discoverychannel_t_do_u_tan_usta_2026-01-06_0170",
+          "start": 170,
+          "end": 215,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "discoverychannel_t_son_alaskal_lar_2026-01-06_0240",
+          "start": 240,
+          "end": 290,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "discoverychannel_t_son_alaskal_lar_2026-01-06_0290",
+          "start": 290,
+          "end": 340,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "discoverychannel_t_son_alaskal_lar_2026-01-06_0340",
+          "start": 340,
+          "end": 390,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "TR - Disney Junior",
+      "programs": [
+        {
+          "program_id": "disneyjunior_tr_bluey_2026-01-06_0240",
+          "start": 240,
+          "end": 250,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "disneyjunior_tr_bluey_2026-01-06_0250",
+          "start": 250,
+          "end": 260,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "disneyjunior_tr_bluey_2026-01-06_0260",
+          "start": 260,
+          "end": 270,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "disneyjunior_tr_bluey_2026-01-06_0270",
+          "start": 270,
+          "end": 280,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "disneyjunior_tr_bluey_2026-01-06_0280",
+          "start": 280,
+          "end": 290,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "disneyjunior_tr_bluey_2026-01-06_0290",
+          "start": 290,
+          "end": 300,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "disneyjunior_tr_bluey_2026-01-06_0300",
+          "start": 300,
+          "end": 310,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "disneyjunior_tr_aslan_koruyucular_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 77
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "TR - Diyanet TV",
+      "programs": [
+        {
+          "program_id": "diyanettv_tr_aile_zaman_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "diyanettv_tr_diyanet_ana_haber_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "diyanettv_tr_hat_rda_kalanlar_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "diyanettv_tr_de_er_ve_i_nsan_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "diyanettv_tr_namaz_ve_hayat_2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "diyanettv_tr_riyaz_s_salihin_okumalar_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "diyanettv_tr_mukabele_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "religion",
+          "score": 49
+        },
+        {
+          "program_id": "diyanettv_tr_diyanete_soral_m_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "TR - Dizi Smart Premium",
+      "programs": [
+        {
+          "program_id": "dizismartpremium_t_12_monkeys_2026-01-06_0000",
+          "start": 0,
+          "end": 38,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "dizismartpremium_t_defiance_2026-01-06_0060",
+          "start": 60,
+          "end": 99,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "dizismartpremium_t_defiance_2026-01-06_0120",
+          "start": 120,
+          "end": 167,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "dizismartpremium_t_a_discovery_of_witches_2026-01-06_0180",
+          "start": 180,
+          "end": 235,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dizismartpremium_t_az_sonra_2026-01-06_0263",
+          "start": 263,
+          "end": 300,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "dizismartpremium_t_a_discovery_of_witches_2026-01-06_0300",
+          "start": 300,
+          "end": 341,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "dizismartpremium_t_defiance_2026-01-06_0360",
+          "start": 360,
+          "end": 400,
+          "genre": "sports",
+          "score": 96
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "TR - EKOTÜRK TV",
+      "programs": [
+        {
+          "program_id": "ekot_rktv_tr_g_n_ortas_2026-01-06_0000",
+          "start": 0,
+          "end": 270,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "ekot_rktv_tr_sabah_ekran_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ekot_rktv_tr_sabah_ekran_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "ekot_rktv_tr_man_et_ekonomi_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "TR - EURONEWS",
+      "programs": [
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0015",
+          "start": 15,
+          "end": 30,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 81
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0075",
+          "start": 75,
+          "end": 90,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 80
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0135",
+          "start": 135,
+          "end": 150,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0180",
+          "start": 180,
+          "end": 194,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0194",
+          "start": 194,
+          "end": 210,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0210",
+          "start": 210,
+          "end": 226,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "euronews_tr_news_2026-01-06_0226",
+          "start": 226,
+          "end": 240,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0255",
+          "start": 255,
+          "end": 270,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_tr_the_european_debrief_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "euronews_tr_wake_up_europe_2026-01-06_0360",
+          "start": 360,
+          "end": 375,
+          "genre": "news",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "TR - FB TV",
+      "programs": [
+        {
+          "program_id": "fbtv_tr_basketbol_kad_nlar_s_per_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "fbtv_tr_gece_haberi_2026-01-06_0030",
+          "start": 30,
+          "end": 45,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "fbtv_tr_voleybol_t_rkiye_kad_nla_2026-01-06_0045",
+          "start": 45,
+          "end": 135,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "fbtv_tr_u19_paf_ligi_2026-01-06_0135",
+          "start": 135,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "fbtv_tr_futbol_dosyas_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "fbtv_tr_kad_n_futbol_s_per_ligi_2026-01-06_0300",
+          "start": 300,
+          "end": 405,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "TR - FIGHT NETWORK",
+      "programs": [
+        {
+          "program_id": "fightnetwork_tr_uk_s_strongest_man_2026-01-06_0360",
+          "start": 360,
+          "end": 465,
+          "genre": "unknown",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "TR - FX",
+      "programs": [
+        {
+          "program_id": "fx_tr_high_potential_2_2026-01-06_0025",
+          "start": 25,
+          "end": 65,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "fx_tr_white_collar_2_2026-01-06_0065",
+          "start": 65,
+          "end": 110,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "fx_tr_the_resident_1_2026-01-06_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "fx_tr_white_collar_2_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "fx_tr_bones_12_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "sports",
+          "score": 80
+        },
+        {
+          "program_id": "fx_tr_castle_1_2026-01-06_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "fx_tr_castle_1_2026-01-06_0330",
+          "start": 330,
+          "end": 375,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "TR - FilmBox",
+      "programs": [
+        {
+          "program_id": "filmbox_tr_form_l_51_2026-01-06_0005",
+          "start": 5,
+          "end": 95,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "filmbox_tr_oyunun_kurallar_2026-01-06_0095",
+          "start": 95,
+          "end": 180,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "filmbox_tr_gizli_kamera_2026-01-06_0180",
+          "start": 180,
+          "end": 270,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "filmbox_tr_cehennem_ge_iti_nin_esra_2026-01-06_0270",
+          "start": 270,
+          "end": 375,
+          "genre": "movie",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "TR - Flash Haber TV",
+      "programs": [
+        {
+          "program_id": "flashhabertv_tr_haber_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "flashhabertv_tr_hava_durumu_2026-01-06_0030",
+          "start": 30,
+          "end": 34,
+          "genre": "weather",
+          "score": 33
+        },
+        {
+          "program_id": "flashhabertv_tr_evval_irin_i_le_g_ncel_2026-01-06_0060",
+          "start": 60,
+          "end": 100,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "flashhabertv_tr_konsol_2026-01-06_0100",
+          "start": 100,
+          "end": 110,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "flashhabertv_tr_hava_durumu_2026-01-06_0110",
+          "start": 110,
+          "end": 115,
+          "genre": "weather",
+          "score": 26
+        },
+        {
+          "program_id": "flashhabertv_tr_evval_irin_i_le_g_ncel_2026-01-06_0120",
+          "start": 120,
+          "end": 160,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "flashhabertv_tr_oto_flash_2026-01-06_0160",
+          "start": 160,
+          "end": 175,
+          "genre": "weather",
+          "score": 31
+        },
+        {
+          "program_id": "flashhabertv_tr_hava_durumu_2026-01-06_0175",
+          "start": 175,
+          "end": 180,
+          "genre": "weather",
+          "score": 26
+        },
+        {
+          "program_id": "flashhabertv_tr_haber_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "flashhabertv_tr_ma_zetleri_2026-01-06_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "flashhabertv_tr_haber_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "flashhabertv_tr_haber_2026-01-06_0300",
+          "start": 300,
+          "end": 335,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "flashhabertv_tr_ekonomi_hatt_2026-01-06_0340",
+          "start": 340,
+          "end": 355,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "flashhabertv_tr_hava_durumu_2026-01-06_0355",
+          "start": 355,
+          "end": 360,
+          "genre": "weather",
+          "score": 34
+        },
+        {
+          "program_id": "flashhabertv_tr_haber_2026-01-06_0360",
+          "start": 360,
+          "end": 400,
+          "genre": "news",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "TR - France 24",
+      "programs": [
+        {
+          "program_id": "france24_tr_news_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24_tr_the_debate_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "france24_tr_news_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "france24_tr_flash_2026-01-06_0090",
+          "start": 90,
+          "end": 93,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "france24_tr_reportages_2026-01-06_0116",
+          "start": 116,
+          "end": 120,
+          "genre": "news",
+          "score": 57
+        },
+        {
+          "program_id": "france24_tr_news_2026-01-06_0120",
+          "start": 120,
+          "end": 130,
+          "genre": "news",
+          "score": 59
+        },
+        {
+          "program_id": "france24_tr_le_journal_de_la_can_2026-01-06_0130",
+          "start": 130,
+          "end": 150,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24_tr_news_2026-01-06_0150",
+          "start": 150,
+          "end": 160,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "france24_tr_focus_2026-01-06_0172",
+          "start": 172,
+          "end": 180,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "france24_tr_news_2026-01-06_0180",
+          "start": 180,
+          "end": 195,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24_tr_the_debate_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "talk",
+          "score": 65
+        },
+        {
+          "program_id": "france24_tr_news_2026-01-06_0240",
+          "start": 240,
+          "end": 255,
+          "genre": "news",
+          "score": 60
+        },
+        {
+          "program_id": "france24_tr_focus_2026-01-06_0255",
+          "start": 255,
+          "end": 261,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "france24_tr_the_observers_2026-01-06_0261",
+          "start": 261,
+          "end": 270,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "france24_tr_news_2026-01-06_0270",
+          "start": 270,
+          "end": 285,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "france24_tr_news_2026-01-06_0300",
+          "start": 300,
+          "end": 315,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "france24_tr_sport_24_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "france24_tr_news_2026-01-06_0360",
+          "start": 360,
+          "end": 370,
+          "genre": "news",
+          "score": 69
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "France 24 English",
+      "programs": [
+        {
+          "program_id": "france24english_the_debate_2026-01-06_0010",
+          "start": 10,
+          "end": 53,
+          "genre": "talk",
+          "score": 76
+        },
+        {
+          "program_id": "france24english_focus_2026-01-06_0080",
+          "start": 80,
+          "end": 90,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "france24english_arts24_2026-01-06_0105",
+          "start": 105,
+          "end": 120,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "france24english_football_african_cup_of__2026-01-06_0135",
+          "start": 135,
+          "end": 162,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "france24english_eye_on_africa_2026-01-06_0162",
+          "start": 162,
+          "end": 180,
+          "genre": "news",
+          "score": 64
+        },
+        {
+          "program_id": "france24english_the_debate_2026-01-06_0190",
+          "start": 190,
+          "end": 233,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "france24english_the_51_percent_2026-01-06_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "france24english_eye_on_africa_2026-01-06_0315",
+          "start": 315,
+          "end": 330,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "france24english_arts24_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "news",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "TR - GZT TV",
+      "programs": [
+        {
+          "program_id": "gzttv_tr_amerika_depo_sava_lar_2026-01-06_0000",
+          "start": 0,
+          "end": 1319,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "TR - HABER GLOBAL",
+      "programs": [
+        {
+          "program_id": "haberglobal_tr_haber_b_lteni_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "haberglobal_tr_t_rkiye_de_sabah_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "haberglobal_tr_yeni_g_n_2026-01-06_0360",
+          "start": 360,
+          "end": 465,
+          "genre": "news",
+          "score": 87
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "TR - HABERTURK",
+      "programs": [
+        {
+          "program_id": "haberturk_tr_haber_b_lteni_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "news",
+          "score": 62
+        },
+        {
+          "program_id": "haberturk_tr_a_k_ve_net_2026-01-06_0015",
+          "start": 15,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "haberturk_tr_haber_b_lteni_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "haberturk_tr_g_n_ba_l_yor_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "news",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "TR - HT SPOR",
+      "programs": [
+        {
+          "program_id": "htspor_tr_oyunun_i_inden_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "htspor_tr_k_rs_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "education",
+          "score": 67
+        },
+        {
+          "program_id": "htspor_tr_ba_lama_vuru_u_2026-01-06_0360",
+          "start": 360,
+          "end": 540,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "TR - Halk TV",
+      "programs": [
+        {
+          "program_id": "halktv_tr_k_r_ad_o_uz_ile_rota_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "music",
+          "score": 51
+        },
+        {
+          "program_id": "halktv_tr_g_nayd_n_t_rkiye_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "halktv_tr_ebru_baki_i_le_para_siya_2026-01-06_0360",
+          "start": 360,
+          "end": 540,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "TR - KANAL 24",
+      "programs": [
+        {
+          "program_id": "kanal24_tr_brifing_saati_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kanal24_tr_arafta_sorular_2026-01-06_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kanal24_tr_24_portre_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "kanal24_tr_masada_ne_var_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "kanal24_tr_masada_ne_var_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kanal24_tr_moderat_r_sabah_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "TR - KANAL 7",
+      "programs": [
+        {
+          "program_id": "kanal7_tr_kan_i_ekleri_2026-01-06_0000",
+          "start": 0,
+          "end": 270,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "kanal7_tr_kanal_7_de_sabah_2026-01-06_0270",
+          "start": 270,
+          "end": 345,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "kanal7_tr_elif_2026-01-06_0345",
+          "start": 345,
+          "end": 470,
+          "genre": "series",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "TR - KRT TV",
+      "programs": [
+        {
+          "program_id": "krttv_tr_panorama_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "krttv_tr_ba_ka_bir_g_n_2026-01-06_0360",
+          "start": 360,
+          "end": 540,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "TR - Kanal D",
+      "programs": [
+        {
+          "program_id": "kanald_tr_poyraz_karayel_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "kanald_tr_k_z_karde_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "kanald_tr_yabanc_damat_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "education",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "TR - MTV HITS",
+      "programs": [
+        {
+          "program_id": "mtvhits_tr_this_channel_is_now_clos_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "mtvhits_tr_this_channel_is_now_clos_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtvhits_tr_this_channel_is_now_clos_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mtvhits_tr_this_channel_is_now_clos_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "TR - MinikaGO",
+      "programs": [
+        {
+          "program_id": "minikago_tr_ne_eli_d_nyam_2026-01-06_0030",
+          "start": 30,
+          "end": 40,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "minikago_tr_ne_eli_d_nyam_2026-01-06_0040",
+          "start": 40,
+          "end": 50,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "minikago_tr_ne_eli_d_nyam_2026-01-06_0050",
+          "start": 50,
+          "end": 60,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "minikago_tr_macerac_y_zge_ler_2026-01-06_0120",
+          "start": 120,
+          "end": 128,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "minikago_tr_macerac_y_zge_ler_2026-01-06_0128",
+          "start": 128,
+          "end": 136,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "minikago_tr_macerac_y_zge_ler_2026-01-06_0136",
+          "start": 136,
+          "end": 144,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "minikago_tr_macerac_y_zge_ler_2026-01-06_0144",
+          "start": 144,
+          "end": 150,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "minikago_tr_h_zl_ayaklar_2026-01-06_0150",
+          "start": 150,
+          "end": 160,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "minikago_tr_h_zl_ayaklar_2026-01-06_0160",
+          "start": 160,
+          "end": 170,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "minikago_tr_h_zl_ayaklar_2026-01-06_0170",
+          "start": 170,
+          "end": 180,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "minikago_tr_h_zl_ayaklar_2026-01-06_0180",
+          "start": 180,
+          "end": 190,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "minikago_tr_h_zl_ayaklar_2026-01-06_0190",
+          "start": 190,
+          "end": 200,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "minikago_tr_h_zl_ayaklar_2026-01-06_0200",
+          "start": 200,
+          "end": 210,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "minikago_tr_macerac_y_zge_ler_2026-01-06_0330",
+          "start": 330,
+          "end": 345,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "minikago_tr_macerac_y_zge_ler_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "sports",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "TR - MovieSmart Classic",
+      "programs": [
+        {
+          "program_id": "moviesmartclassic__sevmek_yeniden_do_mak_2026-01-06_0020",
+          "start": 20,
+          "end": 110,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "moviesmartclassic__kartallar_n_c_2026-01-06_0110",
+          "start": 110,
+          "end": 190,
+          "genre": "movie",
+          "score": 82
+        },
+        {
+          "program_id": "moviesmartclassic__kur_un_adres_sormaz_2026-01-06_0190",
+          "start": 190,
+          "end": 300,
+          "genre": "education",
+          "score": 58
+        },
+        {
+          "program_id": "moviesmartclassic__otob_s_yolcular_2026-01-06_0300",
+          "start": 300,
+          "end": 400,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "TR - MovieSmart Türk",
+      "programs": [
+        {
+          "program_id": "moviesmartturk_tr_sevmek_yeniden_do_mak_2026-01-06_0020",
+          "start": 20,
+          "end": 110,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "moviesmartturk_tr_kartallar_n_c_2026-01-06_0110",
+          "start": 110,
+          "end": 190,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "moviesmartturk_tr_kur_un_adres_sormaz_2026-01-06_0190",
+          "start": 190,
+          "end": 300,
+          "genre": "education",
+          "score": 59
+        },
+        {
+          "program_id": "moviesmartturk_tr_otob_s_yolcular_2026-01-06_0300",
+          "start": 300,
+          "end": 400,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "TR - NOW TV",
+      "programs": [
+        {
+          "program_id": "nowtv_tr_evkat_yerimdar_2026-01-06_0015",
+          "start": 15,
+          "end": 165,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "nowtv_tr_kefaret_2026-01-06_0165",
+          "start": 165,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "nowtv_tr_son_yaz_2026-01-06_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "nowtv_tr_i_lk_bak_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "nowtv_tr_i_lker_karag_z_i_le_alar_2026-01-06_0360",
+          "start": 360,
+          "end": 525,
+          "genre": "unknown",
+          "score": 73
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "TR - NTV",
+      "programs": [
+        {
+          "program_id": "ntv_tr_haber_b_lteni_2026-01-06_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "ntv_tr_ceyda_d_venci_i_le_bamba_2026-01-06_0020",
+          "start": 20,
+          "end": 55,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "ntv_tr_hava_durumu_2026-01-06_0055",
+          "start": 55,
+          "end": 60,
+          "genre": "weather",
+          "score": 34
+        },
+        {
+          "program_id": "ntv_tr_haber_b_lteni_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "ntv_tr_hava_durumu_2026-01-06_0115",
+          "start": 115,
+          "end": 120,
+          "genre": "weather",
+          "score": 29
+        },
+        {
+          "program_id": "ntv_tr_haber_b_lteni_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "ntv_tr_hava_durumu_2026-01-06_0175",
+          "start": 175,
+          "end": 180,
+          "genre": "weather",
+          "score": 32
+        },
+        {
+          "program_id": "ntv_tr_haber_b_lteni_2026-01-06_0180",
+          "start": 180,
+          "end": 235,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "ntv_tr_hava_durumu_2026-01-06_0235",
+          "start": 235,
+          "end": 240,
+          "genre": "weather",
+          "score": 34
+        },
+        {
+          "program_id": "ntv_tr_haber_b_lteni_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "ntv_tr_hava_durumu_2026-01-06_0295",
+          "start": 295,
+          "end": 300,
+          "genre": "weather",
+          "score": 31
+        },
+        {
+          "program_id": "ntv_tr_g_ne_ba_larken_2026-01-06_0300",
+          "start": 300,
+          "end": 450,
+          "genre": "news",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "TR - Nat Geo Wild",
+      "programs": [
+        {
+          "program_id": "natgeowild_tr_heartland_veterinerleri_2026-01-06_0010",
+          "start": 10,
+          "end": 55,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "natgeowild_tr_beyaz_k_pekbal_n_n_d_n_2026-01-06_0055",
+          "start": 55,
+          "end": 100,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "natgeowild_tr_afrika_n_n_avc_lar_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "natgeowild_tr_afrika_n_n_avc_lar_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "natgeowild_tr_afrika_n_n_avc_lar_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "natgeowild_tr_devasa_bo_a_k_pekbal_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "natgeowild_tr_afrika_n_n_avc_lar_2026-01-06_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "natgeowild_tr_k_n_gizli_harikalar_2026-01-06_0355",
+          "start": 355,
+          "end": 405,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "TR - National Geographic",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_araba_s_o_s_2026-01-06_0000",
+          "start": 0,
+          "end": 25,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "nationalgeographic_tarihin_s_ra_d_eserleri_2026-01-06_0025",
+          "start": 25,
+          "end": 70,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "nationalgeographic_otoyol_cehennemi_2026-01-06_0070",
+          "start": 70,
+          "end": 115,
+          "genre": "movie",
+          "score": 82
+        },
+        {
+          "program_id": "nationalgeographic_otoyol_cehennemi_2026-01-06_0115",
+          "start": 115,
+          "end": 160,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "nationalgeographic_g_ky_z_nden_avrupa_2026-01-06_0160",
+          "start": 160,
+          "end": 205,
+          "genre": "documentary",
+          "score": 66
+        },
+        {
+          "program_id": "nationalgeographic_g_ky_z_nden_avrupa_2026-01-06_0205",
+          "start": 205,
+          "end": 240,
+          "genre": "series",
+          "score": 72
+        },
+        {
+          "program_id": "nationalgeographic_araba_s_o_s_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "sports",
+          "score": 78
+        },
+        {
+          "program_id": "nationalgeographic_kuelap_bulutlar_n_i_nsan_2026-01-06_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "nationalgeographic_g_ky_z_nden_avrupa_2026-01-06_0330",
+          "start": 330,
+          "end": 375,
+          "genre": "documentary",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "TR - Nick Jr.",
+      "programs": [
+        {
+          "program_id": "nickjr_tr_barbapapa_ailesi_2026-01-06_0105",
+          "start": 105,
+          "end": 130,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "nickjr_tr_barbapapa_ailesi_2026-01-06_0315",
+          "start": 315,
+          "end": 335,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "nickjr_tr_blaze_ve_yol_canavarlar_2026-01-06_0360",
+          "start": 360,
+          "end": 380,
+          "genre": "sports",
+          "score": 79
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "TR - Nickelodeon",
+      "programs": [
+        {
+          "program_id": "nickelodeon_tr_ninja_kaplumba_alar_n_ma_2026-01-06_0235",
+          "start": 235,
+          "end": 260,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "TR - S Spor",
+      "programs": [
+        {
+          "program_id": "sspor_tr_euroleague_2026-01-06_0000",
+          "start": 0,
+          "end": 420,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "TR - S Spor 2",
+      "programs": [
+        {
+          "program_id": "sspor2_tr_i_talya_serie_a_geni_zet_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "TR - Saudi Quran TV",
+      "programs": [
+        {
+          "program_id": "saudiqurantv_tr_kabe_den_canl_yay_n_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "saudiqurantv_tr_kabe_den_canl_yay_n_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "saudiqurantv_tr_kabe_den_canl_yay_n_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "saudiqurantv_tr_kabe_den_canl_yay_n_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "saudiqurantv_tr_kabe_den_canl_yay_n_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "saudiqurantv_tr_kabe_den_canl_yay_n_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "saudiqurantv_tr_kabe_den_canl_yay_n_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "TR - Saudi Sunnah TV",
+      "programs": [
+        {
+          "program_id": "saudisunnahtv_tr_mescid_i_nebevi_den_canl_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "saudisunnahtv_tr_mescid_i_nebevi_den_canl_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "saudisunnahtv_tr_mescid_i_nebevi_den_canl_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "TR - Show TV",
+      "programs": [
+        {
+          "program_id": "showtv_tr_g_r_mce_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "showtv_tr_atla_gel_aban_2026-01-06_0030",
+          "start": 30,
+          "end": 105,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "showtv_tr_r_ya_gibi_2026-01-06_0105",
+          "start": 105,
+          "end": 300,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "showtv_tr_bahar_2026-01-06_0300",
+          "start": 300,
+          "end": 450,
+          "genre": "kids",
+          "score": 52
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "TR - Sinema TV",
+      "programs": [
+        {
+          "program_id": "sinematv_tr_tomr_s_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "sinematv_tr_bizimle_ba_lad_bizimle_b_2026-01-06_0030",
+          "start": 30,
+          "end": 180,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "sinematv_tr_a_k_i_ba_nda_2026-01-06_0180",
+          "start": 180,
+          "end": 285,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "sinematv_tr_lene_kadar_2026-01-06_0285",
+          "start": 285,
+          "end": 390,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "TR - Sinema TV 1001",
+      "programs": [
+        {
+          "program_id": "sinematv1001_tr_katiller_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "sinematv1001_tr_valye_2026-01-06_0030",
+          "start": 30,
+          "end": 180,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "sinematv1001_tr_el_i_2026-01-06_0180",
+          "start": 180,
+          "end": 270,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "sinematv1001_tr_aile_ba_2026-01-06_0270",
+          "start": 270,
+          "end": 390,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "TR - Sinema TV 1002",
+      "programs": [
+        {
+          "program_id": "sinematv1002_tr_vatansever_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "sinematv1002_tr_katiller_2026-01-06_0030",
+          "start": 30,
+          "end": 135,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "sinematv1002_tr_valye_2026-01-06_0135",
+          "start": 135,
+          "end": 285,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "sinematv1002_tr_el_i_2026-01-06_0285",
+          "start": 285,
+          "end": 375,
+          "genre": "sports",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "TR - Sinema TV 2",
+      "programs": [
+        {
+          "program_id": "sinematv2_tr_tomr_s_2026-01-06_0000",
+          "start": 0,
+          "end": 135,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "sinematv2_tr_bizimle_ba_lad_bizimle_b_2026-01-06_0135",
+          "start": 135,
+          "end": 285,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "sinematv2_tr_a_k_i_ba_nda_2026-01-06_0285",
+          "start": 285,
+          "end": 390,
+          "genre": "movie",
+          "score": 80
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "TR - Sinema TV Aile",
+      "programs": [
+        {
+          "program_id": "sinematvaile_tr_orman_dostlar_1_2_3_4_5_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "sinematvaile_tr_robin_and_the_hoods_2026-01-06_0045",
+          "start": 45,
+          "end": 165,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "sinematvaile_tr_tembeller_ailesi_2026-01-06_0165",
+          "start": 165,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "sinematvaile_tr_tatl_cad_2026-01-06_0270",
+          "start": 270,
+          "end": 390,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "TR - Sinema TV Aile 2",
+      "programs": [
+        {
+          "program_id": "sinematvaile2_tr_k_z_arkada_m_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "sinematvaile2_tr_orman_dostlar_1_2_3_4_5_2026-01-06_0060",
+          "start": 60,
+          "end": 97,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sinematvaile2_tr_orman_dostlar_1_2_3_4_5_2026-01-06_0097",
+          "start": 97,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "sinematvaile2_tr_robin_and_the_hoods_2026-01-06_0150",
+          "start": 150,
+          "end": 270,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "sinematvaile2_tr_tembeller_ailesi_2026-01-06_0270",
+          "start": 270,
+          "end": 375,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "TR - Sinema TV Aksiyon",
+      "programs": [
+        {
+          "program_id": "sinematvaksiyon_tr_7_kat_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "kids",
+          "score": 55
+        },
+        {
+          "program_id": "sinematvaksiyon_tr_hilal_ehri_2026-01-06_0075",
+          "start": 75,
+          "end": 195,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "sinematvaksiyon_tr_suikast_kul_b_2026-01-06_0195",
+          "start": 195,
+          "end": 315,
+          "genre": "religion",
+          "score": 53
+        },
+        {
+          "program_id": "sinematvaksiyon_tr_bay_m_kemmel_in_pe_inde_2026-01-06_0315",
+          "start": 315,
+          "end": 420,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "TR - Sinema TV Aksiyon 2",
+      "programs": [
+        {
+          "program_id": "sinematvaksiyon2_t_g_neye_do_ru_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sinematvaksiyon2_t_7_kat_2026-01-06_0075",
+          "start": 75,
+          "end": 180,
+          "genre": "kids",
+          "score": 57
+        },
+        {
+          "program_id": "sinematvaksiyon2_t_hilal_ehri_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "sinematvaksiyon2_t_suikast_kul_b_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "religion",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "TR - Sinema TV Comedy",
+      "programs": [
+        {
+          "program_id": "sinematvcomedy_tr_aldatman_n_b_ylesi_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "sinematvcomedy_tr_duyars_zlar_2026-01-06_0075",
+          "start": 75,
+          "end": 180,
+          "genre": "movie",
+          "score": 92
+        },
+        {
+          "program_id": "sinematvcomedy_tr_a_k_gibi_bir_ey_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "sports",
+          "score": 87
+        },
+        {
+          "program_id": "sinematvcomedy_tr_frans_z_mutfa_2026-01-06_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "kids",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "TR - Sinema TV Comedy 2",
+      "programs": [
+        {
+          "program_id": "sinematvcomedy2_tr_asabiyim_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "sinematvcomedy2_tr_aldatman_n_b_ylesi_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "sinematvcomedy2_tr_duyars_zlar_2026-01-06_0180",
+          "start": 180,
+          "end": 285,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "sinematvcomedy2_tr_a_k_gibi_bir_ey_2026-01-06_0285",
+          "start": 285,
+          "end": 405,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "TR - Star TV",
+      "programs": [
+        {
+          "program_id": "startv_tr_dizi_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "series",
+          "score": 77
+        },
+        {
+          "program_id": "startv_tr_s_z_2026-01-06_0100",
+          "start": 100,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "startv_tr_aram_zda_kals_n_2026-01-06_0300",
+          "start": 300,
+          "end": 450,
+          "genre": "kids",
+          "score": 49
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "TR - TARIH TV",
+      "programs": [
+        {
+          "program_id": "tarihtv_tr_i_mparatorlu_un_kad_n_su_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tarihtv_tr_m_s_r_n_hikayesi_2026-01-06_0060",
+          "start": 60,
+          "end": 125,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "tarihtv_tr_siyah_direni_de_i_im_i_i_2026-01-06_0125",
+          "start": 125,
+          "end": 185,
+          "genre": "documentary",
+          "score": 69
+        },
+        {
+          "program_id": "tarihtv_tr_marilyn_monroe_g_zellik__2026-01-06_0185",
+          "start": 185,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tarihtv_tr_i_mparatorlu_un_kad_n_su_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tarihtv_tr_m_s_r_n_hikayesi_2026-01-06_0300",
+          "start": 300,
+          "end": 365,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "TR - TELE 1",
+      "programs": [
+        {
+          "program_id": "tele1_tr_kay_t_d_2026-01-06_0000",
+          "start": 0,
+          "end": 150,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "tele1_tr_ana_haber_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "tele1_tr_18_dakika_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tele1_tr_sabah_pusulas_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "tele1_tr_sabah_pusulas_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "news",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "TR - TGRT Haber",
+      "programs": [
+        {
+          "program_id": "tgrthaber_tr_medya_kritik_2026-01-06_0000",
+          "start": 0,
+          "end": 150,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "tgrthaber_tr_gecenin_i_inden_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tgrthaber_tr_gece_haberleri_2026-01-06_0180",
+          "start": 180,
+          "end": 195,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "tgrthaber_tr_huzura_do_ru_2026-01-06_0195",
+          "start": 195,
+          "end": 225,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "tgrthaber_tr_haber_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "tgrthaber_tr_g_nayd_n_t_rkiye_2026-01-06_0300",
+          "start": 300,
+          "end": 465,
+          "genre": "news",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "TR - TLC",
+      "programs": [
+        {
+          "program_id": "tlc_tr_amerikan_dedektif_2026-01-06_0025",
+          "start": 25,
+          "end": 70,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tlc_tr_katil_beni_se_ti_2026-01-06_0070",
+          "start": 70,
+          "end": 115,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tlc_tr_100_g_nde_r_ya_ev_2026-01-06_0115",
+          "start": 115,
+          "end": 160,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tlc_tr_ya_sev_ya_sat_2026-01-06_0160",
+          "start": 160,
+          "end": 200,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tlc_tr_emlak_avc_lar_amerika_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "tlc_tr_emlak_avc_lar_amerika_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlc_tr_emlak_avc_lar_amerika_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tlc_tr_k_k_ev_b_y_k_aile_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlc_tr_k_k_ev_b_y_k_aile_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "TR - TRT1",
+      "programs": [
+        {
+          "program_id": "trt1_tr_seksenler_2026-01-06_0005",
+          "start": 5,
+          "end": 55,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "trt1_tr_kasaba_doktoru_2026-01-06_0055",
+          "start": 55,
+          "end": 210,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "trt1_tr_turgay_ba_yayla_ile_lezz_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "trt1_tr_kalk_gidelim_2026-01-06_0270",
+          "start": 270,
+          "end": 440,
+          "genre": "music",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "TR - TRT 2",
+      "programs": [
+        {
+          "program_id": "trt2_tr_ld_r_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "trt2_tr_umberto_eco_d_nya_n_n_k__2026-01-06_0060",
+          "start": 60,
+          "end": 135,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trt2_tr_b_b_li_sohbetleri_2026-01-06_0150",
+          "start": 150,
+          "end": 193,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "trt2_tr_i_stisnai_renkler_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trt2_tr_co_rafyadan_k_lt_re_ba_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "trt2_tr_kilit_ta_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trt2_tr_hayat_sanat_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "trt2_tr_i_aretler_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "unknown",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "TR - TRT 3 - TRT Spor",
+      "programs": [
+        {
+          "program_id": "trt3_trtspor_tr_inter_liverpool_2026-01-06_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "sports",
+          "score": 86
+        },
+        {
+          "program_id": "trt3_trtspor_tr_benfica_napoli_2026-01-06_0105",
+          "start": 105,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "trt3_trtspor_tr_bayer_leverkusen_newcast_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "trt3_trtspor_tr_trendyol_s_per_lig_zetle_2026-01-06_0240",
+          "start": 240,
+          "end": 585,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "TR - TRT AVAZ",
+      "programs": [
+        {
+          "program_id": "trtavaz_tr_payitaht_abd_lhamid_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "trtavaz_tr_usta_eller_2026-01-06_0045",
+          "start": 45,
+          "end": 75,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trtavaz_tr_diplomasi_masas_2026-01-06_0075",
+          "start": 75,
+          "end": 110,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "trtavaz_tr_yiyece_in_ser_veni_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "trtavaz_tr_anneler_2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "series",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "TR - TRT Arabi",
+      "programs": [
+        {
+          "program_id": "trtarabi_tr_news_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "trtarabi_tr_for_my_right_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "trtarabi_tr_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "trtarabi_tr_tafaul_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "trtarabi_tr_news_2026-01-06_0120",
+          "start": 120,
+          "end": 160,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "trtarabi_tr_news_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "trtarabi_tr_after_al_assad_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trtarabi_tr_news_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "trtarabi_tr_for_my_right_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtarabi_tr_news_2026-01-06_0300",
+          "start": 300,
+          "end": 340,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "trtarabi_tr_fil_iqtisad_2026-01-06_0340",
+          "start": 340,
+          "end": 360,
+          "genre": "news",
+          "score": 66
+        },
+        {
+          "program_id": "trtarabi_tr_news_2026-01-06_0360",
+          "start": 360,
+          "end": 400,
+          "genre": "news",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "TR - TRT Belgesel",
+      "programs": [
+        {
+          "program_id": "trtbelgesel_tr_forma_balkan_g_n_l_sahal_2026-01-06_0025",
+          "start": 25,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "trtbelgesel_tr_anadolu_i_nsan_2026-01-06_0060",
+          "start": 60,
+          "end": 115,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "trtbelgesel_tr_g_nl_k_hayat_bilimi_2026-01-06_0115",
+          "start": 115,
+          "end": 145,
+          "genre": "documentary",
+          "score": 71
+        },
+        {
+          "program_id": "trtbelgesel_tr_b_y_k_m_cadele_2026-01-06_0145",
+          "start": 145,
+          "end": 200,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "trtbelgesel_tr_kronoviz_r_2026-01-06_0200",
+          "start": 200,
+          "end": 230,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtbelgesel_tr_ehirden_uzakta_2026-01-06_0230",
+          "start": 230,
+          "end": 295,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "trtbelgesel_tr_t_rkiye_nin_dev_yap_lar__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "trtbelgesel_tr_y_zer_evim_2026-01-06_0360",
+          "start": 360,
+          "end": 385,
+          "genre": "sports",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "TR - TRT Haber",
+      "programs": [
+        {
+          "program_id": "trthaber_tr_g_n_sonu_2026-01-06_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "trthaber_tr_hava_durumu_2026-01-06_0115",
+          "start": 115,
+          "end": 120,
+          "genre": "weather",
+          "score": 27
+        },
+        {
+          "program_id": "trthaber_tr_haber_04_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "trthaber_tr_haber_05_2026-01-06_0180",
+          "start": 180,
+          "end": 235,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "trthaber_tr_hava_durumu_2026-01-06_0235",
+          "start": 235,
+          "end": 240,
+          "genre": "weather",
+          "score": 33
+        },
+        {
+          "program_id": "trthaber_tr_haber_06_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "trthaber_tr_trt_haber_de_d_n_bug_n_2026-01-06_0300",
+          "start": 300,
+          "end": 475,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "TR - TRT Kurdi",
+      "programs": [
+        {
+          "program_id": "trtkurdi_tr_t_rk_lerimiz_stranb_j_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "trtkurdi_tr_yolcu_r_w_2026-01-06_0045",
+          "start": 45,
+          "end": 105,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "trtkurdi_tr_b_y_k_nehir_n_jin_2026-01-06_0105",
+          "start": 105,
+          "end": 165,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "trtkurdi_tr_safiye_vadisindeki_i_ekl_2026-01-06_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "trtkurdi_tr_kuran_reniyorum_quran_h__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "religion",
+          "score": 50
+        },
+        {
+          "program_id": "trtkurdi_tr_hatim_x_tma_quran_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "religion",
+          "score": 51
+        },
+        {
+          "program_id": "trtkurdi_tr_k_rt_e_dersleri_kurd_h_n_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "education",
+          "score": 64
+        },
+        {
+          "program_id": "trtkurdi_tr_sabah_haberleri_rojev_2026-01-06_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "news",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "TR - TRT Müzik",
+      "programs": [
+        {
+          "program_id": "trtm_zik_tr_m_zik_yolcular_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "trtm_zik_tr_sade_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "trtm_zik_tr_s_mer_ezg_i_le_anadolu_d_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "trtm_zik_tr_senin_ark_n_2026-01-06_0150",
+          "start": 150,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "TR - TRT SPOR",
+      "programs": [
+        {
+          "program_id": "trtspor_tr_inter_liverpool_2026-01-06_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "trtspor_tr_benfica_napoli_2026-01-06_0105",
+          "start": 105,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtspor_tr_bayer_leverkusen_newcast_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "TR - TRT SPOR YILDIZ",
+      "programs": [
+        {
+          "program_id": "trtsporyildiz_tr_odunpazar_s_mc_sistem_2026-01-06_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "trtsporyildiz_tr_s_per_spor_2026-01-06_0065",
+          "start": 65,
+          "end": 95,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "trtsporyildiz_tr_gebze_b_ba_kent_ampute_2026-01-06_0120",
+          "start": 120,
+          "end": 190,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "trtsporyildiz_tr_tur_g_nl_kleri_2026-01-06_0205",
+          "start": 205,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtsporyildiz_tr_etnospor_2026-01-06_0255",
+          "start": 255,
+          "end": 285,
+          "genre": "sports",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "TR - TRT TURK",
+      "programs": [
+        {
+          "program_id": "trtturk_tr_b_yle_bitmesin_2026-01-06_0020",
+          "start": 20,
+          "end": 70,
+          "genre": "movie",
+          "score": 92
+        },
+        {
+          "program_id": "trtturk_tr_haberdar_2026-01-06_0070",
+          "start": 70,
+          "end": 100,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "trtturk_tr_aile_2026-01-06_0100",
+          "start": 100,
+          "end": 160,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "trtturk_tr_sa_l_k_olsun_2026-01-06_0160",
+          "start": 160,
+          "end": 220,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "trtturk_tr_g_n_l_verenler_2026-01-06_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "sports",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "TR - TRT World",
+      "programs": [
+        {
+          "program_id": "trtworld_tr_news_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "trtworld_tr_inside_america_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "trtworld_tr_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "trtworld_tr_strait_talk_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "sports",
+          "score": 93
+        },
+        {
+          "program_id": "trtworld_tr_news_2026-01-06_0120",
+          "start": 120,
+          "end": 135,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "trtworld_tr_roundtable_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "trtworld_tr_news_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "trtworld_tr_the_newsmakers_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "trtworld_tr_storyteller_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "trtworld_tr_news_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "trtworld_tr_nexus_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "trtworld_tr_news_2026-01-06_0360",
+          "start": 360,
+          "end": 390,
+          "genre": "news",
+          "score": 84
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "TR - TRT Çocuk",
+      "programs": [
+        {
+          "program_id": "trt_ocuk_tr_kaptan_pengu_ve_arkada_l_2026-01-06_0000",
+          "start": 0,
+          "end": 5,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "trt_ocuk_tr_ege_ile_gaga_2026-01-06_0005",
+          "start": 5,
+          "end": 30,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "trt_ocuk_tr_z_tak_m_2026-01-06_0030",
+          "start": 30,
+          "end": 55,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "trt_ocuk_tr_kehribar_i_le_boncuk_2026-01-06_0055",
+          "start": 55,
+          "end": 80,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "trt_ocuk_tr_maysa_ve_bulut_2026-01-06_0155",
+          "start": 155,
+          "end": 180,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "trt_ocuk_tr_kare_2026-01-06_0205",
+          "start": 205,
+          "end": 230,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "trt_ocuk_tr_kaptan_pengu_ve_arkada_l_2026-01-06_0230",
+          "start": 230,
+          "end": 245,
+          "genre": "sports",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "TR - TURKHABER TV",
+      "programs": [
+        {
+          "program_id": "turkhabertv_tr_g_ndem_zel_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "turkhabertv_tr_haber_b_lteni_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "turkhabertv_tr_yeni_bir_g_n_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "turkhabertv_tr_belgesel_spor_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "turkhabertv_tr_zaman_makinesi_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "turkhabertv_tr_haber_b_lteni_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "turkhabertv_tr_haber_b_lteni_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "turkhabertv_tr_yeni_bir_g_n_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "news",
+          "score": 81
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "TR - TV 100",
+      "programs": [
+        {
+          "program_id": "tv100_tr_e_it_a_rl_k_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tv100_tr_kale_arkas_2026-01-06_0120",
+          "start": 120,
+          "end": 195,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tv100_tr_g_n_den_kalan_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "tv100_tr_mesut_yar_ile_g_n_uyan_y_2026-01-06_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "news",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "TR - TV5 Monde Europe",
+      "programs": [
+        {
+          "program_id": "tv5mondeeurope_tr_quelle_poque_2026-01-06_0000",
+          "start": 0,
+          "end": 54,
+          "genre": "talk",
+          "score": 66
+        },
+        {
+          "program_id": "tv5mondeeurope_tr_le_journal_afrique_2026-01-06_0054",
+          "start": 54,
+          "end": 81,
+          "genre": "news",
+          "score": 61
+        },
+        {
+          "program_id": "tv5mondeeurope_tr_m_t_o_2026-01-06_0081",
+          "start": 81,
+          "end": 84,
+          "genre": "news",
+          "score": 55
+        },
+        {
+          "program_id": "tv5mondeeurope_tr_guadeloupe_le_carnaval_e_2026-01-06_0084",
+          "start": 84,
+          "end": 140,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "tv5mondeeurope_tr_rassemblance_sakina_m_sa_2026-01-06_0140",
+          "start": 140,
+          "end": 172,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv5mondeeurope_tr_le_point_2026-01-06_0188",
+          "start": 188,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tv5mondeeurope_tr_le_23h_2026-01-06_0240",
+          "start": 240,
+          "end": 302,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "TR - TV 8,5",
+      "programs": [
+        {
+          "program_id": "tv8_5_tr_8x8_2026-01-06_0010",
+          "start": 10,
+          "end": 75,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "tv8_5_tr_ortaya_kar_k_2026-01-06_0075",
+          "start": 75,
+          "end": 185,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tv8_5_tr_bir_demet_tiyatro_2026-01-06_0185",
+          "start": 185,
+          "end": 280,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tv8_5_tr_8x8_2026-01-06_0300",
+          "start": 300,
+          "end": 370,
+          "genre": "music",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "TR - TV8",
+      "programs": [
+        {
+          "program_id": "tv8_tr_zahide_yeti_le_sence_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tv8_tr_zuhal_topal_la_yemekteyi_2026-01-06_0090",
+          "start": 90,
+          "end": 240,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "tv8_tr_tuzak_2026-01-06_0240",
+          "start": 240,
+          "end": 315,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tv8_tr_ebru_ile_8_de_sa_l_k_2026-01-06_0315",
+          "start": 315,
+          "end": 420,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "TR - TVNET",
+      "programs": [
+        {
+          "program_id": "tvnet_tr_net_bak_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tvnet_tr_belgesel_ku_a_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "documentary",
+          "score": 72
+        },
+        {
+          "program_id": "tvnet_tr_tvnet_g_ndem_2026-01-06_0120",
+          "start": 120,
+          "end": 195,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tvnet_tr_belgesel_ku_a_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "documentary",
+          "score": 68
+        },
+        {
+          "program_id": "tvnet_tr_anadolu_hatim_14_c_z_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvnet_tr_yeni_bir_g_n_2026-01-06_0300",
+          "start": 300,
+          "end": 340,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "tvnet_tr_yeni_bir_g_n_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "news",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "TR - Teve2",
+      "programs": [
+        {
+          "program_id": "teve2_tr_kelime_oyunu_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "teve2_tr_kan_t_2026-01-06_0030",
+          "start": 30,
+          "end": 105,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "teve2_tr_ocuklar_duymas_n_2026-01-06_0105",
+          "start": 105,
+          "end": 240,
+          "genre": "kids",
+          "score": 49
+        },
+        {
+          "program_id": "teve2_tr_kavak_yelleri_2026-01-06_0240",
+          "start": 240,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "teve2_tr_k_k_a_a_2026-01-06_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "kids",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "TR - TİVİBU SPOR",
+      "programs": [
+        {
+          "program_id": "ti_vi_buspor_tr_orta_nokta_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ti_vi_buspor_tr_bundesliga_clubs_2026-01-06_0060",
+          "start": 60,
+          "end": 75,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "ti_vi_buspor_tr_sassuolo_parma_2026-01-06_0075",
+          "start": 75,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ti_vi_buspor_tr_juventus_lecce_2026-01-06_0180",
+          "start": 180,
+          "end": 285,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ti_vi_buspor_tr_orta_nokta_2026-01-06_0285",
+          "start": 285,
+          "end": 375,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "TR - TİVİBU SPOR 4",
+      "programs": [
+        {
+          "program_id": "ti_vi_buspor4_tr_tivibu_spor_tan_t_m_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "ti_vi_buspor4_tr_tivibu_spor_tan_t_m_2026-01-06_0180",
+          "start": 180,
+          "end": 480,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "TR - ULUSAL TV",
+      "programs": [
+        {
+          "program_id": "ulusaltv_tr_haber_turu_2026-01-06_0000",
+          "start": 0,
+          "end": 330,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "ulusaltv_tr_g_nayd_n_t_rkiye_2026-01-06_0330",
+          "start": 330,
+          "end": 510,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "TR - Ülke TV",
+      "programs": [
+        {
+          "program_id": "ulketv_tr_lkede_bu_gece_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "ulketv_tr_lke_de_bu_sabah_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "TR - VAV TV",
+      "programs": [
+        {
+          "program_id": "vavtv_tr_mukabele_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "religion",
+          "score": 49
+        },
+        {
+          "program_id": "vavtv_tr_an_lar_n_i_zinde_2026-01-06_0060",
+          "start": 60,
+          "end": 165,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "vavtv_tr_kendini_bilmek_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "vavtv_tr_mukabele_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "vavtv_tr_vakti_geldi_2026-01-06_0360",
+          "start": 360,
+          "end": 420,
+          "genre": "kids",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "TR - W-SPORT",
+      "programs": [
+        {
+          "program_id": "wsport_tr_frauen_bundesliga_25_26__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "wsport_tr_derby_de_bretagne_25_h_l_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "wsport_tr_serie_a_women_25_26_lazi_2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "wsport_tr_damallsvenskan_25_malmo__2026-01-06_0210",
+          "start": 210,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "wsport_tr_netball_super_league_25__2026-01-06_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    }
+  ]
+}

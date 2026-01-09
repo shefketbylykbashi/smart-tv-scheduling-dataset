@@ -1,0 +1,6180 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 130,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 15,
+      "end": 120,
+      "allowed_channels": [
+        48,
+        58,
+        5,
+        50,
+        47,
+        42,
+        52,
+        81,
+        11,
+        43,
+        96,
+        41,
+        39,
+        129,
+        24,
+        15,
+        127,
+        65,
+        82,
+        89,
+        35,
+        36,
+        32,
+        18,
+        60,
+        40,
+        120,
+        22,
+        88,
+        126,
+        4,
+        107,
+        78,
+        110,
+        20,
+        1,
+        23,
+        31,
+        37,
+        114,
+        118,
+        94,
+        103,
+        10,
+        99,
+        95,
+        97,
+        122,
+        13,
+        49,
+        68,
+        28,
+        109,
+        91,
+        80,
+        90,
+        55,
+        71,
+        111,
+        115,
+        17,
+        66,
+        92,
+        26,
+        101,
+        63,
+        77,
+        62,
+        72
+      ]
+    },
+    {
+      "start": 225,
+      "end": 255,
+      "allowed_channels": [
+        49,
+        50,
+        84,
+        5,
+        26,
+        35,
+        9,
+        64,
+        86,
+        96,
+        11,
+        112,
+        70,
+        69,
+        19,
+        92,
+        36,
+        39,
+        94,
+        102,
+        110,
+        124,
+        129,
+        3,
+        6,
+        100,
+        104,
+        107,
+        37,
+        32,
+        97,
+        115,
+        18,
+        105,
+        47,
+        76,
+        121,
+        128,
+        98,
+        41,
+        54,
+        59,
+        90,
+        21,
+        13,
+        22,
+        45,
+        81,
+        113,
+        7,
+        31,
+        38,
+        12,
+        17,
+        43,
+        55,
+        71,
+        72,
+        109,
+        120,
+        15,
+        67,
+        23,
+        25,
+        33,
+        80
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "music",
+      "bonus": 26
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "music",
+      "bonus": 26
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "music",
+      "bonus": 26
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "sports",
+      "bonus": 26
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "sports",
+      "bonus": 29
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "sports",
+      "bonus": 28
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "sports",
+      "bonus": 26
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "movie",
+      "bonus": 50
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "unknown",
+      "bonus": 54
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "HU - 9.Tv",
+      "programs": [
+        {
+          "program_id": "9tv_hu_illatos_ti_szennyez_s_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "9tv_hu_top_9_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "9tv_hu_illatos_ti_szennyez_s_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "9tv_hu_fradi_sz_v_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "9tv_hu_h_rek_ferencv_rosb_l_2026-01-06_0300",
+          "start": 300,
+          "end": 342,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "HU - AMC",
+      "programs": [
+        {
+          "program_id": "amc_hu_h_sev_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "amc_hu_v_r_s_zsaru_2026-01-06_0035",
+          "start": 35,
+          "end": 145,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "amc_hu_lesz_mol_s_kis_toki_ban_2026-01-06_0145",
+          "start": 145,
+          "end": 220,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "amc_hu_a_s_rk_nykapu_rep_l_kard_2026-01-06_0220",
+          "start": 220,
+          "end": 335,
+          "genre": "religion",
+          "score": 51
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "HU - ATV",
+      "programs": [
+        {
+          "program_id": "atv_hu_egyenes_besz_d_2026-01-06_0020",
+          "start": 20,
+          "end": 95,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "atv_hu_aktu_l_2026-01-06_0095",
+          "start": 95,
+          "end": 145,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "atv_hu_start_2026-01-06_0145",
+          "start": 145,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atv_hu_start_plusz_2026-01-06_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atv_hu_700_as_klub_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atv_hu_hazah_z_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "HU - ATV Spirit",
+      "programs": [
+        {
+          "program_id": "atvspirit_hu_700_as_klub_2026-01-06_0010",
+          "start": 10,
+          "end": 40,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atvspirit_hu_hit_s_let_2026-01-06_0040",
+          "start": 40,
+          "end": 80,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "atvspirit_hu_vid_m_vas_rnap_2026-01-06_0080",
+          "start": 80,
+          "end": 175,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "atvspirit_hu_bochkor_2026-01-06_0200",
+          "start": 200,
+          "end": 270,
+          "genre": "talk",
+          "score": 67
+        },
+        {
+          "program_id": "atvspirit_hu_start_plusz_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atvspirit_hu_egyenes_besz_d_2026-01-06_0300",
+          "start": 300,
+          "end": 355,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "atvspirit_hu_hazah_z_2026-01-06_0355",
+          "start": 355,
+          "end": 415,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "HU - AXN",
+      "programs": [
+        {
+          "program_id": "axn_hu_a_lehetetlen_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "axn_hu_fbi_new_york_k_l_nleges__2026-01-06_0050",
+          "start": 50,
+          "end": 105,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "axn_hu_j_a_g_becs_letbeli_gyek_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "axn_hu_ncis_2026-01-06_0150",
+          "start": 150,
+          "end": 190,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "axn_hu_smallville_2026-01-06_0190",
+          "start": 190,
+          "end": 390,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "HU - Al Jazeera English",
+      "programs": [
+        {
+          "program_id": "aljazeeraenglish_h_news_live_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "aljazeeraenglish_h_inside_story_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "aljazeeraenglish_h_newshour_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "aljazeeraenglish_h_the_el_masri_case_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "aljazeeraenglish_h_news_live_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 77
+        },
+        {
+          "program_id": "aljazeeraenglish_h_listening_post_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "aljazeeraenglish_h_news_live_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 87
+        },
+        {
+          "program_id": "aljazeeraenglish_h_all_hail_the_planet_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "aljazeeraenglish_h_news_live_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "aljazeeraenglish_h_the_stream_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "HU - Animal Planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_hu_a_kihal_s_sz_l_n_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "animalplanet_hu_louisianai_vad_r_k_2026-01-06_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "animalplanet_hu_akv_rium_extr_kkal_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "animalplanet_hu_llatdokik_2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_hu_llatdokik_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "animalplanet_hu_alaszka_sz_rnyei_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_hu_louisianai_vad_r_k_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_hu_101_nagykutya_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "HU - Apostol TV",
+      "programs": [
+        {
+          "program_id": "apostoltv_hu_szentmise_2026-01-06_0004",
+          "start": 4,
+          "end": 45,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "apostoltv_hu_r_zsaf_z_r_2026-01-06_0045",
+          "start": 45,
+          "end": 80,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "apostoltv_hu_katek_zis_2026-01-06_0080",
+          "start": 80,
+          "end": 110,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "apostoltv_hu_nevel_s_az_let_szolg_lat_2026-01-06_0110",
+          "start": 110,
+          "end": 210,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "apostoltv_hu_m_ly_k_v_z_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "apostoltv_hu_imamaraton_hat_rok_n_lk__2026-01-06_0240",
+          "start": 240,
+          "end": 290,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "apostoltv_hu_k_p_js_g_2026-01-06_0290",
+          "start": 290,
+          "end": 410,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "HU - Aréna 4",
+      "programs": [
+        {
+          "program_id": "arena4_hu_nfl_2026-01-06_0000",
+          "start": 0,
+          "end": 195,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "arena4_hu_football_scottish_premie_2026-01-06_0195",
+          "start": 195,
+          "end": 360,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "HU - Auto Motor Sport TV",
+      "programs": [
+        {
+          "program_id": "automotorsporttv_h_der_e_auto_supertest_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "automotorsporttv_h_four_motors_alternativ_z_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "series",
+          "score": 79
+        },
+        {
+          "program_id": "automotorsporttv_h_die_7_2026-01-06_0145",
+          "start": 145,
+          "end": 160,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "automotorsporttv_h_der_einzeltest_2026-01-06_0160",
+          "start": 160,
+          "end": 165,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "automotorsporttv_h_der_einzeltest_2026-01-06_0165",
+          "start": 165,
+          "end": 170,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "automotorsporttv_h_luxembourg_classic_aus_l_2026-01-06_0170",
+          "start": 170,
+          "end": 195,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "automotorsporttv_h_garagengold_2026-01-06_0195",
+          "start": 195,
+          "end": 225,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "automotorsporttv_h_garagengold_2026-01-06_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "automotorsporttv_h_eastside_motors_2026-01-06_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "automotorsporttv_h_die_7_2026-01-06_0350",
+          "start": 350,
+          "end": 360,
+          "genre": "sports",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "HU - BBC Earth",
+      "programs": [
+        {
+          "program_id": "bbcearth_hu_skandin_v_kalandok_simon_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bbcearth_hu_nagy_kontinent_lis_vas_t_2026-01-06_0030",
+          "start": 30,
+          "end": 100,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "bbcearth_hu_let_a_fagypont_alatt_kan_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bbcearth_hu_akik_a_vadonban_lnek_a_v_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "bbcearth_hu_gy_rl_togat_s_2026-01-06_0195",
+          "start": 195,
+          "end": 250,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bbcearth_hu_hal_los_vihar_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "bbcearth_hu_skandin_v_kalandok_simon_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "HU - BBC World",
+      "programs": [
+        {
+          "program_id": "bbcworld_hu_bbc_world_news_america_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 74
+        },
+        {
+          "program_id": "bbcworld_hu_bbc_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "bbcworld_hu_newscast_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bbcworld_hu_bbc_news_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bbcworld_hu_talking_business_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "music",
+          "score": 56
+        },
+        {
+          "program_id": "bbcworld_hu_newsday_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 85
+        },
+        {
+          "program_id": "bbcworld_hu_bbc_sport_2026-01-06_0225",
+          "start": 225,
+          "end": 240,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "bbcworld_hu_newsday_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "bbcworld_hu_bbc_sport_2026-01-06_0285",
+          "start": 285,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "bbcworld_hu_newsday_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "bbcworld_hu_bbc_sport_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "HU - Baby TV English",
+      "programs": [
+        {
+          "program_id": "babytvenglish_hu_dreamy_nights_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "babytvenglish_hu_dreamy_nights_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "babytvenglish_hu_dreamy_nights_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "babytvenglish_hu_moon_and_stars_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytvenglish_hu_babytv_s_night_time_melo_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "babytvenglish_hu_sweet_dreams_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "babytvenglish_hu_good_night_hugs_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "babytvenglish_hu_dreamy_nights_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytvenglish_hu_moon_and_stars_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "babytvenglish_hu_soothing_sounds_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "babytvenglish_hu_from_night_to_day_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "babytvenglish_hu_from_night_to_day_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "HU - Babyfirst English",
+      "programs": [
+        {
+          "program_id": "babyfirstenglish_h_sweet_dreams_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "babyfirstenglish_h_rise_and_shine_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "kids",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "HU - Balaton Televízió",
+      "programs": [
+        {
+          "program_id": "balatontelevizio_h_a_balaton_telev_zi_jszak_2026-01-06_0025",
+          "start": 25,
+          "end": 480,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "HU - Bloomberg English",
+      "programs": [
+        {
+          "program_id": "bloombergenglish_h_bloomberg_the_asia_trade_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "bloombergenglish_h_bloomberg_the_china_show_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "bloombergenglish_h_insight_with_haslinda_am_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "HU - Boomerang",
+      "programs": [
+        {
+          "program_id": "boomerang_hu_a_tom_s_jerry_show_2026-01-06_0000",
+          "start": 0,
+          "end": 15,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "boomerang_hu_a_tom_s_jerry_show_2026-01-06_0020",
+          "start": 20,
+          "end": 25,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "boomerang_hu_a_tom_s_jerry_show_2026-01-06_0025",
+          "start": 25,
+          "end": 40,
+          "genre": "sports",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "HU - CNBC",
+      "programs": [
+        {
+          "program_id": "cnbc_hu_asia_squawk_box_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnbc_hu_asia_squawk_box_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnbc_hu_asia_squawk_box_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cnbc_hu_asia_squawk_box_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cnbc_hu_asia_squawk_box_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cnbc_hu_asia_squawk_box_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnbc_hu_the_china_connection_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cnbc_hu_the_china_connection_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "cnbc_hu_inside_india_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cnbc_hu_inside_india_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cnbc_hu_access_middle_east_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cnbc_hu_access_middle_east_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "HU - CNN English",
+      "programs": [
+        {
+          "program_id": "cnnenglish_hu_the_brief_with_jim_sciut_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cnnenglish_hu_erin_burnett_out_front_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "talk",
+          "score": 74
+        },
+        {
+          "program_id": "cnnenglish_hu_anderson_cooper_360_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "cnnenglish_hu_the_source_with_kaitlan__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cnnenglish_hu_cnn_newsnight_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "cnnenglish_hu_laura_coates_live_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "sports",
+          "score": 89
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "HU - Cartoon Network",
+      "programs": [
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0000",
+          "start": 0,
+          "end": 5,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0005",
+          "start": 5,
+          "end": 25,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0025",
+          "start": 25,
+          "end": 35,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0050",
+          "start": 50,
+          "end": 60,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0060",
+          "start": 60,
+          "end": 70,
+          "genre": "sports",
+          "score": 60
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0070",
+          "start": 70,
+          "end": 85,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0085",
+          "start": 85,
+          "end": 95,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0095",
+          "start": 95,
+          "end": 110,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0110",
+          "start": 110,
+          "end": 120,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0120",
+          "start": 120,
+          "end": 130,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0145",
+          "start": 145,
+          "end": 155,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0155",
+          "start": 155,
+          "end": 165,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0165",
+          "start": 165,
+          "end": 175,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0175",
+          "start": 175,
+          "end": 185,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0185",
+          "start": 185,
+          "end": 195,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0195",
+          "start": 195,
+          "end": 205,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0205",
+          "start": 205,
+          "end": 215,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0215",
+          "start": 215,
+          "end": 225,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0225",
+          "start": 225,
+          "end": 235,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0235",
+          "start": 235,
+          "end": 250,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0250",
+          "start": 250,
+          "end": 260,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0260",
+          "start": 260,
+          "end": 270,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0270",
+          "start": 270,
+          "end": 280,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0280",
+          "start": 280,
+          "end": 290,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0290",
+          "start": 290,
+          "end": 305,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0305",
+          "start": 305,
+          "end": 315,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0315",
+          "start": 315,
+          "end": 325,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0325",
+          "start": 325,
+          "end": 335,
+          "genre": "sports",
+          "score": 67
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0335",
+          "start": 335,
+          "end": 345,
+          "genre": "sports",
+          "score": 66
+        },
+        {
+          "program_id": "cartoonnetwork_hu_gumball_csod_latos_vil_g_2026-01-06_0345",
+          "start": 345,
+          "end": 360,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "HU - Channel One Russia (Russian)",
+      "programs": [
+        {
+          "program_id": "channelonerussia_r_podkast_lab_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "channelonerussia_r_podkast_lab_2026-01-06_0030",
+          "start": 30,
+          "end": 65,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "channelonerussia_r_kazanova_v_begah_2026-01-06_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "channelonerussia_r_vremya_2026-01-06_0120",
+          "start": 120,
+          "end": 155,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "channelonerussia_r_doktor_preobrazhenskij_2026-01-06_0155",
+          "start": 155,
+          "end": 205,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "channelonerussia_r_podkast_lab_2026-01-06_0205",
+          "start": 205,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "channelonerussia_r_kovcheg_2026-01-06_0250",
+          "start": 250,
+          "end": 335,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "channelonerussia_r_a_g_rbe_t_kr_k_birodalma_2026-01-06_0335",
+          "start": 335,
+          "end": 420,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "HU - Cinemax",
+      "programs": [
+        {
+          "program_id": "cinemax_hu_k_t_n_2026-01-06_0025",
+          "start": 25,
+          "end": 125,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cinemax_hu_szex_2026-01-06_0125",
+          "start": 125,
+          "end": 245,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "cinemax_hu_kyuka_miel_tt_v_get_r_a__2026-01-06_0245",
+          "start": 245,
+          "end": 361,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "HU - Cinemax 2",
+      "programs": [
+        {
+          "program_id": "cinemax2_hu_a_l_nyok_m_r_csak_l_nyok_2026-01-06_0010",
+          "start": 10,
+          "end": 130,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "cinemax2_hu_az_j_s_t_tj_ben_2026-01-06_0130",
+          "start": 130,
+          "end": 250,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cinemax2_hu_a_tan_r_aki_a_tengert_g__2026-01-06_0250",
+          "start": 250,
+          "end": 361,
+          "genre": "movie",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "HU - Comedy Central",
+      "programs": [
+        {
+          "program_id": "comedycentral_hu_a_comedy_central_tulajdo_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "comedycentral_hu_a_comedy_central_tulajdo_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "comedycentral_hu_a_comedy_central_tulajdo_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "HU - Cool",
+      "programs": [
+        {
+          "program_id": "cool_hu_doktor_house_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cool_hu_csi_miami_helysz_nel_k_2026-01-06_0055",
+          "start": 55,
+          "end": 110,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "cool_hu_castle_2026-01-06_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cool_hu_castle_2026-01-06_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cool_hu_cobra_11_2026-01-06_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "cool_hu_cobra_11_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cool_hu_csi_new_york_i_helysz_ne_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "cool_hu_csi_new_york_i_helysz_ne_2026-01-06_0345",
+          "start": 345,
+          "end": 400,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "HU - D1 TV",
+      "programs": [
+        {
+          "program_id": "d1tv_hu_a_csoda_pillanatai_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "d1tv_hu_porond_kv_z_2026-01-06_0035",
+          "start": 35,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "HU - DUNA Televízió",
+      "programs": [
+        {
+          "program_id": "dunatelevizio_hu_csal_di_k_r_2026-01-06_0020",
+          "start": 20,
+          "end": 65,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dunatelevizio_hu_csal_di_k_r_2026-01-06_0065",
+          "start": 65,
+          "end": 95,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "dunatelevizio_hu_egy_csod_latos_asszony_2026-01-06_0095",
+          "start": 95,
+          "end": 145,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "dunatelevizio_hu_bor_m_mor_szerelem_2026-01-06_0145",
+          "start": 145,
+          "end": 200,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "dunatelevizio_hu_ridik_l_2026-01-06_0225",
+          "start": 225,
+          "end": 280,
+          "genre": "sports",
+          "score": 81
+        },
+        {
+          "program_id": "dunatelevizio_hu_csal_d_bar_t_2026-01-06_0280",
+          "start": 280,
+          "end": 310,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dunatelevizio_hu_csal_d_bar_t_2026-01-06_0315",
+          "start": 315,
+          "end": 355,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "HU - Da Vinci TV",
+      "programs": [
+        {
+          "program_id": "davincitv_hu_ifj_llatorvosok_2026-01-06_0060",
+          "start": 60,
+          "end": 84,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "davincitv_hu_gaming_show_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "talk",
+          "score": 63
+        },
+        {
+          "program_id": "davincitv_hu_llati_mened_k_2026-01-06_0276",
+          "start": 276,
+          "end": 300,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "davincitv_hu_ikerdokik_bevet_sen_2026-01-06_0327",
+          "start": 327,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "HU - Discovery Channel",
+      "programs": [
+        {
+          "program_id": "discoverychannel_h_csupasz_t_l_l_k_aki_llva_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "discoverychannel_h_a_vihar_szeme_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "discoverychannel_h_csupasz_t_l_l_k_2026-01-06_0120",
+          "start": 120,
+          "end": 220,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "discoverychannel_h_aut_keresked_k_2026-01-06_0220",
+          "start": 220,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "discoverychannel_h_a_brit_kincsvad_sz_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "discoverychannel_h_a_brit_kincsvad_sz_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "HU - Duck TV",
+      "programs": [
+        {
+          "program_id": "ducktv_hu_j_t_kaim_bar_taim_2026-01-06_0080",
+          "start": 80,
+          "end": 83,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "ducktv_hu_napfalva_2026-01-06_0091",
+          "start": 91,
+          "end": 93,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "ducktv_hu_j_t_kaim_bar_taim_2026-01-06_0093",
+          "start": 93,
+          "end": 96,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "ducktv_hu_j_t_kaim_bar_taim_2026-01-06_0112",
+          "start": 112,
+          "end": 115,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "ducktv_hu_napfalva_2026-01-06_0118",
+          "start": 118,
+          "end": 121,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "ducktv_hu_j_t_kaim_bar_taim_2026-01-06_0125",
+          "start": 125,
+          "end": 128,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "ducktv_hu_napfalva_2026-01-06_0185",
+          "start": 185,
+          "end": 188,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "ducktv_hu_sport_sport_sport_2026-01-06_0234",
+          "start": 234,
+          "end": 237,
+          "genre": "sports",
+          "score": 65
+        },
+        {
+          "program_id": "ducktv_hu_sport_sport_sport_2026-01-06_0245",
+          "start": 245,
+          "end": 248,
+          "genre": "sports",
+          "score": 68
+        },
+        {
+          "program_id": "ducktv_hu_j_tsz_t_rsak_2026-01-06_0253",
+          "start": 253,
+          "end": 256,
+          "genre": "sports",
+          "score": 69
+        },
+        {
+          "program_id": "ducktv_hu_j_tsz_t_rsak_2026-01-06_0266",
+          "start": 266,
+          "end": 270,
+          "genre": "sports",
+          "score": 63
+        },
+        {
+          "program_id": "ducktv_hu_j_tsz_t_rsak_2026-01-06_0276",
+          "start": 276,
+          "end": 280,
+          "genre": "sports",
+          "score": 64
+        },
+        {
+          "program_id": "ducktv_hu_j_tsz_t_rsak_2026-01-06_0283",
+          "start": 283,
+          "end": 286,
+          "genre": "sports",
+          "score": 61
+        },
+        {
+          "program_id": "ducktv_hu_napfalva_2026-01-06_0315",
+          "start": 315,
+          "end": 318,
+          "genre": "sports",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "HU - Duna World",
+      "programs": [
+        {
+          "program_id": "dunaworld_hu_rejt_lyes_xx_sz_zad_2026-01-06_0005",
+          "start": 5,
+          "end": 35,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "dunaworld_hu_ez_itt_a_k_rd_s_2026-01-06_0095",
+          "start": 95,
+          "end": 150,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "dunaworld_hu_szemben_a_l_nch_d_oroszl_2026-01-06_0150",
+          "start": 150,
+          "end": 220,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "dunaworld_hu_fam_lia_kft_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "dunaworld_hu_a_nagyok_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "sports",
+          "score": 75
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "HU - EWTN",
+      "programs": [
+        {
+          "program_id": "ewtn_hu_ewtn_m_sora_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ewtn_hu_ewtn_m_sora_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "ewtn_hu_ewtn_m_sora_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "HU - Epic Drama",
+      "programs": [
+        {
+          "program_id": "epicdrama_hu_murdoch_nyomoz_rejt_lyei_2026-01-06_0020",
+          "start": 20,
+          "end": 75,
+          "genre": "documentary",
+          "score": 77
+        },
+        {
+          "program_id": "epicdrama_hu_kisv_rosi_gyilkoss_g_2026-01-06_0075",
+          "start": 75,
+          "end": 135,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "epicdrama_hu_a_marlow_i_nyomoz_klub_2026-01-06_0135",
+          "start": 135,
+          "end": 195,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "epicdrama_hu_spade_nyomoz_2026-01-06_0195",
+          "start": 195,
+          "end": 275,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "epicdrama_hu_scarlet_kisasszony_s_a_h_2026-01-06_0275",
+          "start": 275,
+          "end": 365,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "HU - Erdély TV",
+      "programs": [
+        {
+          "program_id": "erdelytv_hu_h_rad_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "HU - Euronews",
+      "programs": [
+        {
+          "program_id": "euronews_hu_the_european_debrief_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "euronews_hu_the_european_debrief_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "euronews_hu_the_european_debrief_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "euronews_hu_news_2026-01-06_0226",
+          "start": 226,
+          "end": 240,
+          "genre": "news",
+          "score": 56
+        },
+        {
+          "program_id": "euronews_hu_the_european_debrief_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "euronews_hu_the_european_debrief_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "HU - Eurosport 1",
+      "programs": [
+        {
+          "program_id": "eurosport1_hu_ski_jumping_2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "eurosport1_hu_snooker_szak_ir_open_d_n_2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "eurosport1_hu_s_fut_s_vil_gkupa_tour_d_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "eurosport1_hu_s_fut_s_vil_gkupa_tour_d_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "eurosport1_hu_s_fut_s_vil_gkupa_tour_d_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "eurosport1_hu_ski_jumping_2026-01-06_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "HU - Eurosport 2",
+      "programs": [
+        {
+          "program_id": "eurosport2_hu_s_fut_s_vil_gkupa_tour_d_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "eurosport2_hu_s_fut_s_vil_gkupa_tour_d_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "eurosport2_hu_s_fut_s_vil_gkupa_tour_d_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "eurosport2_hu_ski_jumping_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport2_hu_ski_jumping_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "eurosport2_hu_tenisz_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "HU - Extreme Sports",
+      "programs": [
+        {
+          "program_id": "extremesports_hu_grid_grid_1_ep_12_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "extremesports_hu_north_wrestling_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "extremesports_hu_boondock_nation_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "documentary",
+          "score": 69
+        },
+        {
+          "program_id": "extremesports_hu_boondock_nation_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "documentary",
+          "score": 69
+        },
+        {
+          "program_id": "extremesports_hu_strongman_champions_leag_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "HU - FEM3",
+      "programs": [
+        {
+          "program_id": "fem3_hu_szeretlek_de_hazudtam_2026-01-06_0005",
+          "start": 5,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "fem3_hu_r_mes_lak_k_rettenetes_f_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "fem3_hu_az_n_dilis_exem_2026-01-06_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "fem3_hu_gy_jt_get_k_paul_linda_2026-01-06_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "fem3_hu_mondj_igent_a_ruh_ra_atl_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "fem3_hu_n_gy_esk_v_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "fem3_hu_teleshop_2026-01-06_0285",
+          "start": 285,
+          "end": 345,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "fem3_hu_kast_lyb_l_lomotthon_2026-01-06_0345",
+          "start": 345,
+          "end": 400,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "HU - Fashion TV",
+      "programs": [
+        {
+          "program_id": "fashiontv_hu_lingerie_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "fashiontv_hu_lingerie_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "fashiontv_hu_swimwear_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "series",
+          "score": 80
+        },
+        {
+          "program_id": "fashiontv_hu_swimwear_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "series",
+          "score": 76
+        },
+        {
+          "program_id": "fashiontv_hu_world_top_models_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "talk",
+          "score": 77
+        },
+        {
+          "program_id": "fashiontv_hu_world_top_models_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "talk",
+          "score": 69
+        },
+        {
+          "program_id": "fashiontv_hu_lingerie_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "fashiontv_hu_lingerie_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "fashiontv_hu_swimwear_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "series",
+          "score": 74
+        },
+        {
+          "program_id": "fashiontv_hu_swimwear_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "series",
+          "score": 81
+        },
+        {
+          "program_id": "fashiontv_hu_top_photoshoots_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "fashiontv_hu_top_photoshoots_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "music",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "HU - Fehérvár TV",
+      "programs": [
+        {
+          "program_id": "fehervartv_hu_k_pes_h_rek_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "fehervartv_hu_k_pes_h_rek_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "fehervartv_hu_k_pes_h_rek_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "HU - Film+",
+      "programs": [
+        {
+          "program_id": "film_hu_barry_seal_a_besz_ll_t_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "movie",
+          "score": 91
+        },
+        {
+          "program_id": "film_hu_amerikai_ostrom_2026-01-06_0050",
+          "start": 50,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "film_hu_jack_mimoun_s_a_rejt_lye_2026-01-06_0150",
+          "start": 150,
+          "end": 375,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "HU - Film4",
+      "programs": [
+        {
+          "program_id": "film4_hu_s_isten_megteremt_a_n_t_2026-01-06_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "movie",
+          "score": 86
+        },
+        {
+          "program_id": "film4_hu_pont_j_kor_2026-01-06_0080",
+          "start": 80,
+          "end": 175,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "film4_hu_az_gyf_l_2026-01-06_0175",
+          "start": 175,
+          "end": 320,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "film4_hu_m_sodik_nekifut_s_2026-01-06_0320",
+          "start": 320,
+          "end": 420,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "HU - Film Mánia",
+      "programs": [
+        {
+          "program_id": "filmmania_hu_a_falka_2_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "filmmania_hu_a_texasi_l_ncf_r_szes_2026-01-06_0075",
+          "start": 75,
+          "end": 170,
+          "genre": "movie",
+          "score": 88
+        },
+        {
+          "program_id": "filmmania_hu_9_s_1_2_h_t_2026-01-06_0170",
+          "start": 170,
+          "end": 285,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "filmmania_hu_close_up_2026-01-06_0310",
+          "start": 310,
+          "end": 340,
+          "genre": "movie",
+          "score": 88
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "HU - Filmbox",
+      "programs": [
+        {
+          "program_id": "filmbox_hu_blitz_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "filmbox_hu_a_pankr_tor_2026-01-06_0085",
+          "start": 85,
+          "end": 190,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "filmbox_hu_a_m_lyben_2026-01-06_0190",
+          "start": 190,
+          "end": 285,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "filmbox_hu_sendepause_2026-01-06_0285",
+          "start": 285,
+          "end": 375,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "HU - Filmbox Extra",
+      "programs": [
+        {
+          "program_id": "filmboxextra_hu_csendes_j_2026-01-06_0010",
+          "start": 10,
+          "end": 100,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "filmboxextra_hu_volt_egyszer_egy_deadwoo_2026-01-06_0100",
+          "start": 100,
+          "end": 185,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "filmboxextra_hu_k_o_a_ki_t_s_2026-01-06_0185",
+          "start": 185,
+          "end": 280,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "filmboxextra_hu_the_painted_hills_2026-01-06_0280",
+          "start": 280,
+          "end": 345,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "HU - Filmbox Family",
+      "programs": [
+        {
+          "program_id": "filmboxfamily_hu_sendepause_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "HU - Filmbox Plus",
+      "programs": [
+        {
+          "program_id": "filmboxplus_hu_sz_k_s_kandaharb_l_2026-01-06_0015",
+          "start": 15,
+          "end": 110,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "filmboxplus_hu_sniff_s_a_tolvajbanda_2026-01-06_0110",
+          "start": 110,
+          "end": 190,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "filmboxplus_hu_fist_2_fist_2026-01-06_0190",
+          "start": 190,
+          "end": 280,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "filmboxplus_hu_ttermi_let_2026-01-06_0305",
+          "start": 305,
+          "end": 385,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "HU - Filmbox Premium",
+      "programs": [
+        {
+          "program_id": "filmboxpremium_hu_a_vil_g_legrosszabb_embe_2026-01-06_0000",
+          "start": 0,
+          "end": 100,
+          "genre": "movie",
+          "score": 91
+        },
+        {
+          "program_id": "filmboxpremium_hu_gyilkos_szt_n_2026-01-06_0100",
+          "start": 100,
+          "end": 200,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "filmboxpremium_hu_a_kelletlen_tit_rs_2026-01-06_0200",
+          "start": 200,
+          "end": 319,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "filmboxpremium_hu_t_vols_gi_szerelem_2026-01-06_0320",
+          "start": 320,
+          "end": 400,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "HU - Filmcafe",
+      "programs": [
+        {
+          "program_id": "filmcafe_hu_13_k_s_rtet_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "filmcafe_hu_buliszerviz_2026-01-06_0040",
+          "start": 40,
+          "end": 135,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "filmcafe_hu_hetedik_2026-01-06_0135",
+          "start": 135,
+          "end": 255,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "filmcafe_hu_gyerekj_t_k_2026-01-06_0255",
+          "start": 255,
+          "end": 335,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "HU - Fishing & Hunting",
+      "programs": [
+        {
+          "program_id": "fishingandhunting__bait_bait_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "fishingandhunting__haldor_d_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "movie",
+          "score": 89
+        },
+        {
+          "program_id": "fishingandhunting__haldor_d_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "fishingandhunting__csali_testv_rek_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "movie",
+          "score": 91
+        },
+        {
+          "program_id": "fishingandhunting__n_methy_andr_s_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "movie",
+          "score": 85
+        },
+        {
+          "program_id": "fishingandhunting__l_v_szsuli_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "movie",
+          "score": 80
+        },
+        {
+          "program_id": "fishingandhunting__l_v_szsuli_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "movie",
+          "score": 85
+        },
+        {
+          "program_id": "fishingandhunting__tavaszi_bred_s_feederez__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "movie",
+          "score": 92
+        },
+        {
+          "program_id": "fishingandhunting__dovit_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "movie",
+          "score": 82
+        },
+        {
+          "program_id": "fishingandhunting__satur_baits_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "fishingandhunting__n_methy_andr_s_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "movie",
+          "score": 90
+        },
+        {
+          "program_id": "fishingandhunting__a_vad_szat_felfedez_se_a_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "HU - Fit",
+      "programs": [
+        {
+          "program_id": "fit_hu_fit_info_2026-01-06_0000",
+          "start": 0,
+          "end": 300,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "fit_hu_j_ga_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "HU - Food Network",
+      "programs": [
+        {
+          "program_id": "foodnetwork_hu_b_f_k_aut_svend_gl_k_s_g_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "foodnetwork_hu_b_f_k_aut_svend_gl_k_s_g_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "foodnetwork_hu_v_g_deszka_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "sports",
+          "score": 85
+        },
+        {
+          "program_id": "foodnetwork_hu_lehetetlen_ttermi_k_ldet_2026-01-06_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "education",
+          "score": 58
+        },
+        {
+          "program_id": "foodnetwork_hu_gyerekek_s_t_bajnoks_ga_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "foodnetwork_hu_v_g_deszka_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "series",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "HU - Galaxy4",
+      "programs": [
+        {
+          "program_id": "galaxy4_hu_tetthely_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "galaxy4_hu_tetthely_2026-01-06_0050",
+          "start": 50,
+          "end": 155,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "galaxy4_hu_rebecca_2026-01-06_0155",
+          "start": 155,
+          "end": 305,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "galaxy4_hu_kisv_rosi_gyilkoss_gok_2026-01-06_0305",
+          "start": 305,
+          "end": 410,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "HU - Gotthárd TV",
+      "programs": [
+        {
+          "program_id": "gotthardtv_hu_k_p_js_g_2026-01-06_0020",
+          "start": 20,
+          "end": 390,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "HU - Gyöngyösi TV",
+      "programs": [
+        {
+          "program_id": "gyongyositv_hu_k_p_js_g_2026-01-06_0000",
+          "start": 0,
+          "end": 540,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "HU - HBO",
+      "programs": [
+        {
+          "program_id": "hbo_hu_v_ge_2026-01-06_0000",
+          "start": 0,
+          "end": 146,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hbo_hu_s_t_t_p_nzek_az_amerikai_2026-01-06_0146",
+          "start": 146,
+          "end": 261,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hbo_hu_pokolba_tasz_tva_2026-01-06_0261",
+          "start": 261,
+          "end": 362,
+          "genre": "music",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "HU - HBO 2",
+      "programs": [
+        {
+          "program_id": "hbo2_hu_a_s_t_ts_g_30_napja_2026-01-06_0000",
+          "start": 0,
+          "end": 79,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "hbo2_hu_a_starling_l_ny_2026-01-06_0079",
+          "start": 79,
+          "end": 192,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hbo2_hu_don_q_2026-01-06_0192",
+          "start": 192,
+          "end": 295,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hbo2_hu_john_early_most_jobban_m_2026-01-06_0295",
+          "start": 295,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "HU - HBO 3",
+      "programs": [
+        {
+          "program_id": "hbo3_hu_kneecap_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "hbo3_hu_nyughatatlan_zvegyek_2026-01-06_0055",
+          "start": 55,
+          "end": 182,
+          "genre": "movie",
+          "score": 84
+        },
+        {
+          "program_id": "hbo3_hu_valaki_m_s_2026-01-06_0182",
+          "start": 182,
+          "end": 265,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hbo3_hu_rossz_szomsz_ds_g_2026-01-06_0265",
+          "start": 265,
+          "end": 361,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "HU - HISTORY",
+      "programs": [
+        {
+          "program_id": "history_hu_elk_peszt_rejt_lyek_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "history_hu_elk_peszt_rejt_lyek_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "history_hu_a_t_rt_nelem_legnagyobb__2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "history_hu_z_logcsillagok_amerikai__2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "talk",
+          "score": 71
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "HU - Hatoscsatorna",
+      "programs": [
+        {
+          "program_id": "hatoscsatorna_hu_naps_t_ses_katas_gok_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hatoscsatorna_hu_t_rsas_gi_sporth_rek_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "hatoscsatorna_hu_horogra_akadva_pecamagaz_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "hatoscsatorna_hu_volt_egyszer_2026-01-06_0090",
+          "start": 90,
+          "end": 270,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "hatoscsatorna_hu_rt_kt_r_2026-01-06_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hatoscsatorna_hu_szt_rportr_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "HU - Heti TV",
+      "programs": [
+        {
+          "program_id": "hetitv_hu_a_vil_g_zsid_szemmel_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hetitv_hu_a_h_t_r_s_vend_g_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hetitv_hu_hetiszakasz_2026-01-06_0105",
+          "start": 105,
+          "end": 165,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hetitv_hu_pilpul_2026-01-06_0165",
+          "start": 165,
+          "end": 352,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "hetitv_hu_pirkadat_2026-01-06_0355",
+          "start": 355,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "HU - Hír TV",
+      "programs": [
+        {
+          "program_id": "hirtv_hu_monitor_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hirtv_hu_telev_zi_s_v_s_rl_si_m_s_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hirtv_hu_hazah_z_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hirtv_hu_radar_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hirtv_hu_vet_t_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "hirtv_hu_telev_zi_s_v_s_rl_si_m_s_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hirtv_hu_vet_t_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "HU - Investigation Discovery",
+      "programs": [
+        {
+          "program_id": "investigationdisco_anya_gyilkolhatok_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "investigationdisco_a_gonosz_mosolya_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "investigationdisco_majdnem_meg_sztam_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "investigationdisco_a_gyilkos_ind_t_k_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "investigationdisco_a_t_k_letes_gyilkoss_g_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "investigationdisco_a_t_k_letes_gyilkoss_g_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "HU - Izaura TV",
+      "programs": [
+        {
+          "program_id": "izauratv_hu_a_b_cs_lev_l_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "izauratv_hu_a_b_cs_lev_l_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "izauratv_hu_mondj_igent_a_kar_csonyr_2026-01-06_0120",
+          "start": 120,
+          "end": 215,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "izauratv_hu_kiscic_t_kar_csonyra_2026-01-06_0215",
+          "start": 215,
+          "end": 310,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "izauratv_hu_ltet_szerelem_2026-01-06_0310",
+          "start": 310,
+          "end": 425,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "HU - Jocky TV",
+      "programs": [
+        {
+          "program_id": "jockytv_hu_dr_csont_2026-01-06_0015",
+          "start": 15,
+          "end": 70,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "jockytv_hu_dallas_2026-01-06_0070",
+          "start": 70,
+          "end": 125,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "jockytv_hu_dallas_2026-01-06_0125",
+          "start": 125,
+          "end": 170,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "jockytv_hu_d_gl_tt_akt_k_2026-01-06_0170",
+          "start": 170,
+          "end": 215,
+          "genre": "sports",
+          "score": 83
+        },
+        {
+          "program_id": "jockytv_hu_d_gl_tt_akt_k_2026-01-06_0215",
+          "start": 215,
+          "end": 260,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "jockytv_hu_a_mentalista_2026-01-06_0260",
+          "start": 260,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "jockytv_hu_walker_a_texasi_kop_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "jockytv_hu_walker_a_texasi_kop_2026-01-06_0345",
+          "start": 345,
+          "end": 395,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "HU - Kecskeméti Televízió",
+      "programs": [
+        {
+          "program_id": "kecskemetitelevizi_kecskem_ti_telev_zi_m_so_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "kecskemetitelevizi_kecskem_ti_telev_zi_m_so_2026-01-06_0060",
+          "start": 60,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "kecskemetitelevizi_kecskem_ti_telev_zi_m_so_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "kecskemetitelevizi_kecskem_ti_telev_zi_m_so_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "HU - Keresztúri Televízió",
+      "programs": [
+        {
+          "program_id": "kereszturitelevizi_k_p_js_g_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "kereszturitelevizi_k_p_js_g_2026-01-06_0240",
+          "start": 240,
+          "end": 720,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "HU - LifeTv",
+      "programs": [
+        {
+          "program_id": "lifetv_hu_bek_lt_zve_hajd_p_terhez_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "lifetv_hu_vacsorakir_ly_2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "lifetv_hu_vacsorakir_ly_2026-01-06_0090",
+          "start": 90,
+          "end": 145,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "lifetv_hu_teleshop_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "lifetv_hu_frizbi_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "HU - M4 Sport",
+      "programs": [
+        {
+          "program_id": "m4sport_hu_labdar_g_s_uefa_eur_pa_l_2026-01-06_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "m4sport_hu_chi_a_bels_er_magazin_2026-01-06_0020",
+          "start": 20,
+          "end": 50,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "m4sport_hu_csakahonv_d_2026-01-06_0075",
+          "start": 75,
+          "end": 105,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "m4sport_hu_k_and_h_n_i_k_zilabda_li_2026-01-06_0105",
+          "start": 105,
+          "end": 180,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "m4sport_hu_j_gkorong_erste_liga_ute_2026-01-06_0180",
+          "start": 180,
+          "end": 305,
+          "genre": "sports",
+          "score": 72
+        },
+        {
+          "program_id": "m4sport_hu_bajnokok_2026-01-06_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "HU - M5",
+      "programs": [
+        {
+          "program_id": "m5_hu_m_part_2023_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "m5_hu_eur_pa_csod_i_2026-01-06_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "m5_hu_librett_2026-01-06_0120",
+          "start": 120,
+          "end": 175,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "m5_hu_novum_2026-01-06_0200",
+          "start": 200,
+          "end": 230,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "m5_hu_m5_hist_ria_t_rt_nelmi_r_2026-01-06_0230",
+          "start": 230,
+          "end": 270,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "m5_hu_ez_itt_a_k_rd_s_2026-01-06_0280",
+          "start": 280,
+          "end": 330,
+          "genre": "music",
+          "score": 62
+        },
+        {
+          "program_id": "m5_hu_n_is_tudja_m_velts_gi_ve_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "HU - MCM Pop",
+      "programs": [
+        {
+          "program_id": "mcmpop_hu_pop_lista_2026-01-06_0000",
+          "start": 0,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "HU - MCM Top",
+      "programs": [
+        {
+          "program_id": "mcmtop_hu_top_szt_r_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "mcmtop_hu_top_jszaka_2026-01-06_0060",
+          "start": 60,
+          "end": 360,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "HU - MTV",
+      "programs": [
+        {
+          "program_id": "mtv_hu_tetov_l_mesterek_az_gt_j_2026-01-06_0060",
+          "start": 60,
+          "end": 100,
+          "genre": "music",
+          "score": 61
+        },
+        {
+          "program_id": "mtv_hu_tetov_l_mesterek_az_gt_j_2026-01-06_0100",
+          "start": 100,
+          "end": 145,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "mtv_hu_geordie_shore_2026-01-06_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "HU - Mezzo",
+      "programs": [
+        {
+          "program_id": "mezzo_hu_une_petite_pri_re_hommag_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mezzo_hu_martha_argerich_maria_jo_2026-01-06_0035",
+          "start": 35,
+          "end": 130,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mezzo_hu_monty_alexander_d_day_2026-01-06_0130",
+          "start": 130,
+          "end": 230,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mezzo_hu_estival_jazz_lugano_2026-01-06_0230",
+          "start": 230,
+          "end": 280,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "mezzo_hu_tyreek_mcdole_2026-01-06_0280",
+          "start": 280,
+          "end": 335,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mezzo_hu_brahms_quatuor_cordes_n__2026-01-06_0335",
+          "start": 335,
+          "end": 370,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "HU - Minimax",
+      "programs": [
+        {
+          "program_id": "minimax_hu_egyszer_volt_hol_nem_vol_2026-01-06_0130",
+          "start": 130,
+          "end": 135,
+          "genre": "news",
+          "score": 65
+        },
+        {
+          "program_id": "minimax_hu_egyszer_volt_hol_nem_vol_2026-01-06_0230",
+          "start": 230,
+          "end": 240,
+          "genre": "sports",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "HU - Miskolc TV",
+      "programs": [
+        {
+          "program_id": "miskolctv_hu_miskolc_tv_m_sora_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "miskolctv_hu_miskolc_tv_m_sora_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "miskolctv_hu_miskolc_tv_m_sora_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "HU - Mozi+",
+      "programs": [
+        {
+          "program_id": "mozi_hu_diszn_2026-01-06_0000",
+          "start": 0,
+          "end": 110,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mozi_hu_lid_rces_mes_k_jszak_ja_2026-01-06_0110",
+          "start": 110,
+          "end": 265,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mozi_hu_csal_csajok_2026-01-06_0265",
+          "start": 265,
+          "end": 355,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "mozi_hu_hal_li_fegyver_2026-01-06_0355",
+          "start": 355,
+          "end": 450,
+          "genre": "movie",
+          "score": 82
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "HU - Moziverzum",
+      "programs": [
+        {
+          "program_id": "moziverzum_hu_amerikai_pite_2_2026-01-06_0000",
+          "start": 0,
+          "end": 85,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "moziverzum_hu_valami_amerika_3_2026-01-06_0085",
+          "start": 85,
+          "end": 190,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "moziverzum_hu_diszk_patk_nyok_2026-01-06_0190",
+          "start": 190,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "moziverzum_hu_birkany_r_s_2026-01-06_0300",
+          "start": 300,
+          "end": 410,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "HU - Musicmix",
+      "programs": [
+        {
+          "program_id": "musicmix_hu_clipmix_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "musicmix_hu_clipmix_2026-01-06_0240",
+          "start": 240,
+          "end": 480,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "HU - Muzsika TV",
+      "programs": [
+        {
+          "program_id": "muzsikatv_hu_lakodalmas_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "muzsikatv_hu_h_zibuli_attil_val_s_ven_2026-01-06_0060",
+          "start": 60,
+          "end": 160,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "muzsikatv_hu_klipv_logat_s_2026-01-06_0160",
+          "start": 160,
+          "end": 225,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "muzsikatv_hu_retro_disco_2026-01-06_0225",
+          "start": 225,
+          "end": 275,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "muzsikatv_hu_kokt_l_2026-01-06_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "HU - Nat Geo",
+      "programs": [
+        {
+          "program_id": "natgeo_hu_hitler_v_g_r_i_normandi__2026-01-06_0003",
+          "start": 3,
+          "end": 64,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "natgeo_hu_hitler_v_g_r_i_normandi__2026-01-06_0064",
+          "start": 64,
+          "end": 125,
+          "genre": "music",
+          "score": 66
+        },
+        {
+          "program_id": "natgeo_hu_2_vil_gh_bor_pokol_a_ten_2026-01-06_0125",
+          "start": 125,
+          "end": 169,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "natgeo_hu_d_h_ng_elemek_2026-01-06_0169",
+          "start": 169,
+          "end": 213,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "natgeo_hu_jeges_pokol_norv_gi_ban_2026-01-06_0213",
+          "start": 213,
+          "end": 259,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "natgeo_hu_let_sydney_rep_l_ter_n_2026-01-06_0259",
+          "start": 259,
+          "end": 305,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "natgeo_hu_lecsapolt_ce_n_2026-01-06_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "HU - National Geographic",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_hitler_v_g_r_i_normandi__2026-01-06_0003",
+          "start": 3,
+          "end": 64,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "nationalgeographic_hitler_v_g_r_i_normandi__2026-01-06_0064",
+          "start": 64,
+          "end": 125,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "nationalgeographic_2_vil_gh_bor_pokol_a_ten_2026-01-06_0125",
+          "start": 125,
+          "end": 169,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_d_h_ng_elemek_2026-01-06_0169",
+          "start": 169,
+          "end": 213,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "nationalgeographic_jeges_pokol_norv_gi_ban_2026-01-06_0213",
+          "start": 213,
+          "end": 259,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "nationalgeographic_let_sydney_rep_l_ter_n_2026-01-06_0259",
+          "start": 259,
+          "end": 305,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nationalgeographic_lecsapolt_ce_n_2026-01-06_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "HU - National Geographic Wild",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_falusi_llatdokik_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 57
+        },
+        {
+          "program_id": "nationalgeographic_falusi_llatdokik_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "music",
+          "score": 64
+        },
+        {
+          "program_id": "nationalgeographic_feh_r_c_p_k_birodalma_2026-01-06_0120",
+          "start": 120,
+          "end": 168,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "nationalgeographic_afrika_vad_szai_2026-01-06_0168",
+          "start": 168,
+          "end": 216,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_afrika_vad_szai_2026-01-06_0216",
+          "start": 216,
+          "end": 264,
+          "genre": "religion",
+          "score": 58
+        },
+        {
+          "program_id": "nationalgeographic_afrika_vad_szai_2026-01-06_0264",
+          "start": 264,
+          "end": 312,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "nationalgeographic_a_c_p_k_titkai_2026-01-06_0312",
+          "start": 312,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "HU - New Tang Dynasty English",
+      "programs": [
+        {
+          "program_id": "newtangdynastyengl_tv_drama_series_smile_ag_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "series",
+          "score": 73
+        },
+        {
+          "program_id": "newtangdynastyengl_china_s_forbidden_news_1_2026-01-06_0045",
+          "start": 45,
+          "end": 60,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "newtangdynastyengl_ntd_world_news_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "news",
+          "score": 72
+        },
+        {
+          "program_id": "newtangdynastyengl_nine_commentaries_on_the_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "newtangdynastyengl_smart_living_2026-01-06_0135",
+          "start": 135,
+          "end": 165,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "newtangdynastyengl_ntd_world_news_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "news",
+          "score": 71
+        },
+        {
+          "program_id": "newtangdynastyengl_focus_talk_live_call_in_2026-01-06_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "sports",
+          "score": 84
+        },
+        {
+          "program_id": "newtangdynastyengl_ntd_taiwan_news_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "newtangdynastyengl_tv_drama_series_smile_ag_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "series",
+          "score": 83
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "HU - Nicktoons",
+      "programs": [
+        {
+          "program_id": "nicktoons_hu_a_madagaszk_r_pingvinjei_2026-01-06_0090",
+          "start": 90,
+          "end": 125,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nicktoons_hu_hupik_k_t_rpik_k_2026-01-06_0345",
+          "start": 345,
+          "end": 375,
+          "genre": "talk",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "HU - OzoneTv",
+      "programs": [
+        {
+          "program_id": "ozonetv_hu_hogyan_k_sz_l_megmutatju_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "ozonetv_hu_hogyan_k_sz_l_megmutatju_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ozonetv_hu_hogyan_k_sz_l_megmutatju_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "ozonetv_hu_hogyan_k_sz_l_megmutatju_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ozonetv_hu_sportverda_electric_2026-01-06_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "ozonetv_hu_sportverda_electric_2026-01-06_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "ozonetv_hu_teleproshop_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "HU - PAX Tv",
+      "programs": [
+        {
+          "program_id": "paxtv_hu_m_sorsz_net_2026-01-06_0000",
+          "start": 0,
+          "end": 480,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "HU - Paramount Network",
+      "programs": [
+        {
+          "program_id": "paramountnetwork_h_a_paramount_network_tula_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "paramountnetwork_h_a_paramount_network_tula_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "paramountnetwork_h_a_paramount_network_tula_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "HU - Prime",
+      "programs": [
+        {
+          "program_id": "prime_hu_d_gl_tt_akt_k_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "news",
+          "score": 79
+        },
+        {
+          "program_id": "prime_hu_911_l_a_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "prime_hu_dr_csont_2026-01-06_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "prime_hu_ncis_2026-01-06_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "sports",
+          "score": 82
+        },
+        {
+          "program_id": "prime_hu_a_m_dium_2026-01-06_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "prime_hu_ncis_los_angeles_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "prime_hu_d_gl_tt_akt_k_2026-01-06_0300",
+          "start": 300,
+          "end": 345,
+          "genre": "news",
+          "score": 68
+        },
+        {
+          "program_id": "prime_hu_glades_tengerparti_gyilk_2026-01-06_0345",
+          "start": 345,
+          "end": 405,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "HU - RAI 1",
+      "programs": [
+        {
+          "program_id": "rai1_hu_notti_magiche_i_campioni_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rai1_hu_l_eredit_2026-01-06_0065",
+          "start": 65,
+          "end": 140,
+          "genre": "talk",
+          "score": 70
+        },
+        {
+          "program_id": "rai1_hu_manara_fel_gyel_2026-01-06_0140",
+          "start": 140,
+          "end": 190,
+          "genre": "news",
+          "score": 70
+        },
+        {
+          "program_id": "rai1_hu_manara_fel_gyel_2026-01-06_0190",
+          "start": 190,
+          "end": 245,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rai1_hu_rainews24_2026-01-06_0245",
+          "start": 245,
+          "end": 360,
+          "genre": "sports",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "HU - RTL+",
+      "programs": [
+        {
+          "program_id": "rtl_hu_t_k_letes_c_lpont_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtl_hu_300_a_birodalom_hajnala_2026-01-06_0060",
+          "start": 60,
+          "end": 165,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rtl_hu_camelot_harcok_tr_nja_2026-01-06_0165",
+          "start": 165,
+          "end": 315,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "rtl_hu_tibor_vagyok_de_h_d_tani_2026-01-06_0315",
+          "start": 315,
+          "end": 405,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "HU - RTL Gold",
+      "programs": [
+        {
+          "program_id": "rtlgold_hu_jjel_nappal_budapest_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "rtlgold_hu_val_vil_g_2026-01-06_0030",
+          "start": 30,
+          "end": 125,
+          "genre": "talk",
+          "score": 62
+        },
+        {
+          "program_id": "rtlgold_hu_nyer_p_ros_2026-01-06_0125",
+          "start": 125,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtlgold_hu_gy_zike_2026-01-06_0180",
+          "start": 180,
+          "end": 220,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rtlgold_hu_anik_show_2026-01-06_0220",
+          "start": 220,
+          "end": 260,
+          "genre": "talk",
+          "score": 71
+        },
+        {
+          "program_id": "rtlgold_hu_portr_2026-01-06_0260",
+          "start": 260,
+          "end": 315,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "rtlgold_hu_a_sors_k_nyvei_2026-01-06_0315",
+          "start": 315,
+          "end": 370,
+          "genre": "music",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "HU - RTL II",
+      "programs": [
+        {
+          "program_id": "rtlii_hu_egy_r_m_rendes_csal_d_2026-01-06_0010",
+          "start": 10,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rtlii_hu_gy_j_rtam_any_tokkal_2026-01-06_0065",
+          "start": 65,
+          "end": 95,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtlii_hu_mike_s_molly_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "HU - RTL Klub",
+      "programs": [
+        {
+          "program_id": "rtlklub_hu_az_jonc_2026-01-06_0005",
+          "start": 5,
+          "end": 70,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtlklub_hu_az_jonc_2026-01-06_0070",
+          "start": 70,
+          "end": 130,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtlklub_hu_az_jonc_2026-01-06_0130",
+          "start": 130,
+          "end": 170,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rtlklub_hu_csi_a_helysz_nel_k_2026-01-06_0170",
+          "start": 170,
+          "end": 215,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtlklub_hu_csi_a_helysz_nel_k_2026-01-06_0215",
+          "start": 215,
+          "end": 255,
+          "genre": "education",
+          "score": 68
+        },
+        {
+          "program_id": "rtlklub_hu_teleshop_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rtlklub_hu_monk_fl_gos_nyomoz_2026-01-06_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "music",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "HU - STORY4",
+      "programs": [
+        {
+          "program_id": "story4_hu_lomhaj_m_zeshetek_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "story4_hu_a_guldenburgok_r_ks_ge_2026-01-06_0050",
+          "start": 50,
+          "end": 105,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "story4_hu_a_guldenburgok_r_ks_ge_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "story4_hu_a_baba_ker_t_2026-01-06_0150",
+          "start": 150,
+          "end": 305,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "story4_hu_lena_lorenz_sz_l_szn_az__2026-01-06_0305",
+          "start": 305,
+          "end": 410,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "HU - Sky News English",
+      "programs": [
+        {
+          "program_id": "skynewsenglish_hu_news_and_press_preview_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "news",
+          "score": 78
+        },
+        {
+          "program_id": "skynewsenglish_hu_press_preview_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "skynewsenglish_hu_sky_news_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "skynewsenglish_hu_sky_news_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "news",
+          "score": 73
+        },
+        {
+          "program_id": "skynewsenglish_hu_sky_news_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "skynewsenglish_hu_sky_news_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "news",
+          "score": 76
+        },
+        {
+          "program_id": "skynewsenglish_hu_sky_news_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "news",
+          "score": 74
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "HU - Sláger TV",
+      "programs": [
+        {
+          "program_id": "slagertv_hu_ez_ma_a_sl_ger_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "slagertv_hu_ez_ma_a_sl_ger_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "slagertv_hu_retro_tv_a_legjobb_retro_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "slagertv_hu_retro_tv_a_legjobb_retro_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "slagertv_hu_retro_tv_a_legjobb_retro_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "slagertv_hu_magyar_sl_ger_2026-01-06_0300",
+          "start": 300,
+          "end": 355,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "slagertv_hu_reggeli_vigad_2026-01-06_0355",
+          "start": 355,
+          "end": 415,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "HU - Smile of a child English",
+      "programs": [
+        {
+          "program_id": "smileofachildengli_raggs_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "smileofachildengli_rockkids_tv_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "kids",
+          "score": 53
+        },
+        {
+          "program_id": "smileofachildengli_dr_wonder_s_workshop_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "smileofachildengli_paws_and_tales_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "smileofachildengli_sarah_s_stories_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "smileofachildengli_storykeepers_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "smileofachildengli_ishine_knect_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "smileofachildengli_curiosity_quest_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "smileofachildengli_zoo_clues_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "smileofachildengli_3_2_1_penguins_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "smileofachildengli_wild_about_animals_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "smileofachildengli_mary_rice_hopkins_and_pu_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "HU - Sorozat+",
+      "programs": [
+        {
+          "program_id": "sorozat_hu_x_akt_k_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "sorozat_hu_x_akt_k_2026-01-06_0050",
+          "start": 50,
+          "end": 110,
+          "genre": "education",
+          "score": 63
+        },
+        {
+          "program_id": "sorozat_hu_alex_fel_gyel_2026-01-06_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "sorozat_hu_csi_new_york_i_helysz_ne_2026-01-06_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "sorozat_hu_csi_new_york_i_helysz_ne_2026-01-06_0200",
+          "start": 200,
+          "end": 245,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "sorozat_hu_monk_fl_gos_nyomoz_2026-01-06_0245",
+          "start": 245,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "sorozat_hu_medicopter_117_a_l_gimen_2026-01-06_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "sorozat_hu_medicopter_117_a_l_gimen_2026-01-06_0350",
+          "start": 350,
+          "end": 410,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "HU - Soundtrack Channel",
+      "programs": [
+        {
+          "program_id": "soundtrackchannel__stc_k_s_jszaka_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "soundtrackchannel__t_mb_buli_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "soundtrackchannel__stc_bemutat_k_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "soundtrackchannel__stc_klasszikusok_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "soundtrackchannel__reggeli_mix_2026-01-06_0300",
+          "start": 300,
+          "end": 660,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "HU - Spektrum",
+      "programs": [
+        {
+          "program_id": "spektrum_hu_rend_rs_gi_rajta_t_sek_2026-01-06_0005",
+          "start": 5,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "spektrum_hu_m_rn_ki_katasztr_f_k_2026-01-06_0060",
+          "start": 60,
+          "end": 115,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "spektrum_hu_jugoszl_via_l_ngokban_2026-01-06_0115",
+          "start": 115,
+          "end": 170,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "spektrum_hu_a_m_sodik_vil_gh_bor_tit_2026-01-06_0170",
+          "start": 170,
+          "end": 215,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "spektrum_hu_a_n_cik_felemelked_se_2026-01-06_0215",
+          "start": 215,
+          "end": 270,
+          "genre": "education",
+          "score": 60
+        },
+        {
+          "program_id": "spektrum_hu_rejt_lyes_furcsas_gok_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "spektrum_hu_menteni_a_menthet_t_kinc_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "HU - Spektrum Home",
+      "programs": [
+        {
+          "program_id": "spektrumhome_hu_r_gi_h_zak_j_otthonok_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "spektrumhome_hu_famesterek_2026-01-06_0045",
+          "start": 45,
+          "end": 95,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "spektrumhome_hu_venni_vagy_nem_venni_2026-01-06_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "spektrumhome_hu_a_fel_j_t_s_mesterei_2026-01-06_0165",
+          "start": 165,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "spektrumhome_hu_lomh_z_az_lom_megval_s_t_2026-01-06_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "spektrumhome_hu_eml_km_hely_2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "spektrumhome_hu_a_kert_sz_kertje_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "HU - Spíler1 TV",
+      "programs": [
+        {
+          "program_id": "spiler1tv_hu_hegyi_emberek_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "spiler1tv_hu_hegyi_emberek_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "spiler1tv_hu_szabadt_ri_sportok_vil_g_2026-01-06_0170",
+          "start": 170,
+          "end": 195,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "spiler1tv_hu_szabadt_ri_sportok_vil_g_2026-01-06_0195",
+          "start": 195,
+          "end": 220,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "spiler1tv_hu_hegyi_emberek_2026-01-06_0220",
+          "start": 220,
+          "end": 265,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "spiler1tv_hu_kamionnal_a_hal_lutakon_2026-01-06_0265",
+          "start": 265,
+          "end": 310,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "spiler1tv_hu_kamionnal_a_hal_lutakon_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "HU - Spíler2 TV",
+      "programs": [
+        {
+          "program_id": "spiler2tv_hu_a_gerend_k_kir_lyai_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "spiler2tv_hu_fuvaroz_k_h_bor_ja_2026-01-06_0055",
+          "start": 55,
+          "end": 85,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "spiler2tv_hu_orsz_g_ti_letment_k_2026-01-06_0110",
+          "start": 110,
+          "end": 160,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "spiler2tv_hu_ll_t_lag_2026-01-06_0160",
+          "start": 160,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "spiler2tv_hu_elk_peszt_rejt_lyek_let__2026-01-06_0210",
+          "start": 210,
+          "end": 255,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "spiler2tv_hu_megasz_ll_t_k_f_ld_n_v_z_2026-01-06_0255",
+          "start": 255,
+          "end": 305,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "spiler2tv_hu_la_liga_miniprogramok_le_2026-01-06_0305",
+          "start": 305,
+          "end": 325,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "spiler2tv_hu_orsz_g_ti_letment_k_2026-01-06_0325",
+          "start": 325,
+          "end": 375,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "HU - Sport1",
+      "programs": [
+        {
+          "program_id": "sport1_hu_one_friday_fights_bangko_2026-01-06_0000",
+          "start": 0,
+          "end": 240,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "sport1_hu_dupla_dupla_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "sport1_hu_trash_talk_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "talk",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "HU - Sport2",
+      "programs": [
+        {
+          "program_id": "sport2_hu_darts_pdc_vil_gbajnoks_g_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "sport2_hu_k_lv_v_s_callum_simpson__2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "HU - SuperTV2",
+      "programs": [
+        {
+          "program_id": "supertv2_hu_mag_nnyomoz_k_2026-01-06_0025",
+          "start": 25,
+          "end": 90,
+          "genre": "documentary",
+          "score": 70
+        },
+        {
+          "program_id": "supertv2_hu_mag_nnyomoz_k_2026-01-06_0090",
+          "start": 90,
+          "end": 145,
+          "genre": "documentary",
+          "score": 75
+        },
+        {
+          "program_id": "supertv2_hu_stv2_t_nyek_este_2026-01-06_0145",
+          "start": 145,
+          "end": 200,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supertv2_hu_veled_is_megt_rt_nhet_2026-01-06_0200",
+          "start": 200,
+          "end": 250,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "supertv2_hu_veled_is_megt_rt_nhet_2026-01-06_0250",
+          "start": 250,
+          "end": 295,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "supertv2_hu_csapd_ba_csalva_2026-01-06_0295",
+          "start": 295,
+          "end": 325,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "supertv2_hu_veled_is_megt_rt_nhet_2026-01-06_0325",
+          "start": 325,
+          "end": 380,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "HU - Szeged Televízió",
+      "programs": [
+        {
+          "program_id": "szegedtelevizio_hu_szegedi_h_rad_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "szegedtelevizio_hu_k_p_js_g_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "szegedtelevizio_hu_szegedi_h_rad_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "szegedtelevizio_hu_k_p_js_g_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "szegedtelevizio_hu_szegedi_h_rad_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "szegedtelevizio_hu_k_p_js_g_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "szegedtelevizio_hu_szegedi_h_rad_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "szegedtelevizio_hu_k_p_js_g_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "szegedtelevizio_hu_szegedi_h_rad_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "szegedtelevizio_hu_k_p_js_g_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "szegedtelevizio_hu_szegedi_h_rad_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "szegedtelevizio_hu_k_p_js_g_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "HU - TLC",
+      "programs": [
+        {
+          "program_id": "tlc_hu_el_rulva_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlc_hu_h_rom_h_nap_m_lva_esk_v__2026-01-06_0060",
+          "start": 60,
+          "end": 170,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tlc_hu_h_rom_h_nap_jegyess_g_2026-01-06_0170",
+          "start": 170,
+          "end": 220,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tlc_hu_any_k_s_l_nyaik_2026-01-06_0220",
+          "start": 220,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tlc_hu_h_t_kicsi_johnston_2026-01-06_0270",
+          "start": 270,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "tlc_hu_mondj_igent_a_ruh_ra_egy_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "HU - TV2",
+      "programs": [
+        {
+          "program_id": "tv2_hu_t_nyek_extra_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tv2_hu_a_hegyi_doktor_2026-01-06_0035",
+          "start": 35,
+          "end": 110,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tv2_hu_a_hegyi_doktor_2026-01-06_0110",
+          "start": 110,
+          "end": 160,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv2_hu_walker_a_texasi_kop_2026-01-06_0160",
+          "start": 160,
+          "end": 205,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tv2_hu_szatm_ri_vigad_2026-01-06_0205",
+          "start": 205,
+          "end": 250,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv2_hu_szatm_ri_vigad_2026-01-06_0250",
+          "start": 250,
+          "end": 295,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv2_hu_csal_di_titkok_2026-01-06_0320",
+          "start": 320,
+          "end": 375,
+          "genre": "talk",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "HU - TV2 Comedy",
+      "programs": [
+        {
+          "program_id": "tv2comedy_hu_family_guy_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tv2comedy_hu_family_guy_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "tv2comedy_hu_family_guy_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv2comedy_hu_family_guy_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tv2comedy_hu_benny_hill_show_2026-01-06_0245",
+          "start": 245,
+          "end": 275,
+          "genre": "talk",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "HU - TV2 Kids",
+      "programs": [
+        {
+          "program_id": "tv2kids_hu_hupik_k_t_rpik_k_2026-01-06_0020",
+          "start": 20,
+          "end": 45,
+          "genre": "sports",
+          "score": 73
+        },
+        {
+          "program_id": "tv2kids_hu_hupik_k_t_rpik_k_2026-01-06_0225",
+          "start": 225,
+          "end": 250,
+          "genre": "sports",
+          "score": 77
+        },
+        {
+          "program_id": "tv2kids_hu_eperke_a_nagyv_rosban_2026-01-06_0250",
+          "start": 250,
+          "end": 260,
+          "genre": "sports",
+          "score": 62
+        },
+        {
+          "program_id": "tv2kids_hu_eperke_a_nagyv_rosban_ep_2026-01-06_0260",
+          "start": 260,
+          "end": 270,
+          "genre": "sports",
+          "score": 70
+        },
+        {
+          "program_id": "tv2kids_hu_eperke_a_nagyv_rosban_2026-01-06_0270",
+          "start": 270,
+          "end": 275,
+          "genre": "sports",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "HU - TV2 Séf",
+      "programs": [
+        {
+          "program_id": "tv2sef_hu_s_timester_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "tv2sef_hu_s_f_a_vil_g_k_r_l_2026-01-06_0040",
+          "start": 40,
+          "end": 70,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv2sef_hu_jamie_s_jimmy_konyhai_cs_2026-01-06_0070",
+          "start": 70,
+          "end": 130,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tv2sef_hu_celeb_cukr_szok_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv2sef_hu_amerikai_mesterszak_cs_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "religion",
+          "score": 57
+        },
+        {
+          "program_id": "tv2sef_hu_s_timester_ausztr_lia_2026-01-06_0225",
+          "start": 225,
+          "end": 290,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "tv2sef_hu_l_z_r_s_g_za_a_retr_kony_2026-01-06_0290",
+          "start": 290,
+          "end": 315,
+          "genre": "sports",
+          "score": 71
+        },
+        {
+          "program_id": "tv2sef_hu_billy_s_dom_felfalja_a_v_2026-01-06_0315",
+          "start": 315,
+          "end": 370,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "HU - TV4",
+      "programs": [
+        {
+          "program_id": "tv4_hu_feketelista_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "tv4_hu_fbi_new_york_k_l_nleges__2026-01-06_0055",
+          "start": 55,
+          "end": 110,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv4_hu_fbi_most_wanted_2026-01-06_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "tv4_hu_fbi_most_wanted_2026-01-06_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tv4_hu_feketelista_2026-01-06_0200",
+          "start": 200,
+          "end": 245,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv4_hu_feketelista_2026-01-06_0245",
+          "start": 245,
+          "end": 350,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tv4_hu_a_halottk_m_2026-01-06_0350",
+          "start": 350,
+          "end": 405,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "HU - TV5MONDE",
+      "programs": [
+        {
+          "program_id": "tv5monde_hu_quelle_poque_2026-01-06_0000",
+          "start": 0,
+          "end": 54,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv5monde_hu_le_journal_afrique_2026-01-06_0054",
+          "start": 54,
+          "end": 81,
+          "genre": "news",
+          "score": 63
+        },
+        {
+          "program_id": "tv5monde_hu_m_t_o_2026-01-06_0081",
+          "start": 81,
+          "end": 84,
+          "genre": "weather",
+          "score": 27
+        },
+        {
+          "program_id": "tv5monde_hu_guadeloupe_le_carnaval_e_2026-01-06_0084",
+          "start": 84,
+          "end": 140,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv5monde_hu_rassemblance_2026-01-06_0140",
+          "start": 140,
+          "end": 172,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tv5monde_hu_le_point_2026-01-06_0188",
+          "start": 188,
+          "end": 240,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "tv5monde_hu_le_23h_2026-01-06_0240",
+          "start": 240,
+          "end": 302,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "HU - TV Paprika",
+      "programs": [
+        {
+          "program_id": "tvpaprika_hu_s_timester_2026-01-06_0020",
+          "start": 20,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tvpaprika_hu_james_martin_kalandoz_so_2026-01-06_0090",
+          "start": 90,
+          "end": 145,
+          "genre": "sports",
+          "score": 75
+        },
+        {
+          "program_id": "tvpaprika_hu_james_martin_kalandoz_so_2026-01-06_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tvpaprika_hu_s_timester_kanada_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "HU - TeenNick",
+      "programs": [
+        {
+          "program_id": "teennick_hu_the_thundermans_undercov_2026-01-06_0020",
+          "start": 20,
+          "end": 50,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "teennick_hu_hupik_k_t_rpik_k_2026-01-06_0275",
+          "start": 275,
+          "end": 295,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "HU - Travel Channel",
+      "programs": [
+        {
+          "program_id": "travelchannel_hu_roland_doe_rd_g_z_se_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "travelchannel_hu_paranorm_lis_z_rlat_nick_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "travelchannel_hu_paranorm_lis_z_rlat_nick_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "travelchannel_hu_lid_rc_testv_rek_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "travelchannel_hu_szellemlabor_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "HU - VH1",
+      "programs": [
+        {
+          "program_id": "vh1_hu_az_mtv_00_s_tulajdonosa__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "vh1_hu_az_mtv_00_s_tulajdonosa__2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "vh1_hu_az_mtv_00_s_tulajdonosa__2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "HU - VIASAT2",
+      "programs": [
+        {
+          "program_id": "viasat2_hu_dinaszti_k_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "viasat2_hu_dr_ga_r_k_s_k_2026-01-06_0040",
+          "start": 40,
+          "end": 95,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "viasat2_hu_dr_ga_r_k_s_k_2026-01-06_0095",
+          "start": 95,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "viasat2_hu_dinaszti_k_2026-01-06_0150",
+          "start": 150,
+          "end": 190,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "viasat2_hu_heartland_2026-01-06_0190",
+          "start": 190,
+          "end": 385,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "HU - VIASAT3",
+      "programs": [
+        {
+          "program_id": "viasat3_hu_az_jonc_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "viasat3_hu_lucifer_lucifer_az_jvil__2026-01-06_0035",
+          "start": 35,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "viasat3_hu_lucifer_lucifer_az_jvil__2026-01-06_0090",
+          "start": 90,
+          "end": 140,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasat3_hu_k_s_alatt_2026-01-06_0140",
+          "start": 140,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "viasat3_hu_dexter_2026-01-06_0180",
+          "start": 180,
+          "end": 235,
+          "genre": "news",
+          "score": 69
+        },
+        {
+          "program_id": "viasat3_hu_a_grace_klinika_2026-01-06_0235",
+          "start": 235,
+          "end": 280,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "viasat3_hu_a_grace_klinika_2026-01-06_0280",
+          "start": 280,
+          "end": 395,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "HU - VIASAT6",
+      "programs": [
+        {
+          "program_id": "viasat6_hu_psych_dilis_detekt_vek_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "music",
+          "score": 63
+        },
+        {
+          "program_id": "viasat6_hu_psych_dilis_detekt_vek_2026-01-06_0055",
+          "start": 55,
+          "end": 110,
+          "genre": "talk",
+          "score": 64
+        },
+        {
+          "program_id": "viasat6_hu_the_amazing_race_2026-01-06_0110",
+          "start": 110,
+          "end": 175,
+          "genre": "music",
+          "score": 60
+        },
+        {
+          "program_id": "viasat6_hu_egy_kapcsolat_szab_lyai_2026-01-06_0215",
+          "start": 215,
+          "end": 360,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 123,
+      "channel_name": "HU - VIASAT FILM",
+      "programs": [
+        {
+          "program_id": "viasatfilm_hu_robotzsaru_2_2026-01-06_0000",
+          "start": 0,
+          "end": 100,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "viasatfilm_hu_chappie_2026-01-06_0100",
+          "start": 100,
+          "end": 210,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "viasatfilm_hu_totalcar_2026-01-06_0210",
+          "start": 210,
+          "end": 375,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 124,
+      "channel_name": "HU - Viasat Explore",
+      "programs": [
+        {
+          "program_id": "viasatexplore_hu_fa_ri_sok_2026-01-06_0020",
+          "start": 20,
+          "end": 75,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "viasatexplore_hu_l_gikatasztr_f_k_2026-01-06_0075",
+          "start": 75,
+          "end": 140,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viasatexplore_hu_ausztr_l_arany_s_k_2026-01-06_0140",
+          "start": 140,
+          "end": 195,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "viasatexplore_hu_ausztr_l_arany_s_k_2026-01-06_0195",
+          "start": 195,
+          "end": 255,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "viasatexplore_hu_a_halott_ember_tka_az_el_2026-01-06_0255",
+          "start": 255,
+          "end": 310,
+          "genre": "sports",
+          "score": 74
+        },
+        {
+          "program_id": "viasatexplore_hu_a_halott_ember_tka_az_el_2026-01-06_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "sports",
+          "score": 76
+        }
+      ]
+    },
+    {
+      "channel_id": 125,
+      "channel_name": "HU - Viasat History",
+      "programs": [
+        {
+          "program_id": "viasathistory_hu_bomb_z_a_m_sodik_vil_gh__2026-01-06_0015",
+          "start": 15,
+          "end": 80,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "viasathistory_hu_a_m_sodik_vil_gh_bor_egy_2026-01-06_0080",
+          "start": 80,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "viasathistory_hu_t_nd_kl_s_s_buk_s_a_ii_v_2026-01-06_0150",
+          "start": 150,
+          "end": 215,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "viasathistory_hu_ii_vil_gh_bor_csat_k_eur_2026-01-06_0215",
+          "start": 215,
+          "end": 285,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "viasathistory_hu_tiltott_t_rt_nelem_2026-01-06_0285",
+          "start": 285,
+          "end": 370,
+          "genre": "music",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 126,
+      "channel_name": "HU - Viasat Nature",
+      "programs": [
+        {
+          "program_id": "viasatnature_hu_desv_zi_sz_rnyek_emberev_2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "viasatnature_hu_ri_sok_ideje_2026-01-06_0040",
+          "start": 40,
+          "end": 90,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "viasatnature_hu_a_namib_sivatag_csod_i_2026-01-06_0090",
+          "start": 90,
+          "end": 145,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "viasatnature_hu_let_a_forr_s_gban_afrika_2026-01-06_0145",
+          "start": 145,
+          "end": 195,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "viasatnature_hu_desv_zi_sz_rnyek_a_mekon_2026-01-06_0195",
+          "start": 195,
+          "end": 245,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "viasatnature_hu_desv_zi_sz_rnyek_2026-01-06_0245",
+          "start": 245,
+          "end": 295,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "viasatnature_hu_the_bizarre_pet_vets_2026-01-06_0295",
+          "start": 295,
+          "end": 370,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 127,
+      "channel_name": "HU - Zenebutik",
+      "programs": [
+        {
+          "program_id": "zenebutik_hu_necsi_necsi_2026-01-06_0000",
+          "start": 0,
+          "end": 20,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "zenebutik_hu_necsi_necsi_2026-01-06_0020",
+          "start": 20,
+          "end": 55,
+          "genre": "sports",
+          "score": 79
+        },
+        {
+          "program_id": "zenebutik_hu_az_let_dalos_oldala_2026-01-06_0055",
+          "start": 55,
+          "end": 115,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "zenebutik_hu_szuper_show_2026-01-06_0115",
+          "start": 115,
+          "end": 145,
+          "genre": "talk",
+          "score": 61
+        },
+        {
+          "program_id": "zenebutik_hu_bombaparty_maryvel_extra_2026-01-06_0145",
+          "start": 145,
+          "end": 175,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "zenebutik_hu_jszaka_a_zenebutikon_mr__2026-01-06_0175",
+          "start": 175,
+          "end": 220,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "zenebutik_hu_m_zs_vil_ga_2026-01-06_0245",
+          "start": 245,
+          "end": 275,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "zenebutik_hu_teleshop_2026-01-06_0300",
+          "start": 300,
+          "end": 430,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 128,
+      "channel_name": "HU - m1",
+      "programs": [
+        {
+          "program_id": "m1_hu_ma_jszaka_2026-01-06_0020",
+          "start": 20,
+          "end": 65,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "m1_hu_ma_jszaka_2026-01-06_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "m1_hu_ma_jszaka_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "m1_hu_ma_jszaka_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "m1_hu_ma_jszaka_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "m1_hu_ma_jszaka_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 129,
+      "channel_name": "HU - m2Petőfi TV",
+      "programs": [
+        {
+          "program_id": "m2petofitv_hu_az_a38_haj_sz_npad_n_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "m2petofitv_hu_akusztik_2026-01-06_0030",
+          "start": 30,
+          "end": 100,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "m2petofitv_hu_a38_arch_v_2026-01-06_0100",
+          "start": 100,
+          "end": 150,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "m2petofitv_hu_az_a38_haj_sz_npad_n_2026-01-06_0150",
+          "start": 150,
+          "end": 205,
+          "genre": "news",
+          "score": 75
+        },
+        {
+          "program_id": "m2petofitv_hu_mit_k_v_n_2026-01-06_0215",
+          "start": 215,
+          "end": 245,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "m2petofitv_hu_esti_korn_l_2026-01-06_0245",
+          "start": 245,
+          "end": 300,
+          "genre": "sports",
+          "score": 76
+        },
+        {
+          "program_id": "m2petofitv_hu_sebaj_t_bi_s_2026-01-06_0305",
+          "start": 305,
+          "end": 315,
+          "genre": "sports",
+          "score": 62
+        }
+      ]
+    }
+  ]
+}

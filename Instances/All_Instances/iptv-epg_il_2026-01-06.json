@@ -1,0 +1,5481 @@
+{
+  "opening_time": 0,
+  "closing_time": 1440,
+  "min_duration": 30,
+  "max_consecutive_genre": 2,
+  "channels_count": 123,
+  "switch_penalty": 10,
+  "termination_penalty": 20,
+  "priority_blocks": [
+    {
+      "start": 30,
+      "end": 165,
+      "allowed_channels": [
+        72,
+        74,
+        56,
+        91,
+        99,
+        83,
+        95,
+        84,
+        58,
+        97,
+        22,
+        43,
+        30,
+        8,
+        85,
+        66,
+        73,
+        32,
+        46,
+        19,
+        76,
+        109,
+        67,
+        94,
+        65,
+        60,
+        40,
+        98,
+        104,
+        4,
+        114,
+        3,
+        80,
+        36,
+        52,
+        39,
+        34,
+        14,
+        17,
+        103,
+        106,
+        5,
+        69,
+        55,
+        26,
+        112,
+        110,
+        108,
+        47,
+        64,
+        31,
+        48,
+        82,
+        20,
+        122,
+        15,
+        33,
+        100,
+        115,
+        70,
+        88,
+        116,
+        117,
+        86,
+        119,
+        27,
+        28,
+        89
+      ]
+    },
+    {
+      "start": 720,
+      "end": 780,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 1215,
+      "end": 1440,
+      "allowed_channels": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "time_preferences": [
+    {
+      "start": 0,
+      "end": 57,
+      "preferred_genre": "movie",
+      "bonus": 40
+    },
+    {
+      "start": 57,
+      "end": 114,
+      "preferred_genre": "movie",
+      "bonus": 41
+    },
+    {
+      "start": 114,
+      "end": 171,
+      "preferred_genre": "movie",
+      "bonus": 41
+    },
+    {
+      "start": 171,
+      "end": 228,
+      "preferred_genre": "movie",
+      "bonus": 33
+    },
+    {
+      "start": 228,
+      "end": 285,
+      "preferred_genre": "movie",
+      "bonus": 38
+    },
+    {
+      "start": 285,
+      "end": 342,
+      "preferred_genre": "movie",
+      "bonus": 40
+    },
+    {
+      "start": 342,
+      "end": 399,
+      "preferred_genre": "movie",
+      "bonus": 38
+    },
+    {
+      "start": 399,
+      "end": 456,
+      "preferred_genre": "movie",
+      "bonus": 48
+    },
+    {
+      "start": 456,
+      "end": 513,
+      "preferred_genre": "movie",
+      "bonus": 58
+    },
+    {
+      "start": 513,
+      "end": 570,
+      "preferred_genre": "unknown",
+      "bonus": 58
+    },
+    {
+      "start": 570,
+      "end": 627,
+      "preferred_genre": "news",
+      "bonus": 20
+    },
+    {
+      "start": 627,
+      "end": 684,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 684,
+      "end": 741,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 741,
+      "end": 798,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 798,
+      "end": 855,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 855,
+      "end": 912,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 912,
+      "end": 969,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 969,
+      "end": 1026,
+      "preferred_genre": "talk",
+      "bonus": 20
+    },
+    {
+      "start": 1026,
+      "end": 1083,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1083,
+      "end": 1140,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1140,
+      "end": 1197,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1197,
+      "end": 1254,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1254,
+      "end": 1311,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1311,
+      "end": 1368,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1368,
+      "end": 1425,
+      "preferred_genre": "movie",
+      "bonus": 20
+    },
+    {
+      "start": 1425,
+      "end": 1440,
+      "preferred_genre": "movie",
+      "bonus": 20
+    }
+  ],
+  "channels": [
+    {
+      "channel_id": 0,
+      "channel_name": "IL - 1+1",
+      "programs": [
+        {
+          "program_id": "1_1_il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "1_1_il__2026-01-06_0060",
+          "start": 60,
+          "end": 170,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "1_1_il__2026-01-06_0170",
+          "start": 170,
+          "end": 250,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "1_1_il__2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "1_1_il__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "1_1_il_2_2026-01-06_0330",
+          "start": 330,
+          "end": 430,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 1,
+      "channel_name": "IL - 5GOLD",
+      "programs": [
+        {
+          "program_id": "5gold_il_74_5_2026-01-06_0000",
+          "start": 0,
+          "end": 75,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "5gold_il_ufc_2026-01-06_0075",
+          "start": 75,
+          "end": 270,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "5gold_il__2026-01-06_0270",
+          "start": 270,
+          "end": 450,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 2,
+      "channel_name": "IL - 5LIVE HD",
+      "programs": [
+        {
+          "program_id": "5livehd_il__2026-01-06_0000",
+          "start": 0,
+          "end": 95,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "5livehd_il_atp_250_1_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 3,
+      "channel_name": "IL - 5PLUS HD",
+      "programs": [
+        {
+          "program_id": "5plushd_il__2026-01-06_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "5plushd_il__2026-01-06_0080",
+          "start": 80,
+          "end": 110,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "5plushd_il__2026-01-06_0110",
+          "start": 110,
+          "end": 160,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "5plushd_il__2026-01-06_0180",
+          "start": 180,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 4,
+      "channel_name": "IL - 5SPORT 4K",
+      "programs": [
+        {
+          "program_id": "5sport4k_il_1_2026-01-06_0000",
+          "start": 0,
+          "end": 115,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "5sport4k_il__2026-01-06_0115",
+          "start": 115,
+          "end": 205,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "5sport4k_il__2026-01-06_0205",
+          "start": 205,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "5sport4k_il__2026-01-06_0300",
+          "start": 300,
+          "end": 460,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 5,
+      "channel_name": "IL - 5STARS",
+      "programs": [
+        {
+          "program_id": "5stars_il__2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "5stars_il__2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "5stars_il__2026-01-06_0240",
+          "start": 240,
+          "end": 390,
+          "genre": "unknown",
+          "score": 54
+        }
+      ]
+    },
+    {
+      "channel_id": 6,
+      "channel_name": "IL - 5sport HD",
+      "programs": [
+        {
+          "program_id": "5sporthd_il_4_2026-01-06_0025",
+          "start": 25,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "5sporthd_il__2026-01-06_0060",
+          "start": 60,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "5sporthd_il__2026-01-06_0225",
+          "start": 225,
+          "end": 330,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "5sporthd_il__2026-01-06_0355",
+          "start": 355,
+          "end": 490,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 7,
+      "channel_name": "IL - ARTE",
+      "programs": [
+        {
+          "program_id": "arte_il__2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "arte_il__2026-01-06_0050",
+          "start": 50,
+          "end": 130,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "arte_il__2026-01-06_0130",
+          "start": 130,
+          "end": 220,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "arte_il__2026-01-06_0255",
+          "start": 255,
+          "end": 310,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "arte_il__2026-01-06_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 8,
+      "channel_name": "IL - Animal Planet",
+      "programs": [
+        {
+          "program_id": "animalplanet_il_2_10_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "animalplanet_il_3_2026-01-06_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "animalplanet_il_3_5_2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "animalplanet_il_4_7_2026-01-06_0135",
+          "start": 135,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "animalplanet_il_4_8_2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "animalplanet_il_6_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "animalplanet_il_3_2026-01-06_0270",
+          "start": 270,
+          "end": 315,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "animalplanet_il_3_6_2026-01-06_0315",
+          "start": 315,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 9,
+      "channel_name": "IL - BOBER",
+      "programs": [
+        {
+          "program_id": "bober_il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bober_il__2026-01-06_0060",
+          "start": 60,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bober_il__2026-01-06_0270",
+          "start": 270,
+          "end": 325,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "bober_il__2026-01-06_0350",
+          "start": 350,
+          "end": 385,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 10,
+      "channel_name": "IL - BollyShow",
+      "programs": [
+        {
+          "program_id": "bollyshow_il_632_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bollyshow_il_609_2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bollyshow_il_661_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bollyshow_il_142_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "bollyshow_il_85_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bollyshow_il__2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "bollyshow_il_232_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "bollyshow_il__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bollyshow_il_232_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "bollyshow_il_12_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "bollyshow_il__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "bollyshow_il_356_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 11,
+      "channel_name": "IL - CAROUSEL",
+      "programs": [
+        {
+          "program_id": "carousel_il__2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "carousel_il__2026-01-06_0035",
+          "start": 35,
+          "end": 90,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "carousel_il__2026-01-06_0115",
+          "start": 115,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "carousel_il__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "carousel_il__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "carousel_il__2026-01-06_0325",
+          "start": 325,
+          "end": 520,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 12,
+      "channel_name": "IL - CBS reality",
+      "programs": [
+        {
+          "program_id": "cbsreality_il__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cbsreality_il__2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cbsreality_il__2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 13,
+      "channel_name": "IL - CCTV NEWS",
+      "programs": [
+        {
+          "program_id": "cctvnews_il_the_heat_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cctvnews_il__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cctvnews_il__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cctvnews_il__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cctvnews_il_24_7_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cctvnews_il__2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cctvnews_il__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "cctvnews_il_the_hub_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "cctvnews_il__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 14,
+      "channel_name": "IL - CGTN DOCUMENTARY",
+      "programs": [
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "documentary",
+          "score": 76
+        },
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "cgtndocumentary_il__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 15,
+      "channel_name": "IL - CHANNEL 1 RUS",
+      "programs": [
+        {
+          "program_id": "channel1rus_il__2026-01-06_0000",
+          "start": 0,
+          "end": 65,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "channel1rus_il__2026-01-06_0065",
+          "start": 65,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "channel1rus_il__2026-01-06_0120",
+          "start": 120,
+          "end": 155,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "channel1rus_il__2026-01-06_0155",
+          "start": 155,
+          "end": 205,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "channel1rus_il__2026-01-06_0205",
+          "start": 205,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "channel1rus_il__2026-01-06_0250",
+          "start": 250,
+          "end": 335,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "channel1rus_il__2026-01-06_0335",
+          "start": 335,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 16,
+      "channel_name": "IL - CLASSICA",
+      "programs": [
+        {
+          "program_id": "classica_il__2026-01-06_0000",
+          "start": 0,
+          "end": 138,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "classica_il_9_2026-01-06_0138",
+          "start": 138,
+          "end": 207,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "classica_il_3_2026-01-06_0235",
+          "start": 235,
+          "end": 285,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "classica_il__2026-01-06_0285",
+          "start": 285,
+          "end": 315,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 17,
+      "channel_name": "IL - CNN",
+      "programs": [
+        {
+          "program_id": "cnn_il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "cnn_il__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "cnn_il_360_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "cnn_il__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "cnn_il__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "cnn_il__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 18,
+      "channel_name": "IL - CTC",
+      "programs": [
+        {
+          "program_id": "ctc_il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "ctc_il__2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "ctc_il__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "ctc_il__2026-01-06_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 19,
+      "channel_name": "IL - Club MTV",
+      "programs": [
+        {
+          "program_id": "clubmtv_il__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "clubmtv_il__2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "clubmtv_il__2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 20,
+      "channel_name": "IL - DOM KINO",
+      "programs": [
+        {
+          "program_id": "domkino_il__2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "domkino_il__2026-01-06_0035",
+          "start": 35,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "domkino_il__2026-01-06_0120",
+          "start": 120,
+          "end": 220,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "domkino_il__2026-01-06_0220",
+          "start": 220,
+          "end": 255,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "domkino_il_3_2026-01-06_0255",
+          "start": 255,
+          "end": 335,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "domkino_il__2026-01-06_0335",
+          "start": 335,
+          "end": 420,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 21,
+      "channel_name": "IL - Daystar",
+      "programs": [
+        {
+          "program_id": "daystar_il_daystar_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "daystar_il_daystar_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "daystar_il_daystar_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 22,
+      "channel_name": "IL - E!",
+      "programs": [
+        {
+          "program_id": "e_il_8_19_2026-01-06_0006",
+          "start": 6,
+          "end": 49,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "e_il_12_22_2026-01-06_0049",
+          "start": 49,
+          "end": 91,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "e_il_12_17_2026-01-06_0091",
+          "start": 91,
+          "end": 135,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "e_il_12_18_2026-01-06_0135",
+          "start": 135,
+          "end": 179,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "e_il_10_12_2026-01-06_0179",
+          "start": 179,
+          "end": 220,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "e_il_10_13_2026-01-06_0220",
+          "start": 220,
+          "end": 261,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 23,
+      "channel_name": "IL - EUROSPORT",
+      "programs": [
+        {
+          "program_id": "eurosport_il__2026-01-06_0000",
+          "start": 0,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport_il__2026-01-06_0090",
+          "start": 90,
+          "end": 210,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport_il__2026-01-06_0210",
+          "start": 210,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport_il__2026-01-06_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 24,
+      "channel_name": "IL - EUROSPORT 2",
+      "programs": [
+        {
+          "program_id": "eurosport2_il__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurosport2_il__2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "eurosport2_il__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "eurosport2_il__2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 25,
+      "channel_name": "IL - Eurostar",
+      "programs": [
+        {
+          "program_id": "eurostar_il_eurostar_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "eurostar_il_eurostar_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "eurostar_il_eurostar_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 26,
+      "channel_name": "IL - FOX NEWS",
+      "programs": [
+        {
+          "program_id": "foxnews_il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "foxnews_il__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "foxnews_il__2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "foxnews_il__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "foxnews_il__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "foxnews_il__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 27,
+      "channel_name": "IL - FRANCE2",
+      "programs": [
+        {
+          "program_id": "france2_il__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "france2_il__2026-01-06_0030",
+          "start": 30,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "france2_il__2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "france2_il__2026-01-06_0180",
+          "start": 180,
+          "end": 225,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "france2_il__2026-01-06_0225",
+          "start": 225,
+          "end": 265,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "france2_il__2026-01-06_0300",
+          "start": 300,
+          "end": 350,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 28,
+      "channel_name": "IL - FRANCE 3",
+      "programs": [
+        {
+          "program_id": "france3_il__2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "france3_il__2026-01-06_0055",
+          "start": 55,
+          "end": 105,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "france3_il__2026-01-06_0110",
+          "start": 110,
+          "end": 230,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "france3_il__2026-01-06_0230",
+          "start": 230,
+          "end": 260,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "france3_il__2026-01-06_0285",
+          "start": 285,
+          "end": 320,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "france3_il__2026-01-06_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 29,
+      "channel_name": "IL - HOT 3",
+      "programs": [
+        {
+          "program_id": "hot3_il__2026-01-06_0000",
+          "start": 0,
+          "end": 33,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "hot3_il__2026-01-06_0056",
+          "start": 56,
+          "end": 110,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hot3_il__2026-01-06_0110",
+          "start": 110,
+          "end": 145,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "hot3_il_2_2026-01-06_0145",
+          "start": 145,
+          "end": 190,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hot3_il__2026-01-06_0213",
+          "start": 213,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "hot3_il__2026-01-06_0270",
+          "start": 270,
+          "end": 302,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "hot3_il_08_00_2026-01-06_0302",
+          "start": 302,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 30,
+      "channel_name": "IL - HOT 8",
+      "programs": [
+        {
+          "program_id": "hot8_il_951_2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hot8_il_951_2026-01-06_0055",
+          "start": 55,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "hot8_il__2026-01-06_0120",
+          "start": 120,
+          "end": 205,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "hot8_il__2026-01-06_0205",
+          "start": 205,
+          "end": 250,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hot8_il__2026-01-06_0250",
+          "start": 250,
+          "end": 295,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hot8_il__2026-01-06_0302",
+          "start": 302,
+          "end": 385,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 31,
+      "channel_name": "IL - HOT Cinema 1",
+      "programs": [
+        {
+          "program_id": "hotcinema1_il__2026-01-06_0029",
+          "start": 29,
+          "end": 147,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hotcinema1_il__2026-01-06_0147",
+          "start": 147,
+          "end": 251,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hotcinema1_il__2026-01-06_0251",
+          "start": 251,
+          "end": 291,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "hotcinema1_il__2026-01-06_0291",
+          "start": 291,
+          "end": 398,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 32,
+      "channel_name": "IL - HOT Cinema 2",
+      "programs": [
+        {
+          "program_id": "hotcinema2_il__2026-01-06_0012",
+          "start": 12,
+          "end": 109,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hotcinema2_il__2026-01-06_0109",
+          "start": 109,
+          "end": 202,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hotcinema2_il__2026-01-06_0202",
+          "start": 202,
+          "end": 291,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hotcinema2_il__2026-01-06_0291",
+          "start": 291,
+          "end": 390,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 33,
+      "channel_name": "IL - HOT Cinema 3",
+      "programs": [
+        {
+          "program_id": "hotcinema3_il__2026-01-06_0015",
+          "start": 15,
+          "end": 139,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hotcinema3_il__2026-01-06_0139",
+          "start": 139,
+          "end": 241,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "hotcinema3_il__2026-01-06_0255",
+          "start": 255,
+          "end": 388,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 34,
+      "channel_name": "IL - HOT Cinema 4",
+      "programs": [
+        {
+          "program_id": "hotcinema4_il__2026-01-06_0000",
+          "start": 0,
+          "end": 154,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hotcinema4_il__2026-01-06_0154",
+          "start": 154,
+          "end": 269,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hotcinema4_il__2026-01-06_0269",
+          "start": 269,
+          "end": 428,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 35,
+      "channel_name": "IL - HOT Entertainment",
+      "programs": [
+        {
+          "program_id": "hotentertainment_i_08_00_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hotentertainment_i_08_00_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 36,
+      "channel_name": "IL - HOT HBO",
+      "programs": [
+        {
+          "program_id": "hothbo_il_2_2026-01-06_0022",
+          "start": 22,
+          "end": 75,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "hothbo_il__2026-01-06_0075",
+          "start": 75,
+          "end": 126,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "hothbo_il__2026-01-06_0126",
+          "start": 126,
+          "end": 166,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hothbo_il__2026-01-06_0166",
+          "start": 166,
+          "end": 223,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hothbo_il_2_2026-01-06_0223",
+          "start": 223,
+          "end": 276,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hothbo_il__2026-01-06_0276",
+          "start": 276,
+          "end": 325,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hothbo_il_09_00_2026-01-06_0325",
+          "start": 325,
+          "end": 480,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 37,
+      "channel_name": "IL - HOT Zone",
+      "programs": [
+        {
+          "program_id": "hotzone_il_pd_9_2026-01-06_0000",
+          "start": 0,
+          "end": 36,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "hotzone_il_fbi_6_2026-01-06_0036",
+          "start": 36,
+          "end": 79,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hotzone_il__2026-01-06_0079",
+          "start": 79,
+          "end": 126,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hotzone_il_4_2026-01-06_0126",
+          "start": 126,
+          "end": 169,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "hotzone_il__2026-01-06_0169",
+          "start": 169,
+          "end": 234,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "hotzone_il_5_2026-01-06_0234",
+          "start": 234,
+          "end": 275,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hotzone_il_fbi_international_4_2026-01-06_0275",
+          "start": 275,
+          "end": 317,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hotzone_il_fbi_6_2026-01-06_0317",
+          "start": 317,
+          "end": 359,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 38,
+      "channel_name": "IL - I.E.T.V.",
+      "programs": [
+        {
+          "program_id": "ietv_il_ebc_2026-01-06_0000",
+          "start": 0,
+          "end": 180,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ietv_il_ebc_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "ietv_il_ebc_2026-01-06_0300",
+          "start": 300,
+          "end": 420,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 39,
+      "channel_name": "IL - Investigation Discovery",
+      "programs": [
+        {
+          "program_id": "investigationdisco_2_6_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "investigationdisco_11_9_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "investigationdisco_7_80_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "investigationdisco_1_2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "investigationdisco_1_2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "investigationdisco_4_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 40,
+      "channel_name": "IL - METV",
+      "programs": [
+        {
+          "program_id": "metv_il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "metv_il__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "metv_il__2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "metv_il__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "metv_il__2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "metv_il__2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "metv_il_700_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "metv_il_5_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 41,
+      "channel_name": "IL - MTV",
+      "programs": [
+        {
+          "program_id": "mtv_il_mtv_2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "mtv_il_mtv_2026-01-06_0065",
+          "start": 65,
+          "end": 130,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "mtv_il_mtv_2026-01-06_0130",
+          "start": 130,
+          "end": 190,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "mtv_il__2026-01-06_0205",
+          "start": 205,
+          "end": 245,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtv_il_mtv_2026-01-06_0245",
+          "start": 245,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mtv_il_mtv_2026-01-06_0315",
+          "start": 315,
+          "end": 380,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 42,
+      "channel_name": "IL - MTV 00's",
+      "programs": [
+        {
+          "program_id": "mtv00_s_il_mtv_00s_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "mtv00_s_il_mtv_00s_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "mtv00_s_il_mtv_00s_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 43,
+      "channel_name": "IL - MTV HD",
+      "programs": [
+        {
+          "program_id": "mtvhd_il__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "mtvhd_il__2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mtvhd_il__2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 44,
+      "channel_name": "IL - MTV HITS",
+      "programs": [
+        {
+          "program_id": "mtvhits_il_mtv_hits_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "music",
+          "score": 65
+        },
+        {
+          "program_id": "mtvhits_il_mtv_hits_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "music",
+          "score": 55
+        },
+        {
+          "program_id": "mtvhits_il_mtv_hits_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "music",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 45,
+      "channel_name": "IL - Mediaset",
+      "programs": [
+        {
+          "program_id": "mediaset_il__2026-01-06_0011",
+          "start": 11,
+          "end": 192,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "mediaset_il_4_2026-01-06_0202",
+          "start": 202,
+          "end": 313,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "mediaset_il__2026-01-06_0313",
+          "start": 313,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 46,
+      "channel_name": "IL - NASHE KINO",
+      "programs": [
+        {
+          "program_id": "nashekino_il__2026-01-06_0015",
+          "start": 15,
+          "end": 130,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "nashekino_il__2026-01-06_0130",
+          "start": 130,
+          "end": 240,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "nashekino_il__2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 47,
+      "channel_name": "IL - NG WILD",
+      "programs": [
+        {
+          "program_id": "ngwild_il__2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "ngwild_il_3_2_2026-01-06_0040",
+          "start": 40,
+          "end": 86,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ngwild_il_3_3_2026-01-06_0086",
+          "start": 86,
+          "end": 132,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ngwild_il_3_4_2026-01-06_0132",
+          "start": 132,
+          "end": 177,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "ngwild_il__2026-01-06_0177",
+          "start": 177,
+          "end": 221,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "ngwild_il_3_2_2026-01-06_0221",
+          "start": 221,
+          "end": 266,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "ngwild_il_3_3_2026-01-06_0266",
+          "start": 266,
+          "end": 313,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ngwild_il_3_5_2026-01-06_0313",
+          "start": 313,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 48,
+      "channel_name": "IL - NTV MIR",
+      "programs": [
+        {
+          "program_id": "ntvmir_il__2026-01-06_0000",
+          "start": 0,
+          "end": 105,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "ntvmir_il__2026-01-06_0105",
+          "start": 105,
+          "end": 225,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "ntvmir_il__2026-01-06_0225",
+          "start": 225,
+          "end": 335,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 49,
+      "channel_name": "IL - National Geographic",
+      "programs": [
+        {
+          "program_id": "nationalgeographic_20_10_2026-01-06_0046",
+          "start": 46,
+          "end": 90,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "nationalgeographic_21_5_2026-01-06_0090",
+          "start": 90,
+          "end": 134,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nationalgeographic_21_6_2026-01-06_0134",
+          "start": 134,
+          "end": 179,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "nationalgeographic_3_2026-01-06_0179",
+          "start": 179,
+          "end": 228,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "nationalgeographic_9_5_2026-01-06_0325",
+          "start": 325,
+          "end": 372,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 50,
+      "channel_name": "IL - ONE",
+      "programs": [
+        {
+          "program_id": "one_il_2025_26_2026-01-06_0000",
+          "start": 0,
+          "end": 80,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "one_il_2025_2026-01-06_0080",
+          "start": 80,
+          "end": 130,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "one_il_2025_2026-01-06_0130",
+          "start": 130,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "one_il__2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "one_il_2025_26_2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "one_il__2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "one_il_2023_2026-01-06_0300",
+          "start": 300,
+          "end": 390,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 51,
+      "channel_name": "IL - ONE2",
+      "programs": [
+        {
+          "program_id": "one2_il_2025_2026-01-06_0002",
+          "start": 2,
+          "end": 48,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "one2_il_2025_2026-01-06_0048",
+          "start": 48,
+          "end": 94,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "one2_il_2025_2026-01-06_0094",
+          "start": 94,
+          "end": 142,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "one2_il__2026-01-06_0195",
+          "start": 195,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "one2_il__2026-01-06_0300",
+          "start": 300,
+          "end": 407,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 52,
+      "channel_name": "IL - PROTV INTERNATIONAL",
+      "programs": [
+        {
+          "program_id": "protvinternational__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "protvinternational_pro_tv_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "protvinternational__2026-01-06_0120",
+          "start": 120,
+          "end": 165,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "protvinternational_pro_tv_2026-01-06_0165",
+          "start": 165,
+          "end": 195,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "protvinternational__2026-01-06_0195",
+          "start": 195,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "protvinternational_pro_tv_2026-01-06_0300",
+          "start": 300,
+          "end": 540,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 53,
+      "channel_name": "IL - REN TV",
+      "programs": [
+        {
+          "program_id": "rentv_il__2026-01-06_0185",
+          "start": 185,
+          "end": 235,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rentv_il__2026-01-06_0235",
+          "start": 235,
+          "end": 285,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "rentv_il__2026-01-06_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rentv_il__2026-01-06_0330",
+          "start": 330,
+          "end": 380,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 54,
+      "channel_name": "IL - RTL",
+      "programs": [
+        {
+          "program_id": "rtl_il__2026-01-06_0000",
+          "start": 0,
+          "end": 33,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtl_il__2026-01-06_0035",
+          "start": 35,
+          "end": 75,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtl_il__2026-01-06_0075",
+          "start": 75,
+          "end": 105,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rtl_il_csi_7_23_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtl_il_csi_7_24_2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtl_il_csi_14_10_2026-01-06_0225",
+          "start": 225,
+          "end": 275,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "rtl_il_csi_14_11_2026-01-06_0275",
+          "start": 275,
+          "end": 320,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "rtl_il_csi_14_12_2026-01-06_0320",
+          "start": 320,
+          "end": 360,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 55,
+      "channel_name": "IL - RTM",
+      "programs": [
+        {
+          "program_id": "rtm_il_rtm_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "rtm_il_rtm_2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "rtm_il_rtm_2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "rtm_il_rtm_2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "rtm_il_rtm_2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 56,
+      "channel_name": "IL - RTR PLANETA",
+      "programs": [
+        {
+          "program_id": "rtrplaneta_il__2026-01-06_0000",
+          "start": 0,
+          "end": 110,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "rtrplaneta_il__2026-01-06_0110",
+          "start": 110,
+          "end": 190,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "rtrplaneta_il__2026-01-06_0190",
+          "start": 190,
+          "end": 260,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "rtrplaneta_il__2026-01-06_0260",
+          "start": 260,
+          "end": 365,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 57,
+      "channel_name": "IL - Russian Music Box",
+      "programs": [
+        {
+          "program_id": "russianmusicbox_il_100_2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "russianmusicbox_il_100_2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "russianmusicbox_il_100_2026-01-06_0240",
+          "start": 240,
+          "end": 420,
+          "genre": "unknown",
+          "score": 55
+        }
+      ]
+    },
+    {
+      "channel_id": 58,
+      "channel_name": "IL - SHANSON TV",
+      "programs": [
+        {
+          "program_id": "shansontv_il__2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "shansontv_il__2026-01-06_0055",
+          "start": 55,
+          "end": 150,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "shansontv_il__2026-01-06_0150",
+          "start": 150,
+          "end": 250,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "shansontv_il__2026-01-06_0250",
+          "start": 250,
+          "end": 295,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "shansontv_il__2026-01-06_0295",
+          "start": 295,
+          "end": 335,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "shansontv_il__2026-01-06_0335",
+          "start": 335,
+          "end": 375,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 59,
+      "channel_name": "IL - SKY NEWS",
+      "programs": [
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "skynews_il__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "skynews_il_sky_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 60,
+      "channel_name": "IL - TLC",
+      "programs": [
+        {
+          "program_id": "tlc_il_6_3_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "tlc_il_2_8_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlc_il_2_3_2026-01-06_0105",
+          "start": 105,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "tlc_il_2_1_2026-01-06_0150",
+          "start": 150,
+          "end": 195,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "tlc_il_5_1_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlc_il_2_13_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "tlc_il_16_2_2026-01-06_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "tlc_il_26_2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 61,
+      "channel_name": "IL - TVCI",
+      "programs": [
+        {
+          "program_id": "tvci_il__2026-01-06_0025",
+          "start": 25,
+          "end": 180,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "tvci_il__2026-01-06_0180",
+          "start": 180,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 62,
+      "channel_name": "IL - TVE",
+      "programs": [
+        {
+          "program_id": "tve_il__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "tve_il_hombres_g_2026-01-06_0030",
+          "start": 30,
+          "end": 155,
+          "genre": "unknown",
+          "score": 56
+        },
+        {
+          "program_id": "tve_il_24_2026-01-06_0155",
+          "start": 155,
+          "end": 360,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 63,
+      "channel_name": "IL - Telecafe",
+      "programs": [
+        {
+          "program_id": "telecafe_il__2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "telecafe_il__2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "telecafe_il__2026-01-06_0150",
+          "start": 150,
+          "end": 205,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "telecafe_il__2026-01-06_0205",
+          "start": 205,
+          "end": 265,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "telecafe_il__2026-01-06_0265",
+          "start": 265,
+          "end": 330,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "telecafe_il__2026-01-06_0330",
+          "start": 330,
+          "end": 420,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 64,
+      "channel_name": "IL - Viva Premium",
+      "programs": [
+        {
+          "program_id": "vivapremium_il_120_2026-01-06_0000",
+          "start": 0,
+          "end": 36,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "vivapremium_il_57_2026-01-06_0036",
+          "start": 36,
+          "end": 81,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "vivapremium_il_28_2026-01-06_0081",
+          "start": 81,
+          "end": 124,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "vivapremium_il_9_2026-01-06_0124",
+          "start": 124,
+          "end": 187,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "vivapremium_il__2026-01-06_0212",
+          "start": 212,
+          "end": 272,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "vivapremium_il__2026-01-06_0297",
+          "start": 297,
+          "end": 354,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "vivapremium_il_57_2026-01-06_0354",
+          "start": 354,
+          "end": 399,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 65,
+      "channel_name": "IL - Vremya",
+      "programs": [
+        {
+          "program_id": "vremya_il__2026-01-06_0000",
+          "start": 0,
+          "end": 50,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "vremya_il__2026-01-06_0050",
+          "start": 50,
+          "end": 105,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "vremya_il__2026-01-06_0105",
+          "start": 105,
+          "end": 180,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "vremya_il__2026-01-06_0180",
+          "start": 180,
+          "end": 220,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "vremya_il__2026-01-06_0220",
+          "start": 220,
+          "end": 270,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "vremya_il__2026-01-06_0270",
+          "start": 270,
+          "end": 310,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "vremya_il__2026-01-06_0310",
+          "start": 310,
+          "end": 550,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 66,
+      "channel_name": "IL - Yes POP UP",
+      "programs": [
+        {
+          "program_id": "yespopup_il_yes_pop_up_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "yespopup_il_yes_pop_up_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "yespopup_il_yes_pop_up_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 67,
+      "channel_name": "IL - ZEE TV",
+      "programs": [
+        {
+          "program_id": "zeetv_il__2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0150",
+          "start": 150,
+          "end": 180,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0180",
+          "start": 180,
+          "end": 210,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0210",
+          "start": 210,
+          "end": 240,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0240",
+          "start": 240,
+          "end": 270,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "zeetv_il__2026-01-06_0330",
+          "start": 330,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 68,
+      "channel_name": "IL - yesBollywood",
+      "programs": [
+        {
+          "program_id": "yesbollywood_il_2_2026-01-06_0000",
+          "start": 0,
+          "end": 165,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "yesbollywood_il__2026-01-06_0165",
+          "start": 165,
+          "end": 320,
+          "genre": "unknown",
+          "score": 53
+        },
+        {
+          "program_id": "yesbollywood_il__2026-01-06_0320",
+          "start": 320,
+          "end": 485,
+          "genre": "unknown",
+          "score": 53
+        }
+      ]
+    },
+    {
+      "channel_id": 69,
+      "channel_name": "IL - yes MOVIES ACTION",
+      "programs": [
+        {
+          "program_id": "yesmoviesaction_il__2026-01-06_0025",
+          "start": 25,
+          "end": 124,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "yesmoviesaction_il__2026-01-06_0124",
+          "start": 124,
+          "end": 231,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "yesmoviesaction_il__2026-01-06_0231",
+          "start": 231,
+          "end": 301,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "yesmoviesaction_il__2026-01-06_0301",
+          "start": 301,
+          "end": 393,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 70,
+      "channel_name": "IL - yes MOVIES COMEDY",
+      "programs": [
+        {
+          "program_id": "yesmoviescomedy_il__2026-01-06_0014",
+          "start": 14,
+          "end": 131,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "yesmoviescomedy_il__2026-01-06_0131",
+          "start": 131,
+          "end": 311,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "yesmoviescomedy_il__2026-01-06_0311",
+          "start": 311,
+          "end": 352,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "yesmoviescomedy_il__2026-01-06_0352",
+          "start": 352,
+          "end": 441,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 71,
+      "channel_name": "IL - yes MOVIES DRAMA",
+      "programs": [
+        {
+          "program_id": "yesmoviesdrama_il__2026-01-06_0000",
+          "start": 0,
+          "end": 32,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "yesmoviesdrama_il__2026-01-06_0032",
+          "start": 32,
+          "end": 156,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "yesmoviesdrama_il__2026-01-06_0156",
+          "start": 156,
+          "end": 301,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "yesmoviesdrama_il__2026-01-06_0301",
+          "start": 301,
+          "end": 390,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 72,
+      "channel_name": "IL - yes MOVIES KIDS",
+      "programs": [
+        {
+          "program_id": "yesmovieskids_il_yes_movies_kids_2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "movie",
+          "score": 87
+        },
+        {
+          "program_id": "yesmovieskids_il_yes_movies_kids_2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "movie",
+          "score": 83
+        },
+        {
+          "program_id": "yesmovieskids_il_yes_movies_kids_2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "movie",
+          "score": 86
+        }
+      ]
+    },
+    {
+      "channel_id": 73,
+      "channel_name": "IL - yes TV ACTION",
+      "programs": [
+        {
+          "program_id": "yestvaction_il_6_2026-01-06_0013",
+          "start": 13,
+          "end": 53,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "yestvaction_il__2026-01-06_0053",
+          "start": 53,
+          "end": 115,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "yestvaction_il_5_2026-01-06_0115",
+          "start": 115,
+          "end": 155,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "yestvaction_il_6_2026-01-06_0155",
+          "start": 155,
+          "end": 195,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "yestvaction_il__2026-01-06_0195",
+          "start": 195,
+          "end": 257,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "yestvaction_il__2026-01-06_0257",
+          "start": 257,
+          "end": 311,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "yestvaction_il_ncis_13_18_2026-01-06_0311",
+          "start": 311,
+          "end": 356,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "yestvaction_il_fire_10_13_2026-01-06_0356",
+          "start": 356,
+          "end": 401,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 74,
+      "channel_name": "IL - yes TV COMEDY",
+      "programs": [
+        {
+          "program_id": "yestvcomedy_il_snl_50_2_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "yestvcomedy_il_3_2026-01-06_0030",
+          "start": 30,
+          "end": 65,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "yestvcomedy_il_4_2026-01-06_0065",
+          "start": 65,
+          "end": 100,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "yestvcomedy_il_7_3_2026-01-06_0100",
+          "start": 100,
+          "end": 136,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "yestvcomedy_il_7_4_2026-01-06_0136",
+          "start": 136,
+          "end": 172,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "yestvcomedy_il__2026-01-06_0180",
+          "start": 180,
+          "end": 330,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "yestvcomedy_il_snl_50_2_2026-01-06_0330",
+          "start": 330,
+          "end": 405,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 75,
+      "channel_name": "IL - yes TV DRAMA",
+      "programs": [
+        {
+          "program_id": "yestvdrama_il_3_2026-01-06_0059",
+          "start": 59,
+          "end": 124,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "yestvdrama_il_5_3_2026-01-06_0124",
+          "start": 124,
+          "end": 184,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "yestvdrama_il_3_2026-01-06_0242",
+          "start": 242,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "yestvdrama_il_suits_5_10_2026-01-06_0300",
+          "start": 300,
+          "end": 349,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "yestvdrama_il_3_4_2026-01-06_0349",
+          "start": 349,
+          "end": 399,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 76,
+      "channel_name": "IL - yes דוקו",
+      "programs": [
+        {
+          "program_id": "yes_il__2026-01-06_0000",
+          "start": 0,
+          "end": 55,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "yes_il_951_2026-01-06_0055",
+          "start": 55,
+          "end": 150,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "yes_il_1_2026-01-06_0150",
+          "start": 150,
+          "end": 205,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "yes_il_5_2026-01-06_0205",
+          "start": 205,
+          "end": 370,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 77,
+      "channel_name": "IL - yes קולנוע ישראלי",
+      "programs": [
+        {
+          "program_id": "yes_il__2026-01-06_0000",
+          "start": 0,
+          "end": 87,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "yes_il__2026-01-06_0087",
+          "start": 87,
+          "end": 170,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "yes_il__2026-01-06_0220",
+          "start": 220,
+          "end": 312,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "yes_il__2026-01-06_0312",
+          "start": 312,
+          "end": 390,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 78,
+      "channel_name": "IL - בית+",
+      "programs": [
+        {
+          "program_id": "il_2_2026-01-06_0020",
+          "start": 20,
+          "end": 65,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_2_2_2026-01-06_0065",
+          "start": 65,
+          "end": 110,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_2_2026-01-06_0110",
+          "start": 110,
+          "end": 155,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_7_2_2026-01-06_0155",
+          "start": 155,
+          "end": 200,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il_2_2_2026-01-06_0200",
+          "start": 200,
+          "end": 245,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il__2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il_8_2026-01-06_0300",
+          "start": 300,
+          "end": 340,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "il_2_2026-01-06_0340",
+          "start": 340,
+          "end": 385,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 79,
+      "channel_name": "IL - בלומברג",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il__2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il__2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 80,
+      "channel_name": "IL - גרמניה SAT1",
+      "programs": [
+        {
+          "program_id": "sat1_il__2026-01-06_0000",
+          "start": 0,
+          "end": 40,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "sat1_il__2026-01-06_0040",
+          "start": 40,
+          "end": 150,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "sat1_il__2026-01-06_0150",
+          "start": 150,
+          "end": 255,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "sat1_il__2026-01-06_0260",
+          "start": 260,
+          "end": 305,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "sat1_il__2026-01-06_0330",
+          "start": 330,
+          "end": 570,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 81,
+      "channel_name": "IL - דיסני ג'וניור",
+      "programs": [
+        {
+          "program_id": "il_4_2026-01-06_0000",
+          "start": 0,
+          "end": 38,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_6_2026-01-06_0038",
+          "start": 38,
+          "end": 76,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "il_3_72_2026-01-06_0103",
+          "start": 103,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il_2_35_2026-01-06_0177",
+          "start": 177,
+          "end": 248,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il_6_2026-01-06_0248",
+          "start": 248,
+          "end": 300,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 82,
+      "channel_name": "IL - דיסקברי HD",
+      "programs": [
+        {
+          "program_id": "hd_il_3_2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hd_il_13_17_2026-01-06_0035",
+          "start": 35,
+          "end": 80,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hd_il_11_10_2026-01-06_0080",
+          "start": 80,
+          "end": 125,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "hd_il_5_2026-01-06_0125",
+          "start": 125,
+          "end": 170,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "hd_il_5_2026-01-06_0170",
+          "start": 170,
+          "end": 215,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "hd_il_2_5_2026-01-06_0240",
+          "start": 240,
+          "end": 290,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "hd_il_2_6_2026-01-06_0290",
+          "start": 290,
+          "end": 340,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hd_il_2_7_2026-01-06_0340",
+          "start": 340,
+          "end": 390,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 83,
+      "channel_name": "IL - הופ!",
+      "programs": [
+        {
+          "program_id": "il_5_00_2026-01-06_0000",
+          "start": 0,
+          "end": 95,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il_5_00_2026-01-06_0095",
+          "start": 95,
+          "end": 240,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 84,
+      "channel_name": "IL - החיים הטובים",
+      "programs": [
+        {
+          "program_id": "il_17_1_2026-01-06_0017",
+          "start": 17,
+          "end": 62,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "il_2_2_2026-01-06_0062",
+          "start": 62,
+          "end": 115,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il_5_2026-01-06_0115",
+          "start": 115,
+          "end": 163,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il_2_2026-01-06_0163",
+          "start": 163,
+          "end": 196,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_3_2_2026-01-06_0224",
+          "start": 224,
+          "end": 254,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il_2_2026-01-06_0254",
+          "start": 254,
+          "end": 287,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_3_2_2026-01-06_0287",
+          "start": 287,
+          "end": 335,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "il_15_20_2026-01-06_0335",
+          "start": 335,
+          "end": 385,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 85,
+      "channel_name": "IL - היסטוריה HD",
+      "programs": [
+        {
+          "program_id": "hd_il_12_1_2026-01-06_0000",
+          "start": 0,
+          "end": 52,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "hd_il_25_1_2026-01-06_0052",
+          "start": 52,
+          "end": 91,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "hd_il_5_4_2026-01-06_0091",
+          "start": 91,
+          "end": 132,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "hd_il_6_8_2026-01-06_0132",
+          "start": 132,
+          "end": 174,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hd_il_6_7_2026-01-06_0174",
+          "start": 174,
+          "end": 216,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "hd_il_4_2026-01-06_0216",
+          "start": 216,
+          "end": 258,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hd_il_17_2_2026-01-06_0258",
+          "start": 258,
+          "end": 300,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "hd_il_2_14_2026-01-06_0300",
+          "start": 300,
+          "end": 342,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 86,
+      "channel_name": "IL - הערוץ הים תיכוני+",
+      "programs": [
+        {
+          "program_id": "il_69_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "il_19_2026-01-06_0045",
+          "start": 45,
+          "end": 92,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_90_2026-01-06_0092",
+          "start": 92,
+          "end": 137,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_19_2026-01-06_0137",
+          "start": 137,
+          "end": 188,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il_69_2026-01-06_0188",
+          "start": 188,
+          "end": 243,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_2_163_2026-01-06_0259",
+          "start": 259,
+          "end": 305,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il_141_2026-01-06_0305",
+          "start": 305,
+          "end": 351,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "il_69_2026-01-06_0351",
+          "start": 351,
+          "end": 406,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 87,
+      "channel_name": "IL - ויוה+",
+      "programs": [
+        {
+          "program_id": "il_25_2026-01-06_0020",
+          "start": 20,
+          "end": 65,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_53_2026-01-06_0065",
+          "start": 65,
+          "end": 104,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il_20_2026-01-06_0104",
+          "start": 104,
+          "end": 148,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_191_2026-01-06_0148",
+          "start": 148,
+          "end": 194,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "il__2026-01-06_0219",
+          "start": 219,
+          "end": 279,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il__2026-01-06_0304",
+          "start": 304,
+          "end": 346,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_123_2026-01-06_0346",
+          "start": 346,
+          "end": 390,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 88,
+      "channel_name": "IL - ויוה",
+      "programs": [
+        {
+          "program_id": "il_2_2026-01-06_0009",
+          "start": 9,
+          "end": 68,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il_411_2026-01-06_0068",
+          "start": 68,
+          "end": 125,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_4_2026-01-06_0125",
+          "start": 125,
+          "end": 176,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_201_2026-01-06_0176",
+          "start": 176,
+          "end": 223,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il__2026-01-06_0223",
+          "start": 223,
+          "end": 308,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "il_4_2026-01-06_0308",
+          "start": 308,
+          "end": 359,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 89,
+      "channel_name": "IL - ויוה וינטג'",
+      "programs": [
+        {
+          "program_id": "il_24_2026-01-06_0018",
+          "start": 18,
+          "end": 64,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "il_165_2026-01-06_0064",
+          "start": 64,
+          "end": 113,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_72_2026-01-06_0113",
+          "start": 113,
+          "end": 158,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_103_2026-01-06_0158",
+          "start": 158,
+          "end": 203,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il_104_2026-01-06_0203",
+          "start": 203,
+          "end": 248,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il__2026-01-06_0273",
+          "start": 273,
+          "end": 323,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "il__2026-01-06_0323",
+          "start": 323,
+          "end": 364,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 90,
+      "channel_name": "IL - ילדות ישראלית",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il__2026-01-06_0060",
+          "start": 60,
+          "end": 240,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il__2026-01-06_0240",
+          "start": 240,
+          "end": 390,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 91,
+      "channel_name": "IL - ים תיכוני",
+      "programs": [
+        {
+          "program_id": "il_150_2026-01-06_0028",
+          "start": 28,
+          "end": 75,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il_150_2026-01-06_0075",
+          "start": 75,
+          "end": 120,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il_1_2026-01-06_0120",
+          "start": 120,
+          "end": 164,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_6_2026-01-06_0164",
+          "start": 164,
+          "end": 207,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_150_2026-01-06_0213",
+          "start": 213,
+          "end": 260,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_1_2026-01-06_0260",
+          "start": 260,
+          "end": 304,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_150_2026-01-06_0304",
+          "start": 304,
+          "end": 349,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "il_6_2026-01-06_0349",
+          "start": 349,
+          "end": 393,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 92,
+      "channel_name": "IL - ישראל פלוס",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0000",
+          "start": 0,
+          "end": 35,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il__2026-01-06_0085",
+          "start": 85,
+          "end": 125,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il__2026-01-06_0125",
+          "start": 125,
+          "end": 165,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il_281_2026-01-06_0240",
+          "start": 240,
+          "end": 285,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_282_2026-01-06_0285",
+          "start": 285,
+          "end": 330,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "il__2026-01-06_0330",
+          "start": 330,
+          "end": 495,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 93,
+      "channel_name": "IL - כאן 11",
+      "programs": [
+        {
+          "program_id": "11_il_3_1_2026-01-06_0003",
+          "start": 3,
+          "end": 63,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "11_il_5_2026-01-06_0063",
+          "start": 63,
+          "end": 99,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "11_il_2021_2026-01-06_0126",
+          "start": 126,
+          "end": 189,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "11_il_7_2026-01-06_0242",
+          "start": 242,
+          "end": 289,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "11_il__2026-01-06_0304",
+          "start": 304,
+          "end": 360,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 94,
+      "channel_name": "IL - מכאן",
+      "programs": [
+        {
+          "program_id": "il_1_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il__2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_3_3_2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il__2026-01-06_0120",
+          "start": 120,
+          "end": 179,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il__2026-01-06_0179",
+          "start": 179,
+          "end": 220,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il_1_2026-01-06_0220",
+          "start": 220,
+          "end": 250,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il_92_2026-01-06_0250",
+          "start": 250,
+          "end": 300,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il_2_23_2026-01-06_0328",
+          "start": 328,
+          "end": 360,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 95,
+      "channel_name": "IL - ספורט 1 HD",
+      "programs": [
+        {
+          "program_id": "1hd_il__2026-01-06_0030",
+          "start": 30,
+          "end": 140,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "1hd_il__2026-01-06_0140",
+          "start": 140,
+          "end": 245,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 96,
+      "channel_name": "IL - ספורט 1 SD",
+      "programs": [
+        {
+          "program_id": "1sd_il__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "1sd_il__2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 55
+        },
+        {
+          "program_id": "1sd_il__2026-01-06_0300",
+          "start": 300,
+          "end": 480,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 97,
+      "channel_name": "IL - ספורט 2 HD",
+      "programs": [
+        {
+          "program_id": "2hd_il__2026-01-06_0020",
+          "start": 20,
+          "end": 130,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "2hd_il__2026-01-06_0130",
+          "start": 130,
+          "end": 170,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "2hd_il__2026-01-06_0170",
+          "start": 170,
+          "end": 280,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "2hd_il__2026-01-06_0300",
+          "start": 300,
+          "end": 410,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 98,
+      "channel_name": "IL - ספורט 3 HD",
+      "programs": [
+        {
+          "program_id": "3hd_il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "3hd_il__2026-01-06_0060",
+          "start": 60,
+          "end": 120,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "3hd_il_wta_500_2026-01-06_0120",
+          "start": 120,
+          "end": 360,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 99,
+      "channel_name": "IL - ספורט 4 HD",
+      "programs": [
+        {
+          "program_id": "4hd_il__2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "4hd_il__2026-01-06_0045",
+          "start": 45,
+          "end": 150,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "4hd_il__2026-01-06_0150",
+          "start": 150,
+          "end": 255,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "4hd_il__2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "4hd_il__2026-01-06_0300",
+          "start": 300,
+          "end": 410,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 100,
+      "channel_name": "IL - ערוץ 14",
+      "programs": [
+        {
+          "program_id": "14_il__2026-01-06_0030",
+          "start": 30,
+          "end": 60,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "14_il__2026-01-06_0060",
+          "start": 60,
+          "end": 150,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "14_il__2026-01-06_0150",
+          "start": 150,
+          "end": 200,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "14_il__2026-01-06_0200",
+          "start": 200,
+          "end": 230,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "14_il__2026-01-06_0230",
+          "start": 230,
+          "end": 270,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "14_il__2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "14_il__2026-01-06_0305",
+          "start": 305,
+          "end": 360,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 101,
+      "channel_name": "IL - ערוץ 23 חינוכית",
+      "programs": [
+        {
+          "program_id": "23_il_3_2_2026-01-06_0003",
+          "start": 3,
+          "end": 33,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 102,
+      "channel_name": "IL - ערוץ 24 החדש",
+      "programs": [
+        {
+          "program_id": "24_il_22_2026-01-06_0049",
+          "start": 49,
+          "end": 89,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "24_il__2026-01-06_0099",
+          "start": 99,
+          "end": 225,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "24_il__2026-01-06_0300",
+          "start": 300,
+          "end": 428,
+          "genre": "unknown",
+          "score": 56
+        }
+      ]
+    },
+    {
+      "channel_id": 103,
+      "channel_name": "IL - ערוץ 98",
+      "programs": [
+        {
+          "program_id": "98_il_105_2026-01-06_0000",
+          "start": 0,
+          "end": 30,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "98_il__2026-01-06_0030",
+          "start": 30,
+          "end": 90,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "98_il_07_00_2026-01-06_0090",
+          "start": 90,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 104,
+      "channel_name": "IL - ערוץ WiZ",
+      "programs": [
+        {
+          "program_id": "wiz_il_6_00_2026-01-06_0000",
+          "start": 0,
+          "end": 88,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "wiz_il_6_00_2026-01-06_0088",
+          "start": 88,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 105,
+      "channel_name": "IL - ערוץ אגו",
+      "programs": [
+        {
+          "program_id": "il_3_19_2026-01-06_0021",
+          "start": 21,
+          "end": 51,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "il_3_20_2026-01-06_0051",
+          "start": 51,
+          "end": 82,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_3_22_2026-01-06_0110",
+          "start": 110,
+          "end": 145,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_3_23_2026-01-06_0145",
+          "start": 145,
+          "end": 180,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il_mma_6_2026-01-06_0180",
+          "start": 180,
+          "end": 227,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_27_2026-01-06_0227",
+          "start": 227,
+          "end": 287,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_8_2026-01-06_0330",
+          "start": 330,
+          "end": 376,
+          "genre": "unknown",
+          "score": 65
+        }
+      ]
+    },
+    {
+      "channel_id": 106,
+      "channel_name": "IL - ערוץ בריאות",
+      "programs": [
+        {
+          "program_id": "il_2_12_2026-01-06_0001",
+          "start": 1,
+          "end": 41,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_2_2026-01-06_0041",
+          "start": 41,
+          "end": 71,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_6_2_2026-01-06_0071",
+          "start": 71,
+          "end": 120,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "il_07_00_2026-01-06_0120",
+          "start": 120,
+          "end": 240,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "il_07_00_2026-01-06_0240",
+          "start": 240,
+          "end": 360,
+          "genre": "unknown",
+          "score": 61
+        }
+      ]
+    },
+    {
+      "channel_id": 107,
+      "channel_name": "IL - ערוץ האוכל",
+      "programs": [
+        {
+          "program_id": "il_1_2026-01-06_0008",
+          "start": 8,
+          "end": 54,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il_06_00_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "unknown",
+          "score": 54
+        },
+        {
+          "program_id": "il_1_2026-01-06_0300",
+          "start": 300,
+          "end": 330,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_5_2026-01-06_0330",
+          "start": 330,
+          "end": 361,
+          "genre": "unknown",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "channel_id": 108,
+      "channel_name": "IL - ערוץ הדרמות הטורקיות+",
+      "programs": [
+        {
+          "program_id": "il_2_134_2026-01-06_0000",
+          "start": 0,
+          "end": 45,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il_112_2026-01-06_0045",
+          "start": 45,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il_29_2026-01-06_0090",
+          "start": 90,
+          "end": 136,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_13_2026-01-06_0136",
+          "start": 136,
+          "end": 179,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_112_2026-01-06_0179",
+          "start": 179,
+          "end": 225,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_19_2026-01-06_0225",
+          "start": 225,
+          "end": 270,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_3_650_2026-01-06_0270",
+          "start": 270,
+          "end": 312,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "il_2_134_2026-01-06_0312",
+          "start": 312,
+          "end": 359,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    },
+    {
+      "channel_id": 109,
+      "channel_name": "IL - ערוץ הדרמות הטורקיות 2",
+      "programs": [
+        {
+          "program_id": "2_il_2_453_2026-01-06_0000",
+          "start": 0,
+          "end": 47,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "2_il_74_2026-01-06_0047",
+          "start": 47,
+          "end": 100,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "2_il_51_2026-01-06_0100",
+          "start": 100,
+          "end": 144,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "2_il_97_2026-01-06_0144",
+          "start": 144,
+          "end": 188,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "2_il_51_2026-01-06_0188",
+          "start": 188,
+          "end": 235,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "2_il_4_626_2026-01-06_0235",
+          "start": 235,
+          "end": 280,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "2_il_100_2026-01-06_0280",
+          "start": 280,
+          "end": 326,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "2_il_2_453_2026-01-06_0326",
+          "start": 326,
+          "end": 375,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 110,
+      "channel_name": "IL - ערוץ הדרמות הטורקיות 3",
+      "programs": [
+        {
+          "program_id": "3_il_51_2026-01-06_0015",
+          "start": 15,
+          "end": 60,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "3_il_7_2026-01-06_0060",
+          "start": 60,
+          "end": 105,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "3_il_57_2026-01-06_0105",
+          "start": 105,
+          "end": 151,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "3_il_51_2026-01-06_0151",
+          "start": 151,
+          "end": 195,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "3_il_44_2026-01-06_0195",
+          "start": 195,
+          "end": 240,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "3_il_3_252_2026-01-06_0251",
+          "start": 251,
+          "end": 303,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "3_il_7_2026-01-06_0303",
+          "start": 303,
+          "end": 348,
+          "genre": "unknown",
+          "score": 61
+        },
+        {
+          "program_id": "3_il_51_2026-01-06_0348",
+          "start": 348,
+          "end": 391,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 111,
+      "channel_name": "IL - ערוץ ההומור",
+      "programs": [
+        {
+          "program_id": "il_2_2026-01-06_0014",
+          "start": 14,
+          "end": 44,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il_80_2026-01-06_0097",
+          "start": 97,
+          "end": 131,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il_4_2026-01-06_0305",
+          "start": 305,
+          "end": 336,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 112,
+      "channel_name": "IL - ערוץ ההיסטוריה",
+      "programs": [
+        {
+          "program_id": "il_6_10_2026-01-06_0021",
+          "start": 21,
+          "end": 63,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_17_1_2026-01-06_0063",
+          "start": 63,
+          "end": 105,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_13_3_2026-01-06_0105",
+          "start": 105,
+          "end": 147,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_12_10_2026-01-06_0147",
+          "start": 147,
+          "end": 192,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il__2026-01-06_0242",
+          "start": 242,
+          "end": 275,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il__2026-01-06_0300",
+          "start": 300,
+          "end": 338,
+          "genre": "unknown",
+          "score": 66
+        },
+        {
+          "program_id": "il_6_14_2026-01-06_0338",
+          "start": 338,
+          "end": 379,
+          "genre": "unknown",
+          "score": 68
+        }
+      ]
+    },
+    {
+      "channel_id": 113,
+      "channel_name": "IL - ערוץ הטיולים",
+      "programs": [
+        {
+          "program_id": "il_1_2026-01-06_0012",
+          "start": 12,
+          "end": 60,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_06_00_2026-01-06_0060",
+          "start": 60,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_6_10_2026-01-06_0300",
+          "start": 300,
+          "end": 366,
+          "genre": "unknown",
+          "score": 64
+        }
+      ]
+    },
+    {
+      "channel_id": 114,
+      "channel_name": "IL - ערוץ הידברות",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 67
+        },
+        {
+          "program_id": "il__2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il__2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il__2026-01-06_0120",
+          "start": 120,
+          "end": 180,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il__2026-01-06_0180",
+          "start": 180,
+          "end": 240,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il__2026-01-06_0240",
+          "start": 240,
+          "end": 300,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 115,
+      "channel_name": "IL - ערוץ הכוכבים",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0000",
+          "start": 0,
+          "end": 120,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il__2026-01-06_0120",
+          "start": 120,
+          "end": 300,
+          "genre": "unknown",
+          "score": 57
+        }
+      ]
+    },
+    {
+      "channel_id": 116,
+      "channel_name": "IL - ערוץ הכנסת",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0000",
+          "start": 0,
+          "end": 60,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il__2026-01-06_0060",
+          "start": 60,
+          "end": 90,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il__2026-01-06_0090",
+          "start": 90,
+          "end": 120,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il__2026-01-06_0120",
+          "start": 120,
+          "end": 150,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il__2026-01-06_0150",
+          "start": 150,
+          "end": 210,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il__2026-01-06_0210",
+          "start": 210,
+          "end": 270,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "il__2026-01-06_0270",
+          "start": 270,
+          "end": 360,
+          "genre": "unknown",
+          "score": 58
+        }
+      ]
+    },
+    {
+      "channel_id": 117,
+      "channel_name": "IL - ערוץ הסטייל",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0000",
+          "start": 0,
+          "end": 107,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "il__2026-01-06_0107",
+          "start": 107,
+          "end": 243,
+          "genre": "unknown",
+          "score": 62
+        }
+      ]
+    },
+    {
+      "channel_id": 118,
+      "channel_name": "IL - ערוץ העיצוב",
+      "programs": [
+        {
+          "program_id": "il_6_2_2026-01-06_0107",
+          "start": 107,
+          "end": 151,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il_5_2026-01-06_0332",
+          "start": 332,
+          "end": 376,
+          "genre": "unknown",
+          "score": 67
+        }
+      ]
+    },
+    {
+      "channel_id": 119,
+      "channel_name": "IL - ערוץ הריאליטי",
+      "programs": [
+        {
+          "program_id": "il_the_voice_4_2026-01-06_0000",
+          "start": 0,
+          "end": 58,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_6_32_2026-01-06_0058",
+          "start": 58,
+          "end": 118,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il__2026-01-06_0118",
+          "start": 118,
+          "end": 195,
+          "genre": "unknown",
+          "score": 60
+        },
+        {
+          "program_id": "il_the_voice_4_2026-01-06_0195",
+          "start": 195,
+          "end": 255,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il_2_vip_2026-01-06_0255",
+          "start": 255,
+          "end": 317,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il_8_2026-01-06_0317",
+          "start": 317,
+          "end": 380,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 120,
+      "channel_name": "IL - ערוץ השעשועונים",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0000",
+          "start": 0,
+          "end": 43,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_2_2026-01-06_0043",
+          "start": 43,
+          "end": 84,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_4_2_2026-01-06_0084",
+          "start": 84,
+          "end": 136,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il_6_2026-01-06_0158",
+          "start": 158,
+          "end": 206,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il_5_2026-01-06_0206",
+          "start": 206,
+          "end": 257,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "il_2_2026-01-06_0257",
+          "start": 257,
+          "end": 298,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il_1_100_2_2026-01-06_0320",
+          "start": 320,
+          "end": 363,
+          "genre": "unknown",
+          "score": 63
+        }
+      ]
+    },
+    {
+      "channel_id": 121,
+      "channel_name": "IL - קשת",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0015",
+          "start": 15,
+          "end": 55,
+          "genre": "unknown",
+          "score": 68
+        },
+        {
+          "program_id": "il__2026-01-06_0055",
+          "start": 55,
+          "end": 120,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il__2026-01-06_0120",
+          "start": 120,
+          "end": 190,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il__2026-01-06_0190",
+          "start": 190,
+          "end": 225,
+          "genre": "unknown",
+          "score": 64
+        },
+        {
+          "program_id": "il__2026-01-06_0225",
+          "start": 225,
+          "end": 255,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il__2026-01-06_0255",
+          "start": 255,
+          "end": 300,
+          "genre": "unknown",
+          "score": 59
+        },
+        {
+          "program_id": "il__2026-01-06_0310",
+          "start": 310,
+          "end": 360,
+          "genre": "unknown",
+          "score": 66
+        }
+      ]
+    },
+    {
+      "channel_id": 122,
+      "channel_name": "IL - רשת",
+      "programs": [
+        {
+          "program_id": "il__2026-01-06_0010",
+          "start": 10,
+          "end": 90,
+          "genre": "unknown",
+          "score": 63
+        },
+        {
+          "program_id": "il__2026-01-06_0090",
+          "start": 90,
+          "end": 135,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il__2026-01-06_0135",
+          "start": 135,
+          "end": 190,
+          "genre": "unknown",
+          "score": 57
+        },
+        {
+          "program_id": "il__2026-01-06_0190",
+          "start": 190,
+          "end": 235,
+          "genre": "unknown",
+          "score": 58
+        },
+        {
+          "program_id": "il_264_2026-01-06_0235",
+          "start": 235,
+          "end": 270,
+          "genre": "unknown",
+          "score": 65
+        },
+        {
+          "program_id": "il__2026-01-06_0270",
+          "start": 270,
+          "end": 300,
+          "genre": "unknown",
+          "score": 62
+        },
+        {
+          "program_id": "il__2026-01-06_0300",
+          "start": 300,
+          "end": 360,
+          "genre": "unknown",
+          "score": 59
+        }
+      ]
+    }
+  ]
+}
