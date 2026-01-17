@@ -41,9 +41,9 @@ keywords:
 
 license: CC-BY-4.0
 
-version: 1.0.0
-
+version: 1.0.1
 date-released: 2026-01-17
+doi: 10.5281/zenodo.18281492
 
 preferred-citation:
   type: article
