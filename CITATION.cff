@@ -8,12 +8,25 @@ title: >
 type: dataset
 
 authors:
+  - family-names: Sylejmani
+    given-names: Kadri
+    orcid: https://orcid.org/0000-0002-4428-1161
+    affiliation: University of Pristina "Hasan Prishtina"
+
   - family-names: Bylygbashi
     given-names: Shefket
+    orcid: https://orcid.org/0009-0000-3828-3745
     affiliation: University of Pristina "Hasan Prishtina"
-  - family-names: Lajqi
+
+  - family-names: Lajçi
     given-names: Uran
+    orcid: https://orcid.org/0009-0002-6214-5865
     affiliation: University of Pristina "Hasan Prishtina"
+
+  - family-names: Kastrati
+    given-names: Zenun
+    orcid: https://orcid.org/0000-0002-0199-2377
+    affiliation: Linnaeus University
 
 repository-code: https://github.com/shefketbylykbashi/smart-tv-scheduling-dataset
 repository-artifact: https://github.com/shefketbylykbashi/smart-tv-scheduling-dataset
@@ -48,10 +61,14 @@ doi: 10.5281/zenodo.18281492
 preferred-citation:
   type: article
   authors:
+    - family-names: Sylejmani
+      given-names: Kadri
     - family-names: Bylygbashi
       given-names: Shefket
-    - family-names: Lajqi
+    - family-names: Lajçi
       given-names: Uran
+    - family-names: Kastrati
+      given-names: Zenun
   title: >
     Smart TV Scheduling in Public Venues: A Large-Scale Multi-Source Instance Dataset
   journal: Data in Brief
